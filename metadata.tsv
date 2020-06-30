@@ -1,24 +1,24 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle	lyricist
-MS3/op08n01.mscx	op08n01	.mscx	bbda36827998249405ba488528f15af3	247	-3	4/8	Medtner	3.4.2	Zwei Märchen	
-MS3/op14n01.mscx	op14n01	.mscx	f4db57024719f9f1b80e48ec5c7e5434	269	-4	2/4	Medtner	3.4.2	Märchen	
-MS3/op26n01.mscx	op26n01	.mscx	1c077f7a112647d23e47e8a8e0831429	199	-3	4/4		3.4.2	Vier Märchen	
-MS3/op26n02.mscx	op26n02	.mscx	958aad478469a281076847fca2815ab3	174	-3	2/4		3.4.2		
-MS3/op26n03.mscx	op26n03	.mscx	9cdc0b902aa21484431e319bc93de34c	140	-4	3/4		3.4.2	III	N arrante a piacere q=92=100
-MS3/op26n04.mscx	op26n04	.mscx	df1d1081f416d08f284d086ccdcd23af	279	3	4/4, 2/4, 4/4		3.4.2	IV	
+path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle	lyricist	composed_start	composed_end	annotator	reviewer	pdf
+MS3/op08n01.mscx	op08n01	.mscx	bbda36827998249405ba488528f15af3	247	-3	4/8	Medtner	3.4.2	Zwei Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/5790
+MS3/op14n01.mscx	op14n01	.mscx	f4db57024719f9f1b80e48ec5c7e5434	269	-4	2/4	Medtner	3.4.2	Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/5801
+MS3/op26n01.mscx	op26n01	.mscx	1c077f7a112647d23e47e8a8e0831429	199	-3	4/4		3.4.2	Vier Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/7077
+MS3/op26n02.mscx	op26n02	.mscx	958aad478469a281076847fca2815ab3	174	-3	2/4		3.4.2			1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/7077
+MS3/op26n03.mscx	op26n03	.mscx	9cdc0b902aa21484431e319bc93de34c	140	-4	3/4		3.4.2	III	N arrante a piacere q=92=100	1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/7077
+MS3/op26n04.mscx	op26n04	.mscx	df1d1081f416d08f284d086ccdcd23af	279	3	4/4, 2/4, 4/4		3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/7077
 MS3/op34n01.mscx	op34n01	.mscx	baf2c46b01c5c00d7b6aa76f286c2764	679	2, 5, 0, 2, 5, 2	3/4, 2/2, 3/4	Op.34	3.4.2	"VIER MÄRCHEN OP. 34
-I"	
-MS3/op34n02.mscx	op34n02	.mscx	c4f9d1b403e49972da5081e415db8afb	215	1	4/4	Op.34	3.4.2	II	
-MS3/op34n03.mscx	op34n03	.mscx	7d3c2abbadc401fcf160869ecdc0bdbd	420	4, 0	2/4	Op.34	3.4.2	III	
-MS3/op34n04.mscx	op34n04	.mscx	06885d4207d221b05561abf14181fd10	360	-1, 2	4/4, 9/8, 4/4	Medtner Op.34	3.4.2	IV	
+I"		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8811
+MS3/op34n02.mscx	op34n02	.mscx	c4f9d1b403e49972da5081e415db8afb	215	1	4/4	Op.34	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8811
+MS3/op34n03.mscx	op34n03	.mscx	7d3c2abbadc401fcf160869ecdc0bdbd	420	4, 0	2/4	Op.34	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8811
+MS3/op34n04.mscx	op34n04	.mscx	06885d4207d221b05561abf14181fd10	360	-1, 2	4/4, 9/8, 4/4	Medtner Op.34	3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8811
 MS3/op35n01.mscx	op35n01	.mscx	8f92538e6844b6b94203ab2683360cfe	263		2/4	Op.35	3.4.2	"VIER MÄRCHEN Op. 35
-I"	
-MS3/op35n02.mscx	op35n02	.mscx	8ef0a46c878250df5494e0eac35474fb	380	1, 2	2/4, 2/4, 2/4	Op.35	3.4.2	II	
-MS3/op35n03.mscx	op35n03	.mscx	76b87b2a4e87bbbbd0316b22e0b377b1	322	-1, 0	4/4	Op.35	3.4.2	III	
-MS3/op35n04.mscx	op35n04	.mscx	df6c1386f21356f0c624a764bc2f2678	471	4, 0, 4	4/4	Op.35	3.4.2	IV	
+I"		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8879
+MS3/op35n02.mscx	op35n02	.mscx	8ef0a46c878250df5494e0eac35474fb	380	1, 2	2/4, 2/4, 2/4	Op.35	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8879
+MS3/op35n03.mscx	op35n03	.mscx	76b87b2a4e87bbbbd0316b22e0b377b1	322	-1, 0	4/4	Op.35	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8879
+MS3/op35n04.mscx	op35n04	.mscx	df6c1386f21356f0c624a764bc2f2678	471	4, 0, 4	4/4	Op.35	3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/8879
 MS3/op42n01.mscx	op42n01	.mscx	858d8cf1385de2b85c11912b98aefa20	514	-4, -3, -4, -5, -4	4/4		3.4.2	"Medtner Op.42
-I"	
-MS3/op42n02.mscx	op42n02	.mscx	72bdd7aca430cb96677ecc61d3b70be0	205	-4	6/8	Op.42	3.4.2	II	
-MS3/op42n03.mscx	op42n03	.mscx	01a1f30865e47a3f60efb6c7c0692d71	552	5, -3, 5	6/8, 3/8, 6/8	Op.42	3.4.2	III	
+I"		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/9103
+MS3/op42n02.mscx	op42n02	.mscx	72bdd7aca430cb96677ecc61d3b70be0	205	-4	6/8	Op.42	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/9103
+MS3/op42n03.mscx	op42n03	.mscx	01a1f30865e47a3f60efb6c7c0692d71	552	5, -3, 5	6/8, 3/8, 6/8	Op.42	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/9103
 MS3/op48n01.mscx	op48n01	.mscx	ed0aeb2e203346a00e77463613bd7599	1013	-3, 0	3/8, 4/4, 3/8, 2/8, 3/8	Op.48	3.4.2	"Medtner Op.48
-I"	
-MS3/op48n02.mscx	op48n02	.mscx	d01d30797e26ca74b7efda04edecabd3	306	-2	3/4, 3/4	Op.48	3.4.2	II	
+I"		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/22160
+MS3/op48n02.mscx	op48n02	.mscx	d01d30797e26ca74b7efda04edecabd3	306	-2	3/4, 3/4	Op.48	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	https://imslp.org/wiki/Special:ReverseLookup/22160
