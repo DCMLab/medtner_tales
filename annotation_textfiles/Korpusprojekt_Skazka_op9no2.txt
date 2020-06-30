@@ -1,0 +1,138 @@
+@piece: op.9_no.2
+# Nikolai Medtner: Skazka in C major, op. 9 No. 2 (1904-1906)
+# Annotator: Wendelin Bitzan
+
+@meter: 3/4
+@tempo: Allegro alla serenata, con alcuna licenza
+@length: 123
+@key: C
+
+
+@form: A
+m001  1 .C.V7/IV
+m002  1 IV64  3 I @alt: IV64
+m003  1 iv64
+m004  1 I
+m005  1 V7/IV
+m006  1 IV64  3 I @alt: IV64
+m007  1 iv64
+m008  1 I\\ @cadence: PC
+m009  1 V7/IV
+m010  1 ii2  3 I
+m011  1 iio6
+m012  1 I
+m013  1 V7/IV
+m014  1 ii2  3 I
+m015  1 iio6
+m016  1 I
+m017  1 V7/IV
+m018  1 vi6  3 vi%65 @alt: i
+m019  1 iio6(9)  2.2 iio6  3.2 viio43
+m020  1 I(4)  3 I
+m021  1 V7/IV
+m022  1 vi65  3 #iv%43
+m023  1 ivM7  2.2 viio43
+m024  1 IM7(9)  3 I
+m025  1 V7/IV
+m026  1 vi65  2.2 viio7
+m027  1 I(9)  3 I
+m028  1 V''VII  3 #viio7/vi
+m029  1 vi(49)  2.2 #iv%65 @alt: vii%65/V
+m030  1 V/V''IM7  2.2 V9/V  3.1 V7(4)/V  3.2 V7/V
+m031  1 V\\ @cadence: PAC  2.2 V7(4)/V
+m032  1 V  2.2 IV6/V @alt: I6
+m033  1 V  2.2 V7
+m034  1 ii2/V @alt: vi2  3.2 V
+m035  1 ivM7/V @alt: iM7  2.2 viio43/V
+m036  1 V
+m037  1 V7
+m038  1 ii2/V @alt: vi2  3.2 V
+m039  1 ivM7/V @alt: iM7  2.2 viio43/V
+m040  1 V
+m041  1 V9/IV  3 V7/IV
+m042  1 vi6  3 vi%65 @alt: i
+m043  1 iv7(9)  3.1 ii%65  3.2 viio43
+m044  1 I(24)  3 I
+m045  1 V7/IV
+m046  1 vi65  3 #ivo43
+m047  1 iv  2.2 viio43
+m048  1 I
+m049  1 V7/IV
+m050  1 vi65  3 vio65
+m051  1 bIIM7 @alt: IVM7/bVI  3 ii65/bVI
+m052  1 .bVI.bVIM7  2.2 Fr6/bVII
+m053  1 ii6(9)  2.2 vii%65
+m054  1 V''IVM7  2.2 V9  3.1 V7(4)  3.2 V7
+m055  1 I\\ @cadence: PAC  2.2 V7(4)
+m056  1 I  2.2 ii43
+
+@form: B
+m057  1 V7/IV
+m058  1 IVM43 @alt: vi6  3 I''viio
+m059  1 ivM7  3 ii%65
+m060  1 I  2 I''viio  3 V7/IV
+m061  1 V7/IV
+m062  1 IVM43 @alt: vi6  3 vi%65
+m063  1 ivM7  2 viio43
+m064  1 I
+m065  1 .I.V7(b6)/IV  3 V7/IV
+m066  1 vi65  2.2 #iv%43  3 #ivo43
+m067  1 Ger6  2.2 ii%2
+m068  1 I(4)  3 I
+m069  1 V7/IV
+m070  1 vi65  3 #iv%43
+m071  1 ivM43  2.2 ii%2
+m072  1 IM7(9)  3 I
+m073  1 I  2 V7/IV
+m074  1 V/bVII''ii7/bVII  3 V9/bVII
+m075  1 V9(6)/bIII  3 V9/bIII
+m076  1 V/bVI''ii7/bVI  3 V7/bVI
+m077  1 bVIM7  3 ii2/bVI
+m078  1 iv''bVIM7  2.2 ii%7/iv
+m079  1 V7/iv  2.2 iv
+m080  1 V43/iv  2.2 ii%65  3.2 iv6
+m081  1 I\\ @cadence: PC  2 V7/IV
+m082  1 Ger6(4)/vi  3 Ger6/vi
+m083  1 V9(6)/vi  2.2 V7(6)/vi  3.2 V7/vi
+m084  1 V/ii''ii%7/ii  2.2 V7/ii
+m085  1 Fr6(#5)  2.2 V7
+m086  1 Fr6/bvii  2.2 Ger6/vi @alt: V7/bvii
+m087  1 Fr6(#5)/bvi  2.2 V7/bvi
+m088  1 Fr6/bv  2.2 Ger/iv @alt: V7/bv
+m089  1 Fr6(#5)/iii  2.2 V7/iii
+m090  1 Fr6/ii  2.2 V7/ii @alt: Ger/#i
+m091  1 @none @alt: Fr6(#5)  2.2 @none @alt: Fr6(#5)/iii
+m092  1 @none @alt: Fr6(#5)/bvi  2.2 @none @alt: Fr6(#5)
+m093  1 @none @alt: Fr6(#5)/iii  2 @none @alt: Fr6(#5)/bvi  3 @none @alt: Fr6(#5)
+m094  1 @none @alt: Fr6(#5)/iii  2 @none @alt: Fr6(#5)/bvi  3 @none @alt: Fr6(#5)
+m095  1 V''ivM7
+m096  1 V''ivM7  3 @none
+m097  1 V''ivM7
+m098  1 V''ivM7  3 bVI64
+m099  1 V''iv7
+m100  1 V''iv7  3 ii%7
+m101  1 V  2 @none
+m102  1 V7''iv  3 V7
+
+@form: A
+m103  1 V7/IV\\ @cadence: IAC
+m104  1 ii2  3 I
+m105  1 iio6
+m106  1 I
+m107  1 V7/IV
+m108  1 ii2  2 vi6  3 vi%65 @alt: i
+m109  1 iio6  2 viio43
+m110  1 I
+m111  1 V7/IV
+m112  1 IV64  3 I @alt: IV64
+m113  1 iv64
+m114  1 I
+m115  1 #ivo64
+m116  1 iv64
+m117  1 I
+m118  1 V7/bII
+m119  1 bIIM7
+m120  1 bIIM7
+m121  1 @none @alt: bIIM7
+m122  1 V7(b5) @alt: Fr6/iv
+m123  1 I\\ @cadence: PAC

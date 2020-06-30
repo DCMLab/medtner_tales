@@ -1,0 +1,63 @@
+@piece: op.34_no.2
+# Nikolai Medtner: Skazka in E minor, op. 34 No. 2 (1916-1917)
+# Annotator: Wendelin Bitzan
+
+@meter: 4/4
+@tempo: Allegro cantabile e leggiero
+@length: 48
+@key: e
+
+
+@form: A
+m001  1 .e.i
+m002  1 i
+m003  1 i  2.2 ii%7  3 i64  4.1 ii%7  4.2 iv7
+m004  1 i  2.2 ii%7  3 i64  4.2 #ivo7 @alt: iv7
+m005  1 i  2.2 ii%7  3 i64  4.1 III6  4.2 V6
+m006  1 i  2 i @alt: VI64  3 i6  4.1 III6  4.2 iv @alt: VI64
+m007  1 V/III @alt: VII  2.2 @none  3 V65/III @alt: VI64  4.1 III6  4.2 iv @alt: VI64
+m008  1 V/III @alt: VII  1.2 @none  2.1 iv6  2.2 V9/III  3 III  4.1 III6  4.2 i65 @alt: III
+m009  1.1 V7/III  1.2 @none  2 ii65/III  3 ii2/III @alt: iv64  4 III6
+m010  1 V/III @alt: VII  2 #vi%65/#vii @alt: #vii(6)  3 #vi%7/#vii @alt: #vii(6)  4.1 @none  4.2 V7(4)
+m011  1 i\\ @cadence: IAC  4.1 ii%7  4.2 iv7
+m012  1 i  2.2 ii%7  3 i64  4.1 VII @alt: v7  4.2 #ivo7 @alt: iv7
+m013  1 i  2.2 bII  3.1 V/iv  3.2 ii2/iv  4.2 III+7/iv @alt: V64/iv
+m014  1.1 iv''#vii%7/iv  1.2 iv(#6)  2 iv''#vii%7/iv  3.2 iv(#6)  4.1 iv''#vii%7/iv  4.2 iv(#6)
+m015  1 i64  3.1 iio64  3.2 i64  4.1 V7  4.2 i64
+m016  1 i\\ @cadence: PAC
+
+@form: B
+m017  1 .VI.ii%7
+m018  1 ii%7 @alt: ii%65  2.1 I6  2.2 V9  3.1 I''V  3.2 I  4.1 V7(4)  4.2 I
+m019  1.1 ii%7''I  1.2 ii%7  2 ii%7
+m020  1.1 @none @alt: V2/IV  1.2 @none @alt: V7/bIII  2.2 viio6/iv  3 iv  4.1 bIII  4.2 V7/bV @alt: Ger6/iv
+m021  1 .bI.ii%7
+m022  1 ii%7 @alt: ii%65  2.1 I6  2.2 viio6/IV  3.1 V7/IV  3.2 I''viio7  4.1 I''ii%7  4.2 I
+m023  1.1 ii%7''I  1.2 ii%7  2 ii%7
+m024  1.1 @none @alt: V2/IV  1.2 @none @alt: V7/bIII  2.2 viio6/iv  3 iv  4.1 bIII  4.2 V7/bV @alt: V7/#IV
+m025  1 .i.V64  2.2 V/V  3.1 V(#6) @alt: #vi2  3.2 V/V  4.1 @none @alt: #vi  4.2 V7/V
+m026  1.1 V/V  1.2 V''IVM7  2 V64 @alt: VM43  4.1 @none @alt: V7/V
+m027  1.1 @none @alt: i  1.2 @none @alt: VIM7  2.1 i6  2.2 VI @alt: iv6  3.1 vi7 @alt: VI64  3.2 VII  4.1 VI  4.2 ii%7 @alt: iio
+m028  1.1 V7(4)  1.2 V  2 V  4.1 V9/III  4.2 ii%7(9) @alt: iv7
+
+@form: A
+m029  1 i\\ @cadence: PC  2.2 ii%7  3 i64  4.1 ii%7  4.2 iv7
+m030  1 i  2.2 ii%7  3 i64  4.2 #ivo7 @alt: iv7
+m031  1 i  2.2 ii%7  3 i64  4.1 III6  4.2 V6
+m032  1 i  2 i @alt: VI64  3 i6  4.1 III6  4.2 iv @alt: VI64
+m033  1 V/III @alt: VII  2.2 @none  3 V65/III @alt: VI64  4.1 III6  4.2 iv @alt: VI64
+m034  1 V/III @alt: VII  1.2 @none  2.1 iv6  2.2 V9/III  3 III  4.1 III6  4.2 i65 @alt: III
+m035  1.1 V7/III  1.2 @none  2 ii65/III  3 ii2/III @alt: iv64  4 III6
+m036  1 V/III @alt: VII  2 #vi%65/#vii @alt: #vii(6)  3 #vi%7/#vii @alt: #vii(6)  4.1 @none  4.2 V43/iv
+m037  1 iv(4)  2 iv\\ @cadence: IAC  4 V7/III @alt: ii7/iv
+m038  1 iv  2.2 ii7/iv  3 iv64  4.1 III @alt: i7  4.2 V7/III
+m039  1 iv  2.2 iio @alt: III6  3.1 iv64  3.2 iv65 @alt: iv43  4.2 iv2
+m040  1.1 v @alt: IIIM7  1.2 VI  2 i43  3.1 iv(9)  3.2 iv64 @alt: V7/III  4.1 i  4.2 iio6
+m041  1.1 V7(4)  1.2 #vi%7 @alt: i64  2 i  3.2 v''iv  4.1 v  4.2 v''VI
+m042  1.1 VI+  1.2 bII64  2 bII  3.2 III6  4.1 v''iv  4.2 viio/VI
+m043  1.1 v  1.2 #vi%7 @alt: i64  2 i  4.1 v''iio @alt: #viio2  4.2 i64
+m044  1.1 V''iv @alt: V9  1.2 v6 @alt: V6  2.1 i  2.2 i(4)  3 Fr6 @alt: V''V7(b5)/V  4 V7
+m045  1 i\\ @cadence: PAC
+m046  1.1 i  1.2 V''ii%7  2.1 i @alt: IV64  2.2 i''#viio  3.1 i  3.2 V''ii%7  4.1 i @alt: IV64  4.2 i''#viio  
+m047  1.1 i  1.2 V''ii%7  2.1 i @alt: IV64  2.2 i''#viio  3 i  4 V7(4) 
+m048  1 i\\ @cadence: IAC

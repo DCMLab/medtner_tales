@@ -1,0 +1,50 @@
+@piece: op.deest
+# Nikolai Medtner: Skazka in D minor, op. deest (1915)
+# Annotator: Wendelin Bitzan
+
+@meter: 4/4
+@tempo: Allegretto abbandonamente
+@length: 34
+@key: d
+
+
+@form: A
+m000  4.2 .d.@none
+m001  1 @none @alt: i  2 v @alt: III6  3 i7  4 @none @alt: v6
+m002  1 @none @alt: v  2 i  3 @none @alt: V
+m003  1 @none @alt: i  2 v @alt: III6  3 i7  4 @none @alt: v6
+m004  1 @none @alt: v  2 v(4) @alt: i  3 i  4.2 @none @alt: V
+m005  1 III6 @alt: i64  2.1 @none @alt: v  2.2 @none @alt: III  3 i6 @alt: VI64  4.1 @none @alt: III  4.2 v @alt: III6
+m006  1 i7  2 @none @alt: v6  3 @none @alt: v  4 i
+m007  1 III6 @alt: i64  2 @none @alt: v  3 i6 @alt: VI64  4 @none @alt: III
+m008  1 III  2 @none @alt: i7  3 i  4.2 v @alt: V43/III
+
+@form: B
+m009  1 .III.I\\ @cadence: IAC  2.2 I''V  3.1 I  3.2 I''V7  4.1 I  4.2 I''V7
+m010  1 I  2.2 I''IV  3.1 IM7  3.2 I  4.1 I64  4.2 IV
+m011  1 I+6  2.1 IV''iii  2.2 IV''V7/IV  3.1 IV''#viio7/ii  3.2 IV''V/ii  4.2 IV(9) @alt: IV''I
+m012  1 #viio2/ii  2.2 VI/ii @alt: bVII\\ @cadence: DC  3.1 @none  3.2 @none @alt: vi  4.2 ii%43/vi
+m013  1.1 V/vi\\ @cadence: HC  1.2 iv7/vi  2.1 V(9)/vi  2.2 Ger6/ii  3.1 V/vi  3.2 iv7/vi  4.1 V(9)/vi  4.2 Ger6/ii
+m014  1.1 V/vi  1.2  iv7/vi  2 iv6  3 ivM7  4.1 ii%7  4.2 V7
+m015  1 I\\ @cadence: PAC  2.2 I''V  3.1 I  3.2 I''V7  4.1 I  4.2 I''V7
+m016  1 ii%7/bvii @alt: vii%7/bII
+m017  1.1 biii @alt: #ii  2.1 #IVM43  2.2 Fr6/iii  3.1 ii%43/iii  3.2 V9/iii  4 V7/iii
+m018  1.1 V7/iii  1.2 @none  2.1 V7/#iv  2.2 V9/V  3.1 V7(6)/#i  3.2 @none  4.1 V7(4)/#ii  4.2 V9/iii
+m019  1.1 iio/iii  1.2 @none  2.1 VI+6(4)/iii  2.2 ii%7/v  3.1 ii%43/v  3.2 @none  4.1 #viio2/v  4.2 V9/v
+m020  1.1 iio/v  1.2 @none  2.1 VI+6(4)/v  2.2 ii%7/bvii  3.1 ii%43/bvii  3.2 @none  4.1 #viio2/bvii  4.2 V7/bvii
+m021  1.1 V7/bvii  1.2 @none  2.1 V7  2.2 Fr6/i  3.1 V7/#i  3.2 @none  4.1 V7/#ii  4.2 V/iii
+m022  1.1 V7/iii  1.2 V65/#i  2.1 V7(6)/#iv  2.2 ii%65/vi  3.1 #viio7/iii  3.2 iii7  4.1 Fr6/vi  4.2 #vi%7/vi @alt: ii%7/iii
+
+@form: A
+m023  1 .i.i64  2 III64  3 i  4 v6
+m024  1 @none @alt: v  2 i  3 III6 @alt: i64  4 @none @alt: v
+m025  1 III6 @alt: i64  2 @none @alt: v  3 i6 @alt: VI64  4 @none @alt: III
+m026  1 III  2 @none @alt: i7  3 @none @alt: i  4 @none @alt: v
+m027  1 III  2 @none @alt: i7  3 @none @alt: i  4 @none @alt: v
+m028  1 @none @alt: i  2 @none @alt: v  3.1 ii%43/iv  3.2 ii%65/iv  4.1 @none @alt: iv
+m029  1.1 i  1.2 VIM7  2 @none @alt: i  3.1 iio6/iv  3.2 iio/iv  4.2 ii%43/iv @alt: v%43
+m030  1 i\\ @cadence: IAC  2 i7  4 iv64(4)
+m031  1 i  2 i7  4 iv64(4)
+m032  1 i  2 i7  4.2 VI6
+m033  1 i  2 #vii%7/v @alt: #iv%7  4 #viio43(#5) @alt: #vii64(#6)
+m034  1 i\\ @cadence: IAC

@@ -1,0 +1,120 @@
+@piece: op.54_no.8
+# Nikolai Medtner: Skazka in E minor, op. 54 No. 8 "The Beggar" (1932)
+# Annotator: Wendelin Bitzan
+
+@meter: 6/8
+@tempo: Narrante
+@length: 103
+@key: e
+
+
+@form: A
+m001  1 .e.i  4 VII6(9) @alt: ii%7(6)
+m002  1 i65 @alt: III  3 i65 @alt: i6  4 iv
+m003  1 i6  4 ii%7  5 V43(4) @alt: ii%7(4)
+m004  1 i  4 VII6(9) @alt: ii%7(6)
+m005  1 i65 @alt: III  3 i65 @alt: i6  4 ii%65
+m006  1 III6  4 IV  5 V2/III
+m007  1 III6  4 iio6(7)  5 iio6
+m008  1 VI64(4)  2 iv2  4 ii%65
+m009  1 III6  4 IV  5 #viio43
+m010  1 #vi%7  3 @none @alt: V/III  4 #viio7  5 i6
+m011  1 @none @alt: iv  2 #ivo7  3 v6  5 i6  6 iio
+m012  1 i6  3 V7  5 i\\ @cadence: IAC
+m013  1 v6  4 v6 @alt: iv(9)  5 iv
+m014  1 @none @alt: VII6  3 v  5 @none
+m015  1 ii%7  3 v  5 ii%7
+m016  1 v64  3 iv6  5 III6
+m017  1 ii%65  3 i6  5 v43
+m018  1 VI6  3 v43 @alt: VII6(6)  5 i6
+m019  1 @none @alt: iio6(4)  2 iio6  3 @none  4 IIIM65  5 @none  6 ii%7(6)
+m020  1 @none @alt: v64  2 III  3 VIM65  5 v6
+m021  1 .iv.ii%7  4 V2(9)/VI  5 V2/VI
+m022  1 IV6  3 iv43  4 iv/iv  6 #viio43/iv
+m023  1 iv6  4 ii%43(4)/iv  5 ii%43/iv
+m024  1 .iii.i64  3 ii%65  5 i6
+m025  1 ii65  4 V2  5 i6
+m026  1 @none @alt: v65(4)  2 v65  3 @none  4 i6  5 @none  6 V43/VII
+m027  1 VII  2 v5  3 V(#7)/III  4 V(b6#7)/III  5 V7/III
+m028  1 V/vi\\ @cadence: HC  3 #viio43(b4)/vi  5 @none @alt: VII(4)/vi
+m029  1 V7(6)/III  3 vi65(4)  5 iv7/vi
+m030  1 V/vi  3 #viio43(b4)/vi  5 @none @alt: VII(4)/vi
+m031  1 V7(6)/III  3 vi65(4)  5 iv7/vi
+m032  1 .i.V2  3 VIM43(#9)  5 V43(b3)
+m033  1 V43(b5)  3 V43(b3)  5 VIM43(#9)
+m034  1 iv%7 @alt: ii%7/III  3 V65/VI  5 vi @alt: iv/III
+m035  1 #iv%7  3 V65  5 i
+m036  1 V7(b9)/v  3 V7/v''vi  5 V7(b9)/v
+m037  1 #viio  3 i(4) @alt: iv43  5 V7/v
+m038  1 #ivo2  3 #ivo65  5 #ivo2(6)  6 #ivo2
+m039  1 #ivo2  6 V(#6)/v
+
+@form: B
+m040  1 V\\ @cadence: HC  3 #vi%7  4 V6  6 i
+m041  1 V6  2 iv64  4 V7/iv  5 iv  6 iv7
+m042  1 iv6  2 III64  4 V7/III  5 III  6 IIIM7
+m043  1 @none  2 ii%65  4 i64  6 #ivo7
+m044  1 V\\ @cadence: HC  3 #vi%7  4 V6  6 i
+m045  1 #viio2/iv  2 #viio65  4 #ivo2  5 #viio7(4)/iv  6 #viio7/iv
+m046  1 #viio43  2 #ivo7  4 #viio65/iv  5 ii%43  6 #viio2
+m047  1 #viio2/bII  3 bIV+6  5 i64
+m048  1 V2(b6)/bII  3 V7/VII  5 bii6
+m049  1 V7/VII  3 V7  5 VI
+m050  1 ii%7  3 III  5 #viio7
+m051  1 i  3 V7  5 VI
+m052  1 #viio7/iv  3 iv  5 V7
+m053  1 i\\ @cadence: IAC  3 V7(4)  5 i
+m054  1 V7/III  3 III  5 V7
+m055  1 i  3 V7(4)  5 i
+m056  1 V7/III  3 III 5 V7/III
+m057  1 III  3 ii%43  5 VIM7
+m058  1 V7(b9)/v  3 IIIM7(#5)  5 Fr6/VII
+m059  1 V7/VII  2 V7  3 VI
+m060  1 ii%7  3 V7\\ @cadence: HC  5 @none
+
+@form: A
+m061  1 i  4 VII6(9)  5 v43
+m062  1 i65 @alt: III  3 i65 @alt: i6  4 ii%65
+m063  1 i6(6)  2 i6  4 V43(4) @alt: ii%7(4)
+m064  1 i  4 VII6(9)  4 v43
+m065  1 i65 @alt: III  3 i65 @alt: i6  4 ii%65
+m066  1 III6(6)  2 III6  4 ii65/III  5 V2(6)/III  6 V2/III
+m067  1 III6  4 iio6(7)  5 iio6
+m068  1 VI64(4)  2 iv2  4 ii%65
+m069  1 III6(6)  2 III6  4 ii65/III  5 #viio43(6)  6 #viio43
+m070  1 #vi%7  3 @none @alt: iv/iv  4 #viio7  5 i6
+m071  1 iv  2 #ivo7  3 v6  5 i6(4)  6 ii%7
+m072  1 i6  3 V7\\ @cadence: HC
+
+@form: B
+m073  1 i  3 #viio2(6)/iv  4 ii%7  6 #ivo2
+m074  1 I6  2 #viio43  3 #viio43(b9) @alt: Ger6/iv  4 I6  5 iv/VII  6 viio43/VII
+m075  1 VII6  2 viio43/VII  4 VII6  5 iv/VI  6 viio43/VI
+m076  1 VI6  3 ii%7/VI  5 #viio2
+m077  1 i  3 #viio2(6)/iv  4 ii%7  6 #ivo2
+m078  1 I6  2 #viio43(b9) @alt: Ger6/iv  4 V65/v  5 III+6(#5)  6 III+6
+m079  1 V65/ii  2 bII+64(9)  3 bII+64  4 #viio2/bII  6 V65
+m080  1 VI+6  3 III+64  5 VII+(9)
+m081  1 bII+64  3 VI  5 III+6(7)
+m082  1 V7(b5)/iv  3 Fr6(b9)/III  5 V7(b5)/III
+m083  1 Fr6/bII @alt: Fr6/v  3 V43(b5)/v  5 ii%7/iv
+m084  1 @none @alt: V/iv
+m085  1 @none @alt: V/iv
+m086  1 iv64  2 Ger6/iv  3 #viio2(6)  4 VI+6  5 VI6  6 iv43
+m087  1 iv6(4)/iv  2 iv64  3 V(9)/III  4 V/III  5 VI/iv @alt: bII  6 iv7/iv
+m088  1 @none @alt: V/iv  3 bIIM7  5 iv64
+m089  1 It6/iv  3 @none @alt: V/iv
+m090  1 i7  3 bII+  5 VI6
+m091  1 V43(b5)  2 i  3 ii%7/VII  4 i''ii%7/VII  5 bII+(9)  6 IV64
+m092  1 @none @alt: V/iv  3 i''iv6(7)/VI @alt: bIV+64(7)  5 VI6
+m093  1 @none @alt: V/iv  3 i''iv6(7)/VI @alt: bIV+64(7)  5 VI6
+m094  1 VI6
+m095  1 VI6
+m096  1 i @alt: VI6
+m097  1 i @alt: VI6
+m098  1 i @alt: VI6
+m099  1 i @alt: VI6
+m100  1 VI6
+m101  1 VI
+m102  1 i\\ @cadence: PC
+m103  1 i

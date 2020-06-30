@@ -1,0 +1,101 @@
+@piece: op.14_no.1
+# Nikolai Medtner: Skazka in F minor, op. 14 No. 1 "Ophelia's Song" (1906-1907)
+# Annotator: Wendelin Bitzan
+
+@meter: 2/4
+@tempo: Andantino con moto
+@length: 85
+@key: f
+
+
+@form: A
+m000  2.1 .f.IV65  2.2 i64 @alt: V(6)
+m001  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64 @alt: V(6)
+m002  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64(4) @alt: V7(6)
+m003  1.1 i6(9)  1.2 i6  2.1 V43  2.2 i
+m004  1.1 IIIM7  1.2 #vi%2  2.1 v  2.2 i64 @alt: V(6)
+m005  1.1 i7(9)  1.2 IV64  2.1 i  2.2 V43/VII
+m006  1.1 V9(46)/VII  1.2 V9/VII  2.2 V9/VII @alt: V/VII''#vi%7
+m007  1.1 VII\\ @cadence: HC  2.1 IV65  2.2 i64 @alt: V(6)
+m008  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64 @alt: V(6)
+m009  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64(4) @alt: V7(6)
+m010  1.1 i6(9)  1.2 i6  2.1 V43  2.2 i 
+m011  1.1 IIIM7  1.2 VI  2.1 III6  2.2 iv
+m012  1.1 VIM7  1.2 bII  2.1 @none  2.2 IV65
+m013  1 V\\ @cadence: HC
+m014  1 iv6  2.1 III6  2.2 V7/III
+m015  1.1 i  1.2 VI  2.1 III64  2.2 iv%43
+m016  1.1 i  1.2 iv7  2.1 III64  2.2 VI
+m017  1.1 v6  1.2 V2/III  2.1 V
+m018  1 iv6  2.1 III6  2.2 V7/III
+m019  1.1 i  1.2 iv65  2.1 III6  2.2 iv7
+m020  1.1 III6  1.2 iv65  2.1 VI6  2.2 V7/III
+m021  1.1 III\\ @cadence: PAC  1.2 iv65  2.1 III6  2.2 iv7
+m022  1.1 III6  1.2 #vio  2.1 v6  2.2 i
+m023  1.1 V64/VII  1.2 V/VII''i7  2.1 V64/VII  2.2 V7(4)/VII
+m024  1.1 V64/VII  1.2 V/VII''v  2.1 V/VII''III  2.2 V7/VII
+m025  1.1 VII\\ @cadence: IAC  1.2 III  2.2 V43(4)/VII
+m026  1.1 VII  1.2 VII6  2.1 III  2.1 V7/VII
+m027  1.1 v  1.2 III  2.2 i7 @alt: iv7/v
+m028  1.1 v6  1.2 V7/v  2 v\\ @cadence: PAC
+
+@form: B
+m029  1.1 .v.i  1.2 i''ii%7  2 i
+m030  1.1 iv64  1.2 i''V  2 i
+m031  1.1 i  1.2 i''ii%7  2 i
+m032  1.1 iv64  1.2 i''#viio7  2.1 i''V  2.2 i''V7
+m033  1.1 i\\ @cadence: IAC  1.2 i''ii%7  2 i  
+m034  1 i  2.1 i6  2.2 IV
+m035  1.1 v  1.2 #vio6  2.2 ii @alt: vii/III
+m036  1 III  2 V7
+m037  1 i  2.1 III6  2.2 viio/VII
+m038  1.1 VII  1.2 i6  2.2 V/VII
+m039  1.1 VII\\ @cadence: PAC  1.2 III  2.2 V43(4)/VII
+m040  1.1 VII  1.2 VII6  2.1 III  2.1 V7/VII
+m041  1.1 V7  1.2 III  2.2 i7 @alt: iv7/v
+m042  1.1 v6  1.2 V7/v  2.1 VI/v @alt: III\\ @cadence: DC  2.2 V43
+m043  1.1 i  1.2 i''ii%7  2 i
+m044  1.1 iv64  1.2 i''V  2 i
+m045  1.1 iv64  1.2 i''#viio7  2.1 i''V  2.2 i''V7 
+m046  1.1 i\\ @cadence: IAC  1.2 i''ii%7  2 i
+m047  1 i  2.1 VIM43  2.2 ii%7
+m048  1.1 i  1.2 i6  2.1 i2  2.2 iv7
+m049  1.1 @none  1.2 iv  2.1 i64  2.2 v7
+m050  1 V43(6)/iv @alt: iv6''V7/iv\\ @cadence: HC  2.1 IV65/iv  2.2 iv64 @alt: V(6)/iv
+
+@form: A 
+m051  1.1 .i.i(9)  1.2 i6  2.1 IV65  2.2 i64 @alt: V(6)
+m052  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64(4) @alt: V7(6)
+m053  1.1 i6(9)  1.2 i6  2.1 V43  2.2 i
+m054  1.1 IIIM7  1.2 #vi%2  2.1 v  2.2 i64 @alt: V(6)
+m055  1.1 i7(9)  1.2 IV64  2.1 i  2.2 V43/VII
+m056  1.1 V9(46)/VII  1.2 V9/VII  2.2 V9/VII @alt: V/VII''#vi%7
+m057  1.1 VII\\ @cadence: HC  2.1 IV65  2.2 i64 @alt: V(6)
+m058  1.1 i(9)  1.2 i6  2.1 IV65  2.2 i64(4) @alt: V7(6)
+m059  1.1 i6(9)  1.2 i6  2.1 V43  2.2 i 
+m060  1.1 IIIM7  1.2 VI  2.1 III6  2.2 iv
+m061  1.1 VIM7  1.2 bII  2.1 @none  2.2 V
+m062  1.1 V7/iv  1.2 iv  2.1 i6  2.2 IV
+m063  1.1 III6  1.2 i  2.2 ii%43
+m064  1 i64  2.1 V''VI7  2.2 V
+m065  1 i\\ @cadence: PAC  2 III64
+m066  1 IV65  2.1 V(6)  2.2 V
+m067  1 i6  2 III64
+m068  1 IV65  2.1 V7(6)  2.2 V
+m069  1 i6  2.1 v64  2.2 VII6
+m070  1.1 i7(4) @alt: ii7(4)/VII  1.2 i7 @alt: ii7/VII  2.1 iii6/VII  2.2 V7/VII
+m071  1 VII  2.1 V2/III  2.2 iv6
+m072  1.1 V(4)  1.2 V\\ @cadence: HC  2.1 iio6  2.2 iv
+m073  1.1 V6/v  1.1 #vio  2 V\\ @cadence: HC
+m074  1 iv6(9)  2.1 III6  2.2 V7/III
+m075  1.1 i  1.2 VI  2.2 iv7
+m076  1.1 i6  1.2 V7  2 i\\ @cadence: PAC
+m077  1 i
+m078  1.1 V6(4)  1.2 V6  2.1 i
+m079  1 i
+m080  1.1 V6(4)  1.2 V6  2.1 V43  2.2 V65
+m081  1 ii%2  2 i
+m082  1 i6  2 i7 @alt: iv7/v
+m083  1 v6  2.1 i(4) @alt: IV64  2.2 #vi%7
+m084  1 i64  2 V7
+m085  1 i\\ @cadence: PAC

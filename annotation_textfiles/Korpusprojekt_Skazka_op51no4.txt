@@ -1,0 +1,178 @@
+@piece: op.51_no.4
+# Nikolai Medtner: Skazka in F sharp minor, op. 51 No. 4 (1928)
+# Annotator: Wendelin Bitzan
+
+@meter: 2/4
+@tempo: Allegretto con moto flessibile
+@length: 161
+@key: f#
+
+
+@form: A
+m001  1 .f#.i  2 V7 @alt: v7
+m002  1 i  2 V7 @alt: v7
+m003  1 i  2 V7 @alt: v7
+m004  1 VI  2 IIIM7
+m005  1.1 V7(b3)/VII  1.2 V9/VII @alt: IV''i  2 V7
+m006  1 i\\ @cadence: PAC
+m007  1 i  2 VI64
+m008  1 i64  2 iv43
+m009  1 i6  2 i64
+m010  1 ii%2  2 v
+m011  1 i6  2 V64 @alt: v64
+m012  1 i  2 i64 @alt: III6
+m013  1 III+64  2 i64 @alt: III6
+m014  1 III64  2 i64 @alt: III6
+m015  1 ii6(4) @alt: V9(6)/VII  2 V2(6)
+m016  1 Ger6  2 III
+m017  1 III  2 III6
+m018  1.1 ii%65(9)/III  1.2 ii%65/III  2 #viio7
+m019  1.1 i(4)  1.2 i  2 i6
+m020  1 v  2.1 III @alt: V2(4)/III  2.2 V2/VII
+m021  1 ii%2  2.1 v64(7)  2.2 v64 @alt: V6(6)/III
+m022  1 III  2 III64 @alt: v6
+m023  1.1 V6(6)/III @alt: v43  1.2 V6/III  2 V7/III
+m024  1.1 V2(9)/VI @alt: ii%43/iv  1.2 V2/VII  2 III64
+m025  1 v64  2.1 III64 @alt: i6  2.2 I64(9)
+m026  1.1 v  1.2 III6  2 V7(4)/v
+m027  1 v\\ @cadence: IAC  2 V(b9)
+m028  1 ii%7/v @alt: #vi%7  2 #ivo2/v
+m029  1 V6  2 i
+m030  1 bII(6) @alt: vii65  2 iio
+m031  1 i6  2 V7
+m032  1 i  2 V7 @alt: v7
+m033  1 i  2 V7 @alt: v7
+m034  1 i  2 V7 @alt: v7
+m035  1.1 III(6)  1.2 III  2 V7/III
+m036  1.1 v(6)  1.2 v  2 V7/v
+m037  1 v\\ @cadence: PAC
+
+@form: B
+m038  1 .v.i
+m039  1.1 VII6 @alt: V65/III  1.2 iio @alt: V65/III  2.1 iv64  2.2 V43
+m040  1 i6  2.1 iv  2.2 iio6 @alt: ii%65
+m041  1 v  2 III
+m042  1 iv6  2 ii%7
+m043  1 i64  2 V7
+m044  1 i\\ @cadence: PAC  2.2 i''V @alt: i7
+m045  1.1 #vio6  1.2 V7/III  2.1 #ivo6  2.1 i6
+m046  1.1 i64  1.2 V2 @alt: bII6  2.1 i6  2.2 i6(9)
+m047  1 i
+m048  1.1 VII @alt: V6/III  1.2 ii%7  2.1 iv64  2.2 V43
+m049  1.1 i6(9)  1.2 i6  2.1 iv  2.2 V43/III
+m050  1 III6  2 iv6
+m051  1 V7/III  2.1 i7  2.2 i6 @alt: i7
+m052  1 ii%7  2 V
+m053  1 V/v  2.1 v/v @alt: ii  2.2 VI6 @alt: i
+m054  1.1 iv+ @alt: bII6  1.2 IV6  2.1 III6  2.2 iio6 @alt: bII6
+m055  1.1 i6  1.2 #viio6 @alt: VII6  2.1 #vio6  2.2 V6/ii
+m056  1 V/v  2 V2/v
+m057  1.1 v6  1.2 bII6/v @alt: VI6  2.1 V7/IV  2.2 VIM65/v @alt: IIIM65
+m058  1.1 VI  1.2 VI6(9)  2.1 III  2.2 III6(6) @alt: i43
+m059  1 iv  2 V2/VII
+m060  1.1 VII6  1.2 III  2.1 #vi%65  2.2 iio
+m061  1.1 i6 @alt: III  1.2 i6  2.1 V/III @alt: VII  2.2 V64/III @alt: VII64
+m062  1 V/III  2 V2/III
+m063  1 V43/iv  2 V65/iv
+m064  1.1 iv  1.2 iv(9)  2 V/iv
+m065  1 iv6  2 i64
+m066  1 #ivo7  2 V2
+m067  1 i6  2.1 ii%65  2.2 iio6
+m068  1.1 i64  1.2 i64(4)  2 i6
+m069  1.1 i(6)  1.2 #ivo2  2.1 v/v @alt: ii  2.2 V7(6)
+m070  1 ii%43(#24) @alt: VI''#vii%7/iv\\ @cadence: DC  2.1 ii%43  2.2 V7/bII @alt: Ger6
+m071  1 ii%43  2.1 V43(b9)/iv  2.2 V43/iv
+m072  1.1 #ivo7  1.2 Ger6  2.1 #ivo2  2.2 V2/VII
+m073  1.1 #ivo43  1.2 V2/v  2.1 V(4)  2.1 V9
+m074  1 ii%43(#24) @alt: VI''#vii%7/iv\\ @cadence: DC  2.1 ii%43  2.2 V7/bII @alt: Ger6
+m075  1 ii%43  2.1 V43(b9)/iv  2.2 V43/iv
+m076  1.1 #ivo7  1.2 Ger6  2.1 #ivo2  2.2 V2/VII
+m077  1.1 #ivo43  1.2 V2/v  2.1 ii%7 @alt: #viio6(9)  2.2 #viio6
+m078  1.1 V  1.2 V2  2.1 I6  2.2 V43/bII
+m079  1.1 bII  1.2 bIIM2 @alt: Ger6/iv  2.1 IV+  2.2 Fr6
+m080  1 V\\ @cadence: HC  2 VIM7
+m081  1 V7/ii  2 v6
+m082  1 III+64  2 I @alt: V/iv
+m083  1 bII  2 ii%7
+m084  1 i6  2.1 v6  2.2 III64 @alt: IIIM43
+m085  1 V/ii @alt: V6/#vii  2 VIIM7
+m086  1 V7/#iii  2 #vi6
+m087  1 IV+64  2 V/v
+m088  1 III @alt: VI/v  2 ii%7/ii @alt: #vii%7/iv
+m089  1 ii6 @alt: v6/v  2 v6/ii @alt: v65/ii
+m090  1 V7/#iii @alt: V7/bIV  2 V7/#vi @alt: V7/bVII
+m091  1 V9/ii @alt: V9/bIII  2 V7(6)/v @alt: V7(6)/bVI
+m092  1 V7  2 V7/iv
+m093  1 V7(b5b6)/VII @alt: It6(9)/III  2 V7/III
+m094  1 V7(6)/ii  2 It6(#5) @alt: VI+(b7)
+m095  1 V7  2.1 #vio2  2.2 V2
+m096  1 bI+64 @alt: III(b6)  2 V9(#4)/bV @alt: bII''bI+
+m097  1 bI+6 @alt: III(b6)  2 V9(#4)/bV @alt: bII''bI+
+m098  1 @none @alt: bI+  2 bII64 @alt: VI64/iv
+
+@form: A
+m099  1 .i.i64
+m100  1.1 i6(24) @alt: i6''V7  1.2 i6  2.1 i64(b9)  2.2 i64
+m101  1 @none @alt: V7  2 @none @alt: i
+m102  1 V43 @alt: v43  2.1 iv6(b6#7)  2.2 iv6(#7)
+m103  1.1 #viio''V43/VII  1.2 V43/VII  2.1 V2/III @alt: VII  2.2 V64/III
+m104  1 Ger6/iv  2.1 iv(9)  2.2 ii%7
+m105  1 Ger6/iv  2 @none @alt: i
+m106  1 @none @alt: Ger6  2 @none
+m107  1 V7  2 @none @alt: V7
+m108  1 i\\ @cadence: PAC  2 VI64
+m109  1 i64  2 iv43
+m110  1 i6  2 i64
+m111  1 ii%2  2 v
+m112  1 i6  2 V64 @alt: v64
+m113  1 i  2 i64 @alt: III6
+m114  1 III+64  2 i64 @alt: III6
+m115  1 III64  2 i64 @alt: III6
+m116  1 ii6(4) @alt: V9(6)/VII  2 V2(6)
+m117  1 Ger6  2 III
+m118  1 III  2 III6
+m119  1.1 ii%65(9)/III  1.2 ii%65/III  2 #viio7
+m120  1.1 i(4)  1.2 i  2 i6
+m121  1 v  2.1 III @alt: V2(4)/III  2.2 V2/VII
+m122  1 ii%2  2.1 v64(7)  2.2 v64 @alt: V6(6)/III
+m123  1 III  2 III64 @alt: v6
+m124  1.1 V6(6)/III @alt: v43  1.2 V6/III  2 V7/III
+m125  1.1 #viio2(9)/iv @alt: ii65/VI  1.2 #viio2/iv  2 #viio6/iv
+m126  1 iv6  2.1 iv(9)/iv  2.2 iv/iv
+m127  1.1 iv64  1.2 iv64(b9) @alt: bIIM2  2 V7(4)/iv
+m128  1 VI/iv @alt: bII  2 ii%7
+m129  1 i  2 V7
+m130  1 bII @alt: VI/iv  2 ii%7
+m131  1 i6  2.1 V7(4)  2.2 V7
+m132  1 i\\ @cadence: IAC  2 V7 @alt: v7
+m133  1 i  2 V7 @alt: v7
+m134  1 i  2 V7 @alt: v7
+m135  1 VI  2 IIIM7
+m136  1.1 V7(b3)/VII  1.2 V9/VII @alt: IV''i  2 V7
+m137  1 i\\ @cadence: IAC
+
+@form: B
+m138  1 I  2 ii%2/VII @alt: i%2
+m139  1.1 ii%2(6)  1.2 ii%2  2.1 VI+64  2.2 #viio64/vi
+m140  1 i  2.2 ii%43
+m141  1.1 ii%65(6)  1.2 ii%65  2 III6
+m142  1 iv65(4)  2 Fr6
+m143  1 i64  2 V7
+m144  1 i\\ @cadence: PAC
+m145  1 i2  2 bIIM43 @alt: bII64(7)
+m146  1.1 i43 @alt: i64(7)  1.2 VIM2  2.1 bII6 @alt: ii%2(9)/iv  2.2 ii%2/iv
+m147  1 iv2  2.1 iv6/iv @alt: vii6  2.2 ii%43/iv
+m148  1 i  2 bIIM43 @alt: bII64(7)
+m149  1 i43  2.1 bII6 @alt: ii%2(9)/iv  2.2 ii%2/iv
+m150  1 iv2  2.1 iv6/iv @alt: vii6  2.2 ii%43/iv
+m151  1 i  2 bIIM43 @alt: bII64(7)
+m152  1 i64  2 bIIM43 @alt: bII64(7)
+m153  1 i64  2 iv64(9)/iv @alt: vii64(9)
+m154  1 VI64  2 V43(b5) @alt: Fr6/iv
+m155  1 i\\ @cadence: IAC
+m156  1 i
+m157  1 i
+m158  1 i
+m159  1 i
+m160  1 i
+m161  1 @none @alt: i

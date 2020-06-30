@@ -1,0 +1,165 @@
+@piece: op.54_no.6
+# Nikolai Medtner: Skazka in D minor, op. 54 No. 6 "The Organ Grinder" (1932)
+# Annotator: Wendelin Bitzan
+
+@meter: 2/2
+@tempo: Allegro assai - Poco più tranquillo
+@length: 148
+@key: d
+
+
+@form: A
+m001  1 .d.V  2 iv6  3 III6  4 ii%65
+m002  1 III+6  2 VI+  3 V7  4 Fr6
+m003  1 V  2 iv6  3 III6  4 ii%65
+m004  1 III+6  2 ii''VI+ @alt: ii%7(#9)  3.1 @none @alt: iv  3.2 V(#7)
+m005  1 i  3.1 IIIM65(9) @alt: III6(9)  3.2 IIM65
+m006  1 V7(6)/III  3.1 III(9)  3.2 III
+m007  1 V9(4)/VII  2 V9/VII  3 i64  4 V
+m008  1 i\\ @cadence: PAC  3 @none  4 V
+m009  1 i  3.1 ii%7(6) @alt: VII6  3.2 ii%7
+m010  1 i6  3.1 iv(#4)  3.2 iv
+m011  1 @none @alt: i  2 iv7  3 V9/III @alt: IV(9)/iv  4 V7/iv
+m012  1 iv\\ @cadence: PAC  3 @none  4 V7(9)/iv
+m013  1 iv @alt: iio6  2 @none @alt: ii%2  3 #viio  4 #viio64/iv
+m014  1 iv6 @alt: iio64  2 @none @alt: ii%2  3 #viio  4 #viio64/iv
+m015  1 iv6  2 V9/III  3 III  4 V7(b9)/iv
+m016  1 iv  2 V7(9)/v  3 VII+6  4 V7(b5)/v
+m017  1 V  2 iv6  3 III6  4 ii%65
+m018  1 III+6  2 VI+  3 V7  4 Fr6
+m019  1 V  2 iv6  3 III6  4 ii%65
+m020  1 III+6  2 ii''VI+ @alt: ii%7(#9)  3 @none @alt: iv  4 @none @alt: V/v
+m021  1 V(b57)/bII  2.2 V7(b5)/bII  3.1 bII(4)  3.2 bII
+m022  1 V  2.2 V7  3.1 V(4)/iv  3.2 V/iv
+m023  1 iv''#viio/iv  2 V9/VII  3 i64  4 V
+m024  1 i\\ @cadence: PAC  3 @none  4 V7/VII
+m025  1 .iv.ii/III @alt: iv  3.1 V(6)/III  3.2 V/III
+m026  1 VI @alt: IV/III  3 Fr6/iv
+m027  1 iv64  2 ii%43/iv  3 IV7/iv @alt: V7/III  4 V7/iv
+m028  1 iv\\ @cadence: PAC  3 @none  4 V9/iv
+m029  1 iv @alt: iio6  2 @none @alt: ii%2  3 #viio  4 #viio64/iv
+m030  1 iv6  2 V9/III  3 III  4 V7(b9)/iv
+m031  1 iv  2 V7(9)/v  3 VII+6  4 V7(b5)/v
+m032  1 III  2 @none @alt: iv  3 III+6  4 V7
+m033  1 VI  2 VII  3 VI+6  4 V7/iv
+m034  1 VI/iv @alt: bII  2 @none @alt: III(4)  3 bII6  4 iv
+m035  1 V  2 V''VI @alt: VIM2  3 V6  4 #viio7
+m036  1 .i.iv\\ @cadence: IAC  2 V65/v  3 III+6  4 iio64
+m037  1 #viio6/v  2 III64  3 #viio7(b8) @alt: V6(b3)  4 iv64
+m038  1 #viio2/iv  2 v64  3 iv7/vii  4 V7/iv
+m039  1 V7/VII  2 V65/v  3 V7  3 VI+
+m040  1 iio64(b3)/iv @alt: V65/ii  2 ii%7  3 III+  4 Ger6/vii @alt: #viio7(b3)/iv
+m041  1 bII+6  2 It6  3 v @alt: III6  4 #viio7
+m042  1 i  2 i6  3 iv  4 v7
+m043  1 VI  2 v6  3 i  4 ii%7
+m044  1 III  2 III6  3 VI  4 iio6
+m045  1 v  2 i6  3 iv  4 v7
+m046  1 VI  3 @none  4 VM7(#5)/VI @alt: V/VI''V
+m047  1 VI  3 @none  4 VM7(#5)/VI @alt: V/VI''V
+m048  1 VI  2 iio  3 VM7(#5)/VI @alt: V/VI''V  4 ii%65
+m049  1 i64  2.2 V  3 i\\ @cadence: PAC
+
+@form: B
+m050  1 .v.i  3 V
+m051  1 VII  3 IV
+m052  1 VI  3 i6
+m053  1 ii6 @alt: iio6  2 V7/VII @alt: IV7  3 V(4)  4 V\\ @cadence: HC
+m054  1 .#vi.i  3 V
+m055  1 VII  3 IV
+m056  1 VI  3 i6
+m057  1 ii6 @alt: iio6  2 V7/VII @alt: IV7  3 V\\ @cadence: HC
+m058  1 .v.I64  3 V6(6)/V  3 #vii%7/V
+m059  1 V2(#6)  2 V2  3 I6(#4#6)  4.2 I6
+m060  1 VI64  3 V65/III  4 V65(9)/III @alt: ii%7(6)
+m061  1 V2(6)/VI  2 V2/VI  3 VI6  4 Ger6
+m062  1 V6(#7) @alt: #vii  2.2 V6  3 VIM65  4.2 V43/VII
+m063  1 VII6  2.2 V43  3 VIM43  4 It6
+m064  1 V6(#7) @alt: #vii  2.2 V6  3 VIM65  4.2 V43/VII
+m065  1 VII6  2.2 V43  3 VIM43  4 It6
+m066  1 V6  3 Ger6
+m067  1 V43  3 Ger6
+m068  1 V @alt: v\\ @cadence: HC  3 @none
+m069  1 @none
+m070  1 .#iv.i  3 V
+m071  1 VII  3 IV
+m072  1 VI  3 i6
+m073  1 ii6 @alt: iio6  2 V7/VII @alt: IV7  3 V(4)  4 V\\ @cadence: HC
+m074  1 .iv.i  3 V
+m075  1 VII  3 IV
+m076  1 VI  3 i6
+m077  1 ii65  2 V7/VII @alt: IV7  3 V\\ @cadence: HC
+m078  1 .i.#iii64  3 V6(#6)/#vii  4 #viio7/#vii
+m079  1 #vii43(4)/#iii  2 #vii43/#iii  4.1 #viio7(4)/#vi  4.2 #viio7/#vi
+m080  1 I64  3 #iv%7(4)  4 #iv%7
+m081  1 V2(6)  2 V2  3 V65(6)/iv  4 V65/iv
+m082  1 bII6(4)  3 bII6  3 @none @alt: bII6
+m083  1 @none @alt: bII  3 @none @alt: bII64
+m084  1 bII6(9)  2 bII6  3 @none  4 V2/bII
+m085  1 bII6(9)  2 bII6  3 @none  4 V2/bII
+m086  1 bII6  2 iii%7/bII  3 bVI+(7)/bII  4 iii%7/bII
+m087  1 iii/bII  2 bVI+(7)/bII  3 iii%7/bII  4 bII6
+m088  1 V2/bII  2 V2/bII''iio  3 V2/bII  4 V2/bII''iio
+m089  1 V2/bII''#viio7  2 V2/bII  3 V2/bII''#viio  4 V2/bII @alt: It6
+m090  1 V  3 VIM7
+m091  1 V7/ii  3 v6
+m092  1 III+64  3 I
+m093  1 Fr6/iv  3 V(4)/v @alt: V43(#7)
+
+@form: A
+m094  1 i65  3.1 ii%43(#3)  3.2 ii%43
+m095  1 i65  3.1 ii%43(#3)  3.2 ii%43
+m096  1 i65  3 iv6 @alt: VI  4 VI''#vii @alt: vi%7
+m097  1 i64  3 V2
+m098  1 i65  3 V9/bII
+m099  1 i65  3 V9/bII
+m100  1 i65  3 V7(b9)/v
+m101  1 ii @alt: iio  2 V7(b9)/v  3 @none @alt: V  4 V7\\ @cadence: HC
+m102  1 VIM7(#5)  2.2 V7(#5)/bII  3.1 bII(4)  3.2 bII
+m103  1 V  2.2 V7  3.1 V(4)/iv  3.2 V/iv
+m104  1 iv''#viio/iv  2 V9/VII  3 i64  4 V
+m105  1 i\\ @cadence: PAC  3 @none  4 V7/VII
+m106  1 .iv.ii/III @alt: iv  3.1 V(6)/III  3.2 V/III
+m107  1 VI @alt: IV/III  3 Fr6/iv
+m108  1 iv64  2 ii%43/iv  3 IV7/iv @alt: V7/III  4 V7/iv
+m109  1 iv\\ @cadence: PAC  3 @none  4 V9/iv
+m110  1 iv @alt: iio6  2 @none @alt: ii%2  3 #viio  4 #viio64/iv
+m111  1 iv6  2 V9/III  3 III  4 V7(b9)/iv
+m112  1 iv  2 V7(9)/v  3 VII+6  4 V7(b5)/v
+m113  1 III  2 @none @alt: iv  3 III+6  4 V7
+m114  1 VI  2 VII  3 VI+6  4 V7/iv
+m115  1 VI/iv @alt: bII  2 @none @alt: III(4)  3 bII6  4 iv
+m116  1 V  2 V''VI @alt: VIM2  3 V6  4 #viio7
+m117  1 .i.iv\\ @cadence: IAC  2 V65/v  3 III+6  4 iio64
+m118  1 #viio6/v  2 III64  3 #viio7(b8) @alt: V6(b3)  4 iv64
+m119  1 #viio2/iv  2 v64  3 iv7/vii  4 V65/iv
+m120  1 V7/VII  2 V65/v  3 V7  3 VI+
+m121  1 iio64(b3)/iv @alt: V65/ii  2 ii%7  3 III+  4 Ger6/vii @alt: #viio7(b3)/iv
+m122  1 bII+6  2 It6  3 v @alt: III6  4 #viio7
+m123  1 i  2 i6  3 iv  4 v7
+m124  1 VI  2 v6  3 i  4 ii%7
+m125  1 III  2 III6  3 VI  4 iio6
+m126  1 v  2 i6  3 iv  4 v7
+m127  1 VI  3 @none  4 VM7(#5)/VI @alt: V/VI''V
+m128  1 VI  3 @none  4 VM7(#5)/VI @alt: V/VI''V
+m129  1 VI  2 iio  3 VM7(#5)/VI @alt: V/VI''V  4 ii%65
+m130  1 i64  2.2 V  3 i\\ @cadence: PAC  4.2 V
+
+@form: C
+m131  1 i  2 i(24)  3 i  4 i(24)
+m132  1 i''V  2 i  3 i(24)  4 i64
+m133  1 V  2 i  3 V7  4 i64(#7) @alt: V''#viio/V
+m134  1 V''#viio/V  2 V  3 ii%7  4.1 V7  4.2 V7(4)
+m135  1 i  2 i(24)  3 i  4 i(24)
+m136  1 i''V  2 i  3 i(24)  4 i64
+m137  1 V2/III  2 III6  3 V43/III  4 III
+m138  1 V2/v  2 v6  3 V43/v  4 v
+m139  1 V/v  2 #vi%2/v  3 V7/v  4 v64(#7) @alt: V/v''#ivo7/v
+m140  1 V/v''#ivo7/v  2 V/v  3 ii%7/v  4 V7/v
+m141  1 V7(#9)  2.1 V/iv''V/v  2.2 V7/iv  3 V7/VII  4.1 V/III''V/iv  4.2 V7/III
+m142  1 V7/VI  2.1 V/bII''V/III  2.2 V7/bII  3 Fr6 @alt: V7(b5)/v  4.1 #ivo7  4.2 V7(6)
+m143  1 VI\\ @cadence: DC  2 ii%65  3 VI64  4 ii%65
+m144  1 #viio7(9)  2 VI64  3 ii%65  4 V2/VI
+m145  1 ii%65  2 V2/VI  3.1 iv6(4)  3.2 iv6  4.1 #ivo43(6)  4.2 #ivo43
+m146  1 @none @alt: i  3 @none @alt: #ivo7
+m147  1 @none @alt: #ivo7  2.1 Ger6  2.2 V7(6)  3 i\\ @cadence: PAC
+m148  1 i

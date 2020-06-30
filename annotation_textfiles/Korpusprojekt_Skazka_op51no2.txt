@@ -1,0 +1,159 @@
+@piece: op.51_no.2
+# Nikolai Medtner: Skazka in A minor, op. 51 No. 2 (1928)
+# Annotator: Wendelin Bitzan
+
+@meter: 3/8
+@tempo: Cantabile, tranquillo - Allegretto cantabile ed espressivo
+@length: 142
+@key: a
+
+
+@form: A
+m001  1 .a.i  2 i(9)  3 v
+m002  1 i  2 i(9)  3 v
+m003  1 i @alt: i(24)  3 v
+m004  1 i @alt: i(24)  3 v
+m005  1 i  3.1 i64''IV  3.2 i64
+m006  1 i  3.1 i64''IV  3.2 i64
+m007  1 i  3.1 i''IV  3.2 i
+m008  1 i @alt: i7  2 i64(#6) @alt: #vi%2  3 i
+m009  1 v7  2 v''ii7  3 v7
+m010  1 v7  2 v''ii7  3 v7
+m011  1 v @alt: V
+m012  1 v @alt: V\\ @cadence: HC
+m013  1 i
+m014  1 i6(9)  2.2 i6  3 i6
+m015  1 v
+m016  1 v(6) @alt: i6
+m017  1 i  3 i6
+m018  1 v
+m019  1 i(#6)
+m020  1 i6
+m021  1 v
+m022  1 VII6
+m023  1 IV
+m024  1 #vio6  3 VII6
+m025  1 i6 @alt: V2/VII  2 V2/VII  3 V/VII
+m026  1 VII  2 V2/III
+m027  1 V7
+m028  1 i\\ @cadence: IAC
+m029  1 i6(9)  2.2 i6  3 i6
+m030  1 v  3 v7
+m031  1 v  2.2 IIIM65  3 v
+m032  1 i6
+m033  1 v  2.2 v7  3 v
+m034  1 i
+m035  1 v
+m036  1 i
+m037  1 i6  2.2 i6''IV  3 IV
+m038  1 i6  2.2 III64  3 i65
+m039  1 i6  2.2 i6''IV  3 IV
+m040  1 i6  2.2 i  3 i6
+m041  1 i(7)  2.2 V43/VII  3 ii7
+m042  1 III64  3 i
+m043  1 IV
+m044  1 i
+m045  1 IV @alt: V/VII
+m046  1 VII @alt: V/III\\ @cadence: HC
+
+@form: B
+m047  1 III
+m048  1 VII @alt: V/III  2.2 III64  3 IIIM43
+m049  1 IV43  2 IV43(9)  3 IV64
+m050  1 VII6 @alt: v64  2.2 IIIM2  3 i6
+m051  1 IV43  2 IV43(9)  3 IV64
+m052  1 VII6 @alt: v64  2.2 IIIM2  3 i6
+m053  1 .v.v6
+m054  1 V/v
+m055  1 v  3.1 v(4)  3.2 v
+m056  1 @none @alt: V/v  2 v  3 v7
+m057  1 V6(4)/VII  2 V6/VII  3.1 V6(9)/VII  3.2 V6/VII
+m058  1 VII(9)  2 VII  3 V64/IV @alt: #iv%2/VII
+m059  1 V6(4)/VII  2 V6/VII  3.1 V6(9)/VII  3.2 V6/VII
+m060  1 VII(9)  2 VII  3 V64/IV @alt: #iv%2/VII
+m061  1 .I.I(7)  2 IV64
+m062  1 V(6)  2 V
+m063  1 I(7)  2 IV64
+m064  1 V(6)  2 V
+m065  1 I64  3 V6
+m066  1 I64  3 V64
+m067  1 I64  3 V64
+m068  1 I64  3 V7
+m069  1 I\\ @cadence: PAC  2 IM7  3 I''IV
+m070  1 I  2 IM43  3 V9(4) @alt: I64''IV
+m071  1 I  2 IM43  3 V9(4) @alt: I64''IV
+m072  1 I64  3 vi2
+m073  1 V  2 V43  3 V64''I
+m074  1 V  2 V43  3 V64''I
+m075  1 V  2 ii  3 V64''iii
+m076  1 I(9)  2 ii7  3 I6\\ @cadence: IAC
+m077  1 V  2 ii64(4)  3 I
+m078  1 V6  2 I  3 I6
+m079  1 V6/ii  2 ii(24) @alt: ii''V7/ii  3 ii
+m080  1 V43/ii  2 ii  3 ii64
+m081  1 I6 @alt: V65/IV  2 IV(24) @alt: IV''V7/IV  3 IV
+m082  1 V43/IV  2 IV6
+m083  1 V2/IV  2 ii64(4)/IV  3 iii6/IV
+m084  1 ii64(4)/IV  2.2 V/IV  3 iii43/IV
+m085  1 IV(24) @alt: I''IV  3 IV
+m086  1 IV(24) @alt: I''IV  3 IV
+m087  1 IV(24) @alt: I''IV  3 IV
+m088  1 IV(24) @alt: I''IV  3 IV @alt: ii65
+m089  1 V  2 V9(4) @alt: V''ii7  3 V(6) @alt: iii6
+m090  1 V  2 V9(4) @alt: V''ii7  3 V(6) @alt: iii6
+m091  1 V  2 V9(4) @alt: V''ii7  3 V(6) @alt: iii6
+m092  1 I(9)  2 I''ii7  3 I\\ @cadence: IAC
+
+@form: C
+m093  1 I  3 I(24) @alt: I''IV
+m094  1 I''ii @alt: ii2  2 I(24) @alt: I''IV  3 I
+m095  1 I(4)  2 IV64(6) @alt: I''ii7
+m096  1 ii2 @alt: I''ii7  2 ii2(9)  3 I''V7
+m097  1 I\\ @cadence: IAX  2 I(4)  3 I(9)
+m098  1 IV6  2.2 IV  3 I64
+m099  1 IV  2 ii7 @alt: I(9)  3 IV
+m100  1 IV @alt: ii7  2 I6  3 V43(4)
+m101  1 I  2.2 I6  3 V43(4)
+m102  1 I  2.2 I6  3 V43(4)
+m103  1 I  2.2 I6  3 V43
+m104  1 I  2.2 I6  3 V43
+m105  1 I  3 V
+m106  1 I  3 V
+m107  1 .i.i  3 V
+m108  1 i  3 V
+
+@form: A
+m109  1 i  2 i7  3 i(#6) @alt: #vio6
+m110  1 i6(9)  2.2 i6  3 i6(#6) @alt: #vio%43
+m111  1 v
+m112  1 III6  2 III  3 III6
+m113  1 i
+m114  1 v
+m115  1 i  2.2 i64  3 i
+m116  1 i  2.2 i(4)  3 iio6
+m117  1 i  2.2 i7  3 i(#6) @alt: #vi%65
+m118  1 i(4)  2 i  3 i''ii @alt: ii2
+m119  1 i  2.2 i7  3 i(#6) @alt: #vi%65
+m120  1 i6  2.2 III  3 i6 @alt: III
+m121  1 ii7(4)
+m122  1 i43
+m123  1 IV  2 ii7  3 v6 @alt: V(6)/III
+m124  1 III
+m125  1 ii7(4)  2.2 VIIM7(9)  3 III6
+m126  1 i  3 v7
+m127  1 i  3 v7
+m128  1 i  3 v7
+m129  1 i @alt: i(9)  3 v
+m130  1 i  3 v7(#9) @alt: v''IV
+m131  1 i @alt: i(24)  3 v7(#9) @alt: v''IV
+m132  1 i @alt: i(24)  3 v7(#9) @alt: v''IV
+m133  1 i  2 i(#6) @alt: #vi%65  3 i
+m134  1 i
+m135  1 i
+m136  1 i64  3 i
+m137  1 @none  2.2 III @alt: i65  3 i64
+m138  1 @none  2.2 i64  3 i
+m139  1 @none  2.2 i2  3 i6
+m140  1 i6
+m141  1 i
+m142  1 i

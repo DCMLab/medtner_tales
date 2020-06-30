@@ -1,0 +1,82 @@
+@piece: op.26_no.2
+# Nikolai Medtner: Skazka in E flat major, op. 26 No. 2 (1912)
+# Annotator: Wendelin Bitzan
+
+@meter: 2/4
+@tempo: Molto vivace
+@length: 65
+@key: Eb
+
+
+@form: A
+m001  1 .Eb.I  2.1 IM2  2.2 vi7
+m002  1.1 I64  1.2 @none @alt: vi  2.1 I64  2.2 @none @alt: IVM7
+m003  1.1 I6  1.2 IV64  2.1 I  2.2 IV
+m004  1.1 I6  1.2 IV64  2.1 I  2.2 vi
+m005  1 vi  2 ii7
+m006  1.1 ii7  1.2 V7  2 V9
+m007  1 I  2.2 V7/V
+m008  1.1 V7(46) @alt: V7''I  1.2 V''IVM7 @alt: V9(46)  2.2 V9
+m009  1 I\\ @cadence: PAC  2.1 IM2  2.2 vi7
+m010  1.1 I64  1.2 @none @alt: vi  2.1 I64  2.2 @none @alt: IVM7 
+m011  1.1 I6  1.2 IV64  2.1 I  2.2 IV
+m012  1.1 I6  1.2 IV64  2.1 I  2.2 vi 
+m013  1.1 vi  1.2 ii7(9)  2.2 V9(6)
+m014  1.1 V9(6)  1.2 I  2.2 #iv%7
+m015  1.1 #iv%7  1.2 #iv%7 @alt: ii%7/iii
+m016  1.1 @none @alt: ii%65/iii  1.2 V7/iii  2.1 iii\\ @cadence: PAC  2.2 @none
+
+@form: B
+m017  1 .iii.@none @alt: i  2.2 iv7
+m018  1 #viio7
+m019  1.1 @none @alt: #iii64  1.2 @none @alt: i64  2.2 iv2
+m020  1 #viio65  2.1 #viio2  2.2 #viio43
+m021  1.1 @none @alt: #iii  1.2 @none @alt: i6  2.1 ii(4)/III @alt: iv(4)  2.2 ii/III @alt: iv
+m022  1.1 V(4)/III  1.2 V/III  2.1 III(4)  2.2 III
+m023  1.1 VI(4)  1.2 VIM7  2 vi @alt: VIM65
+m024  1.1 @none  1.2 V7/V  2 V\\ @cadence: PAC  2.2 @none
+m025  1 @none @alt: V  2.2 ii%7/v @alt: #viio43(4)/#iii
+m026  1 #viio7/#iii
+m027  1.1 @none @alt: vi6  1.2 @none @alt: III64  2.2 #viio65/iv
+m028  1 .vi.#viio65  2.1 #viio2  2.2 #viio43
+m029  1.1 @none @alt: #iii64  1.2 @none @alt: i6  2.1 ii(4)/III  2.2 ii/III
+m030  1.1 V(6)/III  1.2 V9/III  2.1 III(4)  2.2 III
+m031  1.1 VI(4)  1.2 VI  2.1 III6  2.2 iv7 @alt: ii7/III
+m032  1.1 VI64  1.2 ii%7  2.1 i  2.2 VI @alt: iv6
+m033  1.1 V\\ @cadence: HC  1.2 i6  2.1 iv7  2.2 i64
+m034  1 VI
+m035  1.1 VI(4) @alt: ii%43  1.2 VI  2.2 iv6
+m036  1 V\\ @cadence: HC
+m037  1.1 i6  1.2 iv7  2.1 Ger6  2.2 i64
+m038  1 VI
+m039  1.1 VI(4) @alt: ii%43  1.2 VI  2.2 iv6
+m040  1 III6  2 #iv%7/III
+
+@form: A
+m041  1.1 .I.V @alt: I64  1.2 I  2.1 IM2  2.2 vi7
+m042  1.1 I64  1.2 @none @alt: vi  2.1 I64  2.2 @none @alt: IVM7
+m043  1.1 I6  1.2 V7(4)  2.1 I64  2.2 IV
+m044  1.1 I6  1.2 IV64  2.1 I  2.2 I64
+m045  1 I64  2.1 V7  2.2 V7 @alt: V9
+m046  1.1 V9  1.2 #viio43/ii
+m047  1 V''ii @alt: V9  2.2 V''iv
+m048  1 V''iv  2 V7
+
+@form: B
+m049  1 I\\ @cadence: IAC  2 IVM7
+m050  1.1 vii%7(4)  1.2 vii%7  2 V9
+m051  1.1 @none @alt: IV(4)  1.2 IVM7  2.1 I64 @alt: vi2  2.2 III+6
+m052  1.1 IV6 @alt: ii43  1.2 IVM7  2.1 I64 @alt: vi2  2.2 III+6
+m053  1.1 IV6 @alt: ii43  2 ii43 @alt: vi64
+m054  1 ii43 @alt: vi64  2.1 @none @alt: ii  2.2 V9(6)
+m055  1.1 I\\ @cadence: PAC  1.2 @none  2.1 @none @alt: V7/IV  2.2 bVII6 @alt: V7/IV
+m056  1 v @alt: V43/IV  2.2 V9(6)
+m057  1.1 I\\ @cadence: PAC  1.2 @none  2.1 @none @alt: V7/IV  2.2 #IV6 
+m058  1.1 #IV6  1.2 #IV64  2 V2/VII
+m059  1 V2/VII  2.2 V9(6)
+m060  1.1 I\\ @cadence: PAC  1.2 V7/#IV  2.1 #IV  2.2 V7(6)
+m061  1.1 I  1.1 V7/#IV  2.1 #IV  2.2 @none
+m062  1 @none  2.1 V(6) @alt: iii6  2.2 @none
+m063  1.1 I  1.2 IM2  2.1 V2/IV  2.2 IVM65
+m064  1.1 @none @alt: bVI+  1.1 IV  2.1 i6  2.2 V7/V @alt: Fr6(7)/iv
+m065  1 I
