@@ -1,0 +1,25 @@
+Attempting to parse op26n04.mscx
+Doublings: mc  onset
+41  0                  V
+    0                V64
+42  0                IM7
+    0                 V6
+43  0                IM7
+    0                 V6
+44  0                 i6
+    0                V\\
+45  0              V6(4)
+    0                 V2
+50  0              iii64
+    0             V65/vi
+51  0           ii43/vii
+    0             V65/vi
+52  0         V65(b3)/vi
+    0        v.#viio65/v
+54  0               ii64
+    0               V2/v
+Name: chords, dtype: object
+Done parsing op26n04.mscx
+
+Failed to expand labels due to syntactic errors:
+'float' object is not iterable

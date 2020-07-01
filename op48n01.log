@@ -1,0 +1,18 @@
+Attempting to parse op48n01.mscx
+Done parsing op48n01.mscx
+
+Failed to expand labels due to syntactic errors:
+7 organ points started, 3 ended! Beginnings:
+149      I
+187      I
+581    bII
+585      V
+586    III
+587     VI
+703      I
+Name: pedal, dtype: object
+Endings:
+170    ]
+207    ]
+723    ]
+Name: pedalend, dtype: object

@@ -1,0 +1,5 @@
+Attempting to parse op35n04.mscx
+Done parsing op35n04.mscx
+
+Failed to expand labels due to syntactic errors:
+ii%(b3)/iv: % requires figbass since it specifies a chord's seventh.
