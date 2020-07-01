@@ -1,5 +1,47 @@
 Attempting to parse op35n04.mscx
 Done parsing op35n04.mscx
 
+The following chords could not be parsed:
+      mc   mn onset      label
+ix                            
+79    20   20   1/8     V9/III
+139   35   35     0     V9/bII
+140   35   35   1/2  V9(6)/bII
+141   35   35   7/8     V9/bII
+151   39   39     0     V9/VII
+152   39   39   1/2  V9(6)/VII
+153   39   39   7/8     V9/VII
+160   43   43     0     V9/bII
+162   45   45     0     V9/bII
+168   48   48     0     .bvii7
+172   49   49     0       .bv7
+180   51   51     0      .bv.i
+219   60   60     0  .Ger6/iii
+220   60   60   1/4  .bV64(#4)
+221   60   60   3/8      .bV64
+222   60   60   1/2     .biM65
+224   60   60   7/8   .Fr6/VII
+227   62   62     0  .Ger6/iii
+228   62   62   1/4  .bV64(#4)
+229   62   62   3/8      .bV64
+230   62   62   1/2     .biM65
+232   62   62   7/8   .Fr6/VII
+235   64   64     0  .Ger6/iii
+237   64   64   3/8  .bvi7/iii
+238   64   64   1/2       .Fr6
+240   64   64   7/8   .Fr6/#iv
+243   65   65   1/4   .Fr6/iii
+246   65   65   3/4    .Fr6/bV
+249   66   66   1/4   .Fr6/#vi
+336   88   88     0  V9(6)/III
+337   88   88   1/4     V9/III
+340   88   88   7/8     V9/III
+352   91   91   1/2     V9/III
+353   91   91   3/4  V9(4)/III
+362   94   94     0    .bII(9)
+382  100  100   1/4   .bII6/iv
+401  105  105     0   V9(6)/VI
+408  107  107     0  V9(6)/VII
+433  114  114   1/2      .Ger6
 Failed to expand labels due to syntactic errors:
-ii%(b3)/iv: % requires figbass since it specifies a chord's seventh.
+repl_spec() missing 1 required positional argument: 'special'

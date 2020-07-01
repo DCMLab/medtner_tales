@@ -1,18 +1,20 @@
 Attempting to parse op48n01.mscx
 Done parsing op48n01.mscx
 
+The following chords could not be parsed:
+       mc   mn onset       label
+43     21   20  3/16      V9/iii
+107    52   51   1/4     .bIII64
+108    53   52     0       .bIII
+111    55   54     0    .bII6(4)
+112    55   54   1/8       .bII6
+...   ...  ...   ...         ...
+938   517  516   1/8       .bII6
+941   518  517   1/4       .Ger6
+981   539  538   1/8  .Ger6/bVII
+1003  548  547   1/4    .Ger6/iv
+1010  552  551     0       .Ger6
+
+[105 rows x 4 columns]
 Failed to expand labels due to syntactic errors:
-7 organ points started, 3 ended! Beginnings:
-149      I
-187      I
-581    bII
-585      V
-586    III
-587     VI
-703      I
-Name: pedal, dtype: object
-Endings:
-170    ]
-207    ]
-723    ]
-Name: pedalend, dtype: object
+repl_spec() missing 1 required positional argument: 'special'

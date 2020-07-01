@@ -1,5 +1,21 @@
 Attempting to parse op35n02.mscx
 Done parsing op35n02.mscx
 
+The following chords could not be parsed:
+      mc   mn onset          label
+51    14   13   1/4          .bII6
+260   77   75     0      .Ger6(b8)
+261   77   75   1/8          .Ger6
+274   84   82     0       .bVII.V9
+285   97   95     0  .Ger6(#4)/III
+286   97   95   1/8      .Ger6/III
+315  112  110   1/8            .bI
+317  114  112     0           .bI6
+318  114  112   1/8         .bI(9)
+321  115  113     0       .bVI/III
+345  122  120  7/16          .bIII
+349  123  121  7/16         .bVII6
+362  129  127  1/16           .bII
+376  137  135     0           .It6
 Failed to expand labels due to syntactic errors:
-'float' object is not iterable
+repl_spec() missing 1 required positional argument: 'special'
