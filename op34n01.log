@@ -1,20 +1,41 @@
-Attempting to parse op34n01.mscx
-Done parsing op34n01.mscx
+INFO     op34n01.ms3 -- Attempting to parse op34n01.mscx
+WARNING  op34n01.ms3 -- Event 1209 in MC 222 has has duration 1/4 and starts on 1, surpassing the measure length of 1
+INFO     op34n01.ms3 -- Done parsing op34n01.mscx
 
-The following chords could not be parsed:
-      mc   mn onset       label
-5      3    3     0        .bII
-6      5    5     0  .bII64(+4)
-13     7    7   1/4     @none\\
-18    11   11     0       .bII6
-36    19   19     0       .bII6
-..   ...  ...   ...         ...
-651  227  227   3/8       .bII6
-655  228  228   1/2  .bII64/III
-658  230  230     0    .bII6(4)
-659  230  230   3/8       .bII6
-663  231  231   1/2      .bII64
-
-[134 rows x 4 columns]
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op34n01.expand_labels -- The following chords could not be parsed:
+      mc   mn onset        label
+54    26   26     0           V9
+210   90   90     0       V9/bVI
+214   92   92     0   V9(6)/bIII
+218   94   94     0      V9/bIII
+222   96   96     0   V9(6)/bIII
+223   96   96   1/4      V9/bIII
+227   98   98     0      V9/bIII
+235  102  102     0   V9(6)/bIII
+239  104  104     0   V9(6)/bIII
+416  165  165   1/2     V9/bIII]
+474  181  181     0  V9(b6)/bIII
+513  190  190   1/2        V9/bv
+ERROR    op34n01 -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 452, in __init__
+    df = self.propagate_pedal(df, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 776, in propagate_pedal
+    assert n_b == n_e, f"{n_b} organ points started, {n_e} ended! Beginnings:\n{beginnings}\nEndings:\n{endings}"
+AssertionError: 6 organ points started, 5 ended! Beginnings:
+413       V
+421       V
+439    bIII
+443    bIII
+507       V
+635      VI
+Name: pedal, dtype: object
+Endings:
+422    ]
+441    ]
+445    ]
+509    ]
+639    ]
+Name: pedalend, dtype: object

@@ -1,11 +1,7 @@
-Attempting to parse op34n04.mscx
-Done parsing op34n04.mscx
+INFO     op34n04.ms3 -- Attempting to parse op34n04.mscx
+INFO     op34n04.ms3 -- Done parsing op34n04.mscx
 
-The following chords could not be parsed:
-     mc  mn onset         label
-103  18  18   3/8            V9
-113  21  21     0       .bII.I6
-151  26  26   7/8  .It6(b6)/vii
-161  28  28   1/4      .Ger6(7)
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op34n04.expand_labels -- The following chords could not be parsed:
+     mc  mn onset label
+103  18  18   3/8    V9
+WARNING  op34n04.expand_labels -- In seventh chords, such as viio65(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.

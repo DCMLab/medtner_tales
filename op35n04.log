@@ -1,7 +1,7 @@
-Attempting to parse op35n04.mscx
-Done parsing op35n04.mscx
+INFO     op35n04.ms3 -- Attempting to parse op35n04.mscx
+INFO     op35n04.ms3 -- Done parsing op35n04.mscx
 
-The following chords could not be parsed:
+WARNING  op35n04.expand_labels -- The following chords could not be parsed:
       mc   mn onset      label
 ix                            
 79    20   20   1/8     V9/III
@@ -13,35 +13,37 @@ ix
 153   39   39   7/8     V9/VII
 160   43   43     0     V9/bII
 162   45   45     0     V9/bII
-168   48   48     0     .bvii7
-172   49   49     0       .bv7
-180   51   51     0      .bv.i
-219   60   60     0  .Ger6/iii
-220   60   60   1/4  .bV64(#4)
-221   60   60   3/8      .bV64
-222   60   60   1/2     .biM65
-224   60   60   7/8   .Fr6/VII
-227   62   62     0  .Ger6/iii
-228   62   62   1/4  .bV64(#4)
-229   62   62   3/8      .bV64
-230   62   62   1/2     .biM65
-232   62   62   7/8   .Fr6/VII
-235   64   64     0  .Ger6/iii
-237   64   64   3/8  .bvi7/iii
-238   64   64   1/2       .Fr6
-240   64   64   7/8   .Fr6/#iv
-243   65   65   1/4   .Fr6/iii
-246   65   65   3/4    .Fr6/bV
-249   66   66   1/4   .Fr6/#vi
 336   88   88     0  V9(6)/III
 337   88   88   1/4     V9/III
 340   88   88   7/8     V9/III
 352   91   91   1/2     V9/III
 353   91   91   3/4  V9(4)/III
-362   94   94     0    .bII(9)
-382  100  100   1/4   .bII6/iv
 401  105  105     0   V9(6)/VI
 408  107  107     0  V9(6)/VII
-433  114  114   1/2      .Ger6
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+ERROR    op35n04.expand_labels -- % is a seventh chord and cannot have figbass ''
+WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio43 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio43(b4) in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
+ERROR    op35n04 -- Could not expand labels due to errors:
+Traceback (most recent call last):
+  File "parallel_parse.py", line 79, in parse
+    expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 455, in __init__
+    ct = self.compute_chord_tones(df, expand=True, cols=cols)
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 870, in compute_chord_tones
+    result_dict = {t: self.features2tpcs(**{a:b for a, b in zip(param_cols.keys(), t)}, bass_only=bass_only, merge_tones=not expand) for t in set(param_tuples)}
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 870, in <dictcomp>
+    result_dict = {t: self.features2tpcs(**{a:b for a, b in zip(param_cols.keys(), t)}, bass_only=bass_only, merge_tones=not expand) for t in set(param_tuples)}
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 1027, in features2tpcs
+    assert figbass in ['7', '65', '43', '2'], f"{label}: {form} requires figbass since it specifies a chord's seventh."
+AssertionError: ii%(b3)/iv: % requires figbass since it specifies a chord's seventh.

@@ -1,24 +1,12 @@
-Attempting to parse op26n03.mscx
-Done parsing op26n03.mscx
+INFO     op26n03.ms3 -- Attempting to parse op26n03.mscx
+INFO     op26n03.ms3 -- Done parsing op26n03.mscx
 
-The following chords could not be parsed:
-     mc  mn onset     label
-ix                         
-12    8   8   1/2  .Fr6/bII
-22   14  14     0  .bII6(4)
-23   14  14   1/4  .bII(49)
-24   14  14   5/8      .bII
-54   30  30     0    V9/III
-56   31  31     0    V9/III
-58   32  32     0    V9/III
-60   33  33     0    V9/III
-62   34  34     0    V9/III
-67   36  36   1/4    V9/III
-88   47  47     0  .Fr6/vii
-94   51  51     0  .Fr6/vii
-115  62  62   1/2  .Fr6/bII
-123  68  68     0  .bII6(4)
-124  68  68   1/4  .bII(94)
-125  68  68   5/8      .bII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op26n03.expand_labels -- The following chords could not be parsed:
+    mc  mn onset   label
+ix                      
+54  30  30     0  V9/III
+56  31  31     0  V9/III
+58  32  32     0  V9/III
+60  33  33     0  V9/III
+62  34  34     0  V9/III
+67  36  36   1/4  V9/III

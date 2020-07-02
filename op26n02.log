@@ -1,10 +1,3 @@
-Attempting to parse op26n02.mscx
-Done parsing op26n02.mscx
+INFO     op26n02.ms3 -- Attempting to parse op26n02.mscx
+INFO     op26n02.ms3 -- Done parsing op26n02.mscx
 
-The following chords could not be parsed:
-     mc  mn onset  label
-ix                      
-104  37  37   1/4  .Ger6
-151  55  55   1/4  .bVII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

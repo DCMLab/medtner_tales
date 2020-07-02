@@ -1,28 +1,8 @@
-Attempting to parse op08n01.mscx
-Done parsing op08n01.mscx
+INFO     op08n01.ms3 -- Attempting to parse op08n01.mscx
+INFO     op08n01.ms3 -- Done parsing op08n01.mscx
 
-The following chords could not be parsed:
-     mc  mn onset      label
-44   17  17   1/4  .bVI+/III
-48   18  18   3/8       .bII
-53   19  19   3/8      .Ger6
-125  41  41   3/8       .It6
-131  43  43   3/8       .It6
-142  46  46   1/4     .Fr6/v
-150  48  48   1/4     .Fr6/v
-156  51  51     0   .bII6/iv
-157  51  51   3/8       .Fr6
-182  59  59   1/4  .bII64(9)
-183  59  59  5/16   .bII(#4)
-185  59  59  7/16       .bII
-187  60  60  3/16       .bII
-197  63  63   3/8     V9/III
-200  65  65     0      .bII6
-201  65  65   1/4      V9/VI
-215  71  71     0  .bII6/vii
-216  71  71   3/8    .Fr6/iv
-220  73  73     0       .bII
-221  73  73   3/8    .Fr6/iv
-225  75  75     0       .bII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op08n01.expand_labels -- The following chords could not be parsed:
+     mc  mn onset   label
+197  63  63   3/8  V9/III
+201  65  65   1/4   V9/VI
+WARNING  op08n01.expand_labels -- #viio43 in major context is most probably an annotation error.

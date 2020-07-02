@@ -1,7 +1,7 @@
-Attempting to parse op42n03.mscx
-Done parsing op42n03.mscx
+INFO     op42n03.ms3 -- Attempting to parse op42n03.mscx
+INFO     op42n03.ms3 -- Done parsing op42n03.mscx
 
-The following chords could not be parsed:
+WARNING  op42n03.expand_labels -- The following chords could not be parsed:
       mc   mn onset       label
 31    16   15   3/8      V9/III
 49    21   20     0   V9(4)/III
@@ -12,13 +12,6 @@ The following chords could not be parsed:
 68    27   26   1/8       V9/iv
 94    35   34   3/8      V9/III
 100   37   36   3/8      V9/III
-111   42   41     0         .bV
-113   43   42     0        .bi6
-116   44   43   3/8      .bii64
-118   45   44   3/8      .bii64
-121   47   46     0       .bii6
-124   48   47   3/8  .biii64(4)
-127   50   49     0      .biii6
 171   71   70     0      V9/VII
 172   71   70   1/4   V9(4)/VII
 181   74   73   3/8          V9
@@ -31,7 +24,6 @@ The following chords could not be parsed:
 254   94   93   5/8       V9/ii
 268   97   96   5/8       V9/ii
 272   98   97   5/8       V9/ii
-282  101  100     0      .bVI.I
 286  101  100   1/2          V9
 292  102  101   1/2          V9
 298  103  102   1/2          V9
@@ -40,15 +32,6 @@ The following chords could not be parsed:
 357  123  122   1/4   V9(6)/#IV
 364  125  124     0   V9(b5)/ii
 365  125  124   1/4       V9/ii
-369  126  125   1/8      .bVI+6
-370  126  125   1/4      .Fr6/V
-372  126  125   5/8   .Fr6(9)/V
-374  127  126   1/8      .bVI+6
-375  127  126   1/4      .Fr6/V
-377  127  126   5/8   .Fr6(9)/V
-379  128  127   1/8     .bVIM43
-382  128  127   5/8   .Fr6(9)/V
-386  129  128   3/8     .Fr6/IV
 402  133  132     0          V9
 478  158  157   3/8      V9/VII
 479  159  158     0          V9
@@ -61,5 +44,3 @@ The following chords could not be parsed:
 507  169  168   1/2      V9/VII
 508  169  168   5/8  V9(+4)/VII
 509  170  169     0      V9/VII
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'

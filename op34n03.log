@@ -1,21 +1,36 @@
-Attempting to parse op34n03.mscx
-Done parsing op34n03.mscx
+INFO     op34n03.ms3 -- Attempting to parse op34n03.mscx
+INFO     op34n03.ms3 -- Done parsing op34n03.mscx
 
-The following chords could not be parsed:
-      mc   mn onset     label
-ix                           
-4      2    2   1/4        V9
-7      4    4     0      V9\\
-11     5    5   1/4  .bII6/iv
-29    10   10   3/8     .Fr6]
-35    12   12   1/8    .bII64
-..   ...  ...   ...       ...
-394  137  137     0     .bII6
-395  137  137   1/8       .bV
-397  137  137   3/8   .Fr6/iv
-399  138  138   1/8      .bII
-400  138  138   1/4     .bVM7
-
-[71 rows x 4 columns]
-Failed to expand labels due to syntactic errors:
-repl_spec() missing 1 required positional argument: 'special'
+WARNING  op34n03.expand_labels -- The following chords could not be parsed:
+      mc   mn onset    label
+ix                          
+4      2    2   1/4       V9
+7      4    4     0     V9\\
+52    18   18   1/4       V9
+55    20   20     0     V9\\
+100   33   33   1/8       V9
+102   34   34     0       V9
+108   36   36     0    V9/iv
+111   37   37   1/8    V9/iv
+113   38   38     0    V9/iv
+118   39   39   1/4       V9
+121   41   41     0     V9/v
+127   43   43     0     V9/v
+159   53   53     0    V9/bI
+161   54   54     0    V9/bI
+164   55   55   1/8    V9/bI
+167   56   56   1/8    V9/bI
+169   57   57     0  V9/bVII
+171   58   58     0  V9/bVII
+174   59   59   1/8  V9/bVII
+177   60   60   1/8  V9/bVII
+189   66   66   1/8       V9
+191   67   67     0       V9
+197   69   69     0    V9/iv
+199   70   70     0    V9/iv
+227   82   82     0    V9/iv
+271   95   95     0     V9/v
+295  101  101     0       V[
+317  108  108   1/4       V9
+320  109  109   1/4       V9
+323  113  113     0     V9\\
