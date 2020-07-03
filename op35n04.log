@@ -21,29 +21,18 @@ ix
 401  105  105     0   V9(6)/VI
 408  107  107     0  V9(6)/VII
 ERROR    op35n04.expand_labels -- % is a seventh chord and cannot have figbass ''
-WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio43 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio43(b4) in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio2 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- #vii%43 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- MC 47: #viio2 in major context is most probably an annotation error.
+WARNING  op35n04.expand_labels -- MC 100: #viio2 in major context is most probably an annotation error.
 ERROR    op35n04 -- Could not expand labels due to errors:
 Traceback (most recent call last):
   File "parallel_parse.py", line 79, in parse
     expanded = expand_labels(chord_list, column='label', regex=REGEX, chord_tones=True, groupby=None, logger_name=S.fname).df
   File "/home/hentsche/corpora/scripts/expand_labels.py", line 455, in __init__
     ct = self.compute_chord_tones(df, expand=True, cols=cols)
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 870, in compute_chord_tones
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 871, in compute_chord_tones
     result_dict = {t: self.features2tpcs(**{a:b for a, b in zip(param_cols.keys(), t)}, bass_only=bass_only, merge_tones=not expand) for t in set(param_tuples)}
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 870, in <dictcomp>
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 871, in <dictcomp>
     result_dict = {t: self.features2tpcs(**{a:b for a, b in zip(param_cols.keys(), t)}, bass_only=bass_only, merge_tones=not expand) for t in set(param_tuples)}
-  File "/home/hentsche/corpora/scripts/expand_labels.py", line 1027, in features2tpcs
+  File "/home/hentsche/corpora/scripts/expand_labels.py", line 1030, in features2tpcs
     assert figbass in ['7', '65', '43', '2'], f"{label}: {form} requires figbass since it specifies a chord's seventh."
 AssertionError: ii%(b3)/iv: % requires figbass since it specifies a chord's seventh.

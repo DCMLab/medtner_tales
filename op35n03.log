@@ -9,4 +9,4 @@ WARNING  op35n03.expand_labels -- The following chords could not be parsed:
 59   19  19   3/4      V9/III
 130  40  40     0  VI+M7(119)
 134  42  42     0  VI+M7(119)
-WARNING  op35n03.expand_labels -- #viio43 in major context is most probably an annotation error.
+WARNING  op35n03.expand_labels -- MC 56: #viio43 in major context is most probably an annotation error.
