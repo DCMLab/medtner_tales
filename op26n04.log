@@ -25,9 +25,9 @@ WARNING  op26n04.expand_labels -- The following chords could not be parsed:
      mc  mn onset  label
 ix                      
 170  60  59   1/2  VI+M7
-WARNING  op26n04.expand_labels -- MC 18: #viio2 in major context is most probably an annotation error.
-WARNING  op26n04.expand_labels -- MC 16: #viio2 in major context is most probably an annotation error.
-WARNING  op26n04.expand_labels -- MC 19: #viio in major context is most probably an annotation error.
-WARNING  op26n04.expand_labels -- MC 20: #viio2 in major context is most probably an annotation error.
 WARNING  op26n04.expand_labels -- MC 17: #viio2 in major context is most probably an annotation error.
 WARNING  op26n04.expand_labels -- MC 21: #viio2 in major context is most probably an annotation error.
+WARNING  op26n04.expand_labels -- MC 19: #viio in major context is most probably an annotation error.
+WARNING  op26n04.expand_labels -- MC 16: #viio2 in major context is most probably an annotation error.
+WARNING  op26n04.expand_labels -- MC 18: #viio2 in major context is most probably an annotation error.
+WARNING  op26n04.expand_labels -- MC 20: #viio2 in major context is most probably an annotation error.
