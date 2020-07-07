@@ -1,34 +1,7 @@
 INFO     op35n04.ms3 -- Attempting to parse op35n04.mscx
 INFO     op35n04.ms3 -- Done parsing op35n04.mscx
 
-WARNING  op35n04.expand_labels -- The following chords could not be parsed:
-      mc   mn onset      label
-ix                            
-79    20   20   1/8     V9/III
-139   35   35     0     V9/bII
-140   35   35   1/2  V9(6)/bII
-141   35   35   7/8     V9/bII
-151   39   39     0     V9/VII
-152   39   39   1/2  V9(6)/VII
-153   39   39   7/8     V9/VII
-160   43   43     0     V9/bII
-162   45   45     0     V9/bII
-336   88   88     0  V9(6)/III
-337   88   88   1/4     V9/III
-340   88   88   7/8     V9/III
-352   91   91   1/2     V9/III
-353   91   91   3/4  V9(4)/III
-401  105  105     0   V9(6)/VI
-408  107  107     0  V9(6)/VII
 ERROR    op35n04.expand_labels -- % is a seventh chord and cannot have figbass ''
-WARNING  op35n04.expand_labels -- MC 50: #vii%43 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 49: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 47: #viio2 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 104: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 50: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 48: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 47: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 50: #viio2 in major context is most probably an annotation error.
 ERROR    op35n04 -- Could not expand labels due to errors:
 Traceback (most recent call last):
   File "scripts/parallel_parse.py", line 79, in parse

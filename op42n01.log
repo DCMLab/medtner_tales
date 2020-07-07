@@ -1,12 +1,2 @@
 INFO     op42n01.ms3 -- Attempting to parse op42n01.mscx
-ERROR    op42n01.ms3 -- Score contains ambiguous barnumbers at measure count 33, possibly caused by MuseScore's 'Add to bar number' or 'Section break' function.
 INFO     op42n01.ms3 -- Done parsing op42n01.mscx
-
-WARNING  op42n01.expand_labels -- The following chords could not be parsed:
-      mc   mn onset   label
-14     5    5     0      V9
-34    10   10   3/4    V9/v
-235   60   58     0      V9
-394  100   98     0      V9
-426  114  112   3/8  V9/III
-442  118  116   3/4  V9/III

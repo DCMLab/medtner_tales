@@ -489,6 +489,7 @@ I</text>
             <actualNotes>5</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -844,7 +845,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -905,7 +906,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>i64(69)</name>
+            <name>i64(96)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1398,6 +1399,7 @@ I</text>
             <actualNotes>7</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>7</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1707,7 +1709,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/v</name>
+            <name>V7(9)/v</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -1730,6 +1732,7 @@ I</text>
             <actualNotes>7</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>7</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4549,7 +4552,6 @@ I</text>
         </Measure>
       <Measure>
         <irregular>1</irregular>
-        <noOffset>-1</noOffset>
         <voice>
           <Harmony>
             <name>V64</name>
@@ -11978,6 +11980,7 @@ I</text>
             <actualNotes>5</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -12258,7 +12261,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -14230,6 +14233,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14348,6 +14352,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14420,6 +14425,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15173,6 +15179,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15331,6 +15338,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15400,6 +15408,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15600,6 +15609,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15669,6 +15679,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16501,6 +16512,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16650,6 +16662,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16719,6 +16732,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16911,6 +16925,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16980,6 +16995,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -17923,6 +17939,7 @@ I</text>
             <actualNotes>5</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18214,7 +18231,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -19331,7 +19348,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19748,6 +19765,13 @@ I</text>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -19755,13 +19779,6 @@ I</text>
                   <measures>2</measures>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Note>
               <pitch>70</pitch>
@@ -19806,7 +19823,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21368,6 +21385,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -21524,6 +21542,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -21602,6 +21621,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -21759,6 +21779,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -21828,6 +21849,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32159,6 +32181,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32230,6 +32253,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32362,6 +32386,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32429,6 +32454,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32527,6 +32553,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32594,6 +32621,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32692,6 +32720,7 @@ I</text>
             <actualNotes>6</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>6</text>
               </Number>
             <bracketType>1</bracketType>
@@ -32759,6 +32788,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>

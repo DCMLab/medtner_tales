@@ -1,7 +1,4 @@
 INFO     op34n04.ms3 -- Attempting to parse op34n04.mscx
 INFO     op34n04.ms3 -- Done parsing op34n04.mscx
 
-WARNING  op34n04.expand_labels -- The following chords could not be parsed:
-     mc  mn onset label
-103  18  18   3/8    V9
 WARNING  op34n04.expand_labels -- MC 28: In seventh chords, such as viio65(7b3), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.

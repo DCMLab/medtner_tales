@@ -3695,6 +3695,15 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
                 <SlurSegment no="0">
                   <o4 x="-0.0398843" y="0.0398843"/>
                   <offset x="0" y="-0.7"/>
@@ -3703,15 +3712,6 @@
               <next>
                 <location>
                   <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -4511,6 +4511,15 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
                 <SlurSegment no="0">
                   <offset x="0" y="-0.7"/>
                   </SlurSegment>
@@ -4518,15 +4527,6 @@
               <next>
                 <location>
                   <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -4625,7 +4625,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/4</fractions>
+                  <fractions>1/8</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -4634,7 +4634,7 @@
                 </Slur>
               <next>
                 <location>
-                  <fractions>1/8</fractions>
+                  <fractions>1/4</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -7300,7 +7300,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio43/III</name>
+            <name>viio43/III</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Chord>
@@ -7700,7 +7700,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio43/III</name>
+            <name>viio43/III</name>
             <offset x="0" y="-8"/>
             </Harmony>
           <Chord>
@@ -9952,7 +9952,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10310,7 +10310,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/VI</name>
+            <name>V(9)/VI</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19598,6 +19598,15 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
                 <SlurSegment no="0">
                   <o4 x="0.107225" y="-0.214449"/>
                   <offset x="0" y="0.5"/>
@@ -19606,15 +19615,6 @@
               <next>
                 <location>
                   <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/16</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -20370,6 +20370,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -20419,6 +20420,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>

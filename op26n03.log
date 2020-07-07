@@ -1,12 +1,2 @@
 INFO     op26n03.ms3 -- Attempting to parse op26n03.mscx
 INFO     op26n03.ms3 -- Done parsing op26n03.mscx
-
-WARNING  op26n03.expand_labels -- The following chords could not be parsed:
-    mc  mn onset   label
-ix                      
-54  30  30     0  V9/III
-56  31  31     0  V9/III
-58  32  32     0  V9/III
-60  33  33     0  V9/III
-62  34  34     0  V9/III
-67  36  36   1/4  V9/III

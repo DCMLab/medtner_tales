@@ -2539,7 +2539,7 @@
             <velocity>112</velocity>
             </Dynamic>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2602,7 +2602,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -2684,7 +2684,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2750,7 +2750,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2828,7 +2828,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>con moto</text>
             </StaffText>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3027,7 +3027,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/III</name>
+            <name>V7(9)/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11006,6 +11006,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11042,6 +11043,7 @@
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>

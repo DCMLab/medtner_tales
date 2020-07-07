@@ -692,6 +692,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -766,6 +767,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -831,6 +833,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1093,7 +1096,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1238,7 +1241,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9(6)</name>
+            <name>V7(96)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2096,7 +2099,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2230,7 +2233,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/iii</name>
+            <name>V7(9)/iii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2338,7 +2341,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/vi</name>
+            <name>V7(9)/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -2538,7 +2541,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>ii9</name>
+            <name>ii(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2586,7 +2589,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3201,8 +3204,6 @@ I</text>
               </Spanner>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               </Note>
@@ -4086,8 +4087,6 @@ I</text>
               </Spanner>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
@@ -7392,6 +7391,21 @@ I</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.4292"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <fractions>1/8</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -7403,21 +7417,6 @@ I</text>
               <location>
                 <measures>1</measures>
                 <fractions>-3/16</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.4292"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <fractions>1/8</fractions>
                 </location>
               </next>
             </Spanner>
@@ -7916,7 +7915,7 @@ I</text>
             <fractions>-1/16</fractions>
             </location>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -8056,7 +8055,7 @@ I</text>
             <fractions>-1/16</fractions>
             </location>
           <Harmony>
-            <name>ii9</name>
+            <name>ii(9)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -8269,7 +8268,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -8432,7 +8431,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9(6)</name>
+            <name>V7(96)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9408,7 +9407,7 @@ I</text>
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9542,7 +9541,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/iii</name>
+            <name>V7(9)/iii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9644,7 +9643,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9/vi</name>
+            <name>V7(9)/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9839,7 +9838,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V9</name>
+            <name>V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9955,7 +9954,7 @@ I</text>
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>V9/V</name>
+            <name>V7(9)/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -11068,6 +11067,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11137,6 +11137,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11199,6 +11200,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11658,6 +11660,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18621,6 +18624,7 @@ I</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>

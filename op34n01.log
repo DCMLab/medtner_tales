@@ -2,20 +2,6 @@ INFO     op34n01.ms3 -- Attempting to parse op34n01.mscx
 WARNING  op34n01.ms3 -- Event 1209 in MC 222 has has duration 1/4 and starts on 1, surpassing the measure length of 1
 INFO     op34n01.ms3 -- Done parsing op34n01.mscx
 
-WARNING  op34n01.expand_labels -- The following chords could not be parsed:
-      mc   mn onset        label
-54    26   26     0           V9
-210   90   90     0       V9/bVI
-214   92   92     0   V9(6)/bIII
-218   94   94     0      V9/bIII
-222   96   96     0   V9(6)/bIII
-223   96   96   1/4      V9/bIII
-227   98   98     0      V9/bIII
-235  102  102     0   V9(6)/bIII
-239  104  104     0   V9(6)/bIII
-416  165  165   1/2     V9/bIII]
-474  181  181     0  V9(b6)/bIII
-513  190  190   1/2        V9/bv
 ERROR    op34n01 -- Could not expand labels due to errors:
 Traceback (most recent call last):
   File "scripts/parallel_parse.py", line 79, in parse

@@ -1,8 +1,2 @@
 INFO     op34n02.ms3 -- Attempting to parse op34n02.mscx
 INFO     op34n02.ms3 -- Done parsing op34n02.mscx
-
-WARNING  op34n02.expand_labels -- The following chords could not be parsed:
-     mc  mn onset   label
-ix                       
-28    8   8   3/8  V9/III
-144  34  34   3/8  V9/III

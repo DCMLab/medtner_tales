@@ -1,6 +1,2 @@
 INFO     op35n02.ms3 -- Attempting to parse op35n02.mscx
 INFO     op35n02.ms3 -- Done parsing op35n02.mscx
-
-WARNING  op35n02.expand_labels -- The following chords could not be parsed:
-     mc  mn onset     label
-274  84  82     0  .bVII.V9
