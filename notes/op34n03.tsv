@@ -496,7 +496,7 @@ mc	mn	onset	duration	gracenote	nominal_duration	scalar	tied	tpc	midi	staff	voice
 36	36	1/8	1/16		1/16	1		2	74	1	1	
 36	36	3/16	1/16		1/16	1		2	62	2	1	
 36	36	3/16	1/16		1/16	1		5	71	1	1	
-36	36	1/4	0	acciaccatura	1/8	1	0	7	61	2	1	
+36	36	1/4	0	acciaccatura	1/8	1		7	61	2	1	
 36	36	1/4	1/4		1/4	1	1	6	54	2	2	
 36	36	1/4	1/8		1/8	1		7	61	2	1	
 36	36	1/4	1/8		1/8	1		6	66	1	1	
@@ -1708,7 +1708,7 @@ mc	mn	onset	duration	gracenote	nominal_duration	scalar	tied	tpc	midi	staff	voice
 116	116	7/16	1/16		1/16	1		4	40	2	1	
 116	116	7/16	1/16		1/16	1		4	52	2	1	
 116	116	7/16	1/16		1/16	1		0	72	1	1	
-117	117	0	0	acciaccatura	1/8	1	0	1	43	2	1	
+117	117	0	0	acciaccatura	1/8	1		1	43	2	1	
 117	117	0	1/8		1/8	1		-1	41	2	1	
 117	117	0	1/8		1/8	1		-1	53	2	1	
 117	117	0	1/16		1/16	1		4	76	1	1	

@@ -1,4 +1,5 @@
 INFO     op35n03.ms3 -- Attempting to parse op35n03.mscx
 WARNING  op35n03.ms3 -- Event 142 in MC 65 has has duration 1/16 and starts on 4201/4480, surpassing the measure length of 1
-WARNING  op35n03.ms3 -- Event 552 in MC 79 has has duration 1/112 and starts on 4441/4480, surpassing the measure length of 1
+WARNING  op35n03.ms3 -- Event 550 in MC 79 has has duration 1/112 and starts on 4441/4480, surpassing the measure length of 1
 INFO     op35n03.ms3 -- Done parsing op35n03.mscx
+
