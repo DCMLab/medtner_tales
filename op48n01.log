@@ -1,12 +1,12 @@
 INFO     op48n01.ms3 -- Attempting to parse op48n01.mscx
 INFO     op48n01.ms3 -- Done parsing op48n01.mscx
 
-WARNING  op48n01.expand_labels -- MC 362: #viio7 in major context is most probably an annotation error.
-WARNING  op48n01.expand_labels -- MC 353: #viio7 in major context is most probably an annotation error.
 WARNING  op48n01.expand_labels -- MC 364: #viio7 in major context is most probably an annotation error.
-WARNING  op48n01.expand_labels -- MC 366: #viio2(4) in major context is most probably an annotation error.
-WARNING  op48n01.expand_labels -- MC 361: #viio7 in major context is most probably an annotation error.
 WARNING  op48n01.expand_labels -- MC 350: #viio2 in major context is most probably an annotation error.
-WARNING  op48n01.expand_labels -- MC 363: #vii%65 in major context is most probably an annotation error.
+WARNING  op48n01.expand_labels -- MC 361: #viio7 in major context is most probably an annotation error.
 WARNING  op48n01.expand_labels -- MC 355: #viio2 in major context is most probably an annotation error.
+WARNING  op48n01.expand_labels -- MC 353: #viio7 in major context is most probably an annotation error.
+WARNING  op48n01.expand_labels -- MC 363: #vii%65 in major context is most probably an annotation error.
 WARNING  op48n01.expand_labels -- MC 363: #viio2 in major context is most probably an annotation error.
+WARNING  op48n01.expand_labels -- MC 362: #viio7 in major context is most probably an annotation error.
+WARNING  op48n01.expand_labels -- MC 366: #viio2(4) in major context is most probably an annotation error.

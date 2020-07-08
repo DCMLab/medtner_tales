@@ -3,5 +3,5 @@ WARNING  op34n01.ms3 -- Event 1209 in MC 222 has has duration 1/4 and starts on 
 INFO     op34n01.ms3 -- Done parsing op34n01.mscx
 
 WARNING  op34n01.expand_labels -- MC 18: #viio7 in major context is most probably an annotation error.
-WARNING  op34n01.expand_labels -- MC 208: The change 5 has no effect in V7
 WARNING  op34n01.expand_labels -- MC 124: #viio7 in major context is most probably an annotation error.
+WARNING  op34n01.expand_labels -- MC 208: The change 5 has no effect in V7
