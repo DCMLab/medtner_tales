@@ -1689,6 +1689,7 @@ I</text>
               </Note>
             </Chord>
           <StaffText>
+            <offset x="-1.32756" y="-8.53593"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>dolce diminuendo</text>
             </StaffText>
           <Chord>
@@ -1700,7 +1701,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/III</name>
+            <name>viio7/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -13876,7 +13877,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/III</name>
+            <name>viio7/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25011,7 +25012,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>.Fr6/iv</name>
+            <name>v%7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25073,7 +25074,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>.Fr6(#5)/iv</name>
+            <name>v%7(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25120,7 +25121,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>.Fr6(5)/iv</name>
+            <name>v%7(b9)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>

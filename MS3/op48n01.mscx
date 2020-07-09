@@ -29532,7 +29532,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/VII</name>
+            <name>viio2/VII</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -30149,7 +30149,7 @@ I</text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>#viio7/VII</name>
+            <name>viio7/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -30872,7 +30872,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/VII</name>
+            <name>viio2/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -32655,7 +32655,7 @@ I</text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>#viio7/III</name>
+            <name>viio7/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -32930,7 +32930,7 @@ I</text>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>#viio7/VI</name>
+            <name>viio7/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -33295,7 +33295,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#vii%65/VII</name>
+            <name>vii%65/VII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -33313,7 +33313,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2/III</name>
+            <name>viio2/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -33552,7 +33552,7 @@ I</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>#viio7/VII</name>
+            <name>viio7/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -34099,7 +34099,7 @@ I</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio2(4)/III</name>
+            <name>viio2(4)/III</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>

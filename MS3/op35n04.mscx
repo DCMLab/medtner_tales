@@ -10106,7 +10106,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>#viio43/VII</name>
+            <name>viio43/VII</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -18400,7 +18400,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>ii%(b3)/iv</name>
+            <name>ii%65(b3)/iv</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
