@@ -1,6 +1,0 @@
-INFO     op35n04.ms3 -- Attempting to parse op35n04.mscx
-INFO     op35n04.ms3 -- Done parsing op35n04.mscx
-
-WARNING  op35n04.expand_labels -- MC 99: #viio43(b4) in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 99: #viio7 in major context is most probably an annotation error.
-WARNING  op35n04.expand_labels -- MC 100: #viio2 in major context is most probably an annotation error.

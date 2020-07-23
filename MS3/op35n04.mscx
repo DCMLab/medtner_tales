@@ -18871,7 +18871,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>#viio43(b4)/VII</name>
+            <name>viio43(b4)/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18894,7 +18894,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio7/VII</name>
+            <name>viio7/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -19171,7 +19171,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>#viio2/VII</name>
+            <name>viio2/VII</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
