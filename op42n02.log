@@ -2,3 +2,17 @@ INFO     op42n02.ms3 -- Attempting to parse op42n02.mscx
 WARNING  op42n02.ms3 -- Event 698 in MC 42 has has duration 3/8 and starts on 3/4, surpassing the measure length of 3/4
 INFO     op42n02.ms3 -- Done parsing op42n02.mscx
 
+WARNING  op42n02.expand_labels -- The following chords could not be parsed:
+     mc  mn onset    label
+ix                        
+15    6   6   1/4  .bIIM43
+26   10  10   1/4  .bIIM43
+27   10  10   3/8    .bII6
+36   12  12   5/8    .bII6
+42   14  14   5/8   .bII64
+49   16  16   3/8   .bIIM2
+137  43  43   3/8     .bII
+140  44  44   1/8   .bIIM2
+144  45  45   3/8     .bII
+165  52  52   1/4  .bIIM43
+172  54  54   1/4  .bIIM43
