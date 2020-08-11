@@ -2,20 +2,3 @@ INFO     op48n02.ms3 -- Attempting to parse op48n02.mscx
 WARNING  op48n02.ms3 -- Event 1587 in MC 145 has has duration 1/2 and starts on 3/4, surpassing the measure length of 3/4
 INFO     op48n02.ms3 -- Done parsing op48n02.mscx
 
-WARNING  op48n02.expand_labels -- The following chords could not be parsed:
-      mc   mn onset         label
-ix                               
-36    22   21     0         .bII6
-39    23   22   1/4          .bII
-128   74   73     0         .Ger6
-179  106  105     0        .bII64
-181  108  107     0        .bII\\
-189  112  111     0         .Ger6
-195  117  116     0  .Ger6(#4)/VI
-196  117  116   1/2      .Ger6/VI
-199  119  118     0       .bII(9)
-203  122  121     0     .bVIM7/VI
-216  130  129     0     .bIIM7/vi
-259  153  152     0         .Ger6
-283  171  170     0       .bII(4)
-284  171  170   1/4          .bII
