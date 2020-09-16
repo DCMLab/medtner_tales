@@ -252,7 +252,7 @@
             <offset x="-3.38154" y="5.04253"/>
             </Dynamic>
           <Harmony>
-            <name>.f.IV65</name>
+            <name>.f.IV65{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -964,7 +964,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>VII(9)\\</name>
+            <name>VII(9)}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -980,7 +980,7 @@
             <text>a tempo</text>
             </StaffText>
           <Harmony>
-            <name>IV65</name>
+            <name>IV65{</name>
             </Harmony>
           <Dynamic>
             <subtype>mf</subtype>
@@ -1539,7 +1539,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -1579,6 +1579,9 @@
             <offset x="1.04602" y="-5.59204"/>
             <text>poco sostenuto</text>
             </StaffText>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -2344,7 +2347,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III\\</name>
+            <name>III}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -2376,7 +2379,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>iv65</name>
+            <name>iv65{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2809,7 +2812,7 @@
             </Chord>
           <Harmony>
             <name>V7/VII</name>
-            <offset x="0" y="-9"/>
+            <offset x="-0.854296" y="-4.58614"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2851,7 +2854,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VII\\</name>
+            <name>VII}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2868,7 +2871,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>III</name>
+            <name>III{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -2902,7 +2905,7 @@
             </Chord>
           <Harmony>
             <name>V43(4)/VII</name>
-            <offset x="0" y="-9"/>
+            <offset x="-1.28144" y="-2.59278"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3337,7 +3340,7 @@
             <text>poco</text>
             </StaffText>
           <Harmony>
-            <name>v\\</name>
+            <name>v}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -3417,7 +3420,7 @@
             <text>piu </text>
             </SystemText>
           <Harmony>
-            <name>v.i[i</name>
+            <name>v.i[i{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
@@ -3854,7 +3857,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -3943,6 +3946,9 @@
             <velocity>96</velocity>
             <offset x="0.948847" y="6.6103"/>
             </Dynamic>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -4598,7 +4604,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>VII\\</name>
+            <name>VII}</name>
             </Harmony>
           <Dynamic>
             <subtype>f</subtype>
@@ -4637,7 +4643,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>III</name>
+            <name>III{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -5209,7 +5215,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i[i</name>
+            <name>i[i}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5553,7 +5559,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -5634,6 +5640,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -6214,7 +6223,7 @@
             <text>poco  </text>
             </StaffText>
           <Harmony>
-            <name>V43(6)/iv</name>
+            <name>V43(6)/iv}</name>
             </Harmony>
           <Dynamic>
             <subtype>pp</subtype>
@@ -6256,7 +6265,7 @@
             <text>Tempo I</text>
             </StaffText>
           <Harmony>
-            <name>IV65/iv</name>
+            <name>IV65/iv{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
@@ -6871,7 +6880,7 @@
             <text>pochissimo</text>
             </StaffText>
           <Harmony>
-            <name>VII\\</name>
+            <name>VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6884,6 +6893,9 @@
             <subtype>fermataAbove</subtype>
             <offset x="1.17955" y="-2.94412"/>
             </Fermata>
+          <Harmony>
+            <name>VII(9)}</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -6900,7 +6912,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>IV65</name>
+            <name>IV65{</name>
             </Harmony>
           <Dynamic>
             <subtype>mf</subtype>
@@ -7833,7 +7845,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -7882,7 +7894,7 @@
             <offset x="0.397648" y="5.95475"/>
             </Dynamic>
           <Harmony>
-            <name>III64</name>
+            <name>III64{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8608,7 +8620,7 @@
             <fractions>-1/8</fractions>
             </location>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -8783,7 +8795,7 @@
             <text>cantabile</text>
             </StaffText>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8839,7 +8851,7 @@
             <offset x="1.50301" y="-2.87589"/>
             </Dynamic>
           <Harmony>
-            <name>iv6(9)</name>
+            <name>iv6(9){</name>
             </Harmony>
           <StaffText>
             <offset x="3.6308" y="-4.27803"/>
@@ -9203,7 +9215,7 @@
             <offset x="0.658281" y="6.4286"/>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9346,6 +9358,9 @@
             <offset x="0.432239" y="10.3082"/>
             <text>espress.</text>
             </SystemText>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -10069,7 +10084,7 @@
             <offset x="0.658281" y="5.68946"/>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>

@@ -237,7 +237,7 @@
             <text>Con moto disinvolto e grazioso <sym>metNoteQuarterUp</sym>. = 72</text>
             </Tempo>
           <Harmony>
-            <name>.c.i</name>
+            <name>.c.i{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -678,7 +678,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -2401,7 +2401,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>VI.I</name>
+            <name>VI.I}{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -5915,7 +5915,7 @@
             <velocity>33</velocity>
             </Dynamic>
           <Harmony>
-            <name>i.i7</name>
+            <name>i.i7}{</name>
             <offset x="0" y="-10.14"/>
             </Harmony>
           <Chord>
@@ -6820,7 +6820,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8877,7 +8877,7 @@
             <transposingClefType>F</transposingClefType>
             </Clef>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <StaffText>
             <text>ten.</text>

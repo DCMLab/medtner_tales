@@ -238,7 +238,7 @@
             <text><sym>metNoteQuarterUp</sym> = 100</text>
             </Tempo>
           <Harmony>
-            <name>.e.i</name>
+            <name>.e.i{</name>
             </Harmony>
           <StaffText>
             <offset x="0.126568" y="-4.89225"/>
@@ -1696,7 +1696,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <StaffText>
             <placement>below</placement>
@@ -1730,7 +1730,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>piu</text>
             </StaffText>
           <Harmony>
-            <name>ii%7</name>
+            <name>ii%7{</name>
             </Harmony>
           <Dynamic>
             <subtype>f</subtype>
@@ -2663,7 +2663,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>whole</durationType>
@@ -2695,7 +2695,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>VI.ii%7</name>
+            <name>VI.ii%7{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
@@ -5096,7 +5096,7 @@
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>V7(4)</name>
+            <name>V7(4)}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -5199,7 +5199,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7(9)/III</name>
+            <name>V7(9)/III{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5255,7 +5255,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -6414,7 +6414,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>tenuto</text>
             </StaffText>
           <Harmony>
-            <name>iv(4)</name>
+            <name>iv(4)}</name>
             </Harmony>
           <StaffText>
             <offset x="-3.66106" y="-5.17239"/>
@@ -6441,13 +6441,13 @@
             <fractions>-1/2</fractions>
             </location>
           <Harmony>
-            <name>iv\\</name>
+            <name>iv</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
             </location>
           <Harmony>
-            <name>V7/III</name>
+            <name>V7/III{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -7985,7 +7985,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -8606,7 +8606,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

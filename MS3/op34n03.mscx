@@ -243,7 +243,7 @@
             <text>Allegretto tenebroso <sym>metNoteQuarterUp</sym> = 100</text>
             </Tempo>
           <Harmony>
-            <name>.a.V7</name>
+            <name>.a.V7{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
@@ -887,7 +887,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V7(9)\\</name>
+            <name>V7(9)}</name>
             </Harmony>
           <Dynamic>
             <subtype>pp</subtype>
@@ -919,7 +919,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Dynamic>
             <subtype>p</subtype>
@@ -1919,7 +1919,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1939,6 +1939,9 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -2426,7 +2429,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>V7\\</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2972,7 +2975,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V7(9)\\</name>
+            <name>V7(9)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2996,7 +2999,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -4519,7 +4522,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4539,6 +4542,9 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -4986,7 +4992,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>iv\\</name>
+            <name>iv}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -5003,6 +5009,9 @@
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8879,7 +8888,7 @@
             <velocity>64</velocity>
             </Dynamic>
           <Harmony>
-            <name>V/v</name>
+            <name>V/v}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -8888,6 +8897,9 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -9350,7 +9362,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -9387,7 +9399,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9822,7 +9834,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>iv\\</name>
+            <name>iv}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9856,6 +9868,9 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -10782,7 +10797,7 @@
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>sostenuto</text>
             </StaffText>
           <Harmony>
-            <name>i[i\\</name>
+            <name>i[i}{</name>
             </Harmony>
           <Spanner type="Trill">
             <prev>
@@ -13031,7 +13046,7 @@
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>sempre accelerando</text>
             </StaffText>
           <Harmony>
-            <name>V[V\\</name>
+            <name>V[V}{</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -14553,7 +14568,7 @@
             <fractions>-1/24</fractions>
             </location>
           <Harmony>
-            <name>V</name>
+            <name>V}</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -14586,7 +14601,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V7]</name>
+            <name>V7]{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -15160,7 +15175,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V7(9)\\</name>
+            <name>V7(9)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15189,7 +15204,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -16098,7 +16113,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16116,7 +16131,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7/iv</name>
+            <name>V7/iv{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17113,7 +17128,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i</name>
+            <name>i}{</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -17430,7 +17445,7 @@
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>poco a poco piu mosso</text>
             </StaffText>
           <Harmony>
-            <name>i\\</name>
+            <name>i}{</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -18772,7 +18787,7 @@
             <velocity>33</velocity>
             </Dynamic>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

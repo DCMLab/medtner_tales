@@ -244,7 +244,7 @@
             <text><sym>metNoteQuarterUp</sym> = 100</text>
             </Tempo>
           <Harmony>
-            <name>.Eb.I[I</name>
+            <name>.Eb.I[I{</name>
             </Harmony>
           <StaffText>
             <text>Allegretto frescamente</text>
@@ -1830,7 +1830,7 @@
             </Chord>
           <endTuplet/>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -1873,7 +1873,7 @@
             <text><font size="9.2082"></font><font face="Plantin MT Std"></font>a tempo</text>
             </StaffText>
           <Harmony>
-            <name>I[I</name>
+            <name>I[I{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3600,7 +3600,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <StaffText>
             <text>Giocoso <sym>unicodeNoteQuarterUp</sym> = 100</text>
@@ -5642,7 +5642,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>III[V/vi\\</name>
+            <name>III[V/vi}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -5664,7 +5664,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>V7(b3)/vi</name>
+            <name>V7(b3)/vi{</name>
             <offset x="-0.67328" y="-5.66336"/>
             </Harmony>
           <Chord>
@@ -6284,7 +6284,7 @@
             <text><font size="9.2082"></font><font face="Plantin MT Std"></font>Tempo I</text>
             </StaffText>
           <Harmony>
-            <name>I.I[I\\</name>
+            <name>I.I[I}{</name>
             </Harmony>
           <StaffText>
             <placement>below</placement>
@@ -7794,7 +7794,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V7(96)</name>
+            <name>V7(96)}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -7842,7 +7842,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>I[I\\</name>
+            <name>I[I{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8474,8 +8474,9 @@
               <subtype>8va</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-11.9041"/>
+                <offset x="-0.353189" y="-9.07859"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-0.0260192</minDistance>
                 </Segment>
               </Ottava>
             <next>
@@ -8593,7 +8594,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -8894,7 +8895,7 @@
       <Measure len="3/4">
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>

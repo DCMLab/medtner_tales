@@ -239,7 +239,7 @@
             <text>Andantino <sym>metNote8thUp</sym> = 112</text>
             </Tempo>
           <Harmony>
-            <name>.c.VIM7</name>
+            <name>.c.VIM7{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -489,7 +489,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -534,6 +534,9 @@
             <velocity>49</velocity>
             <offset x="0.658281" y="4.9"/>
             </Dynamic>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1746,7 +1749,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V(4)</name>
+            <name>V(4)}</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -1777,7 +1780,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -1803,6 +1806,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -3237,7 +3243,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -3259,6 +3265,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -4867,7 +4876,7 @@
             <velocity>80</velocity>
             </Dynamic>
           <Harmony>
-            <name>III</name>
+            <name>III}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -6737,7 +6746,7 @@
             <text><i>legatissimo</i></text>
             </SystemText>
           <Harmony>
-            <name>V\\</name>
+            <name>V}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -8304,7 +8313,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>V(4)</name>
+            <name>V(4)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8354,7 +8363,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8377,7 +8386,7 @@
             <text><i>tenebroso</i></text>
             </SystemText>
           <Harmony>
-            <name>iv</name>
+            <name>iv{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8442,7 +8451,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>V(4)</name>
+            <name>V(4)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8498,7 +8507,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8532,7 +8541,7 @@
             <text><i>poco piu risoluto</i></text>
             </SystemText>
           <Harmony>
-            <name>VI</name>
+            <name>VI{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -8596,7 +8605,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>V(6)</name>
+            <name>V(6)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8649,7 +8658,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8684,7 +8693,7 @@
             <text>risoluto</text>
             </SystemText>
           <Harmony>
-            <name>i</name>
+            <name>i{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9253,7 +9262,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>V</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9265,6 +9274,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -9305,7 +9317,7 @@
             <offset x="0.379466" y="6.3501"/>
             </Dynamic>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -10019,7 +10031,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>V7(6)/VI</name>
+            <name>V7(6)/VI}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -10231,6 +10243,9 @@
             <offset x="-0.0864477" y="4.77558"/>
             <text><i>pesante</i></text>
             </SystemText>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -10727,7 +10742,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -10749,6 +10764,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10974,7 +10992,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>i(4)</name>
+            <name>i(4)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11022,7 +11040,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11039,6 +11057,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -11106,7 +11127,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Harmony>
-            <name>i(4)</name>
+            <name>i(4)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11156,7 +11177,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11176,6 +11197,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -12109,7 +12133,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>

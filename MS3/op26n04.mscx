@@ -231,7 +231,7 @@
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>.f#.i6</name>
+            <name>.f#.i6{</name>
             </Harmony>
           <StaffText>
             <offset x="-0.139225" y="-3.0601"/>
@@ -761,7 +761,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -814,6 +814,9 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -1397,7 +1400,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>v\\</name>
+            <name>v}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1449,8 +1452,12 @@
               </Note>
             </Chord>
           <StaffText>
+            <offset x="-0.16375" y="-8.09376"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>tranq.</text>
             </StaffText>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -1916,7 +1923,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V64</name>
+            <name>V64}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -1942,13 +1949,13 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Dynamic>
             <subtype>ff</subtype>
@@ -3120,7 +3127,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>a tempo, ma poco giocoso</text>
             </StaffText>
           <Harmony>
-            <name>I6</name>
+            <name>I6}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -5191,7 +5198,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5265,7 +5272,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V</name>
+            <name>V{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6856,7 +6863,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cantando</text>
             </StaffText>
           <Harmony>
-            <name>VI.I</name>
+            <name>VI.I}{</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -8153,7 +8160,7 @@
             <transposingClefType>G</transposingClefType>
             </Clef>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -8401,7 +8408,7 @@
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre più languido</text>
             </StaffText>
           <Harmony>
-            <name>V2</name>
+            <name>V2{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -9518,7 +9525,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>V/v\\</name>
+            <name>V/v</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10043,7 +10050,7 @@
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>ii%43</name>
+            <name>ii%43}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -10072,6 +10079,9 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -10641,7 +10651,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10692,6 +10702,9 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -11231,7 +11244,7 @@
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11287,6 +11300,9 @@
             <velocity>49</velocity>
             <offset x="0.966628" y="4.63008"/>
             </Dynamic>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -14546,7 +14562,7 @@
       <Measure>
         <voice>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>

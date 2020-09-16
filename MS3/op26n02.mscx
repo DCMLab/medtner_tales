@@ -228,7 +228,7 @@ Op.26</text>
             <sigD>4</sigD>
             </TimeSig>
           <Harmony>
-            <name>.Eb.I</name>
+            <name>.Eb.I{</name>
             </Harmony>
           <StaffText>
             <text>Molto vivace <sym>unicodeNoteQuarterUp</sym> = 120</text>
@@ -257,6 +257,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -306,6 +307,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -345,6 +347,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -388,6 +391,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -427,6 +431,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -466,6 +471,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -505,6 +511,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -551,6 +558,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -610,6 +618,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -658,6 +667,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -704,6 +714,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -757,6 +768,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -804,6 +816,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -852,6 +865,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -903,6 +917,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -953,6 +968,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -989,6 +1005,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1028,6 +1045,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1064,6 +1082,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1107,6 +1126,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1146,6 +1166,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1185,6 +1206,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1221,6 +1243,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1264,6 +1287,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1300,6 +1324,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1352,6 +1377,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1401,6 +1427,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1448,6 +1475,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1495,6 +1523,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -1656,7 +1685,7 @@ Op.26</text>
             <offset x="0.888405" y="7.7958"/>
             </Dynamic>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <StaffText>
             <text>risoluto</text>
@@ -1712,6 +1741,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1761,6 +1791,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1800,6 +1831,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1843,6 +1875,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1882,6 +1915,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1921,6 +1955,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -1960,6 +1995,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2014,6 +2050,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2061,6 +2098,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2109,6 +2147,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2155,6 +2194,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2211,6 +2251,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2258,6 +2299,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2306,6 +2348,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2352,6 +2395,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2412,6 +2456,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2451,6 +2496,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2479,6 +2525,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2510,6 +2557,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2542,6 +2590,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2582,6 +2631,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2626,6 +2676,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2673,6 +2724,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2732,6 +2784,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2777,6 +2830,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2821,6 +2875,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2865,6 +2920,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -2950,7 +3006,7 @@ Op.26</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>i\\</name>
+            <name>i}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -2972,7 +3028,7 @@ Op.26</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>#viio</name>
+            <name>#viio{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -2989,6 +3045,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3059,6 +3116,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3098,6 +3156,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3126,6 +3185,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3173,6 +3233,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3219,6 +3280,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3259,6 +3321,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3303,6 +3366,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3357,6 +3421,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3422,6 +3487,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3467,6 +3533,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3495,6 +3562,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3526,6 +3594,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3561,6 +3630,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3611,6 +3681,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3675,6 +3746,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3722,6 +3794,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3790,6 +3863,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3849,6 +3923,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3904,6 +3979,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -3982,6 +4058,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4039,6 +4116,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4095,6 +4173,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4147,6 +4226,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4199,6 +4279,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4267,6 +4348,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4319,6 +4401,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4363,6 +4446,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4408,6 +4492,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4497,7 +4582,7 @@ Op.26</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -4521,6 +4606,9 @@ Op.26</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -4543,6 +4631,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4610,6 +4699,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4653,6 +4743,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4681,6 +4772,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4712,6 +4804,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4747,6 +4840,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4792,6 +4886,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4839,6 +4934,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4886,6 +4982,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4941,6 +5038,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -4984,6 +5082,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5012,6 +5111,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5043,6 +5143,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5078,6 +5179,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5115,6 +5217,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5169,6 +5272,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5220,6 +5324,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5281,6 +5386,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5350,6 +5456,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5419,6 +5526,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5478,6 +5586,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5547,6 +5656,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5640,6 +5750,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5702,6 +5813,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5760,6 +5872,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5843,6 +5956,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -5927,6 +6041,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6007,6 +6122,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6112,6 +6228,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6221,6 +6338,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6308,6 +6426,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6360,6 +6479,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6416,6 +6536,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -6469,7 +6590,7 @@ Op.26</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -6507,7 +6628,7 @@ Op.26</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -6538,8 +6659,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>86</pitch>
               <tpc>16</tpc>
               </Note>
@@ -6570,8 +6689,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -6619,8 +6736,6 @@ Op.26</text>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>90</pitch>
               <tpc>20</tpc>
               </Note>
@@ -7078,13 +7193,14 @@ Op.26</text>
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>V\\</name>
+            <name>V}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -7163,6 +7279,7 @@ Op.26</text>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -7242,6 +7359,7 @@ Op.26</text>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -7324,7 +7442,7 @@ Op.26</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>i6</name>
+            <name>i6{</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -7348,8 +7466,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>86</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7386,8 +7502,6 @@ Op.26</text>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -7417,8 +7531,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -7535,8 +7647,6 @@ Op.26</text>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>83</pitch>
               <tpc>19</tpc>
               </Note>
@@ -7567,8 +7677,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>79</pitch>
               <tpc>15</tpc>
               </Note>
@@ -7606,8 +7714,6 @@ Op.26</text>
             <durationType>16th</durationType>
             <grace16/>
             <Note>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -7653,8 +7759,6 @@ Op.26</text>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <Spanner type="Tie">
-                </Spanner>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -7887,13 +7991,14 @@ Op.26</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>III6</name>
+            <name>III6}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -7971,6 +8076,7 @@ Op.26</text>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8048,6 +8154,7 @@ Op.26</text>
             <actualNotes>5</actualNotes>
             <baseNote>32nd</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>5</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8129,7 +8236,7 @@ Op.26</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I.V</name>
+            <name>I.V{</name>
             </Harmony>
           <Spanner type="Ottava">
             <prev>
@@ -8150,6 +8257,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8199,6 +8307,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8238,6 +8347,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8284,6 +8394,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8323,6 +8434,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8362,6 +8474,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8401,6 +8514,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8444,6 +8558,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8491,6 +8606,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8539,6 +8655,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8585,6 +8702,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8638,6 +8756,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8685,6 +8804,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8733,6 +8853,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8779,6 +8900,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8858,6 +8980,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8894,6 +9017,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8933,6 +9057,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -8969,6 +9094,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9014,6 +9140,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9053,6 +9180,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9089,6 +9217,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9125,6 +9254,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9168,6 +9298,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9208,6 +9339,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9244,6 +9376,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9286,6 +9419,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9329,6 +9463,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9371,6 +9506,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9410,6 +9546,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9446,6 +9583,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9489,7 +9627,7 @@ Op.26</text>
             <velocity>49</velocity>
             </Dynamic>
           <Harmony>
-            <name>I\\</name>
+            <name>I}{</name>
             </Harmony>
           <StaffText>
             <placement>below</placement>
@@ -9501,6 +9639,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9534,6 +9673,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9565,6 +9705,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9593,6 +9734,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9628,6 +9770,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9668,6 +9811,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9715,6 +9859,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9762,6 +9907,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9814,6 +9960,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9873,6 +10020,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9920,6 +10068,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -9967,6 +10116,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10022,6 +10172,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10089,6 +10240,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10144,6 +10296,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10191,6 +10344,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10246,6 +10400,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10299,6 +10454,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10346,6 +10502,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10390,6 +10547,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -10443,6 +10601,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10488,6 +10647,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10590,7 +10750,7 @@ Op.26</text>
           </LayoutBreak>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10611,6 +10771,9 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -10631,6 +10794,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10704,6 +10868,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10749,6 +10914,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10784,6 +10950,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10815,6 +10982,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -10885,7 +11053,7 @@ Op.26</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10906,6 +11074,9 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <name>{</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -10926,6 +11097,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11059,6 +11231,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11093,6 +11266,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11132,6 +11306,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11168,6 +11343,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11208,6 +11384,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11250,6 +11427,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11332,7 +11510,7 @@ Op.26</text>
       <Measure>
         <voice>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -11370,7 +11548,7 @@ Op.26</text>
               </Note>
             </Chord>
           <Harmony>
-            <name>V7/#IV</name>
+            <name>V7/#IV{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11589,6 +11767,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11640,6 +11819,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11699,6 +11879,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11758,6 +11939,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -11997,7 +12179,7 @@ Op.26</text>
             <velocity>96</velocity>
             </Dynamic>
           <Harmony>
-            <name>I\\</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13106,6 +13288,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13202,6 +13385,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -13267,6 +13451,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13702,6 +13887,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13756,6 +13942,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13814,6 +14001,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13865,6 +14053,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13900,6 +14089,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -13932,6 +14122,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>2</bracketType>
@@ -14001,6 +14192,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14059,6 +14251,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14101,6 +14294,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14129,6 +14323,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14157,6 +14352,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14189,6 +14385,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14231,6 +14428,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14533,6 +14731,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14597,6 +14796,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14639,6 +14839,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14667,6 +14868,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14695,6 +14897,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14727,6 +14930,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14803,6 +15007,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14879,6 +15084,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14925,6 +15131,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14953,6 +15160,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -14981,6 +15189,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15013,6 +15222,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15068,6 +15278,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             </Tuplet>
@@ -15126,6 +15337,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15178,6 +15390,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15238,6 +15451,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15271,6 +15485,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15316,6 +15531,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15361,6 +15577,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15407,6 +15624,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15453,6 +15671,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15494,6 +15713,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15539,6 +15759,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -15993,6 +16214,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16031,6 +16253,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16067,6 +16290,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16595,6 +16819,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16633,6 +16858,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -16669,6 +16895,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -17478,6 +17705,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -17529,6 +17757,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -17594,6 +17823,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -17649,6 +17879,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18054,6 +18285,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18123,6 +18355,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18158,6 +18391,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18271,6 +18505,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18354,6 +18589,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18414,6 +18650,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18490,6 +18727,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18525,6 +18763,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18557,6 +18796,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18585,6 +18825,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18847,6 +19088,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18889,6 +19131,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18937,6 +19180,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
@@ -18988,6 +19232,7 @@ Op.26</text>
             <actualNotes>3</actualNotes>
             <baseNote>16th</baseNote>
             <Number>
+              <style>Tuplet</style>
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
