@@ -1,5 +1,5 @@
 mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	changes	relativeroot	phraseend	chord_type	globalkey_is_minor	localkey_is_minor	chord_tones	added_tones	root	bass_note
-1	1	0	.c#.i	c#	i		i	i							m	1	1	0, -3, 1		0	0
+1	1	0	.c#.i{	c#	i		i	i						{	m	1	1	0, -3, 1		0	0
 1	1	1/2	i(9)	c#	i		i(9)	i				9			m	1	1	0, -3, 1	2	0	0
 1	1	7/8	i	c#	i		i	i							m	1	1	0, -3, 1		0	0
 2	2	1/4	i7	c#	i		i7	i			7				mm7	1	1	0, -3, 1, -2		0	0
@@ -87,9 +87,9 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 21	21	3/8	iv7(9)	c#	i		iv7(9)	iv			7	9			mm7	1	1	-1, -4, 0, -3	1	-1	-1
 21	21	1/2	v(97)	c#	i		v(97)	v				97			m	1	1	1, -2, 2	-4, -1	1	1
 21	21	3/4	V7(6)/III	c#	i		V7(6)/III	V			7	6	III		Mm7	1	1	-2, 2, 1, -4		-2	-2
-22	22	0	III(9764)	c#	i		III(9764)	III				9764			M	1	1	-3, -4, 0	-1, 2	-3	-3
-22	22	1/4	III\\	c#	i		III	III						\\	M	1	1	-3, 1, -2		-3	-3
-23	23	0	iii.V(4)	c#	iii		V(4)	V				4			M	1	1	1, 0, 2		1	1
+22	22	0	III(9764)}	c#	i		III(9764)	III				9764		}	M	1	1	-3, -4, 0	-1, 2	-3	-3
+22	22	1/4	III	c#	i		III	III							M	1	1	-3, 1, -2		-3	-3
+23	23	0	iii.V(4){	c#	iii		V(4)	V				4		{	M	1	1	1, 0, 2		1	1
 23	23	1/4	V(9)	c#	iii		V(9)	V				9			M	1	1	1, 5, 2	-4	1	1
 23	23	3/8	V	c#	iii		V	V							M	1	1	1, 5, 2		1	1
 23	23	1/2	V(b6)	c#	iii		V(b6)	V				b6			M	1	1	1, 5, -10		1	1
@@ -138,7 +138,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 34	34	1/4	viio6/bII	c#	iii		viio6/bII	vii		o	6		bII		o	1	1	-3, -6, 0		0	-3
 34	34	1/2	vii%43/bII	c#	iii		vii%43/bII	vii		%	43		bII		%7	1	1	6, -2, 0, -1		0	6
 34	34	3/4	vii%65/bII	c#	iii		vii%65/bII	vii		%	65		bII		%7	1	1	-1, 6, -2, 0		0	-1
-35	35	0	V7(9)/bII	c#	iii		V7(9)/bII	V			7	9	bII		Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
+35	35	0	V7(9)/bII}{	c#	iii		V7(9)/bII	V			7	9	bII	}{	Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
 35	35	1/2	V7(96)/bII	c#	iii		V7(96)/bII	V			7	96	bII		Mm7	1	1	-4, 0, -1, -6	-2	-4	-4
 35	35	7/8	V7(9)/bII	c#	iii		V7(9)/bII	V			7	9	bII		Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
 36	36	0	ii%43/bII	c#	iii		ii%43/bII	ii		%	43		bII		%7	1	1	3, -5, -3, -4		-3	3
@@ -159,7 +159,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 41	41	1/2	V7(6)/bII	c#	i		V7(6)/bII	V			7	6	bII		Mm7	1	1	-4, 0, -1, -6		-4	-4
 41	41	7/8	V7/bII	c#	i		V7/bII	V			7		bII		Mm7	1	1	-4, 0, -3, -6		-4	-4
 42	42	0	ii%43/bII	c#	i		ii%43/bII	ii		%	43		bII		%7	1	1	3, -5, -3, -4		-3	3
-43	43	0	V7(9)/bII	c#	i		V7(9)/bII	V			7	9	bII		Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
+43	43	0	V7(9)/bII}{	c#	i		V7(9)/bII	V			7	9	bII	}{	Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
 44	44	0	ii%65/bII	c#	i		ii%65/bII	ii		%	65		bII		%7	1	1	-4, 3, -5, -3		-3	-4
 45	45	0	V7(9)/bII	c#	i		V7(9)/bII	V			7	9	bII		Mm7	1	1	-4, 0, -3, -6	-2	-4	-4
 46	46	0	ii%7/bIV	c#	i		ii%7/bIV	ii		%	7		bIV		%7	1	1	-6, -7, 0, -8		-6	-6
@@ -195,7 +195,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 53	53	1/2	VI	c#	bv		VI	VI							M	1	1	-4, 0, -3		-4	-4
 53	53	3/4	i64	c#	bv		i64	i			64				m	1	1	1, 0, -3		0	1
 53	53	7/8	#ivo7	c#	bv		#ivo7	#iv		o	7				o7	1	1	6, 3, 0, -3		6	6
-54	54	0	#vi	c#	bv		#vi	#vi							m	1	1	3, 0, 4		3	3
+54	54	0	#vi}{	c#	bv		#vi	#vi						}{	m	1	1	3, 0, 4		3	3
 54	54	1/2	#vi%7/#vi	c#	bv		#vi%7/#vi	#vi		%	7		#vi		%7	1	1	6, 5, 12, 4		6	6
 54	54	5/8	#viio65/#iii	c#	bv		#viio65/#iii	#vii		o	65		#iii		o7	1	1	6, 3, 0, 9		9	6
 54	54	3/4	#vi	c#	bv		#vi	#vi							m	1	1	3, 0, 4		3	3
@@ -251,8 +251,8 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 66	66	1/4	.Fr6/#vi	c#	i		Fr6/#vi	V	Fr		7	b5	V/#vi		M	1	1	5, 9, -1, 3		5	5
 66	66	1/2	V7(4)/#vi	c#	i		V7(4)/#vi	V			7	4	#vi		Mm7	1	1	4, 3, 5, 2		4	4
 66	66	5/8	ii%7/iii	c#	i		ii%7/iii	ii		%	7		iii		%7	1	1	-1, -2, 5, -3		-1	-1
-66	66	3/4	V65/v	c#	i		V65/v	V			65		v		Mm7	1	1	6, 3, 0, 2		2	6
-67	67	0	V[i64	c#	i	V	i64	i			64				m	1	1	1, 0, -3		0	1
+66	66	3/4	V65/v}	c#	i		V65/v	V			65		v	}	Mm7	1	1	6, 3, 0, 2		2	6
+67	67	0	V[i64{	c#	i	V	i64	i			64			{	m	1	1	1, 0, -3		0	1
 67	67	1/4	VII	c#	i	V	VII	VII							M	1	1	-2, 2, -1		-2	-2
 67	67	3/8	III+64	c#	i	V	III+64	III		+	64				+	1	1	5, -3, 1		-3	5
 67	67	1/2	i	c#	i	V	i	i							m	1	1	0, -3, 1		0	0
@@ -281,7 +281,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 72	72	1/2	v	c#	i	V	v	v							m	1	1	1, -2, 2		1	1
 72	72	3/4	V/v	c#	i	V	V/v	V					v		M	1	1	2, 6, 3		2	2
 72	72	7/8	iv	c#	i	V	iv	iv							m	1	1	-1, -4, 0		-1	-1
-73	73	0	i6	c#	i	V	i6	i			6				m	1	1	-3, 1, 0		0	-3
+73	73	0	i6}{	c#	i	V	i6	i			6			}{	m	1	1	-3, 1, 0		0	-3
 73	73	1/8	VI	c#	i	V	VI	VI							M	1	1	-4, 0, -3		-4	-4
 73	73	1/2	i64]	c#	i	V	i64	i			64				m	1	1	1, 0, -3		0	1
 74	74	0	V43(4)	c#	i		V43(4)	V			43	4			Mm7	1	1	2, -1, 1, 0		1	2
@@ -363,8 +363,8 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 93	93	3/4	VI64	c#	i		VI64	VI			64				M	1	1	-3, -4, 0		-4	-3
 94	94	0	.bII(9)	c#	i		bII(9)	bII				9			M	1	1	-5, -1, -4	-3	-5	-5
 94	94	1/4	V43/VII	c#	i		V43/VII	V			43		VII		Mm7	1	1	0, -3, -1, 3		-1	0
-94	94	3/4	V6	c#	i		V6	V			6				M	1	1	5, 2, 1		1	5
-95	95	0	V65/iv\\	c#	i		V65/iv	V			65		iv	\\	Mm7	1	1	4, 1, -2, 0		0	4
+94	94	3/4	V6}	c#	i		V6	V			6			}	M	1	1	5, 2, 1		1	5
+95	95	0	V65/iv{	c#	i		V65/iv	V			65		iv	{	Mm7	1	1	4, 1, -2, 0		0	4
 95	95	1/2	V7/VI	c#	i		V7/VI	V			7		VI		Mm7	1	1	-3, 1, -2, -5		-3	-3
 96	96	0	V2/VI	c#	i		V2/VI	V			2		VI		Mm7	1	1	-5, -3, 1, -2		-3	-5
 96	96	1/4	V/iv	c#	i		V/iv	V					iv		M	1	1	0, 4, 1		0	0
@@ -418,7 +418,7 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 109	109	1/2	iii64	c#	i		iii64	iii			64				m	1	1	-2, -3, -6		-3	-2
 110	110	0	iii6	c#	i		iii6	iii			6				m	1	1	-6, -2, -3		-3	-6
 110	110	1/2	V7(6)	c#	i		V7(6)	V			7	6			Mm7	1	1	1, 5, -3, -1		1	1
-111	111	0	i\\	c#	i		i	i						\\	m	1	1	0, -3, 1		0	0
+111	111	0	i}{	c#	i		i	i						}{	m	1	1	0, -3, 1		0	0
 111	111	1/2	i(#7)	c#	i		i(#7)	i				#7			m	1	1	0, -3, 1	5	0	0
 111	111	7/8	i2	c#	i		i2	i			2				mm7	1	1	-2, 0, -3, 1		0	-2
 112	112	0	#vi%2/iii	c#	i		#vi%2/iii	#vi		%	2		iii		%7	1	1	-2, 0, -1, 6		0	-2
@@ -468,5 +468,4 @@ mc	mn	onset	label	globalkey	localkey	pedal	chord	numeral	special	form	figbass	ch
 120	120	1/4	#vi43/iii	c#	i		#vi43/iii	#vi			43		iii		mm7	1	1	1, -2, 0, -3		0	1
 120	120	1/2	#vio	c#	i		#vio	#vi		o					o	1	1	3, 0, -3		3	3
 120	120	3/4	ii%65	c#	i		ii%65	ii		%	65				%7	1	1	1, 8, 0, 2		2	1
-121	121	0	i\\	c#	i		i	i						\\	m	1	1	0, -3, 1		0	0
-122	122	0	i	c#	i		i	i							m	1	1	0, -3, 1		0	0
+121	121	0	i}	c#	i		i	i						}	m	1	1	0, -3, 1		0	0
