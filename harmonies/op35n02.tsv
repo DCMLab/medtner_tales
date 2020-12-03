@@ -260,8 +260,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 76	74	0	0	2/4	1	1	V(6)	G	iii		V(6)		V			6			M	0	1	1, 5, -3		1	1
 76	74	1/8	1/8	2/4	1	1	V7	G	iii		V7		V		7				Mm7	0	1	1, 5, 2, -1		1	1
 76	74	1/4	1/4	2/4	1	1	V	G	iii		V		V						M	0	1	1, 5, 2		1	1
-77	75	0	0	2/4	1	1	.Ger6(b8)	G	iii		Ger6(b8)	Ger	vii	o	65	b8b3	V		M	0	1	-4, 0, -3, 6		6	-4
-77	75	1/8	1/8	2/4	1	1	.Ger6	G	iii		Ger6	Ger	vii	o	65	b3	V		M	0	1	-4, 0, -3, 6		6	-4
+77	75	0	0	2/4	1	1	.Ger6(b8)	G	iii		Ger6(b8)	Ger	vii	o	65	b8b3	V		Ger	0	1	-4, 0, -3, 6		6	-4
+77	75	1/8	1/8	2/4	1	1	.Ger6	G	iii		Ger6	Ger	vii	o	65	b3	V		Ger	0	1	-4, 0, -3, 6		6	-4
 78	76	0	0	2/4	1	1	V43(6)/III	G	iii		V43(6)/III		V		43	6	III		Mm7	0	1	1, -4, -2, 2		-2	1
 78	76	1/8	1/8	2/4	1	1	V43/III	G	iii		V43/III		V		43		III		Mm7	0	1	-1, -4, -2, 2		-2	-1
 79	77	0	0	2/4	1	1	V65(6)/iv	G	iii		V65(6)/iv		V		65	6	iv		Mm7	0	1	4, -4, -2, 0		0	4
@@ -285,8 +285,8 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 94	92	0	0	2/4	1	1	vii%43/VI	G	iii		vii%43/VI		vii	%	43		VI		%7	0	1	-5, -1, 1, -2		1	-5
 96	94	0	0	2/4	1	1	V2/VI	G	iii		V2/VI		V		2		VI		Mm7	0	1	-5, -3, 1, -2		-3	-5
 96	94	1/4	1/4	2/4	1	1	VI6	G	iii		VI6		VI		6				M	0	1	0, -3, -4		-4	0
-97	95	0	0	2/4	1	1	.Ger6(#4)/III	G	iii		Ger6(#4)/III	Ger	vii	o	65	#4b3	V/III		M	0	1	-7, 9, -6, 3		3	-7
-97	95	1/8	1/8	2/4	1	1	.Ger6/III	G	iii		Ger6/III	Ger	vii	o	65	b3	V/III		M	0	1	-7, -3, -6, 3		3	-7
+97	95	0	0	2/4	1	1	.Ger6(#4)/III	G	iii		Ger6(#4)/III	Ger	vii	o	65	#4b3	V/III		Ger	0	1	-7, 9, -6, 3		3	-7
+97	95	1/8	1/8	2/4	1	1	.Ger6/III	G	iii		Ger6/III	Ger	vii	o	65	b3	V/III		Ger	0	1	-7, -3, -6, 3		3	-7
 98	96	1/4	1/4	2/4	1	1	III64	G	iii		III64		III		64				M	0	1	-2, -3, 1		-3	-2
 99	97	0	0	2/4	1	1	ii%65(9)/III	G	iii		ii%65(9)/III		ii	%	65	9	III		%7	0	1	-4, -7, -3, -1	1	-1	-4
 99	97	1/8	1/8	2/4	1	1	ii%65/III	G	iii		ii%65/III		ii	%	65		III		%7	0	1	-4, -7, -3, -1		-1	-4
@@ -377,7 +377,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 135	133	1/4	1/4	2/4	1	1	#vio	G	iii		#vio		#vi	o					o	0	1	3, 0, -3		3	3
 136	134	0	0	2/4	1	1	V2/III	G	iii		V2/III		V		2		III		Mm7	0	1	-4, -2, 2, -1		-2	-4
 136	134	1/4	1/4	2/4	1	1	ii%2/v	G	iii		ii%2/v		ii	%	2		v		%7	0	1	1, 3, 0, -3		3	1
-137	135	0	0	2/4	1	1	.It6	G	iii		It6	It	vii	o	6	b3	V		M	0	1	-4, 0, 6		6	-4
+137	135	0	0	2/4	1	1	.It6	G	iii		It6	It	vii	o	6	b3	V		It	0	1	-4, 0, 6		6	-4
 137	135	1/4	1/4	2/4	1	1	V2	G	iii		V2		V		2				Mm7	0	1	-1, 1, 5, 2		1	-1
 138	136	0	0	2/4	1	1	i}	G	iii		i		i					}	m	0	1	0, -3, 1		0	0
 141	139	3/8	3/8	2/4	1	1	I{	G	iii		I		I					{	M	0	1	0, 4, 1		0	0

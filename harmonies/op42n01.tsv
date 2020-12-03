@@ -109,7 +109,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 30	30	3/8	3/8	4/4	1	1	I6	f	i		I6		I		6				M	1	1	4, 1, 0		0	4
 30	30	1/2	1/2	4/4	1	1	i6	f	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 30	30	3/4	3/4	4/4	1	1	VIM43	f	i		VIM43		VI	M	43				MM7	1	1	-3, 1, -4, 0		-4	-3
-30	30	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		M	1	1	1, 5, -5, -1		1	1
+30	30	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		Fr	1	1	1, 5, -5, -1		1	1
 31	31	0	0	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
 31	31	3/8	3/8	4/4	1	1	#viio2	f	i		#viio2		#vii	o	2				o7	1	1	-4, 5, 2, -1		5	-4
 31	31	1/2	1/2	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
@@ -160,7 +160,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 42	41	3/8	3/8	4/4	1	1	.bIIM7	f	v		bIIM7		bII	M	7				MM7	1	1	-5, -1, -4, 0		-5	-5
 42	41	3/4	3/4	4/4	1	1	VI	f	v		VI		VI						M	1	1	-4, 0, -3		-4	-4
 43	42	0	0	4/4	1	1	V64/III	f	v		V64/III		V		64		III		M	1	1	-1, -2, 2		-2	-1
-43	42	1/4	1/4	4/4	1	1	.Ger6	f	v		Ger6	Ger	vii	o	65	b3	V		M	1	1	-4, 0, -3, 6		6	-4
+43	42	1/4	1/4	4/4	1	1	.Ger6	f	v		Ger6	Ger	vii	o	65	b3	V		Ger	1	1	-4, 0, -3, 6		6	-4
 43	42	1/2	1/2	4/4	1	1	V}	f	v		V		V					}	M	1	1	1, 5, 2		1	1
 44	43	0	0	4/4	1	1	i{	f	v		i		i					{	m	1	1	0, -3, 1		0	0
 44	43	1/8	1/8	4/4	1	1	iv65	f	v		iv65		iv		65				mm7	1	1	-4, 0, -3, -1		-1	-4
@@ -198,7 +198,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 50	49	3/8	3/8	4/4	1	1	.bIIM7/iv	f	v		bIIM7/iv		bII	M	7		iv		MM7	1	1	-6, -2, -5, -1		-6	-6
 50	49	3/4	3/4	4/4	1	1	VI/iv	f	v		VI/iv		VI				iv		M	1	1	-5, -1, -4		-5	-5
 51	50	0	0	4/4	1	1	V64/VI	f	v		V64/VI		V		64		VI		M	1	1	-2, -3, 1		-3	-2
-51	50	1/4	1/4	4/4	1	1	.Ger6/iv	f	v		Ger6/iv	Ger	vii	o	65	b3	V/iv		M	1	1	-5, -1, -4, 5		5	-5
+51	50	1/4	1/4	4/4	1	1	.Ger6/iv	f	v		Ger6/iv	Ger	vii	o	65	b3	V/iv		Ger	1	1	-5, -1, -4, 5		5	-5
 51	50	1/2	1/2	4/4	1	1	V/iv}	f	v		V/iv		V				iv	}	M	1	1	0, 4, 1		0	0
 52	51	0	0	4/4	1	1	#iii{	f	v		#iii		#iii					{	m	1	1	4, 1, 5		4	4
 52	51	1/8	1/8	4/4	1	1	iv65/#iii	f	v		iv65/#iii		iv		65		#iii		mm7	1	1	0, 4, 1, 3		3	0
@@ -242,9 +242,9 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 61	60	3/8	3/8	4/4	1	1	i7	f	i	V	i7		i		7				mm7	1	1	0, -3, 1, -2		0	0
 61	60	1/2	1/2	4/4	1	1	V/v	f	i	V	V/v		V				v		M	1	1	2, 6, 3		2	2
 62	61	0	0	4/4	1	1	V7	f	i	V	V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
-62	61	3/8	3/8	4/4	1	1	.Ger6/iv	f	i	V	Ger6/iv	Ger	vii	o	65	b3	V/iv		M	1	1	-5, -1, -4, 5		5	-5
+62	61	3/8	3/8	4/4	1	1	.Ger6/iv	f	i	V	Ger6/iv	Ger	vii	o	65	b3	V/iv		Ger	1	1	-5, -1, -4, 5		5	-5
 62	61	1/2	1/2	4/4	1	1	I]	f	i	V	I		I						M	1	1	0, 4, 1		0	0
-63	62	0	0	4/4	1	1	.Ger6/III	f	i		Ger6/III	Ger	vii	o	65	b3	V/III		M	1	1	-7, -3, -6, 3		3	-7
+63	62	0	0	4/4	1	1	.Ger6/III	f	i		Ger6/III	Ger	vii	o	65	b3	V/III		Ger	1	1	-7, -3, -6, 3		3	-7
 63	62	1/2	1/2	4/4	1	1	V/III}	f	i		V/III		V				III	}	M	1	1	-2, 2, -1		-2	-2
 64	63	0	0	4/4	1	1	III{	f	i		III		III					{	M	1	1	-3, 1, -2		-3	-3
 64	63	1/2	1/2	4/4	1	1	iv6(97)	f	i		iv6(97)		iv		6	97			m	1	1	-4, 0, -3	1	-1	-4
@@ -281,7 +281,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 69	68	3/8	3/8	4/4	1	1	I6	f	i		I6		I		6				M	1	1	4, 1, 0		0	4
 69	68	1/2	1/2	4/4	1	1	i6	f	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 69	68	3/4	3/4	4/4	1	1	VIM43	f	i		VIM43		VI	M	43				MM7	1	1	-3, 1, -4, 0		-4	-3
-69	68	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		M	1	1	1, 5, -5, -1		1	1
+69	68	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		Fr	1	1	1, 5, -5, -1		1	1
 70	69	0	0	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
 70	69	3/8	3/8	4/4	1	1	#viio2	f	i		#viio2		#vii	o	2				o7	1	1	-4, 5, 2, -1		5	-4
 70	69	1/2	1/2	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
@@ -401,9 +401,9 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 101	100	3/8	3/8	4/4	1	1	i7	f	iv	V	i7		i		7				mm7	1	1	0, -3, 1, -2		0	0
 101	100	1/2	1/2	4/4	1	1	V/v	f	iv	V	V/v		V				v		M	1	1	2, 6, 3		2	2
 102	101	0	0	4/4	1	1	V7	f	iv	V	V7		V		7				Mm7	1	1	1, 5, 2, -1		1	1
-102	101	3/8	3/8	4/4	1	1	.Ger6/iv	f	iv	V	Ger6/iv	Ger	vii	o	65	b3	V/iv		M	1	1	-5, -1, -4, 5		5	-5
+102	101	3/8	3/8	4/4	1	1	.Ger6/iv	f	iv	V	Ger6/iv	Ger	vii	o	65	b3	V/iv		Ger	1	1	-5, -1, -4, 5		5	-5
 102	101	1/2	1/2	4/4	1	1	I]	f	iv	V	I		I						M	1	1	0, 4, 1		0	0
-103	102	0	0	4/4	1	1	.Ger6/III	f	iv		Ger6/III	Ger	vii	o	65	b3	V/III		M	1	1	-7, -3, -6, 3		3	-7
+103	102	0	0	4/4	1	1	.Ger6/III	f	iv		Ger6/III	Ger	vii	o	65	b3	V/III		Ger	1	1	-7, -3, -6, 3		3	-7
 103	102	1/2	1/2	4/4	1	1	V/III}	f	iv		V/III		V				III	}	M	1	1	-2, 2, -1		-2	-2
 104	103	0	0	4/4	1	1	V7/VI{	f	iv		V7/VI		V		7		VI	{	Mm7	1	1	-3, 1, -2, -5		-3	-3
 104	103	1/2	1/2	4/4	1	1	V2/VI	f	iv		V2/VI		V		2		VI		Mm7	1	1	-5, -3, 1, -2		-3	-5
@@ -480,7 +480,7 @@ mc	mn	mc_onset	mn_onset	timesig	staff	voice	label	globalkey	localkey	pedal	chord
 125	124	3/8	3/8	4/4	1	1	I6	f	i		I6		I		6				M	1	1	4, 1, 0		0	4
 125	124	1/2	1/2	4/4	1	1	i6	f	i		i6		i		6				m	1	1	-3, 1, 0		0	-3
 125	124	3/4	3/4	4/4	1	1	VIM43	f	i		VIM43		VI	M	43				MM7	1	1	-3, 1, -4, 0		-4	-3
-125	124	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		M	1	1	1, 5, -5, -1		1	1
+125	124	7/8	7/8	4/4	1	1	.Fr6/iv	f	i		Fr6/iv	Fr	V		7	b5	V/iv		Fr	1	1	1, 5, -5, -1		1	1
 126	125	0	0	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
 126	125	3/8	3/8	4/4	1	1	#viio2	f	i		#viio2		#vii	o	2				o7	1	1	-4, 5, 2, -1		5	-4
 126	125	1/2	1/2	4/4	1	1	i64	f	i		i64		i		64				m	1	1	1, 0, -3		0	1
