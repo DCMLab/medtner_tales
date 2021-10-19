@@ -1,24 +1,47 @@
-path	filename	extension	md5	label_count	KeySig	TimeSig	composer	musescore	workTitle	lyricist	composed_start	composed_end	annotator	reviewer	score_integrity	pdf
-MS3/op08n01.mscx	op08n01	.mscx	bbda36827998249405ba488528f15af3	247	-3	4/8	Medtner	3.4.2	Zwei Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/5790
-MS3/op14n01.mscx	op14n01	.mscx	f4db57024719f9f1b80e48ec5c7e5434	269	-4	2/4	Medtner	3.4.2	Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/5801
-MS3/op26n01.mscx	op26n01	.mscx	1c077f7a112647d23e47e8a8e0831429	199	-3	4/4		3.4.2	Vier Märchen		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/7077
-MS3/op26n02.mscx	op26n02	.mscx	958aad478469a281076847fca2815ab3	174	-3	2/4		3.4.2			1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/7077
-MS3/op26n03.mscx	op26n03	.mscx	9cdc0b902aa21484431e319bc93de34c	140	-4	3/4		3.4.2	III	N arrante a piacere q=92=100	1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/7077
-MS3/op26n04.mscx	op26n04	.mscx	df1d1081f416d08f284d086ccdcd23af	279	3	4/4, 2/4, 4/4		3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/7077
-MS3/op34n01.mscx	op34n01	.mscx	baf2c46b01c5c00d7b6aa76f286c2764	679	2, 5, 0, 2, 5, 2	3/4, 2/2, 3/4	Op.34	3.4.2	"VIER MÄRCHEN OP. 34
-I"		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8811
-MS3/op34n02.mscx	op34n02	.mscx	c4f9d1b403e49972da5081e415db8afb	215	1	4/4	Op.34	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8811
-MS3/op34n03.mscx	op34n03	.mscx	7d3c2abbadc401fcf160869ecdc0bdbd	420	4, 0	2/4	Op.34	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8811
-MS3/op34n04.mscx	op34n04	.mscx	06885d4207d221b05561abf14181fd10	360	-1, 2	4/4, 9/8, 4/4	Medtner Op.34	3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8811
-MS3/op35n01.mscx	op35n01	.mscx	8f92538e6844b6b94203ab2683360cfe	263		2/4	Op.35	3.4.2	"VIER MÄRCHEN Op. 35
-I"		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8879
-MS3/op35n02.mscx	op35n02	.mscx	8ef0a46c878250df5494e0eac35474fb	380	1, 2	2/4, 2/4, 2/4	Op.35	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8879
-MS3/op35n03.mscx	op35n03	.mscx	76b87b2a4e87bbbbd0316b22e0b377b1	322	-1, 0	4/4	Op.35	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8879
-MS3/op35n04.mscx	op35n04	.mscx	df6c1386f21356f0c624a764bc2f2678	471	4, 0, 4	4/4	Op.35	3.4.2	IV		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/8879
-MS3/op42n01.mscx	op42n01	.mscx	858d8cf1385de2b85c11912b98aefa20	514	-4, -3, -4, -5, -4	4/4		3.4.2	"Medtner Op.42
-I"		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/9103
-MS3/op42n02.mscx	op42n02	.mscx	72bdd7aca430cb96677ecc61d3b70be0	205	-4	6/8	Op.42	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/9103
-MS3/op42n03.mscx	op42n03	.mscx	01a1f30865e47a3f60efb6c7c0692d71	552	5, -3, 5	6/8, 3/8, 6/8	Op.42	3.4.2	III		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/9103
-MS3/op48n01.mscx	op48n01	.mscx	ed0aeb2e203346a00e77463613bd7599	1013	-3, 0	3/8, 4/4, 3/8, 2/8, 3/8	Op.48	3.4.2	"Medtner Op.48
-I"		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/22160
-MS3/op48n02.mscx	op48n02	.mscx	d01d30797e26ca74b7efda04edecabd3	306	-2	3/4, 3/4	Op.48	3.4.2	II		1904	1925	Wendelin Bitzan	Adrian Nagel	Tom Schreyer	https://imslp.org/wiki/Special:ReverseLookup/22160
+		last_mc	last_mn	KeySig	TimeSig	label_count	annotated_key	composer	workTitle	movementNumber	movementTitle	workNumber	poet	lyricist	arranger	copyright	creationDate	platform	source	translator	musescore	ambitus	annotator	composed_end	composed_start	extension	md5	originalFormat	pdf	reviewer	score_integrity	staff_1_ambitus	staff_1_instrument	staff_2_ambitus	staff_2_instrument	staff_3_ambitus	staff_3_instrument
+MS3	op08n01	81	81	1: -3	1: 4/8	255	c	Medtner	Zwei Märchen								2017-10-21	Apple Macintosh			3.4.2	22-87 (Bb0-Eb6)										47-87 (B2-Eb6)	Piano	22-77 (Bb0-F5)	Piano		
+MS3	op14n01	86	85	1: -4	1: 2/4	274	f	Medtner	Märchen								2017-10-23	Apple Macintosh			3.4.2	24-84 (C1-C6)										51-84 (Eb3-C6)	Klavier	24-65 (C1-F4)	Klavier		
+MS3	op26n01	48	47	1: -3	1: 4/4	199	Eb		Vier Märchen								2019-02-04	Apple Macintosh			3.4.2	27-91 (Eb1-G6)						xml				39-91 (Eb2-G6)	Piano (2)	27-77 (Eb1-F5)	Piano (2)		
+MS3	op26n02	65	65	1: -3	1: 2/4	177	Eb										2019-02-04	Apple Macintosh			3.4.2	22-93 (Bb0-A6)						xml				43-93 (G2-A6)	Piano (2)	22-84 (Bb0-C6)	Piano (2)		
+MS3	op26n03	81	81	1: -4	1: 3/4	143	f		III					N arrante a piacere q=92=100			2019-02-04	Apple Macintosh			3.4.2	29-90 (F1-F#6)						xml				53-90 (F3-F#6)	Piano (2)	29-80 (F1-Ab5)	Piano (2)		
+MS3	op26n04	78	77	1: 3	1: 4/4, 16: 2/4, 57: 4/4	275	f#		IV								2019-02-04	Apple Macintosh			3.4.2	25-95 (C#1-B6)						xml				33-95 (A1-B6)	Piano (2)	25-81 (C#1-A5)	Piano (2)		
+MS3	op34n01	237	237	1: 2, 143: 5, 164: 0, 185: 2, 197: 5, 223: 2	1: 3/4, 143: 2/2, 223: 3/4	681	b	Op.34	"VIER MÄRCHEN OP. 34
+I"								2019-02-04	Apple Macintosh			3.4.2	25-95 (C#1-B6)						xml				35-95 (B1-B6)	Piano (2)	25-77 (C#1-F5)	Piano (2)		
+MS3	op34n02	48	48	1: 1	1: 4/4	215	e	Op.34	II								2019-02-04	Apple Macintosh			3.4.2	33-91 (A1-G6)						xml				54-91 (F#3-G6)	Piano (2)	33-90 (A1-F#6)	Piano (2)		
+MS3	op34n03	144	144	1: 0, 33: 4, 92: 0	1: 2/4	425	a	Op.34	III								2019-02-04	Apple Macintosh			3.4.2	21-95 (A0-B6)						xml				40-95 (E2-B6)	Piano (2)	21-88 (A0-E6)	Piano (2)	34-91 (Bb1-G6)	Piano (2)
+MS3	op34n04	61	61	1: -1, 48: 2	1: 4/4, 58: 9/8, 59: 4/4	365	d	Medtner Op.34	IV								2019-02-04	Apple Macintosh			3.4.2	25-94 (C#1-Bb6)						xml				40-94 (E2-Bb6)	Piano (2)	25-86 (C#1-D6)	Piano (2)		
+MS3	op35n01	76	75	1: 0	1: 2/4	266	C	Op.35	"VIER MÄRCHEN Op. 35
+I"								2019-02-04	Apple Macintosh			3.4.2	21-91 (A0-G6)						xml				44-91 (G#2-G6)	Piano (2)	21-88 (A0-E6)	Piano (2)		
+MS3	op35n02	141	139	1: 1, 54: 2	1: 2/4	382	G	Op.35	II								2019-02-04	Apple Macintosh			3.4.2	23-95 (B0-B6)						xml				40-95 (E2-B6)	Piano (2)	23-78 (B0-F#5)	Piano (2)		
+MS3	op35n03	80	80	1: 0, 46: -1, 60: 0	1: 4/4	325	a	Op.35	III								2019-02-04	Apple Macintosh			3.4.2	29-93 (F1-A6)						xml				40-93 (E2-A6)	Piano (2)	29-81 (F1-A5)	Piano (2)		
+MS3	op35n04	122	122	1: 4, 27: 0, 67: 4	1: 4/4	470	c#	Op.35	IV								2019-02-04	Apple Macintosh			3.4.2	24-97 (C1-C#7)						xml				32-97 (G#1-C#7)	Piano (2)	24-76 (C1-E5)	Piano (2)	38-68 (D2-G#4)	Piano (2)
+MS3	op42n01	135	134	1: -4, 34: -3, 56: -4, 72: -5, 112: -4	1: 4/4	515	f		"Medtner Op.42
+I"								2019-02-04	Apple Macintosh			3.4.2	27-89 (Eb1-F6)						xml				46-89 (Bb2-F6)	Piano (2)	27-84 (Eb1-C6)	Piano (2)		
+MS3	op42n02	67	67	1: -4	1: 6/8	205	c	Op.42	II								2019-02-04	Apple Macintosh			3.4.2	31-96 (G1-C7)						xml				48-96 (C3-C7)	Piano (2)	31-89 (G1-F6)	Piano (2)		
+MS3	op42n03	183	182	1: 5, 101: -3, 130: 5	1: 6/8, 105: 3/8, 120: 6/8	552	g#	Op.42	III								2019-02-04	Apple Macintosh			3.4.2	27-95 (Eb1-B6)						xml				39-95 (D#2-B6)	Piano (2)	27-90 (Eb1-F#6)	Piano (2)		
+MS3	op48n01	554	553	1: 0, 343: -3, 369: 0	1: 3/8, 343: 4/4, 376: 3/8, 465: 2/8, 482: 3/8	1020	C	Op.48	"Medtner Op.48
+I"								2019-02-04	Apple Macintosh			3.4.2	22-100 (Bb0-E7)						xml				38-100 (D2-E7)	Piano (2)	22-79 (Bb0-G5)	Piano (2)		
+MS3	op48n02	187	186	1: -2	1: 3/4	307	g	Op.48	II								2019-02-04	Apple Macintosh			3.4.2	21-93 (A0-A6)						xml				47-93 (B2-A6)	Piano (2)	21-86 (A0-D6)	Piano (2)		
+MS3/op08n01.mscx	op08n01			-3	4/8	247		Medtner	Zwei Märchen												3.4.2		Wendelin Bitzan	1925	1904	.mscx	bbda36827998249405ba488528f15af3		https://imslp.org/wiki/Special:ReverseLookup/5790	Adrian Nagel	Tom Schreyer						
+MS3/op14n01.mscx	op14n01			-4	2/4	269		Medtner	Märchen												3.4.2		Wendelin Bitzan	1925	1904	.mscx	f4db57024719f9f1b80e48ec5c7e5434		https://imslp.org/wiki/Special:ReverseLookup/5801	Adrian Nagel	Tom Schreyer						
+MS3/op26n01.mscx	op26n01			-3	4/4	199			Vier Märchen												3.4.2		Wendelin Bitzan	1925	1904	.mscx	1c077f7a112647d23e47e8a8e0831429		https://imslp.org/wiki/Special:ReverseLookup/7077	Adrian Nagel	Tom Schreyer						
+MS3/op26n02.mscx	op26n02			-3	2/4	174															3.4.2		Wendelin Bitzan	1925	1904	.mscx	958aad478469a281076847fca2815ab3		https://imslp.org/wiki/Special:ReverseLookup/7077	Adrian Nagel	Tom Schreyer						
+MS3/op26n03.mscx	op26n03			-4	3/4	140			III					N arrante a piacere q=92=100							3.4.2		Wendelin Bitzan	1925	1904	.mscx	9cdc0b902aa21484431e319bc93de34c		https://imslp.org/wiki/Special:ReverseLookup/7077	Adrian Nagel	Tom Schreyer						
+MS3/op26n04.mscx	op26n04			3	4/4, 2/4, 4/4	279			IV												3.4.2		Wendelin Bitzan	1925	1904	.mscx	df1d1081f416d08f284d086ccdcd23af		https://imslp.org/wiki/Special:ReverseLookup/7077	Adrian Nagel	Tom Schreyer						
+MS3/op34n01.mscx	op34n01			2, 5, 0, 2, 5, 2	3/4, 2/2, 3/4	679		Op.34	"VIER MÄRCHEN OP. 34
+I"												3.4.2		Wendelin Bitzan	1925	1904	.mscx	baf2c46b01c5c00d7b6aa76f286c2764		https://imslp.org/wiki/Special:ReverseLookup/8811	Adrian Nagel	Tom Schreyer						
+MS3/op34n02.mscx	op34n02			1	4/4	215		Op.34	II												3.4.2		Wendelin Bitzan	1925	1904	.mscx	c4f9d1b403e49972da5081e415db8afb		https://imslp.org/wiki/Special:ReverseLookup/8811	Adrian Nagel	Tom Schreyer						
+MS3/op34n03.mscx	op34n03			4, 0	2/4	420		Op.34	III												3.4.2		Wendelin Bitzan	1925	1904	.mscx	7d3c2abbadc401fcf160869ecdc0bdbd		https://imslp.org/wiki/Special:ReverseLookup/8811	Adrian Nagel	Tom Schreyer						
+MS3/op34n04.mscx	op34n04			-1, 2	4/4, 9/8, 4/4	360		Medtner Op.34	IV												3.4.2		Wendelin Bitzan	1925	1904	.mscx	06885d4207d221b05561abf14181fd10		https://imslp.org/wiki/Special:ReverseLookup/8811	Adrian Nagel	Tom Schreyer						
+MS3/op35n01.mscx	op35n01				2/4	263		Op.35	"VIER MÄRCHEN Op. 35
+I"												3.4.2		Wendelin Bitzan	1925	1904	.mscx	8f92538e6844b6b94203ab2683360cfe		https://imslp.org/wiki/Special:ReverseLookup/8879	Adrian Nagel	Tom Schreyer						
+MS3/op35n02.mscx	op35n02			1, 2	2/4, 2/4, 2/4	380		Op.35	II												3.4.2		Wendelin Bitzan	1925	1904	.mscx	8ef0a46c878250df5494e0eac35474fb		https://imslp.org/wiki/Special:ReverseLookup/8879	Adrian Nagel	Tom Schreyer						
+MS3/op35n03.mscx	op35n03			-1, 0	4/4	322		Op.35	III												3.4.2		Wendelin Bitzan	1925	1904	.mscx	76b87b2a4e87bbbbd0316b22e0b377b1		https://imslp.org/wiki/Special:ReverseLookup/8879	Adrian Nagel	Tom Schreyer						
+MS3/op35n04.mscx	op35n04			4, 0, 4	4/4	471		Op.35	IV												3.4.2		Wendelin Bitzan	1925	1904	.mscx	df6c1386f21356f0c624a764bc2f2678		https://imslp.org/wiki/Special:ReverseLookup/8879	Adrian Nagel	Tom Schreyer						
+MS3/op42n01.mscx	op42n01			-4, -3, -4, -5, -4	4/4	514			"Medtner Op.42
+I"												3.4.2		Wendelin Bitzan	1925	1904	.mscx	858d8cf1385de2b85c11912b98aefa20		https://imslp.org/wiki/Special:ReverseLookup/9103	Adrian Nagel	Tom Schreyer						
+MS3/op42n02.mscx	op42n02			-4	6/8	205		Op.42	II												3.4.2		Wendelin Bitzan	1925	1904	.mscx	72bdd7aca430cb96677ecc61d3b70be0		https://imslp.org/wiki/Special:ReverseLookup/9103	Adrian Nagel	Tom Schreyer						
+MS3/op42n03.mscx	op42n03			5, -3, 5	6/8, 3/8, 6/8	552		Op.42	III												3.4.2		Wendelin Bitzan	1925	1904	.mscx	01a1f30865e47a3f60efb6c7c0692d71		https://imslp.org/wiki/Special:ReverseLookup/9103	Adrian Nagel	Tom Schreyer						
+MS3/op48n01.mscx	op48n01			-3, 0	3/8, 4/4, 3/8, 2/8, 3/8	1013		Op.48	"Medtner Op.48
+I"												3.4.2		Wendelin Bitzan	1925	1904	.mscx	ed0aeb2e203346a00e77463613bd7599		https://imslp.org/wiki/Special:ReverseLookup/22160	Adrian Nagel	Tom Schreyer						
+MS3/op48n02.mscx	op48n02			-2	3/4, 3/4	306		Op.48	II												3.4.2		Wendelin Bitzan	1925	1904	.mscx	d01d30797e26ca74b7efda04edecabd3		https://imslp.org/wiki/Special:ReverseLookup/22160	Adrian Nagel	Tom Schreyer						
