@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -62,6 +63,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -529,7 +532,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <offset x="0.658281" y="2.80078"/>
               </Articulation>
             <Note>
               <Accidental>
@@ -565,7 +567,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
-              <offset x="0.658281" y="2.20078"/>
               </Articulation>
             <Note>
               <pitch>48</pitch>
@@ -11500,7 +11501,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b9)/V</name>
+            <name>V65(b9+b3)/V-Fr65(+b3)</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -11540,10 +11541,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65/V</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -11560,7 +11557,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(b9)/V</name>
-            <offset x="0" y="-3.21524"/>
+            <offset x="-2.92495" y="10.8406"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11588,7 +11585,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <offset x="0.788281" y="11.6992"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -11615,7 +11611,6 @@
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoAbove</subtype>
-              <offset x="0.788281" y="13.6992"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -17026,15 +17021,10 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="-0.448121" y="-4.42172"/>
                 <off2 x="-3.15829" y="0"/>
                 <minDistance>0</minDistance>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-2.57981"/>
-                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
