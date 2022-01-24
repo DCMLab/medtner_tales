@@ -12065,7 +12065,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2</name>
+            <name>iv43</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -12143,10 +12143,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
