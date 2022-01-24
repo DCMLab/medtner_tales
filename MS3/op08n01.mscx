@@ -3,16 +3,19 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26771</pageWidth>
+      <pageWidth>8.26772</pageWidth>
       <pageHeight>11.6929</pageHeight>
       <pagePrintableWidth>7.48031</pagePrintableWidth>
-      <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddBottomMargin>0.787403</pageOddBottomMargin>
+      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
+      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
+      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
+      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
+      <pageOddTopMargin>0.393701</pageOddTopMargin>
+      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
       <minSystemDistance>15</minSystemDistance>
       <maxSystemDistance>20</maxSystemDistance>
       <lyricsMinDistance>0.25</lyricsMinDistance>
@@ -201,7 +204,7 @@
       <instrumentChangeFrameWidth>0</instrumentChangeFrameWidth>
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.18</Spatium>
+      <Spatium>1.201</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -309,7 +312,6 @@
         </VBox>
       <Measure>
         <stretch>0.9</stretch>
-        <vspacerDown>11</vspacerDown>
         <voice>
           <KeySig>
             <accidental>-3</accidental>
@@ -674,7 +676,8 @@
             </Chord>
           <SystemText>
             <placement>below</placement>
-            <offset x="-0.320801" y="24.7474"/>
+            <minDistance>-0.0527525</minDistance>
+            <offset x="-0.768922" y="8.61504"/>
             <text><i><font size="9"></font>staccato pochissimo</i></text>
             </SystemText>
           <Chord>
@@ -1161,7 +1164,7 @@
             <offset x="2.90592" y="1.5711"/>
             </Dynamic>
           <Chord>
-            <offset x="1.49492" y="0"/>
+            <offset x="1.46878" y="0"/>
             <durationType>eighth</durationType>
             <Note>
               <Spanner type="Tie">
@@ -2487,7 +2490,7 @@
         <stretch>0.9</stretch>
         <voice>
           <Chord>
-            <offset x="3.73729" y="0"/>
+            <offset x="3.67194" y="0"/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -4329,11 +4332,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-4.77558"/>
-                <off2 x="-4.59728" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4355,9 +4353,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <offset x="0" y="-0.7"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -4718,7 +4713,7 @@
             </location>
           <SystemText>
             <placement>below</placement>
-            <offset x="-2.85278" y="24.9179"/>
+            <offset x="-1.20967" y="6.39556"/>
             <text><i>legatissimo</i></text>
             </SystemText>
           <location>
@@ -5425,7 +5420,7 @@
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
-            <offset x="1.49492" y="0"/>
+            <offset x="1.46878" y="0"/>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -5592,7 +5587,7 @@
               </Note>
             </Chord>
           <Chord>
-            <offset x="-3.73729" y="0"/>
+            <offset x="-3.67194" y="0"/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -6051,11 +6046,11 @@
         <voice>
           <SystemText>
             <placement>below</placement>
-            <offset x="-0.950925" y="5.2424"/>
+            <offset x="-3.49028" y="3.44992"/>
             <text><i>crescendo</i></text>
             </SystemText>
           <Chord>
-            <offset x="-2.24237" y="0"/>
+            <offset x="-2.20316" y="0"/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -6420,12 +6415,18 @@
         <voice>
           <SystemText>
             <placement>below</placement>
-            <offset x="-0.190185" y="23.5002"/>
+            <offset x="-0.190185" y="8.26408"/>
             <text><i>legatissimo</i></text>
             </SystemText>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.298747" y="5.41234"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-0.196242</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -9617,7 +9618,7 @@
               </Note>
             </Chord>
           <Chord>
-            <offset x="2.24237" y="0"/>
+            <offset x="2.20316" y="0"/>
             <durationType>eighth</durationType>
             <Note>
               <pitch>67</pitch>
@@ -11136,7 +11137,7 @@
             <fractions>1/8</fractions>
             </location>
           <Chord>
-            <offset x="2.24237" y="0"/>
+            <offset x="2.20316" y="0"/>
             <durationType>quarter</durationType>
             <Note>
               <Spanner type="Tie">
@@ -12098,7 +12099,7 @@
               </next>
             </Spanner>
           <Chord>
-            <offset x="-1.49492" y="0"/>
+            <offset x="-1.46878" y="0"/>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -12146,7 +12147,7 @@
               <veloType>user</veloType>
               </Note>
             <Arpeggio>
-              <offset x="-1.77842" y="-6.05094"/>
+              <offset x="-1.74732" y="-5.94514"/>
               <subtype>0</subtype>
               </Arpeggio>
             </Chord>
@@ -14411,7 +14412,7 @@
             <offset x="0.520116" y="-3.05073"/>
             </Dynamic>
           <StaffText>
-            <offset x="2.59343" y="-4.27803"/>
+            <offset x="2.7428" y="-4.27803"/>
             <text>crescendo</text>
             </StaffText>
           <Harmony>
@@ -15791,7 +15792,7 @@
             <durationType>16th</durationType>
             </Rest>
           <Chord>
-            <offset x="1.49492" y="0"/>
+            <offset x="1.46878" y="0"/>
             <BeamMode>no</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -15802,6 +15803,7 @@
                   <TieSegment no="0">
                     <o2 x="0" y="-0.897801"/>
                     <o3 x="0" y="-0.897801"/>
+                    <offset x="0" y="-1.04562"/>
                     </TieSegment>
                   </Tie>
                 <next>
@@ -17021,9 +17023,14 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-5.81295"/>
                 <off2 x="-3.15829" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-2.57981"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -20695,7 +20702,7 @@
               </Note>
             </Chord>
           <Chord>
-            <offset x="0.149492" y="0"/>
+            <offset x="0.146878" y="0"/>
             <durationType>eighth</durationType>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
