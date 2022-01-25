@@ -13870,7 +13870,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7(#94)</name>
+            <name>i(#9#74)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13892,6 +13892,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(#974)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
