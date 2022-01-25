@@ -15798,7 +15798,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/ii</name>
+            <name>V7(6)/ii-IV6(9#5)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -15834,7 +15834,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii%43</name>
+            <name>vii%43/IV</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -15863,7 +15863,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio43/V</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
