@@ -14832,7 +14832,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14850,7 +14850,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14893,7 +14893,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>V43</name>
+            <offset x="-1.49374" y="3.35063"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
