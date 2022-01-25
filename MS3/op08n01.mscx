@@ -14636,7 +14636,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/III</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14658,7 +14658,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14680,7 +14680,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
