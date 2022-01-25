@@ -15647,6 +15647,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv.vii%43/III-iv.ii%43</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
