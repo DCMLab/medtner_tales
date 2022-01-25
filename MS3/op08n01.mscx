@@ -4010,7 +4010,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.7359"/>
+                <offset x="-1.34436" y="7.28778"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -14280,7 +14280,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#6)</name>
+            <name>i(+#6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14340,7 +14340,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64-i(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
