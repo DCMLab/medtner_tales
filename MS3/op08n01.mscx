@@ -15986,7 +15986,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>It6</name>
+            <name>Fr6(7)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -16095,7 +16095,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(13)/ii</name>
+            <name>V7(6)/ii-IV6(9#5)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -16123,7 +16123,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii%43</name>
+            <name>vii%43/IV</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16179,7 +16179,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio43/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
