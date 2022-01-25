@@ -13664,7 +13664,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13688,6 +13688,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
