@@ -11,12 +11,6 @@
       <pageWidth>8.26772</pageWidth>
       <pageHeight>11.6929</pageHeight>
       <pagePrintableWidth>7.48031</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
       <minSystemDistance>15</minSystemDistance>
       <maxSystemDistance>20</maxSystemDistance>
       <lyricsMinDistance>0.25</lyricsMinDistance>
@@ -14183,7 +14177,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio</name>
+            <name>viio/VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
