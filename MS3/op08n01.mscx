@@ -15363,7 +15363,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7(94)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15372,6 +15372,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
