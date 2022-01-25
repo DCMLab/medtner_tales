@@ -15526,7 +15526,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>vii%7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15538,7 +15538,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>vii%65</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -15557,7 +15557,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15575,7 +15575,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>viio64</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15599,7 +15599,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>V(964)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15631,7 +15631,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43</name>
+            <name>V(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
