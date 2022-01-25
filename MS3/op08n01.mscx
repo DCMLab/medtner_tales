@@ -13217,7 +13217,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+/III</name>
+            <name>bVI+/III-i(#0)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
