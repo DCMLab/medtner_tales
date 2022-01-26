@@ -20357,6 +20357,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio64/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -20376,7 +20380,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>V6(b5)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
