@@ -19442,7 +19442,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIIM7</name>
+            <name>VIM7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -19548,7 +19548,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b3)/V</name>
+            <name>V7(+b3)/V-Fr7(+b3)</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Chord>
