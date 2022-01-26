@@ -18353,7 +18353,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>bII(97){</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -18371,7 +18371,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
