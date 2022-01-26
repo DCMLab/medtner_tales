@@ -17986,8 +17986,8 @@
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>34</pitch>
-              <tpc>12</tpc>
+              <pitch>32</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18197,7 +18197,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(#4)</name>
+            <name>bII(4)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
