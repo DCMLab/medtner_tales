@@ -19757,7 +19757,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>i6(6)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19786,7 +19786,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>i6(11#6)-V2/VII</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -19869,7 +19869,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>iv/VII-ii%65/VII</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -19958,7 +19958,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6/vii</name>
+            <name>bII6/VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
