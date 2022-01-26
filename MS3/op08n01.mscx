@@ -7385,6 +7385,12 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>9.17531</y1>
+              <y2>8.17531</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -16756,7 +16762,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/v</name>
+            <name>Fr6/V</name>
             <offset x="-0.13276" y="-10.1242"/>
             </Harmony>
           <Chord>
@@ -16789,7 +16795,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/v</name>
+            <name>#viio65/V</name>
             <offset x="-1" y="-10"/>
             </Harmony>
           <Chord>
