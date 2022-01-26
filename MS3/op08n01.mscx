@@ -11501,7 +11501,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b9+b3)/V-Fr65(+b3)</name>
+            <name>V65(b5+b3)/V-Fr65(+b3)</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -20842,7 +20842,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b9)/V</name>
+            <name>V65(b5+b3)/V-Fr65(+b3)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20854,10 +20854,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65/V</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
