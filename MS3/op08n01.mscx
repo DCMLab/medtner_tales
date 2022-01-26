@@ -19226,7 +19226,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/VI</name>
+            <name>V(9)/VI-iv2</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19259,10 +19259,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
