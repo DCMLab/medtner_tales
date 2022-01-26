@@ -9434,8 +9434,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -9448,8 +9448,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>84</pitch>
-              <tpc>14</tpc>
+              <pitch>80</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           </voice>
@@ -9503,8 +9503,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>79</pitch>
+              <tpc>15</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -9515,8 +9515,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>84</pitch>
-              <tpc>14</tpc>
+              <pitch>80</pitch>
+              <tpc>10</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18942,7 +18942,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/III</name>
+            <name>V7(139)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18979,7 +18979,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/VI}</name>
+            <name>V7(6+4)/VI}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
