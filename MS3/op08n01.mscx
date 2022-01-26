@@ -20614,7 +20614,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vo64</name>
+            <name>V64(#7b5)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20631,7 +20631,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii64</name>
+            <name>V6(#6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
