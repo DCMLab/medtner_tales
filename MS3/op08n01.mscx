@@ -20477,7 +20477,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vo64</name>
+            <name>V64(#7b5)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20500,7 +20500,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65(b5)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -20553,7 +20553,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI+64</name>
+            <name>I(6)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
