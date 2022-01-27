@@ -3630,6 +3630,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-0.467888</y1>
+              <y2>-0.717888</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -11892,7 +11898,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-i(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12038,7 +12044,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-i(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
