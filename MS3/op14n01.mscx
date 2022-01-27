@@ -5397,8 +5397,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.77195</y1>
-              <y2>-2.02195</y2>
+              <y1>-1.31586</y1>
+              <y2>-1.56586</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13178,7 +13178,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-i(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13228,7 +13228,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13302,7 +13302,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13428,7 +13428,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-i(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
