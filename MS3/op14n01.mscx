@@ -14020,7 +14020,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(4)</name>
+            <name>i64(+4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14039,7 +14039,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(9)</name>
+            <name>i6(2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14143,7 +14143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2</name>
+            <name>#vi%2-v(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14231,7 +14231,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>IV64-i(#64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14340,7 +14340,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>I/VII</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -14369,7 +14369,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(9)}</name>
+            <name>I(9)/VII|IAC}</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
