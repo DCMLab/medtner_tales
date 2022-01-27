@@ -201,20 +201,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-23</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -3830,6 +3829,13 @@
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
                   <o4 x="0.521267" y="-0.521267"/>
@@ -3841,13 +3847,6 @@
                   <measures>1</measures>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
               </Spanner>
             <Note>
               <pitch>70</pitch>
@@ -8421,7 +8420,6 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <voices>1</voices>
                   <fractions>-1/8</fractions>
                   </location>
                 </prev>
@@ -8437,6 +8435,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
+                  <voices>1</voices>
                   <fractions>-1/8</fractions>
                   </location>
                 </prev>
