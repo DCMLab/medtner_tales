@@ -16252,7 +16252,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(9){</name>
+            <name>ii6/III{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16313,7 +16313,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16382,7 +16382,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>vi/III</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -16414,7 +16414,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>IV/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16430,6 +16430,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(6)/III</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -16447,7 +16451,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii7/III-iv7</name>
+            <offset x="-3.64877" y="5.96131"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -17075,6 +17080,8 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
