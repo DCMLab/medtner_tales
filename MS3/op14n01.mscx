@@ -5397,8 +5397,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.31586</y1>
-              <y2>-1.56586</y2>
+              <y1>-1.46789</y1>
+              <y2>-1.71789</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13535,7 +13535,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM43</name>
+            <name>VIM43-i6(+6)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
