@@ -11694,6 +11694,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <offset x="0" y="5.53933"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11743,7 +11744,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>ii7-iv7/vi</name>
+            <minDistance>0.300734</minDistance>
+            <offset x="-3.49674" y="7.84704"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11765,7 +11768,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>v.i6</name>
+            <minDistance>0.248101</minDistance>
+            <offset x="-0.76016" y="7.84704"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11779,7 +11784,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7</name>
+            <minDistance>0.415383</minDistance>
+            <offset x="-0.38008" y="7.5764"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11802,7 +11809,8 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v}</name>
+            <name>i|PAC}</name>
+            <offset x="-2.73658" y="7.85849"/>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -11862,7 +11870,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i[i{</name>
+            <name>i[i{</name>
+            <minDistance>-5.80933</minDistance>
+            <offset x="0.304064" y="4.62025"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11921,7 +11931,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0.0950925" y="3.43564"/>
+            <offset x="1.5394" y="5.48202"/>
             <text>una corda
 </text>
             </StaffText>
