@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -809,13 +810,8 @@
               <subtype>3</subtype>
               <endText></endText>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="6.7577"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -952,7 +948,8 @@
         <voice>
           <SystemText>
             <placement>below</placement>
-            <offset x="-1.14111" y="24.4511"/>
+            <minDistance>-1.45322</minDistance>
+            <offset x="-0.456966" y="5.14303"/>
             <text>poco</text>
             </SystemText>
           <Chord>
@@ -965,6 +962,11 @@
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="-0.4157" y="5.87873"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1031,11 +1033,6 @@
             </Chord>
           </voice>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="0.658281" y="5.95475"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -1872,9 +1869,6 @@
                 <SlurSegment no="0">
                   <o4 x="19.8081" y="0.39095"/>
                   <offset x="0.260633" y="-0.39095"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o4 x="-0.0950925" y="-0.285278"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3877,8 +3871,9 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.4939"/>
+                <offset x="-0.304064" y="5.82155"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0.554681</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -4010,7 +4005,8 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0.570555" y="6.38351"/>
+            <minDistance>-0.0325835</minDistance>
+            <offset x="-0.645702" y="5.31929"/>
             <text>cresc. risoluto</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -4260,7 +4256,7 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
-            <offset x="0.418811" y="6.6004"/>
+            <offset x="0.570843" y="4.82959"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -5746,7 +5742,7 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <offset x="0.891164" y="4.00746"/>
+            <offset x="0.435068" y="3.55136"/>
             </Dynamic>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -5785,7 +5781,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="0.858167" y="6.3848"/>
+            <offset x="-1.57435" y="4.25635"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -7048,8 +7044,6 @@
                 </location>
               </next>
             </Spanner>
-          <Beam>
-            </Beam>
           <Chord>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -7643,7 +7637,8 @@
         <voice>
           <SystemText>
             <placement>below</placement>
-            <offset x="0.864477" y="5.29426"/>
+            <minDistance>0.302736</minDistance>
+            <offset x="0.541968" y="2.71419"/>
             <text>crescendo</text>
             </SystemText>
           <Chord>
@@ -7795,6 +7790,11 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="-0.161254" y="5.91266"/>
+                  <o4 x="-0.456096" y="6.84144"/>
+                  <offset x="0.107503" y="-7.63271"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -7855,7 +7855,7 @@
               </Spanner>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
-              <offset x="1.04923" y="-4.48405"/>
+              <offset x="-0.294556" y="2.39614"/>
               </Articulation>
             <Note>
               <pitch>72</pitch>
@@ -7872,7 +7872,8 @@
             </Chord>
           <SystemText>
             <placement>below</placement>
-            <offset x="-0.172895" y="5.12137"/>
+            <minDistance>0.346323</minDistance>
+            <offset x="-0.280398" y="3.40132"/>
             <text>piano</text>
             </SystemText>
           <Chord>
@@ -8555,7 +8556,7 @@
         <voice>
           <SystemText>
             <placement>below</placement>
-            <offset x="0.432239" y="10.3082"/>
+            <offset x="0.10973" y="3.21301"/>
             <text>espress.</text>
             </SystemText>
           <Chord>
@@ -8592,6 +8593,8 @@
             <subtype>pp</subtype>
             <velocity>33</velocity>
             <autoplace>0</autoplace>
+            <offset x="2.06399" y="3.10821"/>
+            <placement>above</placement>
             <placement>above</placement>
             <offset x="2.06399" y="3.10821"/>
             </Dynamic>
@@ -9113,7 +9116,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0" y="4.42979"/>
+            <offset x="-0.322509" y="3.13976"/>
             <text>ritenuto dimin.</text>
             </StaffText>
           <Chord>
@@ -12425,7 +12428,8 @@
               </Note>
             </Chord>
           <StaffText>
-            <offset x="0.76074" y="-7.49389"/>
+            <minDistance>-0.309315</minDistance>
+            <offset x="-2.58397" y="-5.82154"/>
             <text>dim.</text>
             </StaffText>
           <Chord>
@@ -13454,8 +13458,9 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-5.50314"/>
+                <offset x="-0.152032" y="-3.98282"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0.672819</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -13618,6 +13623,8 @@
       <Measure>
         <voice>
           <StaffText>
+            <minDistance>-2.54064</minDistance>
+            <offset x="2.43251" y="-2.997"/>
             <text>calando</text>
             </StaffText>
           <Harmony>
@@ -16508,6 +16515,7 @@
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
+            <StemDirection>down</StemDirection>
             <Note>
               <pitch>41</pitch>
               <tpc>13</tpc>
@@ -16522,6 +16530,9 @@
             </Chord>
           </voice>
         <voice>
+          <Beam>
+            <StemDirection>up</StemDirection>
+            </Beam>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -16534,7 +16545,7 @@
                 </next>
               </Spanner>
             <Articulation>
-              <subtype>articTenutoBelow</subtype>
+              <subtype>articTenutoAbove</subtype>
               </Articulation>
             <Note>
               <pitch>48</pitch>
@@ -16551,7 +16562,7 @@
                 </prev>
               </Spanner>
             <Articulation>
-              <subtype>articTenutoBelow</subtype>
+              <subtype>articTenutoAbove</subtype>
               </Articulation>
             <Note>
               <pitch>53</pitch>
