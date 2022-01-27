@@ -3605,8 +3605,9 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-6.09823"/>
+                <offset x="0.076016" y="-5.81002"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-3.1864e-16</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -3632,8 +3633,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-0.467888</y1>
-              <y2>-0.717888</y2>
+              <y1>-1.30406</y1>
+              <y2>-1.55406</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3985,6 +3986,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.61992</y1>
+              <y2>-1.86992</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -12220,7 +12227,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-i(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
