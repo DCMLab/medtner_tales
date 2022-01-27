@@ -11130,7 +11130,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv65{</name>
+            <name>ii65{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11158,7 +11158,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11174,7 +11174,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11193,7 +11193,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11217,7 +11217,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio</name>
+            <name>viio/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11247,7 +11247,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>V(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11260,9 +11260,19 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>V7</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
