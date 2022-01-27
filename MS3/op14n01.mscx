@@ -13712,7 +13712,9 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7</name>
+            <name>i.v7/v-i.ii7</name>
+            <minDistance>0.0675105</minDistance>
+            <offset x="-5.39714" y="3.75968"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -13765,7 +13767,9 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)/iv}</name>
+            <name>V43(6)|HC}</name>
+            <minDistance>-1.82113</minDistance>
+            <offset x="-0.608128" y="6.86012"/>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -13800,7 +13804,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV65/iv{</name>
+            <name>IV65{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13834,7 +13838,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>i64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13853,7 +13857,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i(9)</name>
+            <name>i(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
