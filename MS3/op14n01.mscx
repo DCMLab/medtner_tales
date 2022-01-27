@@ -9691,7 +9691,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>IV64-i(#64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
