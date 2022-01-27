@@ -1164,22 +1164,6 @@
       <Measure>
         <voice>
           <Chord>
-            <durationType>eighth</durationType>
-            <acciaccatura/>
-            <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <prev>
@@ -1190,13 +1174,6 @@
                 </prev>
               </Spanner>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <grace>0</grace>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>72</pitch>
               <tpc>14</tpc>
               </Note>
