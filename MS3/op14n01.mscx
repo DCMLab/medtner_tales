@@ -16116,7 +16116,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16186,7 +16186,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
