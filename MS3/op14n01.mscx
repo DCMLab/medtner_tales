@@ -11272,7 +11272,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi-ii/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11298,7 +11298,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/VII</name>
+            <name>VII.V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -11310,7 +11310,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/VII</name>
+            <name>V7(94)</name>
+            <offset x="0" y="4.71626"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11337,7 +11338,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/VII</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -11349,7 +11350,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/VII</name>
+            <name>V7(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11382,7 +11383,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/VII</name>
+            <name>V(64)</name>
             <offset x="0" y="-8"/>
             </Harmony>
           <Chord>
@@ -11392,6 +11393,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(94)</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -11399,9 +11404,19 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7(94)</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
             <offset x="-0.854296" y="-4.58614"/>
             </Harmony>
           <Chord>
@@ -11455,7 +11470,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
