@@ -9692,6 +9692,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV64-i(#64)</name>
+            <offset x="0.430012" y="4.89754"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9718,7 +9719,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/VII</name>
-            <offset x="-1.90296" y="-6.12686"/>
+            <offset x="-3.73051" y="3.72445"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9743,6 +9744,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(964)/VII</name>
+            <minDistance>-3.3701</minDistance>
+            <offset x="0.860023" y="7.01117"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9754,6 +9757,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)/VII</name>
+            <offset x="-0.76016" y="5.92333"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9794,7 +9798,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>I/VII</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -9824,7 +9828,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(9)}</name>
+            <name>I(9)/VII|IAC}</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
