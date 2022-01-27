@@ -9584,7 +9584,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7</name>
+            <name>IIIM7-i6(72)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9599,7 +9599,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2</name>
+            <name>#vi%2-v(94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
