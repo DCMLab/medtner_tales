@@ -58,6 +58,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -324,11 +326,11 @@
           <Tempo>
             <tempo>1</tempo>
             <followText>1</followText>
-            <offset x="14.257" y="-3.5509"/>
+            <offset x="12.7367" y="-4.94798"/>
             <text><sym>metNoteQuarterUp</sym> = 60</text>
             </Tempo>
           <StaffText>
-            <offset x="-3.79704" y="-5.39852"/>
+            <offset x="-11.4747" y="-6.08266"/>
             <text>Andantino con moto</text>
             </StaffText>
           <Dynamic>
@@ -9292,7 +9294,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64-V(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
