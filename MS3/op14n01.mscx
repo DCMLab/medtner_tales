@@ -10051,7 +10051,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(4)</name>
+            <name>i64(+4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
