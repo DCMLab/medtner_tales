@@ -12338,6 +12338,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0" y="4.98957"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -12385,7 +12386,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>V7(9)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
