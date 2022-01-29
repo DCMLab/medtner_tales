@@ -15282,7 +15282,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.77803" y="8.64477"/>
+            <offset x="-0.563024" y="11.5473"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15383,11 +15383,11 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)</name>
+            <name>V7(4)-I(4)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-1.12382" y="8.81767"/>
+            <offset x="-1.01632" y="11.9353"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15438,7 +15438,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15474,7 +15474,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>ii65</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
