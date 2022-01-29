@@ -15550,7 +15550,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV(9)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15595,7 +15595,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Tuplet>
@@ -15651,7 +15651,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio64-Fr6</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Tuplet>
