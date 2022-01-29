@@ -1630,6 +1630,12 @@
               </Number>
             <bracketType>2</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>-0.924971</y1>
+              <y2>-2.17497</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -9586,7 +9592,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9643,7 +9649,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9704,7 +9710,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(9)</name>
+            <name>IVM7(9)/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9743,7 +9749,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>IV/V</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -9765,7 +9771,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(#3)/V</name>
+            <name>Fr6/IV</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -9856,19 +9862,9 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/V</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>I/V|PAC}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
