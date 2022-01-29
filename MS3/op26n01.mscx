@@ -11435,7 +11435,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>ii(94)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11475,16 +11475,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -11498,10 +11488,6 @@
             <offset x="0.157178" y="-4.8146"/>
             <text><font size="9.2082"></font><font face="Plantin MT Std"></font>sopra</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii(94)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
