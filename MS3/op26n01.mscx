@@ -10278,7 +10278,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii7</name>
+            <name>V2/ii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10314,7 +10314,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)</name>
+            <name>ii65(+4)</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
