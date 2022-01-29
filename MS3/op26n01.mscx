@@ -15117,7 +15117,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii6(11)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15163,7 +15163,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-1.12382" y="9.16346"/>
+            <offset x="-0.908814" y="11.851"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15247,6 +15247,16 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/24</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM7(9)</name>
+            </Harmony>
+          <location>
+            <fractions>1/24</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
