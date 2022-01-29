@@ -10992,7 +10992,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.IV(9)</name>
+            <name>IVM7(9)/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11037,7 +11037,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV/V</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -11059,7 +11059,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(#3)</name>
+            <name>Fr6/IV</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11122,7 +11122,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11182,7 +11182,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>V.I64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
