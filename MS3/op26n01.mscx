@@ -8826,6 +8826,16 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/24</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM7(9)</name>
+            </Harmony>
+          <location>
+            <fractions>1/24</fractions>
+            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
