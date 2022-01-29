@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -3203,7 +3204,7 @@
               <next>
                 <location>
                   <measures>1</measures>
-                  <fractions>-19/24</fractions>
+                  <fractions>-5/6</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -3217,6 +3218,7 @@
           </voice>
         <voice>
           <Tuplet>
+            <offset x="-0.860023" y="2.61317"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3225,6 +3227,7 @@
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
+            <minDistance>0.328861</minDistance>
             </Tuplet>
           <Chord>
             <durationType>eighth</durationType>
@@ -3281,6 +3284,7 @@
             </Chord>
           <endTuplet/>
           <Tuplet>
+            <offset x="0.537515" y="0.469488"/>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
             <baseNote>eighth</baseNote>
@@ -3289,6 +3293,7 @@
               <text>3</text>
               </Number>
             <bracketType>1</bracketType>
+            <minDistance>-3.0476</minDistance>
             </Tuplet>
           <Chord>
             <durationType>quarter</durationType>
@@ -3353,11 +3358,16 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
+          <Tuplet>
+            <normalNotes>2</normalNotes>
+            <actualNotes>3</actualNotes>
+            <baseNote>eighth</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>3</text>
+              </Number>
+            </Tuplet>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
               <pitch>84</pitch>
@@ -3370,7 +3380,7 @@
               <prev>
                 <location>
                   <measures>-1</measures>
-                  <fractions>19/24</fractions>
+                  <fractions>5/6</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -3382,6 +3392,7 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <endTuplet/>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -3390,7 +3401,6 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
-            <bracketType>1</bracketType>
             </Tuplet>
           <Rest>
             <durationType>quarter</durationType>
@@ -3400,18 +3410,17 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0.314355" y="-0.157178"/>
+                  <o4 x="0" y="0.215006"/>
                   </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
                 <location>
                   <staves>1</staves>
-                  <fractions>7/24</fractions>
+                  <fractions>5/12</fractions>
                   </location>
                 </next>
               </Spanner>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -3420,7 +3429,6 @@
           <endTuplet/>
           <Chord>
             <durationType>eighth</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>60</pitch>
               <tpc>14</tpc>
@@ -3428,12 +3436,15 @@
             </Chord>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -6418,13 +6429,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-4.21027"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -11261,6 +11267,7 @@
               <style>Tuplet</style>
               <text>3</text>
               </Number>
+            <direction>down</direction>
             <bracketType>1</bracketType>
             </Tuplet>
           <Beam>
@@ -11704,7 +11711,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>V7(9)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11748,6 +11755,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(96)</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -11767,7 +11778,7 @@
               <prev>
                 <location>
                   <staves>-1</staves>
-                  <fractions>-7/24</fractions>
+                  <fractions>-5/12</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -11776,16 +11787,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
