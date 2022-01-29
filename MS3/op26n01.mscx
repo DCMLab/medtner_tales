@@ -13151,16 +13151,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(4)</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -13171,7 +13161,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(7)</name>
+            <name>ii65(2)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13207,7 +13197,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(6)</name>
+            <name>ii65</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
