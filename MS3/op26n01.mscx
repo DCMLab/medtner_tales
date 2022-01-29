@@ -4412,6 +4412,7 @@
       <Measure>
         <voice>
           <TimeSig>
+            <visible>0</visible>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
@@ -13239,6 +13240,7 @@
       <Measure>
         <voice>
           <TimeSig>
+            <visible>0</visible>
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
