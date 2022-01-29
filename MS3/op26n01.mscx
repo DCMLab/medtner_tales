@@ -8321,6 +8321,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(9)</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8358,6 +8362,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8503,6 +8511,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(9)</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8540,6 +8552,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
