@@ -6553,6 +6553,12 @@
               </Number>
             <bracketType>1</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>-4.1075</y1>
+              <y2>-4.3575</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -15827,7 +15833,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>iv(97)</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
