@@ -14573,7 +14573,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/v</name>
+            <name>ii7/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14651,7 +14651,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/#iii</name>
+            <name>#viio7/vi/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
