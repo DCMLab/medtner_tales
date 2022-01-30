@@ -17191,7 +17191,8 @@ Op.26</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
+            <name>IVM7-ii65(9)</name>
+            <offset x="-3.01008" y="3.5"/>
             </Harmony>
           </voice>
         <voice>
@@ -17450,7 +17451,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>IV64-I(+64)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
