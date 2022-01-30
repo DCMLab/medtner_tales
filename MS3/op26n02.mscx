@@ -6671,6 +6671,12 @@ Op.26</text>
                 </location>
               </prev>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-3.25</y1>
+              <y2>-4</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -6857,6 +6863,12 @@ Op.26</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>2.18001</y1>
+              <y2>1.43001</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7232,6 +7244,12 @@ Op.26</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-4.71249</y1>
+              <y2>-5.46249</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -7431,6 +7449,12 @@ Op.26</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-3.57251</y1>
+              <y2>-4.32251</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -15177,7 +15201,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)/III</name>
+            <name>iv(4)-ii(4)/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
