@@ -14797,7 +14797,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>#viio7(#4)/vi/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -14845,7 +14845,7 @@ Op.26</text>
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>vi.#viio43</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14871,7 +14871,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/iv</name>
+            <name>#viio65</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14945,7 +14945,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.#viio65</name>
+            <name>#viio65</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
