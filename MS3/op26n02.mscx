@@ -12297,7 +12297,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi7</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
