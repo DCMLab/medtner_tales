@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -3923,7 +3922,12 @@ Op.26</text>
               <subtype>2</subtype>
               <endText></endText>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="4"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="4"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -7136,7 +7140,12 @@ Op.26</text>
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -8708,8 +8717,18 @@ Op.26</text>
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-10.0654"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>2</subtype>
+                <offset x="0" y="-3"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -18757,7 +18776,7 @@ Op.26</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#IV6</name>
+            <name>V2/IV-V6/VII</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -18913,7 +18932,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#IV64</name>
+            <name>V64/VII</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -19006,6 +19025,16 @@ Op.26</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="-1.39754" y="5.23055"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -19157,7 +19186,8 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)</name>
+            <name>V7(139)-Ger6(139)/VII</name>
+            <offset x="-9.46026" y="6.12439"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
