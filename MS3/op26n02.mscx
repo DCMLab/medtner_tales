@@ -12365,7 +12365,7 @@ Op.26</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>ii7(4)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -12409,6 +12409,10 @@ Op.26</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
