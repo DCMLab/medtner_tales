@@ -13471,11 +13471,11 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%7</name>
+            <name>vii%7/V-ii%7/iii</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.230124" y="10.5857"/>
+            <offset x="0.414893" y="14.6708"/>
             </Symbol>
           <Chord>
             <BeamMode>no</BeamMode>
