@@ -16881,11 +16881,18 @@ Op.26</text>
               </Note>
             </Chord>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-5/12</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%7/III</name>
+            <name>I.vii%43(b3)/V</name>
+            </Harmony>
+          <location>
+            <fractions>1/6</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7(b3)/V</name>
             </Harmony>
           </voice>
         <voice>
@@ -17033,7 +17040,7 @@ Op.26</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.V{</name>
+            <name>V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
