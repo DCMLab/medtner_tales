@@ -15398,7 +15398,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>IV(4)/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15436,7 +15436,7 @@ Op.26</text>
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>IV/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15486,7 +15486,7 @@ Op.26</text>
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15516,6 +15516,10 @@ Op.26</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7/III</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -15534,10 +15538,6 @@ Op.26</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -15587,7 +15587,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>IV64/III-VI64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
