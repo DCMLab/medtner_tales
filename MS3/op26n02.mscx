@@ -14184,7 +14184,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii</name>
+            <name>#viio43(#4)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -14210,6 +14210,10 @@ Op.26</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
