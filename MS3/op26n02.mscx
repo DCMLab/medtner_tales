@@ -17561,7 +17561,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[I64</name>
+            <name>V[V(64)</name>
             </Harmony>
           <StaffText>
             <offset x="0.722007" y="-4.28184"/>
