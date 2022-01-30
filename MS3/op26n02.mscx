@@ -19571,7 +19571,7 @@ Op.26</text>
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM65</name>
+            <name>IVM65-vi</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19629,7 +19629,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>V6/vi</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -19655,6 +19655,10 @@ Op.26</text>
             <offset x="0.785889" y="-4.9"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cresc.</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IM2</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -19673,6 +19677,10 @@ Op.26</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(b5)/IV</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19694,6 +19702,10 @@ Op.26</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -19716,7 +19728,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>I6(b6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19733,6 +19745,10 @@ Op.26</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19767,6 +19783,10 @@ Op.26</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bIIM7</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -19790,7 +19810,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
