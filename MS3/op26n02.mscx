@@ -17881,7 +17881,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
