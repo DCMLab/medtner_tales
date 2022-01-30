@@ -19319,6 +19319,10 @@ Op.26</text>
             <offset x="0.500111" y="5.93155"/>
             <text>senza Ped.</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(#9)/V/VII-Ger6(#9)/IV</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -19339,7 +19343,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#IV</name>
+            <name>V/VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19376,7 +19380,7 @@ Op.26</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V7(6)-Ger6(6)/VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
