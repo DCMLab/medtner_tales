@@ -7292,6 +7292,12 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-3.92749</y1>
+              <y2>-4.67749</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -16224,11 +16230,11 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.142889" y="8.50188"/>
+            <offset x="0.572901" y="11.4045"/>
             </Symbol>
           <Chord>
             <durationType>half</durationType>
