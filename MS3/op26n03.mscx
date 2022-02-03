@@ -8810,7 +8810,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI+6</name>
+            <name>V(6)/ii</name>
             </Harmony>
           </voice>
         </Measure>
@@ -8818,7 +8818,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(9)</name>
+            <name>V2(9)/ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8841,7 +8841,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v65</name>
+            <name>V2(4)/ii</name>
             </Harmony>
           </voice>
         </Measure>
