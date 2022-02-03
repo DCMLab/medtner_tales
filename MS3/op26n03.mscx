@@ -8849,7 +8849,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i6/ii</name>
             </Harmony>
           <Beam>
             <offset x="0" y="0.209204"/>
@@ -8876,6 +8876,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8889,7 +8893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7(9)</name>
+            <name>V7(9)/ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8926,7 +8930,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(4)</name>
+            <name>V(4)/ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -8959,7 +8963,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(9)</name>
+            <name>V2(9)/ii</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8980,7 +8984,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-1.15062" y="11.4016"/>
+            <offset x="0.0656366" y="14.0622"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
