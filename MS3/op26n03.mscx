@@ -6895,7 +6895,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+}</name>
+            <name>V+/VI}-V64(6)}</name>
+            <offset x="-4.48495" y="3.9561"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6966,7 +6967,7 @@
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.76074" y="9.41416"/>
+            <offset x="-0.76074" y="12.6828"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
