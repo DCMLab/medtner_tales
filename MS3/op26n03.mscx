@@ -8432,7 +8432,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#vii%7/ii</name>
-            <offset x="0" y="-9"/>
+            <minDistance>0.11992</minDistance>
+            <offset x="-2.58455" y="7.36575"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8459,6 +8460,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/ii</name>
+            <minDistance>-2.46606</minDistance>
+            <offset x="0.38008" y="7.31273"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8509,7 +8512,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8571,7 +8574,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>IV64</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -8645,7 +8648,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>IV6</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -8675,7 +8678,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>IV64</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8721,7 +8724,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>vii%65-ii%65/V/ii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -8776,7 +8779,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7(9)}{</name>
+            <name>V7(9)/ii}{</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
