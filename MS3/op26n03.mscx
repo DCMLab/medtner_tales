@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -201,20 +202,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer"></metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist">N arrante a piacere q=92=100</metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -326,8 +326,15 @@
             <offset x="0.563189" y="2.76685"/>
             </Dynamic>
           <StaffText>
-            <text>Narrante a piacere <sym>unicodeNoteQuarterUp</sym> = 100</text>
+            <offset x="-3.8008" y="-4.58607"/>
+            <text>Narrante a piacere</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.6666666666666667</tempo>
+            <followText>1</followText>
+            <offset x="18.0158" y="-3.3326"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            </Tempo>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -6120,7 +6127,7 @@
           <StaffText>
             <placement>below</placement>
             <family>FreeSerif</family>
-            <offset x="0" y="2.03741"/>
+            <offset x="-5.24511" y="4.25234"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempere con Ped.</text>
             </StaffText>
           <Harmony>
@@ -6198,7 +6205,7 @@
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.38037" y="8.36814"/>
+            <offset x="-0.456386" y="10.9527"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
