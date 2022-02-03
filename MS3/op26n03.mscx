@@ -6421,7 +6421,7 @@
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.0950925" y="8.36814"/>
+            <offset x="-0.0950925" y="11.3328"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
@@ -6618,7 +6618,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VI</name>
+            <name>V65(4)/VI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6643,6 +6643,10 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/VI</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -6663,7 +6667,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/bII</name>
+            <name>V65(b5)/VI</name>
             <offset x="-1.1" y="-6"/>
             </Harmony>
           <Chord>
