@@ -59,6 +59,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -6274,7 +6276,7 @@
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.190185" y="9.03379"/>
+            <offset x="0.113879" y="11.3903"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6339,14 +6341,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.285278" y="8.46323"/>
+            <offset x="0.0948022" y="11.4279"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
