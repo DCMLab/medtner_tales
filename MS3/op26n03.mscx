@@ -8979,7 +8979,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(b9)/V}-V43(b5)/ii}</name>
+            <name>Fr6(b9)/V}-V43(6b5)/ii}</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Symbol>
@@ -9018,7 +9018,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/V{-V7(b5)/VI{</name>
+            <name>Fr6/V{-V7(b5)/bVI{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
