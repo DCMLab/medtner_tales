@@ -8029,7 +8029,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8048,7 +8048,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>IV6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8071,6 +8071,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8084,7 +8088,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8099,7 +8103,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/III</name>
+            <name>V64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8124,7 +8128,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8139,7 +8143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(4)</name>
+            <name>IV(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8158,7 +8162,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/III</name>
+            <name>V7(9)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -8169,7 +8173,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V(6)</name>
             </Harmony>
           </voice>
         </Measure>
