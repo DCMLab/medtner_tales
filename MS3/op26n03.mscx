@@ -8415,7 +8415,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/III</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -8431,7 +8431,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/iv</name>
+            <name>#vii%7/ii</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Chord>
@@ -8458,7 +8458,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/iv</name>
+            <name>V43/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8474,7 +8474,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>vii%65-ii%65/V/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -8498,7 +8498,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iv</name>
+            <name>V6/ii</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
