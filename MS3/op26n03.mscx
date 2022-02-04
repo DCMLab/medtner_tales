@@ -4097,19 +4097,19 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>84</pitch>
-              <tpc>14</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>85</pitch>
+              <tpc>21</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -4127,8 +4127,8 @@
           <Chord>
             <durationType>eighth</durationType>
             <Note>
-              <pitch>80</pitch>
-              <tpc>10</tpc>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
