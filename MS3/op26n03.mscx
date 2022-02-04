@@ -9522,7 +9522,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/#VII</name>
+            <name>bii.IV7(9)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9553,7 +9553,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/#VII</name>
+            <name>IV7(b9)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9579,7 +9579,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/#VII</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9608,7 +9608,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/#VII}</name>
+            <name>viio7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9698,7 +9698,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i.i64{</name>
+            <name>i64{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
