@@ -10636,7 +10636,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6(4)</name>
+            <name>bII6(94)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10661,10 +10661,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII(94)</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -10694,7 +10690,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10784,7 +10780,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i[i}</name>
+            <name>i[i|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
