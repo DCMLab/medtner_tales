@@ -9351,7 +9351,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/vii</name>
+            <name>Fr6/V-V7(b5)/bVI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9433,7 +9433,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b96)/#VII</name>
+            <name>V7(b96b5)/bVI</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9459,7 +9459,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/#VII</name>
+            <name>V7(9b5)/bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9485,7 +9485,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/#VII</name>
+            <name>V7(b9b5)/bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
