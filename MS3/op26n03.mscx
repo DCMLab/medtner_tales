@@ -9126,7 +9126,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9b5)/bVI</name>
+            <name>V7(9b5)/bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9189,7 +9189,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bVI</name>
+            <name>V7/bVI-Ger6/V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -9267,7 +9267,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/#VII</name>
+            <name>V7(9)/bVI-Ger6(b9)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
