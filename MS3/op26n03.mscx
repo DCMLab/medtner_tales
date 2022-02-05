@@ -335,7 +335,7 @@
             <tempo>1.6666666666666667</tempo>
             <followText>1</followText>
             <offset x="18.0158" y="-3.3326"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 100</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 100</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -11268,10 +11268,6 @@
             <family>FreeSerif</family>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>veloce</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name></name>
-            </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64-V(64)</name>
