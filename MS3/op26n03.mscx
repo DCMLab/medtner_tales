@@ -11269,7 +11269,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64-V(64)</name>
+            <name>V(64)-i64</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
