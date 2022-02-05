@@ -5700,7 +5700,6 @@
         <voice>
           <Chord>
             <durationType>16th</durationType>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>65</pitch>
               <tpc>13</tpc>
@@ -11820,11 +11819,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64-V(64)</name>
+            <name>V(64)-i64</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
