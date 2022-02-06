@@ -15793,6 +15793,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.74661</y1>
+              <y2>-2.74661</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -16149,7 +16155,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi64</name>
+            <name>V64/ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16180,7 +16186,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>III.viio6/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16206,7 +16212,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16237,7 +16243,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>V43/IV</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16269,7 +16275,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>IV6(9)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16293,7 +16299,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/III</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16336,7 +16342,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.I6</name>
+            <name>I6</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
