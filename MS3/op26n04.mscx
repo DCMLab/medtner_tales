@@ -14502,7 +14502,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>ii6/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14545,7 +14545,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>IV/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14612,7 +14612,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14628,7 +14628,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>iv6/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14738,7 +14738,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>V/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14771,7 +14771,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/VI</name>
+            <name>V43/III/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -14790,6 +14790,12 @@
           <location>
             <fractions>1/4</fractions>
             </location>
+          <Beam>
+            <Fragment>
+              <y1>7.25</y1>
+              <y2>6.25</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -14851,7 +14857,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>III6/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -14887,7 +14893,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>VI6/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -14984,7 +14990,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/VI</name>
+            <name>V(9)/III/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15050,6 +15056,12 @@
           <location>
             <fractions>1/4</fractions>
             </location>
+          <Beam>
+            <Fragment>
+              <y1>6.16554</y1>
+              <y2>6.16554</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -15124,6 +15136,12 @@
             <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-3.58785</y1>
+              <y2>-4.58785</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
