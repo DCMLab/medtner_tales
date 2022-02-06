@@ -14252,6 +14252,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/VI-Ger2/v</name>
+            <minDistance>0.347968</minDistance>
+            <offset x="-3.49674" y="3.37001"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14326,10 +14328,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/v</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
