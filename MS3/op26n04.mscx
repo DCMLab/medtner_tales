@@ -15242,7 +15242,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>V64(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15300,7 +15300,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>IV64-V2/VII</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -15402,6 +15402,12 @@
             </Chord>
           </voice>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>5.41892</y1>
+              <y2>4.41892</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
