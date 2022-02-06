@@ -1257,6 +1257,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>2.38008</y1>
+              <y2>1.38008</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -14367,7 +14373,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V(64)/v-i/v</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
