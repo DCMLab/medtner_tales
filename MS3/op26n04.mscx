@@ -2164,6 +2164,10 @@
             </Chord>
           <Beam>
             <StemDirection>up</StemDirection>
+            <Fragment>
+              <y1>-0.672311</y1>
+              <y2>-2.42231</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>16th</durationType>
@@ -15548,7 +15552,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6/iv</name>
+            <name>#iio6/iv-#viio43/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
