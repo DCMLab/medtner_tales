@@ -16870,7 +16870,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16891,7 +16891,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>V2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
