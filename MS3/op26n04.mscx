@@ -24536,16 +24536,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6</name>
+            <name>V(6)</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <durationType>16th</durationType>
             <Note>
