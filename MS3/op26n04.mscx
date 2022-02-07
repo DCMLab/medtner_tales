@@ -24890,7 +24890,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
+            <name>#vi%2-ii%2/V</name>
+            <offset x="0" y="7.8146"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
