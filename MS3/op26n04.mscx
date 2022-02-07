@@ -25423,7 +25423,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64</name>
+            <name>V64/bV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25460,7 +25460,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>Ger6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25487,7 +25487,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/v</name>
+            <name>V2/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
