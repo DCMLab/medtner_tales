@@ -22222,8 +22222,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>-1.80733</y1>
-              <y2>-6.85813</y2>
+              <y1>-2.49147</y1>
+              <y2>-7.54227</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -22720,7 +22720,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V7(#5)/bII/iv-Fr6/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
