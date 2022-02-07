@@ -17167,7 +17167,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -17867,7 +17867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -18053,7 +18053,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>I/V|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
