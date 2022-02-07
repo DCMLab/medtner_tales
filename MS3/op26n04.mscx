@@ -22109,7 +22109,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{i6</name>
+            <name>i6{</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -25969,7 +25969,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V(#6)</name>
+            <name>V7(#6)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
