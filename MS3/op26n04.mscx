@@ -6734,7 +6734,6 @@
             </location>
           <Chord>
             <BeamMode>mid</BeamMode>
-            <dots>1</dots>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
             <Note>
@@ -6742,6 +6741,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>32nd</durationType>
+            </Rest>
           <location>
             <fractions>1/32</fractions>
             </location>
@@ -20254,7 +20257,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20281,7 +20284,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20302,7 +20305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>IV(2)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20328,15 +20331,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(9)</name>
+            <name>IVM7/V</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
             <Fragment>
-              <y1>0.155377</y1>
-              <y2>-0.0946226</y2>
+              <y1>0.662151</y1>
+              <y2>0.412151</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -20374,6 +20377,20 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7/V</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -20397,7 +20414,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -20647,6 +20664,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV(2)/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -20673,15 +20694,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>IVM7/V</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
           <Beam>
             <Fragment>
-              <y1>1.33785</y1>
-              <y2>1.08785</y2>
+              <y1>1.59124</y1>
+              <y2>1.34124</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -20718,6 +20739,20 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7/V</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)/V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -20749,7 +20784,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
