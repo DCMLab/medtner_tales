@@ -4916,8 +4916,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-3.15538</y1>
-              <y2>-4.40538</y2>
+              <y1>-3.3243</y1>
+              <y2>-4.5743</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -18441,6 +18441,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii65</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -18479,10 +18483,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii7</name>
-            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -18504,11 +18504,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii65</name>
-            <offset x="-1.76579" y="-6.50077"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
