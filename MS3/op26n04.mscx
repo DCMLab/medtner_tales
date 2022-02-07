@@ -19875,6 +19875,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii43</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -19913,7 +19917,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19994,6 +19998,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -20006,7 +20014,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
