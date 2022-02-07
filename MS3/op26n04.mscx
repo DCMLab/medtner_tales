@@ -16952,7 +16952,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -17104,7 +17104,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I-IV/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -17696,7 +17696,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(9)</name>
+            <name>I6(9)-IV6(9)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17932,7 +17932,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(9)</name>
+            <name>I6(9)-IV6(9)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
