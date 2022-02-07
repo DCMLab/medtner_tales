@@ -22973,7 +22973,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>IV/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23034,7 +23034,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23061,7 +23061,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>iv6/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -23167,7 +23167,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>V/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23193,7 +23193,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/VI</name>
+            <name>V43/III/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23284,7 +23284,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>III6/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -23315,7 +23315,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>IV6/III/iv</name>
             <offset x="-0.410798" y="-6"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -23422,7 +23422,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)/VI</name>
+            <name>V(9)/III/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23560,6 +23560,12 @@
             <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-4.01016</y1>
+              <y2>-5.01016</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -23673,7 +23679,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>V64(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23732,7 +23738,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>IV64-V2/VII</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
