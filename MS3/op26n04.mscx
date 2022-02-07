@@ -22232,6 +22232,12 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Beam>
+            <Fragment>
+              <y1>-1.80733</y1>
+              <y2>-6.85813</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -22579,7 +22585,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
