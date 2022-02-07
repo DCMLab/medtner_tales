@@ -20803,6 +20803,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(4)/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -20818,6 +20822,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -20836,7 +20844,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>viio(+2)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20900,7 +20908,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>I/V|IAC}</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
