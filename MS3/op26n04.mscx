@@ -11043,6 +11043,12 @@
             </Chord>
           </voice>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>7.1425</y1>
+              <y2>5.8925</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -23785,7 +23791,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V[V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -24127,7 +24133,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>VI64]</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24144,10 +24150,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
