@@ -19234,6 +19234,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio65/IV</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>16th</durationType>
@@ -19266,10 +19270,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/IV</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -19286,6 +19286,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43/IV</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -19321,6 +19325,10 @@
             <family>FreeSerif</family>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65/vi</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -19334,7 +19342,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/vi</name>
+            <name>viio7/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19418,13 +19426,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7(6)/vi</name>
-            </Harmony>
           </voice>
         <voice>
           <location>
