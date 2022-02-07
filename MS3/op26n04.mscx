@@ -4916,8 +4916,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-3.3243</y1>
-              <y2>-4.5743</y2>
+              <y1>-3.07092</y1>
+              <y2>-4.32092</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -18645,7 +18645,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii-vii%65</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -18706,10 +18706,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%65</name>
-            </Harmony>
           </voice>
         <voice>
           <location>
@@ -20289,6 +20285,12 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Beam>
+            <Fragment>
+              <y1>0.155377</y1>
+              <y2>-0.0946226</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -20628,6 +20630,12 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Beam>
+            <Fragment>
+              <y1>1.33785</y1>
+              <y2>1.08785</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
