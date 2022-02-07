@@ -25333,7 +25333,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/iv</name>
+            <name>Ger6/iv-V7/bV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25543,7 +25543,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>V64/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25581,7 +25581,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/VII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
