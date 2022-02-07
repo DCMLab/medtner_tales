@@ -24538,7 +24538,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V(6)-III6(#5)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -24553,7 +24553,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i65</name>
+            <name>i65-III(+6)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
