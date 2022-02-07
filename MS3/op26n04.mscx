@@ -25714,7 +25714,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43-viio65/III</name>
+            <name>#viio43-vii%65/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25776,7 +25776,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo</name>
+            <name>viio2/V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25808,7 +25808,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>vii%65/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
