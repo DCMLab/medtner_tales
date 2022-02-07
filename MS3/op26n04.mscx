@@ -22109,7 +22109,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{i6</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
@@ -22125,13 +22125,13 @@
             <sigN>4</sigN>
             <sigD>4</sigD>
             </TimeSig>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
