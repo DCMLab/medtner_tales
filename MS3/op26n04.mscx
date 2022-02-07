@@ -11045,8 +11045,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>7.1425</y1>
-              <y2>5.8925</y2>
+              <y1>7.3575</y1>
+              <y2>6.1075</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -24325,7 +24325,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM2</name>
+            <name>VI64</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
