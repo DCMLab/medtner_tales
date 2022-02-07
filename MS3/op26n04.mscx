@@ -13840,6 +13840,9 @@
             <harmonyType>1</harmonyType>
             <name>i/v|PAC}</name>
             </Harmony>
+          <Rest>
+            <durationType>16th</durationType>
+            </Rest>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>up</StemDirection>
@@ -13855,9 +13858,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
@@ -13868,7 +13872,7 @@
               <next>
                 <location>
                   <measures>1</measures>
-                  <fractions>-11/16</fractions>
+                  <fractions>-3/4</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -13881,24 +13885,8 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <placement>above</placement>
-            <offset x="0.752767" y="-3.94951"/>
-            </Dynamic>
           <Chord>
-            <durationType>eighth</durationType>
+            <durationType>16th</durationType>
             <Note>
               <Accidental>
                 <role>1</role>
@@ -13930,7 +13918,7 @@
               <prev>
                 <location>
                   <measures>-1</measures>
-                  <fractions>11/16</fractions>
+                  <fractions>3/4</fractions>
                   </location>
                 </prev>
               </Spanner>
