@@ -4914,6 +4914,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-3.15538</y1>
+              <y2>-4.40538</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -17123,6 +17129,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
+            <offset x="-0.168925" y="4.28607"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17687,6 +17694,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(9)</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -17711,7 +17722,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>ii43(42)/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -17723,6 +17734,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii43/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -17780,7 +17795,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43/V</name>
+            <name>V(6)/V</name>
             <offset x="-2.60172" y="-6.13693"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -17915,6 +17930,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(9)</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -17939,7 +17958,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(9)</name>
+            <name>V43(42)/ii</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -17951,6 +17970,10 @@
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -18011,7 +18034,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V43(6)/V</name>
             <offset x="-2.87559" y="-6"/>
             </Harmony>
           </voice>
