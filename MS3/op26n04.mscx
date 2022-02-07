@@ -5504,6 +5504,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>32nd</durationType>
             </Rest>
           <Chord>
@@ -5522,6 +5523,7 @@
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>quarter</durationType>
             </Rest>
           </voice>
@@ -19044,6 +19046,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii7(#0)-I6(64#2)</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -19084,7 +19090,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/iii</name>
+            <name>I6</name>
             <offset x="0" y="-6.83681"/>
             </Harmony>
           <Chord>
