@@ -21928,6 +21928,10 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -21949,7 +21953,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2</name>
+            <name>ii%2-iv64(+#6)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -22059,7 +22063,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43}</name>
+            <name>ii%43-iv6(+#6)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
