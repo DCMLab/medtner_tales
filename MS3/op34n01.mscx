@@ -28829,7 +28829,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>I(6)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -28868,7 +28868,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>iii6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28898,7 +28898,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)/vi</name>
+            <name>V43(4)/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28934,7 +28934,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>iv6/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28963,7 +28963,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/vi</name>
+            <name>Fr6/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28996,7 +28996,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>V(64)/iii</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -29067,7 +29067,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/vi</name>
+            <name>V7/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29101,7 +29101,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(9)}</name>
+            <name>i/iii(9)}</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -29142,7 +29142,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>i/iii|PAC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
