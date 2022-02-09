@@ -28015,7 +28015,8 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(4)</name>
+            <name>#vii%7(+#4)/iv</name>
+            <offset x="-1.74837" y="6.56317"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
