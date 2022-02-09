@@ -28428,7 +28428,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII</name>
+            <name>bII.IV64</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -28439,14 +28439,24 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>vi</name>
             </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/IV</name>
+            <name>I64-V(64)</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)</name>
             <offset x="0" y="-9"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -28496,7 +28506,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
