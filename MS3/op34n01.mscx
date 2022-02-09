@@ -8776,6 +8776,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-2.08108</y1>
+              <y2>-0.831075</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -32667,7 +32673,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi2</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -32700,7 +32706,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -32814,7 +32820,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(4)</name>
+            <name>ii%7(4)/IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
