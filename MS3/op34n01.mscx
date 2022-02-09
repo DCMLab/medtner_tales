@@ -4175,8 +4175,11 @@ I</text>
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -4302,8 +4305,8 @@ I</text>
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>73</pitch>
-              <tpc>21</tpc>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Rest>
