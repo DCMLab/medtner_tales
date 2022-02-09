@@ -33714,10 +33714,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -33741,6 +33737,11 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7-vii%7/V/bVI</name>
+            <offset x="-0.76016" y="9.42335"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -33781,10 +33782,15 @@ I</text>
           <Dynamic>
             <subtype>ff</subtype>
             <velocity>112</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-0.506774" y="-2.55403"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}{</name>
+            <minDistance>-10.3956</minDistance>
+            <offset x="0.506774" y="8.45992"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33795,7 +33801,7 @@ I</text>
             <Note>
               <Symbol>
                 <name>keyboardPedalPed</name>
-                <offset x="-0.303546" y="5.4357"/>
+                <offset x="0.710001" y="9.40543"/>
                 </Symbol>
               <pitch>33</pitch>
               <tpc>17</tpc>
