@@ -33740,7 +33740,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7-vii%7/V/bVI</name>
-            <offset x="-0.76016" y="9.42335"/>
+            <minDistance>0.0776887</minDistance>
+            <offset x="-11.5713" y="8.57873"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33889,7 +33890,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.0714444" y="11.6454"/>
+            <offset x="0.240369" y="15.6151"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
@@ -33937,7 +33938,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVIM7</name>
+            <name>V2(96)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
