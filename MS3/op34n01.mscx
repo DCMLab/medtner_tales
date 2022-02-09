@@ -26797,7 +26797,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>V2(9)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26814,11 +26814,6 @@ I</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>@none}</name>
-            <offset x="0.153147" y="-5.84685"/>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
