@@ -34115,7 +34115,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-vii%7/bIII</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="-3.29403" y="8.91658"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
