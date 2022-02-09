@@ -27088,7 +27088,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7(b6)</name>
+            <name>viio7(b6)/V</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -27127,7 +27127,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio7/V</name>
             </Harmony>
           </voice>
         </Measure>
@@ -27139,7 +27139,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.126568" y="11.5177"/>
+            <offset x="-0.10148" y="14.1022"/>
             </Symbol>
           <Spanner type="HairPin">
             <HairPin>
