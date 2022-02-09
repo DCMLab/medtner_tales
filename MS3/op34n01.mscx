@@ -32098,6 +32098,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7(#9)/IV</name>
+            <offset x="-3.71634" y="9.73328"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -32354,7 +32355,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/IV</name>
+            <name>V7/IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
