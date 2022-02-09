@@ -30557,6 +30557,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIV6</name>
+            <offset x="-0.929085" y="4.29517"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30585,7 +30586,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>III6</name>
+            <minDistance>0.246613</minDistance>
+            <offset x="0.0844623" y="4.50584"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30612,6 +30615,11 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2</name>
+            <offset x="0.337849" y="4.26043"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
