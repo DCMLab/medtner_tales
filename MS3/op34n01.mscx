@@ -31025,7 +31025,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(4)</name>
+            <name>#vii%7(+#4)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -31116,7 +31116,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv65</name>
+            <name>iv65-ii65/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -31195,8 +31195,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(4)</name>
-            <offset x="-0.925843" y="-6"/>
+            <name>#vii%7(+#4)/iv</name>
+            <offset x="-2.69955" y="6.17468"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -31311,7 +31311,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv65</name>
+            <name>iv65-ii65/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
