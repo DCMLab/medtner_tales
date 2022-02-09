@@ -33391,7 +33391,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii64</name>
+            <name>iv64/bVI</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="-2.44941" y="8.07452"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33424,7 +33426,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii</name>
+            <name>iv/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33478,7 +33480,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/bvii</name>
+            <name>I6/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33511,7 +33513,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(9)</name>
+            <name>viio2/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -33530,7 +33532,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>I(6)/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
