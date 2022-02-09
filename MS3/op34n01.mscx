@@ -209,14 +209,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Op.34</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -18444,7 +18444,6 @@ I</text>
                 </Slur>
               <next>
                 <location>
-                  <fractions>3/8</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -18453,6 +18452,7 @@ I</text>
                 </Slur>
               <next>
                 <location>
+                  <fractions>3/8</fractions>
                   </location>
                 </next>
               </Spanner>
@@ -18566,6 +18566,13 @@ I</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -18573,13 +18580,6 @@ I</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
@@ -19208,6 +19208,13 @@ I</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -19215,13 +19222,6 @@ I</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
@@ -19313,6 +19313,13 @@ I</text>
             <dots>1</dots>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
+              <prev>
+                <location>
+                  <grace>0</grace>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -19320,13 +19327,6 @@ I</text>
                   <fractions>3/8</fractions>
                   </location>
                 </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <grace>0</grace>
-                  </location>
-                </prev>
               </Spanner>
             <StemDirection>up</StemDirection>
             <Note>
@@ -36135,14 +36135,6 @@ I</text>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
-              <prev>
-                <location>
-                  <measures>-1</measures>
-                  <fractions>1/2</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="Slur">
               <Slur>
                 </Slur>
               <next>
@@ -36150,6 +36142,14 @@ I</text>
                   <fractions>1/4</fractions>
                   </location>
                 </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <measures>-1</measures>
+                  <fractions>1/2</fractions>
+                  </location>
+                </prev>
               </Spanner>
             <Articulation>
               <subtype>articStaccatoBelow</subtype>
