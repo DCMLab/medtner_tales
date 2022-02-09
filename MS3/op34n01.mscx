@@ -30477,7 +30477,9 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6}</name>
+            <name>V6|HC}</name>
+            <minDistance>-1.86494</minDistance>
+            <offset x="0" y="4.62485"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
