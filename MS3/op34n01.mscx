@@ -30160,7 +30160,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/VII</name>
+            <name>V7(4)/VII-IV7(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30186,7 +30186,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(#5)/v</name>
+            <name>Fr6(#5)/V-III7(#5)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30253,7 +30253,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/v</name>
+            <name>ii%65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30277,13 +30277,6 @@ I</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -30369,7 +30362,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/v</name>
+            <name>ii%65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30393,13 +30386,6 @@ I</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -30464,7 +30450,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/v</name>
+            <name>ii%65/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30485,13 +30471,6 @@ I</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
