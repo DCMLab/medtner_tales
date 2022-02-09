@@ -29974,7 +29974,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/VII</name>
+            <name>V7(4)/VII-IV7(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30000,7 +30000,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(#5)/v</name>
+            <name>Fr6(#5)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
