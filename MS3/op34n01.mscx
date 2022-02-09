@@ -34804,7 +34804,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-vii%7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
