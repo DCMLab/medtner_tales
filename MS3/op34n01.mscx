@@ -9606,8 +9606,8 @@ I</text>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>8</tpc>
+              <pitch>70</pitch>
+              <tpc>12</tpc>
               </Note>
             </Chord>
           <Spanner type="HairPin">
@@ -9670,6 +9670,9 @@ I</text>
               <subtype>articStaccatoAbove</subtype>
               </Articulation>
             <Note>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
               <pitch>71</pitch>
               <tpc>19</tpc>
               </Note>
@@ -9697,6 +9700,9 @@ I</text>
               <tpc>11</tpc>
               </Note>
             <Note>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>66</pitch>
               <tpc>8</tpc>
               </Note>
@@ -33604,7 +33610,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI</name>
+            <name>I/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
