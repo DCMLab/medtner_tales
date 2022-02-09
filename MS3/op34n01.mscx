@@ -27256,7 +27256,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="9.74575"/>
+            <offset x="0" y="15.1429"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
@@ -27471,7 +27471,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/v</name>
+            <name>ii%7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -27505,7 +27505,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7/V</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
