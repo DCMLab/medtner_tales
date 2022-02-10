@@ -38150,7 +38150,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65(9)/bVI-ii%7(13)/IV</name>
-            <offset x="-7.6016" y="4.62607"/>
+            <offset x="-8.86854" y="5.55516"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38227,7 +38227,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>ii%7/IV</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
