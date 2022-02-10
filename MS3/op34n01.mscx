@@ -41817,7 +41817,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(+4)/bIII</name>
+            <name></name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -49560,7 +49560,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(b6)|IAC}{-VI6}{</name>
+            <name>i6(b6)|IAC}{-bVI6}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49592,7 +49592,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)</name>
+            <name>ii%43/V/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49624,6 +49624,10 @@ I</text>
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio2/V/bVI</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -49652,7 +49656,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/VI</name>
+            <name>viio65/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49679,6 +49683,11 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio43/bVI</name>
+            <offset x="-1.7703" y="5.22444"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -49705,7 +49714,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>bVI6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49717,7 +49726,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)</name>
+            <name>ii%43/V/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49736,6 +49745,10 @@ I</text>
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio2/V/bVI</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -49753,7 +49766,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65/VI</name>
+            <name>viio65/bVI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -49766,6 +49779,10 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio43/bVI</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -49790,7 +49807,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(#4b2)</name>
+            <name>bVI(#4b2)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -49823,7 +49840,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI[VI</name>
+            <name>bVI(6+#42)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -49856,13 +49873,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio</name>
-            </Harmony>
           </voice>
         <voice>
           <Rest>
@@ -49941,7 +49951,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(#4b2)</name>
+            <name>bVI(#4b2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -50043,7 +50053,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio]}</name>
+            <name>bVI(6+#42)}-viio43(9)/bIII</name>
             </Harmony>
           </voice>
         <voice>
