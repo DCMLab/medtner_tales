@@ -48350,7 +48350,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(9)/iv</name>
+            <name>V2(#5)/IV/bIII-V7(9b5)/bIII/bIII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -48386,7 +48386,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>bIII(6)/bIII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
