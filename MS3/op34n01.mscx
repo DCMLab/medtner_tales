@@ -38402,7 +38402,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(6)</name>
+            <name>I(13)</name>
             <offset x="-0.99685" y="-5.00315"/>
             </Harmony>
           <Beam>
@@ -38500,7 +38500,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(6)</name>
+            <name>I(13)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
