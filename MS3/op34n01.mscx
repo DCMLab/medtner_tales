@@ -18958,6 +18958,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>4.01355</y1>
+              <y2>3.76355</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -19052,6 +19058,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.23984</y1>
+              <y2>-1.48984</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -19212,6 +19224,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>3.42231</y1>
+              <y2>3.17231</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -19317,6 +19335,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>4.3514</y1>
+              <y2>4.1014</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -19464,6 +19488,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>2.92908</y1>
+              <y2>2.67908</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -19558,6 +19588,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>3.42231</y1>
+              <y2>3.17231</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -42828,7 +42864,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/iv</name>
+            <name>ii2/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -42845,6 +42881,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio2/iv</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
