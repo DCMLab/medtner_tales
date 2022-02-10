@@ -42544,7 +42544,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>iv6/bV</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -42588,7 +42588,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/bvii</name>
+            <name>viio6/V/bV-viio6/bII</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -42618,14 +42618,6 @@ I</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/bvii</name>
-            <offset x="-1.38876" y="-6"/>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -42650,7 +42642,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii64</name>
+            <name>V6/bV-bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -42678,7 +42670,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
