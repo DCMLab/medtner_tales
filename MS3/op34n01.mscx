@@ -44800,8 +44800,9 @@ I</text>
               <subtype>8vb</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="9.2651"/>
+                <offset x="0" y="6.58661"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Ottava>
             <next>
@@ -44898,7 +44899,8 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger6-V7/V/bv</name>
+            <offset x="-5.40558" y="10.2911"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -45026,7 +45028,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/bv</name>
+            <name>Ger6/bv-V7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
