@@ -49306,7 +49306,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger7(#7)/VI</name>
+            <name>Ger7(#7)/bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -49357,7 +49357,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/VI</name>
+            <name>V(4)/bVI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -49387,7 +49387,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VI</name>
+            <name>V/bVI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
