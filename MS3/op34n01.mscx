@@ -44336,7 +44336,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM43(9)/bv</name>
+            <name>i6/bv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -44358,7 +44358,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM43/bv</name>
+            <name>IV64/bv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -44534,6 +44534,12 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>V[V</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-1.08446</y1>
+              <y2>-1.08446</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
