@@ -48667,6 +48667,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0" y="6.81654"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -48685,7 +48686,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)</name>
+            <name>V7(6)-V43(9#5)/bV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -48699,7 +48700,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>bV(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -48741,7 +48742,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V7(b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
