@@ -15148,7 +15148,8 @@ I</text>
           <Tempo>
             <tempo>2.3999999999999999</tempo>
             <followText>1</followText>
-            <offset x="-0.154307" y="-12.4637"/>
+            <visible>0</visible>
+            <offset x="-0.238769" y="-4.01747"/>
             <text><sym>metNoteQuarterUp</sym> = 144</text>
             </Tempo>
           <Chord>
@@ -40335,7 +40336,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv%7</name>
+            <name>ii%7/bIII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -40374,7 +40375,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/bIII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -40413,7 +40414,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/v</name>
+            <name>V7(b5)/IV/bIII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -40451,7 +40452,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(9)</name>
+            <name>IVM7/bIII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
