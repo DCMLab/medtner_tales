@@ -48386,7 +48386,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII(6)/bIII</name>
+            <name>bIII(6)/bIII-bV(6)</name>
+            <offset x="0.2" y="3.5"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
