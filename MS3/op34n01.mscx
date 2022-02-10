@@ -19353,8 +19353,8 @@ I</text>
               </Spanner>
             <grace16/>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -43431,7 +43431,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio64</name>
+            <name>viio64/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -43456,7 +43456,9 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>viio/V/bIII</name>
+            <minDistance>-1.69602</minDistance>
+            <offset x="-2.78725" y="5.18082"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
