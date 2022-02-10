@@ -35667,7 +35667,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V64</name>
+            <name>i.V(64)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -35689,10 +35689,6 @@ I</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -35764,7 +35760,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9#74)}</name>
+            <name>I/V(9#74)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -35780,7 +35776,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
