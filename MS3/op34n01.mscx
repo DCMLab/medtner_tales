@@ -38878,7 +38878,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(b6)</name>
+            <name>ii%7(b13)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38910,7 +38910,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38943,7 +38943,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7</name>
+            <name>ii%7/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38973,7 +38973,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>V7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
