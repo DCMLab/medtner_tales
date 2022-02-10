@@ -37059,7 +37059,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(4)</name>
+            <name>#viio7(+#4)/iv</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -37147,10 +37147,18 @@ I</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="1.60478" y="-2.69563"/>
+                <off2 x="-4.54938" y="0"/>
+                <minDistance>-595.033</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
+                <measures>2</measures>
+                <fractions>-1/2</fractions>
                 </location>
               </next>
             </Spanner>
@@ -37177,7 +37185,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv65</name>
+            <name>iv65-ii65/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -37190,6 +37198,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/III</name>
+            <offset x="-1.26693" y="5.73464"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -37202,14 +37211,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64/III</name>
+            <offset x="-0.675698" y="5.35167"/>
             </Harmony>
-          <Spanner type="HairPin">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -37235,11 +37238,23 @@ I</text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.591236" y="-2.73077"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
+            <offset x="-0.506774" y="6.29984"/>
             </Harmony>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <measures>-2</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -37266,7 +37281,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iii7(4)</name>
+            <name>#viio7(+#4)/iv</name>
+            <offset x="-7.85499" y="6.3005"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
