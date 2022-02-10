@@ -38150,7 +38150,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65(9)/bVI-ii%7(13)/IV</name>
-            <offset x="-8.86854" y="5.55516"/>
+            <offset x="-15.5411" y="5.84555"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38196,6 +38196,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I}{</name>
+            <offset x="-1.18247" y="6.02402"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38228,6 +38229,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7/IV</name>
+            <offset x="-0.929085" y="5.69602"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -38239,13 +38241,15 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="1.09801" y="5.27371"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(6)</name>
+            <name>ii%7(13)/IV</name>
+            <offset x="-5.49005" y="5.5077"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38285,6 +38289,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="-0.337849" y="5.49634"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38316,7 +38321,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>ii%7/IV</name>
+            <offset x="-0.675698" y="5.27371"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -38328,6 +38334,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="0.337849" y="4.8514"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -38339,7 +38346,8 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(6)</name>
+            <name>ii%7(13)/IV</name>
+            <offset x="-4.98327" y="6.43154"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38394,7 +38402,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%65</name>
+            <name>I(6)</name>
             <offset x="-0.99685" y="-5.00315"/>
             </Harmony>
           <Beam>
@@ -38444,7 +38452,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(6)</name>
+            <name>ii%7(13)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38492,7 +38500,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%65</name>
+            <name>I(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38541,7 +38549,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7(#96)</name>
+            <name>ii%7(139)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
