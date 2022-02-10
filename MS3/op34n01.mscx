@@ -18149,6 +18149,7 @@ I</text>
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -18462,6 +18463,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>3</y1>
+              <y2>2.75</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -42110,7 +42117,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII6(b2)</name>
+            <name>bIII6(#4b2)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -42136,10 +42143,6 @@ I</text>
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#iv%43/bIII</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -42180,7 +42183,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII[bIII</name>
+            <name>bIII</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -42208,11 +42211,11 @@ I</text>
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo</name>
+            <name>bIII(6#4#2)</name>
             </Harmony>
           </voice>
         <voice>
@@ -42291,7 +42294,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII]</name>
+            <name>bIII</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
