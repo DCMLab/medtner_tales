@@ -18960,8 +18960,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>4.01355</y1>
-              <y2>3.76355</y2>
+              <y1>3.08446</y1>
+              <y2>2.83446</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -19060,8 +19060,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.23984</y1>
-              <y2>-1.48984</y2>
+              <y1>-1.66215</y1>
+              <y2>-1.91215</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -43075,7 +43075,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii64</name>
+            <name>iv64/bV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -43108,7 +43108,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>iv6/bV</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -43149,7 +43149,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/bvii</name>
+            <name>viio6/V/bV</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -43185,20 +43185,13 @@ I</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/bvii</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii64</name>
+            <name>V6/bV-bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -43226,7 +43219,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
