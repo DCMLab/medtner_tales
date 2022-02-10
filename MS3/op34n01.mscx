@@ -39335,7 +39335,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6</name>
+            <name>v6/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -39352,10 +39352,6 @@ I</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -39368,7 +39364,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>i/v</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -39430,7 +39426,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>i/v|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
