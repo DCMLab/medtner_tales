@@ -40491,7 +40491,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/III</name>
+            <name>V7(6)/bIII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -40516,7 +40516,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
