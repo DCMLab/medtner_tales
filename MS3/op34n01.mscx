@@ -19337,8 +19337,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>4.3514</y1>
-              <y2>4.1014</y2>
+              <y1>3.92908</y1>
+              <y2>3.67908</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -43374,7 +43374,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr65-V43(#5)/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -43400,20 +43400,13 @@ I</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I6/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
