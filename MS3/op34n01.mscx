@@ -45239,8 +45239,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI/bv-V/V</name>
-            <minDistance>-3.77567</minDistance>
-            <offset x="-4.29929" y="7.1468"/>
+            <minDistance>-3.65609</minDistance>
+            <offset x="-6.49108" y="7.1468"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -45303,6 +45303,10 @@ I</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -45316,7 +45320,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -45329,6 +45333,10 @@ I</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI-V/V/bv</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -45367,6 +45375,10 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2/bv</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -45394,7 +45406,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/bv</name>
+            <name>i/bv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -45417,6 +45429,10 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI/bv-V/V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
