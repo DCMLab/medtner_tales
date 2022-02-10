@@ -48920,7 +48920,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -49114,7 +49114,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/iv</name>
+            <name>Ger7/iv/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
