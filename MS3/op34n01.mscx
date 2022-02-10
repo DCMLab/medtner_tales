@@ -42216,6 +42216,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIII(6+#4#2)</name>
+            <offset x="-4.30758" y="7.33563"/>
             </Harmony>
           </voice>
         <voice>
@@ -42325,10 +42326,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#iv%43/bIII</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -42340,6 +42337,10 @@ I</text>
               <tpc>8</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bIII6(#4b2)</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -42373,7 +42374,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII[bIII</name>
+            <name>bIII</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -42408,11 +42409,11 @@ I</text>
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo</name>
+            <name>bIII(6+#4#2)</name>
             </Harmony>
           </voice>
         <voice>
@@ -42520,7 +42521,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII]</name>
+            <name>bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
