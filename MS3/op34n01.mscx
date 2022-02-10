@@ -19490,8 +19490,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>2.92908</y1>
-              <y2>2.67908</y2>
+              <y1>3.09801</y1>
+              <y2>2.84801</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -19590,8 +19590,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>3.42231</y1>
-              <y2>3.17231</y2>
+              <y1>3.84462</y1>
+              <y2>3.59462</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -43457,8 +43457,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio/V/bIII</name>
-            <minDistance>-1.69602</minDistance>
-            <offset x="-2.78725" y="5.18082"/>
+            <offset x="-3.63188" y="4.58958"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -43491,7 +43490,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9b6)/bIII</name>
+            <name>V7(9#5)/bIII</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -43540,7 +43539,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/iv</name>
+            <name>I6/bIII</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
