@@ -48475,7 +48475,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -48627,7 +48627,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -48789,7 +48789,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bVI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -48828,7 +48828,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i6-ii6/bVII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -48875,7 +48875,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII64</name>
+            <name>V(64)/bVII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
