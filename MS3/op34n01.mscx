@@ -44694,10 +44694,6 @@ I</text>
           <location>
             <fractions>1/4</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(9)/bv</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -44727,6 +44723,12 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6/bv</name>
+            <minDistance>0.335938</minDistance>
+            <offset x="-1.52032" y="5.50704"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -44747,7 +44749,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/bv</name>
+            <name>Ger6/bv-V7/V</name>
+            <offset x="-5.65897" y="5.48973"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
