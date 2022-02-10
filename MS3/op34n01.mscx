@@ -44605,6 +44605,10 @@ I</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -44619,7 +44623,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger6-V7/V/bv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
