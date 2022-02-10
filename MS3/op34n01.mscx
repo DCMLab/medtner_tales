@@ -35776,7 +35776,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V</name>
+            <name>I/V|PAC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
