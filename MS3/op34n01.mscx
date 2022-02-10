@@ -39006,7 +39006,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv%7(4)</name>
+            <name>ii%7(4)/bIII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -39038,7 +39038,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv%7</name>
+            <name>ii%7/bIII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
