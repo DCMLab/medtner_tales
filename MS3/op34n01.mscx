@@ -44239,7 +44239,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bv64</name>
+            <name>V(64)/bv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -44272,7 +44272,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/bv</name>
+            <name>V6/bv</name>
             </Harmony>
           <Dynamic>
             <subtype>f</subtype>
