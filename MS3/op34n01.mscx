@@ -38149,7 +38149,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(9)/bVI-ii%7(13)/IV</name>
+            <name>V65(9)/bVI-ii%7(b13)/IV</name>
             <offset x="-15.5411" y="5.84555"/>
             </Harmony>
           <Beam>
@@ -38248,7 +38248,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(13)/IV</name>
+            <name>ii%7(b13)/IV</name>
             <offset x="-5.49005" y="5.5077"/>
             </Harmony>
           <Beam>
@@ -38346,7 +38346,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(13)/IV</name>
+            <name>ii%7(b13)/IV</name>
             <offset x="-4.98327" y="6.43154"/>
             </Harmony>
           <Beam>
@@ -38452,7 +38452,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(13)/IV</name>
+            <name>ii%7(b13)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38549,7 +38549,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(139)/IV</name>
+            <name>ii%7(b139)/IV</name>
             <offset x="-0.591236" y="5.02802"/>
             </Harmony>
           <Chord>
@@ -38616,7 +38616,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(139)/IV</name>
+            <name>ii%7(b139)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38681,7 +38681,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(139)/IV</name>
+            <name>ii%7(b139)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38747,7 +38747,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(139)/IV</name>
+            <name>ii%7(b139)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
