@@ -43735,7 +43735,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iii</name>
+            <name>i.ii%7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -43754,7 +43754,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V/V</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -43801,7 +43801,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iii</name>
+            <name>ii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -43834,7 +43834,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -43867,7 +43867,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iii</name>
+            <name>ii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -43907,7 +43907,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iii</name>
+            <name>V/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -43947,7 +43947,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iii</name>
+            <name>ii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -43980,7 +43980,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -44021,7 +44021,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V}{</name>
+            <name>V}{</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
