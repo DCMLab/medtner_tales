@@ -16144,7 +16144,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>i64(6)-VI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16221,7 +16221,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>i64(6)-VI</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16257,7 +16257,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>i6(6)-VIM43</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16298,7 +16298,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>VII-V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
