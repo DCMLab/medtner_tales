@@ -10354,7 +10354,8 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6/III</name>
+            <offset x="-0.322509" y="4.68253"/>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -10395,7 +10396,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i65</name>
+            <name>vi65/III-ii65/V/III</name>
+            <minDistance>-0.181982</minDistance>
+            <offset x="-8.81524" y="4.48937"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
