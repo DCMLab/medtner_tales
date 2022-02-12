@@ -10288,7 +10288,8 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I/III-vi/III</name>
+            <offset x="0.537515" y="5.00504"/>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
