@@ -8938,7 +8938,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>iv7-ii%65(9)</name>
+            <offset x="-1.29003" y="4.46753"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
