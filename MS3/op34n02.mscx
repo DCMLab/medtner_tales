@@ -2634,8 +2634,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>1.56999</y1>
-              <y2>1.31999</y2>
+              <y1>2.64502</y1>
+              <y2>2.39502</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3040,6 +3040,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-1.78499</y1>
+              <y2>-2.03499</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -13760,7 +13766,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/IV</name>
+            <name>V2/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -13807,7 +13813,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bIII</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
