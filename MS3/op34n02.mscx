@@ -10796,7 +10796,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%65/#vii</name>
+            <name>Fr7(#2)-viio65(#5)</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -10895,7 +10895,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7/#vii</name>
+            <name>Fr6(#2)-viio2(#5)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
