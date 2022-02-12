@@ -60,6 +60,7 @@
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
       <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -4029,6 +4030,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="2.42497"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4073,6 +4079,12 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.215006" y="2.63998"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-0.0579517</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4147,14 +4159,16 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <offset x="-2.58007" y="2.92497"/>
             </Dynamic>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4.07531"/>
+                <offset x="-0.322509" y="2.24776"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-0.55224</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -5741,9 +5755,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5979,9 +5990,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Dynamic>
             <subtype>f</subtype>
@@ -7428,11 +7436,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.90584"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -7770,11 +7773,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-9.2761"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -8193,10 +8191,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -8281,6 +8275,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -12567,6 +12565,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -14110,19 +14109,6 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0950925" y="0"/>
-                  </SlurSegment>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>5/12</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalFlat</subtype>
@@ -14409,6 +14395,15 @@
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>11/24</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <Accidental>
                 <subtype>accidentalNatural</subtype>
@@ -14554,8 +14549,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <measures>-1</measures>
-                  <fractions>-5/12</fractions>
+                  <fractions>-11/24</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -14796,6 +14790,7 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
+                <up>up</up>
                 </Slur>
               <next>
                 <location>
@@ -21767,7 +21762,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="0.836814" y="-11.0899"/>
+            <offset x="0.729311" y="-8.93984"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Tuplet>
@@ -21987,7 +21982,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-0.418407" y="-9.6485"/>
+            <offset x="-1.27843" y="-7.60594"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>mancando</text>
             </StaffText>
           <Chord>
@@ -22202,11 +22197,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-7.35811"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -22357,9 +22347,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="9.38513e-17" y="-0.190185"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
