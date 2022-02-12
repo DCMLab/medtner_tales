@@ -11962,7 +11962,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(#6)</name>
+            <name>iv(+#6)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12121,7 +12121,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(#6)</name>
+            <name>iv(+#6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -12197,7 +12197,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(#6)]</name>
+            <name>iv(+#6)]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
