@@ -19907,7 +19907,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2</name>
+            <name>iv7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19939,7 +19939,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>ii/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -19980,7 +19980,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20286,7 +20286,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
+            <name>i64-V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
