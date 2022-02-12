@@ -12245,7 +12245,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -12459,10 +12459,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
