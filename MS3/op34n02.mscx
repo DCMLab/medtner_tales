@@ -15692,7 +15692,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15720,7 +15720,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi</name>
+            <name>V6(#6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15764,7 +15764,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V43/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
