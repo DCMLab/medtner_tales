@@ -6667,7 +6667,7 @@ I</text>
             <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -12453,7 +12453,7 @@ I</text>
             <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 92</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 92</b></text>
             </Tempo>
           <Chord>
             <dots>1</dots>
@@ -29171,7 +29171,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/iii(9)}</name>
+            <name>i(9)/iii}</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
