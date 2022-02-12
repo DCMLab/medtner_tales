@@ -2632,6 +2632,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>1.56999</y1>
+              <y2>1.31999</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -11902,7 +11908,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv[#vii%7/iv</name>
+            <name>iv[iv(9+#642)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
