@@ -1796,6 +1796,12 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>0.322509</y1>
+              <y2>0.0725087</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -11266,7 +11272,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>iv7-ii%65(9)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
