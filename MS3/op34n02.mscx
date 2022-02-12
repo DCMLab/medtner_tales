@@ -6153,6 +6153,12 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-1.43988</y1>
+              <y2>-1.68988</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -19605,7 +19611,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/III-IV7/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
