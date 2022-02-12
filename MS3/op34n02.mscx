@@ -20546,7 +20546,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>VI-V/bII</name>
             </Harmony>
           <location>
             <fractions>1/48</fractions>
@@ -20572,7 +20572,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI+</name>
+            <name>V(#5)/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -20617,7 +20617,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64</name>
+            <name>bII64-V(64)/bII</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
