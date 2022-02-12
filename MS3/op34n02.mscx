@@ -10061,7 +10061,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>I6/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -10102,7 +10102,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10219,7 +10219,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>ii6/III</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
