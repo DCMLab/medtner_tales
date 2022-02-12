@@ -7406,7 +7406,6 @@
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <offset x="-2.22842" y="0"/>
                 </Accidental>
               <pitch>58</pitch>
               <tpc>24</tpc>
@@ -21539,7 +21538,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
