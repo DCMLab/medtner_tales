@@ -30796,7 +30796,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+4)/ii</name>
+            <name>viio(96)/ii</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio(9)/ii</name>
+            <offset x="-3.01008" y="3.5"/>
             </Harmony>
           </voice>
         </Measure>
