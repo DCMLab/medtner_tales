@@ -30883,7 +30883,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -30908,7 +30908,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
+            <name>iv/iv-bIIM65/iv</name>
             </Harmony>
           </voice>
         </Measure>
