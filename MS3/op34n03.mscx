@@ -31187,16 +31187,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III</name>
+            <name>V2(4)/III-ii%43(11)</name>
+            <offset x="-4.08511" y="3.6075"/>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2(9)/III</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
