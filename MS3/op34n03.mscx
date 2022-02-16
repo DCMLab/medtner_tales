@@ -18635,8 +18635,9 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-3.53073"/>
+                <offset x="-2.15006" y="-3.80072"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-3.1864e-16</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -31138,16 +31139,12 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III</name>
+            <name>V2(4)/III-ii%43(11)</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%43(6)</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
