@@ -31078,7 +31078,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65/v</name>
+            <name>viio65/V-viio7/V/III</name>
             <offset x="0.154307" y="-9.24045"/>
             </Harmony>
           </voice>
@@ -31087,7 +31087,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>V/III-VII</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
