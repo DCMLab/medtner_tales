@@ -30845,7 +30845,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v2</name>
+            <name>#viio(42)/ii</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
