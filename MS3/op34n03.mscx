@@ -31052,7 +31052,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6]</name>
+            <name>Fr6]-V43(#5)/III</name>
             </Harmony>
           </voice>
         </Measure>
@@ -31060,25 +31060,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>III6</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>iv/III</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
