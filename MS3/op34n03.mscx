@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -58,6 +59,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
@@ -203,20 +206,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Op.34</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -519,16 +521,6 @@
               </HairPin>
             <next>
               <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>0</subtype>
-              </HairPin>
-            <next>
-              <location>
                 </location>
               </next>
             </Spanner>
@@ -537,6 +529,16 @@
               <location>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>0</subtype>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
             </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13181,18 +13183,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-6.8037"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>2</subtype>
-                <offset x="0" y="-5.02509"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -17060,13 +17052,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="4.63911"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -20977,12 +20964,13 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="8.63228e-17" y="0.190185"/>
+                  <o3 x="2.5675" y="7.70249"/>
+                  <o4 x="0.0950925" y="4.84972"/>
                   </SlurSegment>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
+                  <staves>-1</staves>
                   <measures>1</measures>
                   <fractions>-1/4</fractions>
                   </location>
@@ -20991,13 +20979,12 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o3 x="2.5675" y="7.70249"/>
-                  <o4 x="0.0950925" y="4.84972"/>
+                  <o4 x="8.63228e-17" y="0.190185"/>
                   </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
-                  <staves>-1</staves>
                   <measures>1</measures>
                   <fractions>-1/4</fractions>
                   </location>
@@ -21107,19 +21094,6 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.285278" y="-0.190185"/>
-                  </SlurSegment>
-                <up>down</up>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1/4</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                <SlurSegment no="0">
                   <o3 x="1.99694" y="6.3712"/>
                   <o4 x="-0.285278" y="4.84972"/>
                   </SlurSegment>
@@ -21127,6 +21101,19 @@
               <next>
                 <location>
                   <staves>-1</staves>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o4 x="-0.285278" y="-0.190185"/>
+                  </SlurSegment>
+                <up>down</up>
+                </Slur>
+              <next>
+                <location>
                   <fractions>1/4</fractions>
                   </location>
                 </next>
@@ -26887,13 +26874,8 @@
             <Trill>
               <subtype>trill</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-2.39225"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-1"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Trill>
@@ -27041,21 +27023,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.44848"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
               </HairPin>
             <next>
               <location>
@@ -27067,6 +27034,21 @@
               <location>
                 </location>
               </prev>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="5.44848"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                </location>
+              </next>
             </Spanner>
           <Chord>
             <durationType>half</durationType>
@@ -34148,14 +34130,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v43</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v43</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>32nd</durationType>
