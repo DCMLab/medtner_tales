@@ -32942,7 +32942,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7/v]</name>
+            <name>ii7]</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32982,7 +32982,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/v}</name>
+            <name>V}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
