@@ -31490,7 +31490,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(9b6)/iv</name>
+            <name>bII6(11)/iv-iv(9b6)/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31501,7 +31501,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
+            <name>iv/iv-bIIM65/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
