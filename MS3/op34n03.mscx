@@ -31457,7 +31457,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM2</name>
+            <name>IIIM2/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31468,14 +31468,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>VI6/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>V43/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
