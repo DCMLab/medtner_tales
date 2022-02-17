@@ -32311,6 +32311,14 @@
             <harmonyType>1</harmonyType>
             <name>V7(b3)/#iii</name>
             </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6/V/#iii</name>
+            <offset x="-1.93505" y="3.5"/>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
