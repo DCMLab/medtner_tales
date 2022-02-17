@@ -5346,6 +5346,10 @@
                   </location>
                 </next>
               </Spanner>
+            <Articulation>
+              <subtype>articAccentBelow</subtype>
+              <anchor>4</anchor>
+              </Articulation>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
@@ -5372,11 +5376,20 @@
             </location>
           <Chord>
             <durationType>16th</durationType>
+            <Stem>
+              <visible>0</visible>
+              </Stem>
+            <Hook>
+              <name>flag16thUp</name>
+              <visible>0</visible>
+              </Hook>
             <StemDirection>up</StemDirection>
             <Note>
+              <visible>0</visible>
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
+                <visible>0</visible>
                 </Accidental>
               <pitch>70</pitch>
               <tpc>24</tpc>
@@ -31894,14 +31907,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>i/v</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo43/v</name>
+            <name>V7/V/v</name>
             </Harmony>
           </voice>
         </Measure>
