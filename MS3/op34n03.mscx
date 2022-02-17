@@ -3878,6 +3878,10 @@
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
               <pitch>73</pitch>
               <tpc>21</tpc>
               </Note>
@@ -31516,7 +31520,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6(2)</name>
+            <name>III6(2)/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
