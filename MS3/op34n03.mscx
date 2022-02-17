@@ -32280,6 +32280,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/#iii</name>
+            <offset x="-1.72005" y="4.03751"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -32287,6 +32288,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V/#iii</name>
+            <offset x="-4.08511" y="4.03751"/>
             </Harmony>
           </voice>
         </Measure>
@@ -32299,6 +32301,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)/#iii</name>
+            <minDistance>-0.790035</minDistance>
+            <offset x="0.537515" y="4.80271"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -32310,6 +32314,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(b3)/#iii</name>
+            <offset x="-0.967526" y="4.14502"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -32317,7 +32322,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/V/#iii]</name>
-            <offset x="-1.93505" y="3.5"/>
+            <offset x="-5.48265" y="3.63696"/>
             </Harmony>
           </voice>
         </Measure>
@@ -32329,7 +32334,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI[vio/bI</name>
+            <name>i/#iii[viio2</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -32352,19 +32357,9 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/bI</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII/bI</name>
+            <name>bII/#iii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -32407,7 +32402,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7/bI</name>
+            <name>It6/#iii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -32456,6 +32451,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio7/#iii</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -32502,10 +32501,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)/bI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
