@@ -31586,7 +31586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64-i(64)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31604,7 +31604,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ivo43/v</name>
+            <name>viio2/V</name>
             </Harmony>
           </voice>
         </Measure>
