@@ -33261,11 +33261,18 @@
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio2/V</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio7/V</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33273,7 +33280,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo65</name>
+            <name>viio65/V</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33284,7 +33291,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo43</name>
+            <name>viio43/V</name>
             </Harmony>
           </voice>
         </Measure>
