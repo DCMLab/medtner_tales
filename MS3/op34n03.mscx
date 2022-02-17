@@ -31299,7 +31299,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31324,7 +31324,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/iv</name>
+            <name>iv/iv-bIIM65/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -31332,7 +31332,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31350,14 +31350,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(#2)</name>
+            <name>III(#2)/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>III/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -31383,14 +31383,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(#2)</name>
+            <name>III(#2)/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>III/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -31398,7 +31398,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(9)</name>
+            <name>iv6(9b6)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -31416,7 +31416,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>iv(#4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
