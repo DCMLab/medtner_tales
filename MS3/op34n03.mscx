@@ -33095,7 +33095,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
+            <name>V6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -33121,21 +33121,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V2</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo2</name>
+            <name>i6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo43</name>
+            <name>#viio43/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33154,7 +33154,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>#viio7/v-#viio7/ii/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33173,7 +33173,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv}</name>
+            <name>i/iv|IAC}</name>
             </Harmony>
           <location>
             <fractions>1/6</fractions>
