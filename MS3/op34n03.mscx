@@ -31623,21 +31623,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/v</name>
+            <name>V6/V-viio/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/v</name>
+            <name>V(64)-i64</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/v</name>
+            <name>V64/V</name>
             </Harmony>
           </voice>
         </Measure>
