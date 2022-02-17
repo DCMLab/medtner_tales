@@ -6641,12 +6641,14 @@
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalDoubleSharp</subtype>
+                <visible>0</visible>
                 </Accidental>
               <pitch>74</pitch>
               <tpc>28</tpc>
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           </voice>
@@ -21666,6 +21668,7 @@
               </Note>
             </Chord>
           <Rest>
+            <offset x="0" y="2"/>
             <durationType>16th</durationType>
             </Rest>
           </voice>
@@ -32018,14 +32021,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7/v</name>
+            <name>v[i/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo65/v</name>
+            <name>V43/V/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32033,25 +32036,34 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/v</name>
+            <name>#viio2/v</name>
+            <minDistance>-1.32755</minDistance>
+            <offset x="0.107503" y="4.20541"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>#viio7/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo65/v</name>
+            <name>i/v</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43/V/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32077,14 +32089,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v[v</name>
+            <name>i/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/v</name>
+            <name>#viio64/V/v</name>
+            <offset x="-2.58007" y="3.5"/>
             </Harmony>
           </voice>
         </Measure>
@@ -32117,7 +32130,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#io7]</name>
+            <name>V7(9)/V/v</name>
+            <offset x="-2.47257" y="3.6075"/>
             </Harmony>
           </voice>
         </Measure>
@@ -32143,33 +32157,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v[#ivo7/v</name>
+            <name>i/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo65/v</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio7/v</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>1/2</duration>
-            </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#ivo7/v]</name>
+            <name>V43/V/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32195,14 +32190,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v[#ivo7/v</name>
+            <name>i/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/v</name>
+            <name>V2/V/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32210,18 +32205,59 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7]</name>
+            <name>#viio7/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/ii</name>
+            <name>#V43/v</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i/v</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio64/V/v</name>
+            <offset x="-2.79508" y="3.6075"/>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio65/v</name>
+            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>1/2</duration>
+            </Rest>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio43/v</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2/ii]</name>
             </Harmony>
           </voice>
         </Measure>
