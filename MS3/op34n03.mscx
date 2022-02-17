@@ -32982,7 +32982,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>V[V|HC}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -32993,7 +32993,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>#iii.i{</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33013,7 +33013,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio65</name>
+            <name>V43(9)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33024,7 +33024,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo2</name>
+            <name>i</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio43/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33043,7 +33050,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo43</name>
+            <name>#viio43/V</name>
             </Harmony>
           </voice>
         </Measure>
