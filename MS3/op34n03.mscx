@@ -31551,6 +31551,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6)</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
