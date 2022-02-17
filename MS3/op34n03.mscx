@@ -10174,6 +10174,12 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>2.78499</y1>
+              <y2>2.53499</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -10243,7 +10249,7 @@
               <tpc>26</tpc>
               </Note>
             <Arpeggio>
-              <offset x="-8.25351" y="4.04571"/>
+              <offset x="-4.49091" y="-0.0394006"/>
               <subtype>0</subtype>
               <userLen1>-0.259798</userLen1>
               <userLen2>5.39081</userLen2>
@@ -33323,7 +33329,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i[i}{</name>
+            <name>i[i|PAC}{</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
