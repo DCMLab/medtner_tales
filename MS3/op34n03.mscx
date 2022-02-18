@@ -25150,6 +25150,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.21753</y1>
+              <y2>-1.96753</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -33621,6 +33627,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64(+6)/iv/bII</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
@@ -33630,14 +33640,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>iv64/bII</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/iv</name>
+            <name>viio43/V/iv/bII</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33645,7 +33655,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vii</name>
+            <name>V/iv/bII</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33656,21 +33666,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/vii</name>
+            <name>V2/iv/bII</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>V/iv/bII</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>iv6/bII</name>
             </Harmony>
           </voice>
         </Measure>
