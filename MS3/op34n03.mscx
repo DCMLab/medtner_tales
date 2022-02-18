@@ -33529,14 +33529,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/VI</name>
+            <name>bii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%7]</name>
+            <name>V7(b5)/bII-Fr6</name>
+            <offset x="-2.68757" y="3.6075"/>
             </Harmony>
           </voice>
         </Measure>
