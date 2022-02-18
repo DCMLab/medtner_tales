@@ -26047,6 +26047,7 @@
             <bracketType>2</bracketType>
             </Tuplet>
           <Rest>
+            <offset x="0" y="2"/>
             <durationType>eighth</durationType>
             </Rest>
           <Beam>
@@ -33979,7 +33980,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33997,14 +33998,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/v</name>
+            <name>V7(6)/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7/V</name>
             </Harmony>
           </voice>
         </Measure>
