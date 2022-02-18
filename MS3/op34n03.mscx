@@ -27031,6 +27031,7 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
+                  <up>down</up>
                   </Tie>
                 <next>
                   <location>
@@ -34219,7 +34220,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>#viio65/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
