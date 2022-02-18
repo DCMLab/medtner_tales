@@ -16956,8 +16956,8 @@
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Note>
-              <pitch>88</pitch>
-              <tpc>18</tpc>
+              <pitch>86</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -35613,7 +35613,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>VI(#2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
