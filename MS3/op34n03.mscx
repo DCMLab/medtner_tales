@@ -33718,7 +33718,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(4)</name>
+            <name>iv6(+4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -33784,7 +33784,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6(4)</name>
+            <name>v6(+4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -33854,7 +33854,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2</name>
+            <name>i6(+4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
