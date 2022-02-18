@@ -33444,7 +33444,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i-v/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33452,7 +33452,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)</name>
+            <name>i(b9)-v(b9)/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
