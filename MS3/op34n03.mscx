@@ -25383,6 +25383,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>3.65498</y1>
+              <y2>2.65498</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -33695,7 +33701,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV6/vii</name>
+            <name>bII6/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33706,21 +33712,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2/vii</name>
+            <name>iv6(4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/vii</name>
+            <name>viio64/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)/vii</name>
+            <name>V43(6)/iv</name>
             </Harmony>
           </voice>
         </Measure>
