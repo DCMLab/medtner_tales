@@ -35156,7 +35156,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv{</name>
+            <name>V7/iv{-V7/ii/III</name>
             </Harmony>
           </voice>
         </Measure>
@@ -35164,7 +35164,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(94)</name>
+            <name>iv(94)-ii(94)/III</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -35175,21 +35175,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(4)</name>
+            <name>iv(4)-ii(4)/III</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64(4)/iv</name>
+            <name>V/III</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>V2/III</name>
             </Harmony>
           </voice>
         </Measure>
@@ -35197,7 +35197,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(4)</name>
+            <name>I6/III</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -35208,10 +35208,17 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(4)</name>
+            <name>V43/III</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(6+2)/III</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
