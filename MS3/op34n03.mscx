@@ -25618,8 +25618,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>0.65498</y1>
-              <y2>-0.34502</y2>
+              <y1>0.17988</y1>
+              <y2>-0.82012</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -33810,7 +33810,7 @@
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>i.V7-Ger6/v/#iii</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
