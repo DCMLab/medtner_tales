@@ -25616,6 +25616,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0.65498</y1>
+              <y2>-0.34502</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -33734,7 +33740,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/#vii</name>
+            <name>#iii.V7/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33745,21 +33751,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/#vii</name>
+            <name>V2/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/#vii</name>
+            <name>V/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii6</name>
+            <name>v6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33767,7 +33773,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6/#vii</name>
+            <name>bII6/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33778,21 +33784,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2/#vii</name>
+            <name>v6(4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/#vii</name>
+            <name>#viio64/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)/#vii</name>
+            <name>V43(+6)/v</name>
             </Harmony>
           </voice>
         </Measure>
