@@ -33876,7 +33876,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2</name>
+            <name>III(#2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33887,10 +33887,17 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64</name>
+            <name>V6(6)/III</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III(74)-i6(94)</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
