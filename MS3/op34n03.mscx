@@ -33944,7 +33944,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V}{</name>
+            <name>V[V|HC}{</name>
+            <minDistance>-2.3506</minDistance>
+            <offset x="-0.28506" y="3.55177"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
