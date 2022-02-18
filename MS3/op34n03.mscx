@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -5751,9 +5750,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6181,9 +6177,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.190185" y="-4.37426"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6263,11 +6256,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="3.40491"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -6365,9 +6353,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.0950925" y="-4.46935"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6792,9 +6777,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="-0.1"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -6928,9 +6910,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.129899" y="-4.54646"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8889,9 +8868,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0" y="0.38037"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -9353,11 +9329,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.0675"/>
-                <off2 x="3.42333" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10047,11 +10018,6 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-5.72788"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Ottava>
             <next>
               <location>
@@ -10125,11 +10091,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="4.86394"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -10191,9 +10152,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.68869" y="4.41656"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10217,9 +10175,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="2.01343" y="-0.714444"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -12613,9 +12568,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -12878,7 +12830,7 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
+                <SlurSegment no="1">
                   <o4 x="-0.259343" y="-4.06304"/>
                   <offset x="0" y="2.58708"/>
                   </SlurSegment>
@@ -13050,9 +13002,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -13184,8 +13133,13 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-6.8037"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>1</subtype>
+                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -16412,9 +16366,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16610,9 +16561,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16896,9 +16844,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -17047,7 +16992,12 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>1</subtype>
                 <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -17435,7 +17385,7 @@
             </Rest>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-1.06527" y="-14.5222"/>
+            <offset x="-1.2928" y="-8.37879"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>a tempo (senza rit.)</text>
             </StaffText>
           <Tuplet>
@@ -21315,11 +21265,6 @@
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.19944"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -22315,11 +22260,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-5.14566"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -22425,11 +22365,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-4.93133"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -23885,11 +23820,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-3.54141"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -24221,11 +24151,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="7.0722"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -24307,11 +24232,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="5.77323"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -24476,6 +24396,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="1.61717"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -25102,11 +25027,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="2.03558"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -25124,9 +25044,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-6.58991" y="-1.04602"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -25335,11 +25252,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.3242"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -25568,11 +25480,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="1.72177"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -25609,9 +25516,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-2.92885" y="0.941416"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -26701,11 +26605,6 @@
             <HairPin>
               <subtype>0</subtype>
               <placement>above</placement>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-3.9111"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -26892,11 +26791,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-2.39225"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -32670,6 +32564,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(b3)/ii</name>
+            <offset x="-2.3891" y="3.5"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -32677,6 +32572,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/V/ii]</name>
+            <offset x="-4.77821" y="3.31577"/>
             </Harmony>
           </voice>
         </Measure>
@@ -34946,6 +34842,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII6/iv</name>
+            <offset x="-1.59274" y="3.38623"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -34953,6 +34850,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv/iv-bIIM65/iv</name>
+            <offset x="-1.3652" y="3.38623"/>
             </Harmony>
           </voice>
         </Measure>
@@ -35097,6 +34995,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Fr6]-V43(#5)/III</name>
+            <offset x="-3.64054" y="3.27247"/>
             </Harmony>
           </voice>
         </Measure>
@@ -35116,6 +35015,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv/III</name>
+            <offset x="-4.32314" y="3.27247"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -35123,7 +35023,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio65/V-viio7/V/III</name>
-            <offset x="-0.456544" y="-9.34799"/>
+            <offset x="-4.77968" y="3.20464"/>
             </Harmony>
           </voice>
         </Measure>
@@ -35132,6 +35032,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/III-VII</name>
+            <offset x="-1.7065" y="3.5"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -35143,6 +35044,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64-VI</name>
+            <offset x="-0.682601" y="3.72753"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -35150,6 +35052,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <offset x="-1.82027" y="3.61377"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -35157,6 +35060,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/iv{-V7/ii/III</name>
+            <offset x="-4.55067" y="3.61377"/>
             </Harmony>
           </voice>
         </Measure>
@@ -35165,6 +35069,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv(94)-ii(94)/III</name>
+            <minDistance>-2.00287</minDistance>
+            <offset x="0" y="3.70947"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -35462,7 +35368,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
-            <offset x="1.72303" y="6.27723"/>
+            <offset x="1.72303" y="3.97723"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
