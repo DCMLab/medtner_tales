@@ -35454,6 +35454,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/iv</name>
+            <offset x="-0.912192" y="3.70271"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -35461,13 +35462,14 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <offset x="1.72303" y="6.27723"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/vii</name>
+            <name>V43(b5)/iv</name>
             </Harmony>
           </voice>
         </Measure>
