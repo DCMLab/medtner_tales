@@ -33542,7 +33542,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)/bII-Fr6</name>
+            <name>V7(b5)/bii-Fr6</name>
             <offset x="-2.68757" y="3.6075"/>
             </Harmony>
           </voice>
@@ -33551,7 +33551,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>bii/#iii.V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33562,7 +33562,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/IV/bII</name>
+            <name>V2/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33570,7 +33570,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv/bII</name>
+            <name>V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33581,21 +33581,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/bII</name>
+            <name>iv64</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/bII</name>
+            <name>iv6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64/bII</name>
+            <name>bII64</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33603,7 +33603,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6/iv/bII</name>
+            <name>bII6/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33614,14 +33614,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(4)/bII</name>
+            <name>iv6(4)</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
+            <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/iv/bII</name>
+            <name>iv6</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33629,7 +33636,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(+6)/iv/bII</name>
+            <name>V64(+6)/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33640,14 +33647,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64/bII</name>
+            <name>iv64</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43/V/iv/bII</name>
+            <name>viio43/V/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -33655,7 +33662,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv/bII</name>
+            <name>V/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33666,21 +33673,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/iv/bII</name>
+            <name>V2/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv/bII</name>
+            <name>V/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/bII</name>
+            <name>iv6</name>
             </Harmony>
           </voice>
         </Measure>
