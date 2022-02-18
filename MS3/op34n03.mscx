@@ -35664,14 +35664,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>V65/v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7(6)/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -35679,7 +35679,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>#viio43/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
