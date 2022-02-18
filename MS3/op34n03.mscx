@@ -33470,14 +33470,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>viio43/V/iv</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i-v/iv</name>
             </Harmony>
           </voice>
         </Measure>
