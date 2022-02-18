@@ -33980,7 +33980,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
+            <name>#viio7/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33991,7 +33991,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7]</name>
+            <name>v]</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -34005,7 +34005,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7(b5)/V-Fr7</name>
+            <offset x="-5.2261" y="3.5"/>
             </Harmony>
           </voice>
         </Measure>
