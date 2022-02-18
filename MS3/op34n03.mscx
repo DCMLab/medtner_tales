@@ -35646,7 +35646,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo43</name>
+            <name>#viio43/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -35657,7 +35657,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7</name>
+            <name>v</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
