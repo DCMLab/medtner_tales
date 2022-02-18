@@ -35503,6 +35503,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Fr6/iv-V43(b5)</name>
+            <offset x="-7.90567" y="3.70271"/>
             </Harmony>
           </voice>
         </Measure>
@@ -35535,7 +35536,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/vii</name>
+            <name>V43(b5)/iv</name>
             </Harmony>
           </voice>
         </Measure>
@@ -35554,21 +35555,21 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV</name>
+            <name>V/#VII-IV/bII</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>V43(6)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>Fr6/iv-V43(b5)</name>
             </Harmony>
           </voice>
         </Measure>
