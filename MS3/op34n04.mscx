@@ -21320,7 +21320,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21370,7 +21370,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21411,7 +21411,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65</name>
+            <name>ii%65/ii-vii%65/IV</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -21458,19 +21458,9 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65(4)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>ii-vi/IV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -21504,7 +21494,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>III.ii7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
