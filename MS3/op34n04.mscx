@@ -20044,7 +20044,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VII{</name>
+            <name>VII.vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20054,6 +20054,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
