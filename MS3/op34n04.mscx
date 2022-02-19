@@ -21629,7 +21629,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6+2)</name>
+            <name>IVM65</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21639,6 +21639,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii64(9)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
