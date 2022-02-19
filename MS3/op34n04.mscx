@@ -20071,7 +20071,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20097,7 +20097,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VII</name>
+            <name>V</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -20125,7 +20125,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20148,7 +20148,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v65</name>
+            <name>vi65-I(6)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
