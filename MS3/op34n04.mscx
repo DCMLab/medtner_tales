@@ -20986,7 +20986,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VII</name>
+            <name>V65</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21017,7 +21017,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VII</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21044,7 +21044,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii/VII</name>
+            <name>ii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21083,7 +21083,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VII</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -21116,7 +21116,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21174,7 +21174,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V(b2)/ii-V2/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21187,6 +21187,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/ii</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -21200,7 +21204,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V2/ii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21229,6 +21233,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2-IV2/ii</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
