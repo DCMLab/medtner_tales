@@ -18608,14 +18608,16 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(9)</name>
+            <name>iv6(9)-ii6(9)/III</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv6-ii6/III</name>
+            <minDistance>-4.02395</minDistance>
+            <offset x="-4.40762" y="4.79003"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18698,7 +18700,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>ii%7-vii%7/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
