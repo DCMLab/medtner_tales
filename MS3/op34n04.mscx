@@ -20799,7 +20799,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/v{</name>
+            <name>V65/vi{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20817,7 +20817,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20832,14 +20832,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>VI/vi</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v/v</name>
+            <name>ii7(2)/vi</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -20847,7 +20847,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(9)/v</name>
+            <name>ii7(9)/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
