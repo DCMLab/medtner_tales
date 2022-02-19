@@ -21559,7 +21559,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.V7</name>
+            <name>V7</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -21593,7 +21593,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>I64-V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
