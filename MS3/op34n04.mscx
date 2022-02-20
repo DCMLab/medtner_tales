@@ -24424,7 +24424,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM43</name>
+            <name>V7(+4)/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -24446,7 +24446,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM65</name>
+            <name>IM65/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
