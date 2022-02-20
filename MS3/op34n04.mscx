@@ -25784,7 +25784,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII6</name>
+            <name>V6/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -25816,7 +25816,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -25897,7 +25897,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
+            <name>V/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
