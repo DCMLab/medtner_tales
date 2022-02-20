@@ -7861,6 +7861,8 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Beam>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -24524,7 +24526,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(7)</name>
+            <name>Ger6(0)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
