@@ -22545,7 +22545,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -22851,7 +22851,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7(9)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
