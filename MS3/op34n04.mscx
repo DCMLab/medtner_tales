@@ -24710,6 +24710,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6/V</name>
+            <offset x="-0.935582" y="8.50975"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24956,8 +24957,8 @@
               <tpc>16</tpc>
               </Note>
             <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
+              <pitch>40</pitch>
+              <tpc>18</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -25151,7 +25152,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>V(6)/III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
