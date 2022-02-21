@@ -26817,7 +26817,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>IV/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26832,7 +26832,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)</name>
+            <name>V(9)/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
