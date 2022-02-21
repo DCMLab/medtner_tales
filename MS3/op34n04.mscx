@@ -26480,7 +26480,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7</name>
+            <name>iii7/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -26507,7 +26507,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>ii6/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -26520,16 +26520,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>V7(9)/III</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
