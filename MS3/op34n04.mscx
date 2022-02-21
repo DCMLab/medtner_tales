@@ -26950,16 +26950,10 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv}</name>
+            <name>i/iv|PAC}</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
