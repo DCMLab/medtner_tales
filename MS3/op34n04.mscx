@@ -10514,8 +10514,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>1.05253</y1>
-              <y2>0.80253</y2>
+              <y1>0.584739</y1>
+              <y2>0.334739</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -10743,6 +10743,7 @@
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalFlat</subtype>
+                <visible>0</visible>
                 </Accidental>
               <pitch>63</pitch>
               <tpc>11</tpc>
@@ -27166,7 +27167,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65/VI</name>
+            <name>vii%65/VI-ii%65/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
