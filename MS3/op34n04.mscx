@@ -28481,7 +28481,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64-V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
