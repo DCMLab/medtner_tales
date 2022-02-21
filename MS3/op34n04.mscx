@@ -25923,7 +25923,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i-vi/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -25982,7 +25982,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>V(4)/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26068,7 +26068,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>viio6/III-iio</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
