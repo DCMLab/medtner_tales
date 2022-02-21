@@ -27273,7 +27273,8 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/VI</name>
+            <name>IV/VI-VI/iv</name>
+            <offset x="-1.40337" y="10.906"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -27369,7 +27370,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iv</name>
+            <name>ii%7/iv-vii%7/VI</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -27426,7 +27427,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2/iv</name>
+            <name>ii%7(2)/iv-iv2/iv</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
