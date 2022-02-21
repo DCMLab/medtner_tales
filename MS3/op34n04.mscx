@@ -28481,7 +28481,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64-V(64)</name>
+            <name>V[i64-V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -28506,7 +28506,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
+            <name>ii%7/V</name>
             </Harmony>
           </voice>
         <voice>
