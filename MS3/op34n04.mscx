@@ -26634,7 +26634,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)</name>
+            <name>i(9)-V(9)/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26722,7 +26722,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iv</name>
+            <name>IV7/v-V7/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -26740,7 +26740,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>V/v</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
