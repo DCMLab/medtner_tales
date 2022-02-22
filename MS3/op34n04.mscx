@@ -29904,7 +29904,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I-ii2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29973,7 +29973,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>I[ii7-I[V7(13119)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -30003,7 +30003,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
