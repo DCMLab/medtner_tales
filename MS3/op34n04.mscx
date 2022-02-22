@@ -33414,7 +33414,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I64-V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
