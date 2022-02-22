@@ -31835,7 +31835,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2</name>
+            <name>I(964)-ii2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -31949,7 +31949,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii2</name>
+            <name>I(964)-ii2</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
