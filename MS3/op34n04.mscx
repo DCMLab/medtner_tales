@@ -31153,7 +31153,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I(64)-IV64</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
