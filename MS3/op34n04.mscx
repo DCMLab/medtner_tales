@@ -29904,7 +29904,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I-ii2</name>
+            <name>I(9)-ii2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -31356,7 +31356,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I(64)-IV64</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -31486,7 +31486,14 @@
             <durationType>eighth</durationType>
             </Rest>
           <location>
-            <fractions>-1/32</fractions>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(6)</name>
+            </Harmony>
+          <location>
+            <fractions>1/32</fractions>
             </location>
           <Spanner type="HairPin">
             <prev>
