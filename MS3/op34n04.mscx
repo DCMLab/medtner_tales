@@ -29454,7 +29454,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I-ii2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29631,7 +29631,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I-ii2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
