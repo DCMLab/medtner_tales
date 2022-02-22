@@ -29338,7 +29338,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[ii7</name>
+            <name>I[ii7-I[V7(13119)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29354,7 +29354,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29400,7 +29400,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I(1311)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
