@@ -1057,8 +1057,15 @@ I</text>
       <Measure>
         <voice>
           <StaffText>
-            <text>Meno mosso <sym>unicodeNote8thUp</sym> = 80</text>
+            <offset x="-0.0844623" y="-5.94263"/>
+            <text>Meno mosso</text>
             </StaffText>
+          <Tempo>
+            <tempo>0.66666700000000001</tempo>
+            <followText>1</followText>
+            <offset x="11.5713" y="-4.88343"/>
+            <text><sym>metNote8thUp</sym> = 80</text>
+            </Tempo>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
