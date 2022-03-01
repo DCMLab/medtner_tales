@@ -10764,6 +10764,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi6-I(6)</name>
+            <offset x="-1.52032" y="7.15652"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10859,7 +10860,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>IVM7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
