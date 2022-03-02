@@ -4718,8 +4718,11 @@ I</text>
               <tpc>20</tpc>
               </Note>
             <Note>
-              <pitch>79</pitch>
-              <tpc>15</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>80</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Beam>
