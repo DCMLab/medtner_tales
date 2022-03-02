@@ -14572,7 +14572,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>V64/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
