@@ -14239,6 +14239,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(64){-i64{</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="-1.09801" y="8.36914"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14339,7 +14341,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14374,7 +14376,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii6</name>
+            <name>V(#6)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14410,7 +14412,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7</name>
+            <name>V7(b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
