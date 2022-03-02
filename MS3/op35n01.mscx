@@ -16544,7 +16544,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(+6)=vi7</name>
+            <name>I64(+6)-vi7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
