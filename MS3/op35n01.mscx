@@ -13362,7 +13362,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13387,10 +13387,6 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -13460,10 +13456,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -13539,10 +13531,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -13618,11 +13606,6 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III64</name>
-            <offset x="0.154307" y="-6.30861"/>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
