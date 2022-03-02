@@ -3078,8 +3078,8 @@ I</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>0.506774</y1>
-              <y2>0.256774</y2>
+              <y1>0.253387</y1>
+              <y2>0.00338679</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -11892,7 +11892,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
