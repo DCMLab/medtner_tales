@@ -18784,7 +18784,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(b5)/vi</name>
+            <name>Ger6/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18806,7 +18806,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>IVM7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18850,7 +18850,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi6-I(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18882,7 +18882,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(b4)/iv</name>
+            <name>Ger6(b9)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18902,9 +18902,19 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>Ger6/IV</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18947,7 +18957,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>vi6-I(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18981,7 +18991,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6(b7)</name>
+            <name>V2/bVI-Ger6(11b9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19044,7 +19054,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>IVM7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -19111,7 +19121,7 @@ I</text>
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>vii%43</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -19174,7 +19184,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
