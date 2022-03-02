@@ -12646,7 +12646,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio</name>
+            <name>iio-viio/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12710,7 +12710,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V64-IIIM2</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
