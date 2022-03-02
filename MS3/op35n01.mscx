@@ -15466,7 +15466,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64</name>
+            <name>iii.V(64)-i64</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15575,7 +15575,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.iv</name>
+            <name>bii</name>
             <offset x="0.154307" y="-8.62322"/>
             </Harmony>
           <Beam>
@@ -15607,7 +15607,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15639,7 +15639,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/iii</name>
+            <name>V(#6)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15675,7 +15675,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7/iii</name>
+            <name>V7(b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15735,7 +15735,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
