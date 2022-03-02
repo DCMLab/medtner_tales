@@ -11407,7 +11407,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM2</name>
+            <name>V7(964)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -16923,7 +16923,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17175,7 +17175,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>IV(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17303,7 +17303,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM2</name>
+            <name>iii(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17422,7 +17422,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM2</name>
+            <name>V7(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17488,7 +17488,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi2</name>
+            <name>V(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17520,7 +17520,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7}</name>
+            <name>V7|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
