@@ -12841,6 +12841,10 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -12852,6 +12856,10 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -12866,6 +12874,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/#vii</name>
+            <minDistance>0.5</minDistance>
+            <offset x="0.844623" y="6.19491"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
