@@ -2314,6 +2314,12 @@ I</text>
                 </location>
               </prev>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0</y1>
+              <y2>-0.25</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -2639,6 +2645,12 @@ I</text>
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Beam>
+            <Fragment>
+              <y1>-0.901991</y1>
+              <y2>-1.15199</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -11626,7 +11638,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -11643,6 +11655,13 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
