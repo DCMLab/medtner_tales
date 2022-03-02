@@ -12561,7 +12561,7 @@ I</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{V</name>
+            <name>V{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
@@ -17100,7 +17100,7 @@ I</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(+6)=vi7</name>
+            <name>I64(+6)-vi7</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
