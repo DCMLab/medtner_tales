@@ -12305,7 +12305,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|IAC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -12348,10 +12348,6 @@ I</text>
             <family>FreeSerif</family>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>espress.</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V}</name>
-            </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
             </Fermata>
@@ -12363,7 +12359,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{V</name>
             </Harmony>
           </voice>
         <voice>
