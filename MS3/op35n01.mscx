@@ -7609,6 +7609,12 @@ I</text>
             <velocity>96</velocity>
             <offset x="0.992648" y="6.633"/>
             </Dynamic>
+          <Tempo>
+            <tempo>0.66666700000000001</tempo>
+            <followText>1</followText>
+            <offset x="12.0825" y="-4.59376"/>
+            <text><sym>metNote8thUp</sym> = 80</text>
+            </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -16731,7 +16737,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}{</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
