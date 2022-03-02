@@ -17744,7 +17744,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18005,7 +18005,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18035,6 +18035,10 @@ I</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -18099,7 +18103,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>ii7(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
