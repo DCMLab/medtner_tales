@@ -18374,7 +18374,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[vi7</name>
+            <name>V[vi7-I(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18389,7 +18389,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/iv</name>
+            <name>Ger6/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
