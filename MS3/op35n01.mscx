@@ -13855,10 +13855,18 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(b4)</name>
+            <name>Fr6(2)-V/III</name>
+            <offset x="0.76016" y="4.64514"/>
             </Harmony>
           <location>
-            <fractions>1/8</fractions>
+            <fractions>1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Fr6</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
