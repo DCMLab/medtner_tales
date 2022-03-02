@@ -18350,7 +18350,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)}</name>
+            <name>V(64)}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18374,7 +18374,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[vi7{</name>
+            <name>V[vi7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
