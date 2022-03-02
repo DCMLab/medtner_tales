@@ -6924,6 +6924,22 @@ I</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="6.4292"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              </HairPin>
+            <next>
+              <location>
+                <measures>1</measures>
+                <fractions>-1/4</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="HairPin">
+            <HairPin>
+              <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
@@ -6935,22 +6951,6 @@ I</text>
               <location>
                 <measures>1</measures>
                 <fractions>-3/16</fractions>
-                </location>
-              </next>
-            </Spanner>
-          <Spanner type="HairPin">
-            <HairPin>
-              <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="6.4292"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              </HairPin>
-            <next>
-              <location>
-                <measures>1</measures>
-                <fractions>-1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -12877,7 +12877,6 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/#vii</name>
-            <minDistance>0.5</minDistance>
             <offset x="0.844623" y="6.19491"/>
             </Harmony>
           <Chord>
@@ -15185,7 +15184,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii64</name>
+            <name>bii.V(64)-bii.i64</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15251,7 +15250,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>bii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15286,7 +15285,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15320,7 +15319,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(#6)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -15350,7 +15349,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7/bii</name>
+            <name>V7(b5)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15399,7 +15398,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>i6</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -15419,7 +15418,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>V</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -15431,7 +15430,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
