@@ -3849,8 +3849,8 @@ I</text>
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-0.243226</y1>
-              <y2>-0.493226</y2>
+              <y1>-0.75</y1>
+              <y2>-1</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13024,7 +13024,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bV</name>
+            <name>bII/iv</name>
             </Harmony>
           </voice>
         </Measure>
