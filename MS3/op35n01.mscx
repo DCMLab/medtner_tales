@@ -16282,7 +16282,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>I64(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
