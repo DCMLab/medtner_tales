@@ -12914,12 +12914,16 @@ I</text>
             <offset x="0.379704" y="-4.15793"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>poco calando</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi</name>
+            <name>IV6(#7)-#vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -12943,6 +12947,16 @@ I</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio/VII</name>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio2</name>
