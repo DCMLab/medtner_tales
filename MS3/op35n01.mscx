@@ -3032,8 +3032,15 @@ I</text>
             <velocity>96</velocity>
             </Dynamic>
           <StaffText>
-            <text>Con moto <sym>unicodeNote8thUp</sym> = <sym>unicodeNoteQuarterUp</sym></text>
+            <offset x="-2.11156" y="-5.52477"/>
+            <text>Con moto</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3333299999999999</tempo>
+            <followText>1</followText>
+            <offset x="7.01037" y="-4.29664"/>
+            <text><sym>metNoteQuarterUp</sym> = 80</text>
+            </Tempo>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
