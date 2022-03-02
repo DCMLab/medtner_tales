@@ -3076,6 +3076,12 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>0.506774</y1>
+              <y2>0.256774</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -11783,7 +11789,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>vii%7-ii%7/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11802,7 +11808,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I+</name>
+            <name>I+-V64(6)/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
