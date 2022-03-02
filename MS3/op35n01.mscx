@@ -3847,6 +3847,12 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-0.243226</y1>
+              <y2>-0.493226</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -12510,7 +12516,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio64</name>
+            <name>#viio64-V2</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
