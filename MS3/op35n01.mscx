@@ -14845,7 +14845,8 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>ii.V(64)-ii.i64</name>
+            <offset x="-3.20957" y="9.1398"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -14924,7 +14925,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii.bii</name>
+            <name>bii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
