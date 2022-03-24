@@ -14109,7 +14109,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.viio/IV</name>
+            <name>viio/II</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14133,7 +14133,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>II</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14151,7 +14151,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/V</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14164,10 +14164,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
