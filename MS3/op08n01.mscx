@@ -13292,7 +13292,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+(#4)-V6(#96)</name>
+            <name>I+64(+#4)/III-V6(#96)</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
