@@ -15992,7 +15992,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV</name>
+            <name>vii%43/IV-#iii%4</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -16048,7 +16048,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
