@@ -13052,7 +13052,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13075,10 +13075,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64-i(64)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -13089,10 +13085,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
