@@ -13908,7 +13908,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9#7#4)</name>
+            <name>i%7</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13930,10 +13930,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(7#4)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -13962,10 +13958,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7(4)</name>
-            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
