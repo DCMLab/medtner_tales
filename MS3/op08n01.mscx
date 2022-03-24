@@ -15407,6 +15407,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7</name>
+            <offset x="0.119894" y="7.40462"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15416,10 +15417,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%65</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -15453,10 +15450,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -15479,7 +15472,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(964)</name>
+            <name>i2/vi</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15511,7 +15504,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>ii%43/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15527,10 +15520,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv.vii%43/III-iv.ii%43</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -15557,7 +15546,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>iv.V|HC}{</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
