@@ -11911,10 +11911,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7-i(94)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
