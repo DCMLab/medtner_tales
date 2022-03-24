@@ -14465,7 +14465,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii7/V/III</name>
+            <name>vii%7/V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14835,7 +14835,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM2(9)-V6(1311)</name>
+            <name>V6(+6)-IM2(9)</name>
+            <offset x="-1.9183" y="6.03837"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
