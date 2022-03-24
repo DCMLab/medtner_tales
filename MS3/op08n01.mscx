@@ -14208,7 +14208,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(+#6)</name>
+            <name>iv.i(+#6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14268,7 +14268,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64-i(6)</name>
+            <name>iv64-i(+6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14279,7 +14279,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#6)</name>
+            <name>i(+#6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
