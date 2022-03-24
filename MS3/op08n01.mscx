@@ -15703,7 +15703,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV-#iii%4</name>
+            <name>vii%43/IV-#iii%43</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -15733,6 +15733,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio43/V</name>
+            <offset x="-1.79841" y="4.11467"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -15992,7 +15993,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV-#iii%4</name>
+            <name>vii%43/IV-#iii%43</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
