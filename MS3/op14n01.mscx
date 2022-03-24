@@ -17006,13 +17006,6 @@
             <harmonyType>1</harmonyType>
             <name>i7</name>
             </Harmony>
-          <location>
-            <fractions>3/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%65</name>
-            </Harmony>
           </voice>
         <voice>
           <Spanner type="HairPin">
