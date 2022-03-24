@@ -14376,7 +14376,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III/iv.V43</name>
+            <name>V43/III</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14395,7 +14395,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iii</name>
+            <name>V6/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14423,7 +14423,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14441,7 +14441,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>VI</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14465,7 +14465,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/V</name>
+            <name>vii7/V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14478,10 +14478,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14494,7 +14490,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14521,7 +14517,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}{</name>
+            <name>VI.I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
