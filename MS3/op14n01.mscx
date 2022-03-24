@@ -224,7 +224,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/5801</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -936,14 +936,14 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Fermata>
-            <subtype>fermataAbove</subtype>
-            </Fermata>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
             <offset x="-0.4157" y="5.87873"/>
             </Dynamic>
+          <Fermata>
+            <subtype>fermataAbove</subtype>
+            </Fermata>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8570,8 +8570,6 @@
             <subtype>pp</subtype>
             <velocity>33</velocity>
             <autoplace>0</autoplace>
-            <offset x="2.06399" y="3.10821"/>
-            <placement>above</placement>
             <placement>above</placement>
             <offset x="2.06399" y="3.10821"/>
             </Dynamic>
