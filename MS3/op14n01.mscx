@@ -10583,7 +10583,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(4)/vi</name>
+            <name>#viio7(4)/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
