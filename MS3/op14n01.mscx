@@ -13657,10 +13657,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
