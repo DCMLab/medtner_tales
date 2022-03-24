@@ -12097,7 +12097,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv43</name>
+            <name>iv43-iv2</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -12777,6 +12777,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12809,6 +12810,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12834,6 +12836,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12911,7 +12914,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7</name>
+            <name>iio6/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12942,6 +12945,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -12957,13 +12961,6 @@
             <harmonyType>1</harmonyType>
             <name>VI6</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI6-i(6)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            <minDistance>0.412133</minDistance>
-            <offset x="-3.86614" y="4.16098"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13014,6 +13011,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13032,6 +13030,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13046,6 +13045,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13070,6 +13070,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio6</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13153,6 +13154,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13180,11 +13187,6 @@
             <name>IV64</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64-i(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -13198,6 +13200,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13220,7 +13223,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#13)</name>
+            <name>i(+#6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -13296,7 +13299,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+/III-i(#0)</name>
+            <name>It6(+7)/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -13363,6 +13366,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13423,7 +13432,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+(#4)-V6(#96)</name>
+            <name>I+64(+#4)/III-V6(#96)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -13494,7 +13503,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(6+4)</name>
+            <name>ii43/III-iv43</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -13517,11 +13526,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -13682,11 +13686,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/VI</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -13714,6 +13713,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13739,11 +13744,6 @@
             <harmonyType>1</harmonyType>
             <name>IV</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV-ii6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -13794,11 +13794,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Ger6</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -13988,7 +13983,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9#7#4)</name>
+            <name>i7(+9#4)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14011,11 +14006,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(97#4)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -14099,7 +14089,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9#7#4)</name>
+            <name>i%7</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14126,11 +14116,6 @@
             <harmonyType>1</harmonyType>
             <name>i7</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(7#4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14163,6 +14148,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -14187,7 +14173,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
+            <name>viio7/II</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14218,6 +14204,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i43-III6(+4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14243,6 +14235,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI(#2)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14326,7 +14324,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.viio/IV</name>
+            <name>viio/II</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14356,7 +14354,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>II</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14380,7 +14378,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/V</name>
+            <name>viio7/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14398,11 +14396,6 @@
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14453,7 +14446,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(+#6)</name>
+            <name>iv.i(+#6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -14519,7 +14512,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64-i(6)</name>
+            <name>iv64-i(+6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14532,6 +14525,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(#6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(+#6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14641,12 +14640,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/III</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III/iv.V43</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14670,7 +14663,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iii</name>
+            <name>V6/v</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14700,12 +14693,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14724,12 +14711,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14758,7 +14739,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/V</name>
+            <name>vii%7/V/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14772,11 +14753,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14790,12 +14766,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/III</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14827,7 +14797,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC}{</name>
+            <name>VI.I}{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -14874,11 +14844,6 @@
             <name>IV/III</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -14901,11 +14866,6 @@
             <harmonyType>1</harmonyType>
             <name>V/III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14930,11 +14890,6 @@
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14949,11 +14904,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14968,11 +14918,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -15018,11 +14963,6 @@
             <harmonyType>1</harmonyType>
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15057,11 +14997,6 @@
             <name>III64</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -15092,11 +15027,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15112,11 +15042,6 @@
             <harmonyType>1</harmonyType>
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15136,11 +15061,6 @@
             <harmonyType>1</harmonyType>
             <name>V/III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15186,12 +15106,6 @@
             <name>V/III</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <color r="0" g="85" b="0" a="255"/>
-            <offset x="-1.49374" y="3.35063"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15207,11 +15121,6 @@
             <harmonyType>1</harmonyType>
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15267,8 +15176,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM2(9)-V6(1311)</name>
+            <name>V6(+6)-IM2(9)</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="-1.9183" y="6.03837"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -15386,7 +15296,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>iii6</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -15703,7 +15613,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii7</name>
+            <name>V6</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -15746,7 +15656,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7(94)</name>
+            <name>vi7</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -15756,11 +15666,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15786,6 +15691,11 @@
             <harmonyType>1</harmonyType>
             <name>i7(4)</name>
             <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -15835,7 +15745,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)</name>
+            <name>ii(964)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -15862,7 +15772,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>ii</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -15879,6 +15789,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -15897,6 +15812,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15908,11 +15828,6 @@
             <harmonyType>1</harmonyType>
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15946,6 +15861,7 @@
             <harmonyType>1</harmonyType>
             <name>vii%7</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="0.119894" y="7.40462"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15959,11 +15875,6 @@
             <harmonyType>1</harmonyType>
             <name>iv</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%65</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -16009,11 +15920,6 @@
             <name>iio6</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -16041,7 +15947,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(964)</name>
+            <name>i2/vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -16079,7 +15985,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>ii%43/iv</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -16096,11 +16002,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv.vii%43/III-iv.ii%43</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -16132,7 +16033,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}{</name>
+            <name>iv.V|HC}{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -16307,7 +16208,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV</name>
+            <name>vii%43/IV-#iii%43</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -16342,8 +16243,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="-1.79841" y="4.11467"/>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -16620,7 +16522,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV</name>
+            <name>vii%43/IV-#iii%43</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -16682,7 +16584,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V</name>
+            <name>viio43/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -17103,7 +17005,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/IV</name>
+            <name>viio43/IV</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -17493,7 +17395,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(11#6)</name>
+            <name>I(#0)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -18491,6 +18393,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III64(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18518,6 +18426,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -18525,6 +18434,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/III</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -18543,6 +18453,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -18753,6 +18664,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18782,11 +18699,6 @@
             <name>bII(#4)</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
@@ -18794,11 +18706,6 @@
             <harmonyType>1</harmonyType>
             <name>V7/bII</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -18817,6 +18724,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -18958,7 +18866,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(97){</name>
+            <name>bII{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -19580,7 +19488,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(139)/III</name>
+            <name>V7(+13+9)/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -20442,7 +20350,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(6)</name>
+            <name>VI64-i6(6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -20473,12 +20381,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/VII</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6(11#6)-V2/VII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -20566,10 +20468,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/VII-ii%65/VII</name>
+            <name>iv/VII</name>
             <color r="0" g="85" b="0" a="255"/>
-            <minDistance>0.369097</minDistance>
-            <offset x="-6.87119" y="6.51775"/>
+            <offset x="-0.546095" y="5.97944"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -21085,11 +20986,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64/V</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -21110,12 +21006,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6(b5)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -21152,6 +21042,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21217,7 +21113,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(#7b5)</name>
+            <name>bII</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -21244,11 +21140,6 @@
             <name>V65</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65(b5)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -21266,6 +21157,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
