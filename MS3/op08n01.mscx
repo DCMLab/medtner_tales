@@ -15311,7 +15311,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)</name>
+            <name>ii(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15332,7 +15332,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15348,6 +15348,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -15366,6 +15370,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15373,10 +15381,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
