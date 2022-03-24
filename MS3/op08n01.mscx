@@ -19696,9 +19696,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/VII-ii%65/VII</name>
-            <minDistance>0.369097</minDistance>
-            <offset x="-6.87119" y="6.51775"/>
+            <name>iv/VII</name>
+            <offset x="-0.546095" y="5.97944"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
