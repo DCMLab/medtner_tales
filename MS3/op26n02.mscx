@@ -12074,7 +12074,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12265,7 +12265,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
