@@ -14590,6 +14590,10 @@ Op.26</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi/V</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
