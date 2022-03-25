@@ -18111,10 +18111,6 @@ Op.26</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV(4)</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
