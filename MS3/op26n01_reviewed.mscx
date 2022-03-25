@@ -225,7 +225,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -8893,17 +8893,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM7(9)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -9904,7 +9893,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/IV</name>
+            <name>vii%7(#3)/V/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -10016,6 +10005,7 @@
             <harmonyType>1</harmonyType>
             <name>I/V|PAC}</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="-0.0862866" y="8.06915"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10243,17 +10233,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM2</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -11390,7 +11369,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I64</name>
+            <name>V6(6)/vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -11432,6 +11411,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6(6)/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -15326,9 +15306,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)/vi]-V65(9#5)/IV]</name>
+            <name>V65(9#5)/IV]</name>
             <color r="0" g="85" b="0" a="255"/>
-            <offset x="-10.3203" y="6.33848"/>
+            <offset x="-5.09296" y="7.10721"/>
             </Harmony>
           </voice>
         <voice>
@@ -15414,12 +15394,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.I[I}{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I.I[I|IAC}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
