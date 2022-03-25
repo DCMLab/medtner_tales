@@ -15030,7 +15030,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I[I|IAC}{</name>
+            <name>I.I[I}{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
