@@ -13036,7 +13036,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13069,18 +13069,8 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <up>up</up>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/24</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
+              <pitch>44</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -13116,13 +13106,6 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/24</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
@@ -13215,7 +13198,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>

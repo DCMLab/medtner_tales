@@ -13100,7 +13100,7 @@ Op.26</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -13134,18 +13134,8 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <up>up</up>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/24</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
+              <pitch>44</pitch>
+              <tpc>10</tpc>
               </Note>
             <Note>
               <Spanner type="Tie">
@@ -13181,13 +13171,6 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-1/24</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>43</pitch>
               <tpc>15</tpc>
               </Note>
@@ -13285,7 +13268,7 @@ Op.26</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I(64)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -13592,15 +13575,15 @@ Op.26</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#iv%7</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7/V-ii%7/iii</name>
@@ -14755,15 +14738,15 @@ Op.26</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7/v</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii7/V</name>
@@ -17854,15 +17837,15 @@ Op.26</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[I64</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V(64)</name>
@@ -19284,15 +19267,15 @@ Op.26</text>
               </Note>
             </Chord>
           <endTuplet/>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#IV64</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64/VII</name>
