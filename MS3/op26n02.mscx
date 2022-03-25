@@ -13504,7 +13504,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/V-ii%7/iii</name>
+            <name>iii.ii%7</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -13588,10 +13588,6 @@ Op.26</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii.ii%65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
