@@ -9900,6 +9900,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I/V|PAC}</name>
+            <offset x="-0.0862866" y="8.06915"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -10127,16 +10128,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM2</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
