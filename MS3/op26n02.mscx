@@ -17235,7 +17235,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)</name>
+            <name>I64(64^2)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -17279,7 +17279,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>I6(4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -17430,7 +17430,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(+64)</name>
+            <name>IV64-I6(6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
