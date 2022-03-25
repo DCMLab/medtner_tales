@@ -11187,7 +11187,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.I64</name>
+            <name>V6(6)/vi</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -11222,16 +11222,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6(6)/vi</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
