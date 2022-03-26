@@ -225,7 +225,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -8063,11 +8063,6 @@
             <name>III6</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8083,11 +8078,6 @@
             <harmonyType>1</harmonyType>
             <name>V6/III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8182,11 +8172,6 @@
             <name>V7/III</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8208,11 +8193,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8229,11 +8209,6 @@
             <name>III</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -8249,11 +8224,6 @@
             <harmonyType>1</harmonyType>
             <name>V64/III</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8729,7 +8699,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/ii</name>
+            <name>i(42)/ii</name>
             <color r="0" g="85" b="0" a="255"/>
             <minDistance>-2.46606</minDistance>
             <offset x="0.38008" y="7.31273"/>
@@ -8753,7 +8723,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65-ii%65/V/ii</name>
+            <name>i(+#6)/ii</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -8800,7 +8770,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>i/ii</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
