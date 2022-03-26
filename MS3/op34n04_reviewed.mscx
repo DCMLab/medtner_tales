@@ -18653,8 +18653,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6-ii6/III</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-4.02395</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-4.40762" y="4.79003"/>
             </Harmony>
           <Beam>
@@ -20148,7 +20148,9 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/VII{</name>
+            <minDistance>-0.0811208</minDistance>
             <color r="170" g="0" b="0" a="255"/>
+            <offset x="-0.0968535" y="7.51084"/>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21024,15 +21026,15 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/v{</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65/vi{</name>
@@ -22411,7 +22413,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(974)}</name>
+            <name>I(^974)}</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -22426,7 +22428,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|IAC</name>
+            <name>I</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -22918,15 +22920,15 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V}</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC}</name>
@@ -27952,15 +27954,15 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV/VI</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV/VI-VI/iv</name>
@@ -32758,15 +32760,15 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii2</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(964)-ii2</name>
@@ -34088,14 +34090,18 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(4)</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Spanner type="HairPin">
+            <prev>
+              <location>
+                <fractions>-7/64</fractions>
+                </location>
+              </prev>
+            </Spanner>
           </voice>
         </Measure>
       <Measure>
