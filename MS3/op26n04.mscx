@@ -23685,7 +23685,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(6)</name>
+            <name>III+</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23744,7 +23744,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-V2/VII</name>
+            <name>IV2</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
