@@ -225,7 +225,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8879</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -11987,7 +11987,7 @@ I</text>
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I+-V64(6)/vi</name>
+            <name>V64(6)/vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
