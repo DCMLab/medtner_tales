@@ -18489,7 +18489,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7-ii7/III</name>
+            <name>iv7</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
