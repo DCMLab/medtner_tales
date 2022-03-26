@@ -19809,7 +19809,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65(11)</name>
+            <name>ii%65(^4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
