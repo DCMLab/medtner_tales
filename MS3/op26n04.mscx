@@ -13805,7 +13805,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/v-i/v</name>
+            <name>V(64)/v</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
