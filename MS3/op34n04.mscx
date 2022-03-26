@@ -19175,10 +19175,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2(#9)</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -19197,10 +19193,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
