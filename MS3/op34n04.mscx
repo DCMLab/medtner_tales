@@ -19411,6 +19411,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -19428,20 +19432,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV/III-V2(9)/III</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -19464,10 +19454,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III6</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
