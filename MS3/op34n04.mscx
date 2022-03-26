@@ -18562,7 +18562,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(9)</name>
+            <name>IIIM7(^9)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
