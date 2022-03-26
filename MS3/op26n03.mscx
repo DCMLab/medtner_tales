@@ -8440,7 +8440,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/ii</name>
+            <name>i(42)/ii</name>
             <minDistance>-2.46606</minDistance>
             <offset x="0.38008" y="7.31273"/>
             </Harmony>
@@ -8458,7 +8458,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65-ii%65/V/ii</name>
+            <name>i(+#6)/ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
