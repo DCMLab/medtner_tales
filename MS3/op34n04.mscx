@@ -20001,6 +20001,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC</name>
+            <offset x="0" y="8.15629"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -20035,6 +20036,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VII.vi{</name>
+            <offset x="0" y="8.42811"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20817,27 +20819,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI/vi</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii7(2)/vi</name>
-            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)/vi</name>
+            <name>ii7(+9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
