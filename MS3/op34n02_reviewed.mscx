@@ -225,7 +225,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8811</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -13470,6 +13470,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(97)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(^9^7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -20338,7 +20344,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii/iv</name>
+            <name>VIIM7/iv</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
