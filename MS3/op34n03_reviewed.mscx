@@ -226,7 +226,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8811</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -13133,12 +13133,12 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>3</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-6.8037"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>3</subtype>
                 <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
@@ -16991,6 +16991,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>2</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               <Segment>
                 <subtype>3</subtype>
                 <offset x="0" y="3.5"/>
@@ -31207,7 +31212,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III-ii%43(11)</name>
+            <name>ii%43(+6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
@@ -31266,9 +31271,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III-ii%43(11)</name>
+            <name>ii%43(+6)</name>
             <color r="0" g="85" b="0" a="255"/>
-            <offset x="-4.08511" y="3.6075"/>
+            <offset x="-0.388822" y="3.71621"/>
             </Harmony>
           </voice>
         </Measure>
@@ -34999,12 +35004,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V[V}{</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V[V|HC}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-2.3506</minDistance>
             <offset x="-0.28506" y="3.55177"/>
             </Harmony>
@@ -36849,7 +36848,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/#VII</name>
+            <name>V(64)/bI</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
@@ -36866,12 +36865,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/#VII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -36880,11 +36873,6 @@
             <harmonyType>1</harmonyType>
             <name>i64</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64-V(64)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         </Measure>
@@ -36951,12 +36939,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bV</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/#VII-IV/bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -37042,12 +37024,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bV</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/#VII-IV/bII</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -37310,12 +37286,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bI</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/#VII</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.152181" y="-7.674"/>
             </Harmony>
           <location>
@@ -37333,6 +37303,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
