@@ -29228,7 +29228,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[ii7-I[V7(13119)</name>
+            <name>I[V7(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29290,7 +29290,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(1311)</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29320,10 +29320,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(4)</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -29342,10 +29338,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I-ii2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
