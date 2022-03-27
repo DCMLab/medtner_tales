@@ -31054,7 +31054,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III-ii%43(11)</name>
+            <name>ii%43(+6)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -31102,8 +31102,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(4)/III-ii%43(11)</name>
-            <offset x="-4.08511" y="3.6075"/>
+            <name>ii%43(+6)</name>
+            <offset x="-0.388822" y="3.71621"/>
             </Harmony>
           </voice>
         </Measure>
