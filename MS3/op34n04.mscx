@@ -29077,7 +29077,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(4)</name>
+            <name>I|PAC</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29135,10 +29135,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I|IAC</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>32nd</durationType>
