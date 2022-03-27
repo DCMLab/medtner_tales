@@ -224,7 +224,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8811</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -355,8 +355,8 @@ I</text>
                 </next>
               </Spanner>
             <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
+              <pitch>66</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -26860,15 +26860,15 @@ I</text>
               <tpc>24</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#vii%43</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio43</name>
@@ -29936,8 +29936,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/iii</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-6.41746</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.12845" y="7.17649"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -29999,8 +29999,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bIII/bII.I}{</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-6.18941</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.76016" y="7.28495"/>
             </Harmony>
           <Chord>
@@ -31068,8 +31068,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-1.86494</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="4.62485"/>
             </Harmony>
           <Chord>
@@ -31185,8 +31185,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.246613</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.0844623" y="4.50584"/>
             </Harmony>
           <Chord>
@@ -34148,8 +34148,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64/bVI</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.415538</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.44941" y="8.07452"/>
             </Harmony>
           <Chord>
@@ -34532,8 +34532,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7-vii%7/V/bVI</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.0776887</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-11.5713" y="8.57873"/>
             </Harmony>
           <Chord>
@@ -35158,8 +35158,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%43/bVI-ii%43/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-1.85379</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.844623" y="8.22649"/>
             </Harmony>
           <Chord>
@@ -35191,8 +35191,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%2/bVI-ii%2/iv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.258359</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-10.3044" y="7.98899"/>
             </Harmony>
           <Chord>
@@ -46134,15 +46134,15 @@ I</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Clef>
+            <concertClefType>G</concertClefType>
+            <transposingClefType>G</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64/bv</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>G</concertClefType>
-            <transposingClefType>G</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6/bv</name>
@@ -46382,15 +46382,15 @@ I</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv/bv</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
-            </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv6/bv</name>
@@ -46658,8 +46658,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6/bv</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.335938</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.52032" y="5.50704"/>
             </Harmony>
           <Chord>
@@ -47205,8 +47205,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI/bv-V/V</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-3.65609</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-6.49108" y="7.1468"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -47872,8 +47872,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7(b13)/IV</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.162801</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-4.21499" y="4.08537"/>
             </Harmony>
           <Beam>
@@ -48795,8 +48795,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7(b139)/IV</name>
-            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-0.477251</minDistance>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.19179" y="5.39668"/>
             </Harmony>
           <Tuplet>
