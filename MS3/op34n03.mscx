@@ -35312,7 +35312,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)/#VII</name>
+            <name>V(64)/bI</name>
             </Harmony>
           </voice>
         </Measure>
@@ -35327,14 +35327,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/#VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64-V(64)</name>
+            <name>V7/bI</name>
             </Harmony>
           </voice>
         </Measure>
