@@ -3544,6 +3544,12 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-1.53751</y1>
+              <y2>-1.78751</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -19998,7 +20004,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/vii-V6(#4#2)</name>
+            <name>V6(#4#2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20070,7 +20076,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
+            <name>V6(6#4#2)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -20137,7 +20143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/III</name>
+            <name>V65</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20178,7 +20184,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20230,7 +20236,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio6/iv</name>
+            <name>#viio6/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20292,7 +20298,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.ii(4)</name>
+            <name>ii(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
