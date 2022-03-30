@@ -2406,9 +2406,18 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>-3.71249</y1>
+              <y2>-3.46249</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
+            <Stem>
+              <userLen>-0.107503</userLen>
+              </Stem>
             <Note>
               <pitch>84</pitch>
               <tpc>14</tpc>
@@ -19174,7 +19183,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(6)</name>
+            <name>I(4)/VII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19190,6 +19199,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/VII</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
