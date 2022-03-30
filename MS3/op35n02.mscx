@@ -19998,7 +19998,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
+            <name>#viio7/vii-V6(#4#2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -20033,7 +20033,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/III</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
