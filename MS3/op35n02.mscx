@@ -19322,6 +19322,10 @@
               <tpc>23</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V6</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19398,6 +19402,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19442,7 +19450,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(4)</name>
+            <name>v(^4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19458,6 +19466,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19507,7 +19519,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
+            <name>#vi%7-ii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19665,6 +19677,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19709,7 +19725,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(4)</name>
+            <name>v(^4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19725,6 +19741,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
