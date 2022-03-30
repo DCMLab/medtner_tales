@@ -19766,7 +19766,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>#viio7/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
