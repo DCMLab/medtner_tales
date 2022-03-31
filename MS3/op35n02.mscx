@@ -22453,7 +22453,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64(9)</name>
+            <name>ii64</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22473,6 +22473,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)</name>
+            <offset x="-0.107503" y="5.82406"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22485,6 +22486,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -22507,7 +22512,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(9)/vi</name>
+            <name>V/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22527,6 +22532,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2/vi</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -22536,6 +22545,12 @@
             </Chord>
           </voice>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>6.31999</y1>
+              <y2>7.31999</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <StemDirection>down</StemDirection>
