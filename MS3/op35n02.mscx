@@ -22615,7 +22615,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(9)</name>
+            <name>vi(#72)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22628,6 +22628,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -22638,7 +22642,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi2</name>
+            <name>vi2-ii2/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -22661,7 +22665,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%7</name>
+            <name>vii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
