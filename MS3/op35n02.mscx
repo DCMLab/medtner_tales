@@ -21757,6 +21757,10 @@
           <location>
             <fractions>1/8</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM2</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -21979,7 +21983,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>iii</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
