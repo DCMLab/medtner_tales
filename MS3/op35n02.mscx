@@ -23541,6 +23541,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="0" y="5.34707"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -23569,7 +23570,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65]</name>
+            <name>I(6)</name>
+            <offset x="0.107503" y="5.98894"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -23648,7 +23650,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
