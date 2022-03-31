@@ -23321,7 +23321,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(9)</name>
+            <name>vi7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -23349,6 +23349,10 @@
             <offset x="-0.0950925" y="-5.5675"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>accelerando</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii(94)</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
