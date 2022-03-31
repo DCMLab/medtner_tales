@@ -23827,7 +23827,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>V(6)-iii6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -23852,7 +23852,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6(9)</name>
+            <name>IV6(9)-vi7</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -23942,7 +23942,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>viio6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24046,7 +24046,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24107,7 +24107,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
+            <name>ii65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24247,7 +24247,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I|IAC</name>
             </Harmony>
           <Fermata>
             <subtype>fermataAbove</subtype>
