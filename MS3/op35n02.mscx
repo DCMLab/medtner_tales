@@ -25046,7 +25046,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(4)/v</name>
+            <name>ii(11)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25076,7 +25076,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7/v</name>
+            <name>ii7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25094,7 +25094,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/#vi</name>
+            <name>vii%43</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -25130,7 +25130,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+(4)</name>
+            <name>i6(#7#6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25160,7 +25160,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+(7)</name>
+            <name>i6(9#7)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25178,11 +25178,15 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
