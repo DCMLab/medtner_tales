@@ -25011,7 +25011,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/v</name>
+            <name>#vi%43-ii%43/v</name>
+            <minDistance>0.0699884</minDistance>
+            <offset x="-5.91266" y="5.34022"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
