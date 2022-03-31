@@ -3528,21 +3528,6 @@
                 </next>
               </Spanner>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <TieSegment no="0">
-                    <o2 x="0.038008" y="-0.304064"/>
-                    <o3 x="0.038008" y="-0.304064"/>
-                    <o4 x="0.532112" y="0.076016"/>
-                    <offset x="0.114024" y="-2.50853"/>
-                    </TieSegment>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>1/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>74</pitch>
               <tpc>16</tpc>
               </Note>
@@ -21370,7 +21355,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(7)</name>
+            <name>I64(7)/IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21394,14 +21379,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I/IV</name>
             </Harmony>
           <location>
             <fractions>3/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7(6)/IV</name>
+            <name>I64/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21427,11 +21412,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/IV</name>
+            <name>ii6(94)/IV-IVM7(9)/IV</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/IV</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -21581,7 +21570,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-1.02602" y="9.56055"/>
+            <offset x="-0.811014" y="12.1406"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
