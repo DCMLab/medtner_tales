@@ -21420,6 +21420,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/IV</name>
+            <offset x="-1.29003" y="5.44938"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -21781,7 +21782,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/vi</name>
+            <name>viio65</name>
+            <offset x="-1.39754" y="3.82251"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -21892,11 +21894,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)/vi</name>
+            <name>IV6(#4#2)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.38037" y="8.08286"/>
+            <offset x="-0.487873" y="11.0929"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
