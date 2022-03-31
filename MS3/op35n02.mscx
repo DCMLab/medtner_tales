@@ -23155,7 +23155,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
+            <offset x="-0.107503" y="5.30087"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
