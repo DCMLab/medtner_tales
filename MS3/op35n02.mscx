@@ -21566,7 +21566,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>I6(97)/IV</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -21601,7 +21601,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I6/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
