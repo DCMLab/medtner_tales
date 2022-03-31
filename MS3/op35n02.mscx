@@ -23124,14 +23124,14 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I}{</name>
+            <name>I[I|PAC}{</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.665648" y="10.8405"/>
+            <offset x="-0.0206305" y="14.3881"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
