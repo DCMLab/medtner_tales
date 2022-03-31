@@ -23066,7 +23066,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43-ii(4)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -23110,8 +23110,8 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
+              <pitch>38</pitch>
+              <tpc>16</tpc>
               </Note>
             </Chord>
           </voice>
