@@ -30579,7 +30579,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI</name>
+            <name>V/#VII</name>
             <offset x="-0.163288" y="-6.16329"/>
             </Harmony>
           <Chord>
@@ -30603,6 +30603,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6/#VII</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -30622,6 +30626,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/#VII</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -30675,7 +30683,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/bI</name>
+            <name>ii%7/#VII</name>
             <offset x="-1" y="-6"/>
             </Harmony>
           <Chord>
@@ -30703,7 +30711,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI6</name>
+            <name>I6/#VII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -30725,7 +30733,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bI(9)</name>
+            <name>I(9)/#VII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -30744,7 +30752,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi/bI</name>
+            <name>vi7/#VII-iv7/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
