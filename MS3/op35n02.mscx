@@ -26754,14 +26754,14 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64(9)</name>
+            <name>bVII.vii%2(4)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.230124" y="9.78026"/>
+            <offset x="-1.41266" y="14.0804"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26791,7 +26791,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>vii%2</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26858,7 +26858,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64(9)</name>
+            <name>vii%2(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26881,7 +26881,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64</name>
+            <name>vii%2</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26939,10 +26939,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi6(4)</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -26962,10 +26958,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -27022,10 +27014,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv%7</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -27065,11 +27053,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv%2</name>
-            <offset x="0.150668" y="-6.30134"/>
-            </Harmony>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
@@ -27107,7 +27090,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII.V7(9)}{</name>
+            <name>V7(9)}{</name>
             </Harmony>
           <Spanner type="Trill">
             <prev>
