@@ -28727,7 +28727,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>V64/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28768,7 +28768,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65(9)/III</name>
+            <name>iv(#7)</name>
+            <offset x="0.215006" y="10.1484"/>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -28799,7 +28800,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/III</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28848,6 +28849,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%2</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
