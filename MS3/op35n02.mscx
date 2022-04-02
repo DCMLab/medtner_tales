@@ -26417,7 +26417,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger6(b8)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -26439,6 +26439,14 @@
               <tpc>25</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-3/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <offset x="0" y="-6.00401"/>
+            </Harmony>
           </voice>
         <voice>
           <Rest>
