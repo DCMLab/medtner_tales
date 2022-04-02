@@ -32278,6 +32278,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio64/III</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -32295,7 +32299,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>V/III</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -32332,7 +32336,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6(9)</name>
+            <name>III6(2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -32345,6 +32349,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III6</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -32353,16 +32361,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>i64</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -32371,16 +32373,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
