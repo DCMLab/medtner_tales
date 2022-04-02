@@ -28892,7 +28892,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(94)</name>
+            <name>iii.V(94)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -29056,7 +29056,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29076,7 +29076,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(119)</name>
+            <name>V7(134)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29316,6 +29316,12 @@
               </Number>
             <bracketType>2</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>1.03499</y1>
+              <y2>0.784994</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
