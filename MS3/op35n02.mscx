@@ -31543,14 +31543,7 @@
             <name>I6/VI</name>
             </Harmony>
           <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bVII6</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
+            <fractions>1/8</fractions>
             </location>
           <Clef>
             <concertClefType>F</concertClefType>
@@ -31606,7 +31599,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii.bII64</name>
+            <name>I(64)/VI</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -31632,14 +31625,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>I6(6)/VI</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/bII</name>
+            <name>I/VI</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -31714,7 +31707,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii(4)</name>
+            <name>ii7(11)/VI</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -31728,24 +31721,26 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6/VI</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -31757,13 +31752,6 @@
               <tpc>24</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           </voice>
         <voice>
           <Beam>
