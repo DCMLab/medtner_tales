@@ -27533,7 +27533,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iv</name>
+            <name>vii%7/bVI</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -27810,7 +27810,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iv</name>
+            <name>vii%7/bVI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
