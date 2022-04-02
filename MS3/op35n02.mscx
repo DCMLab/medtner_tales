@@ -28952,8 +28952,14 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V(13)</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-3.67749</y1>
+              <y2>-3.92749</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
