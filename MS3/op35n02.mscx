@@ -25845,6 +25845,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <offset x="-1.82755" y="6.22013"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25889,7 +25890,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(9){</name>
+            <name>i6(13){</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -25983,6 +25984,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
