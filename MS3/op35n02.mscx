@@ -29210,7 +29210,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(119)</name>
+            <name>iii6(119)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29394,7 +29394,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6(11b6)</name>
+            <name>iii6(b134)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29531,6 +29531,7 @@
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
+                <visible>0</visible>
                 </Accidental>
               <pitch>56</pitch>
               <tpc>22</tpc>
