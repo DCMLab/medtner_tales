@@ -26140,7 +26140,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(9)</name>
+            <name>i6(13)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -26228,6 +26228,10 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -26256,7 +26260,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v</name>
+            <name>V7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -26294,10 +26298,6 @@
           <location>
             <fractions>1/8</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
