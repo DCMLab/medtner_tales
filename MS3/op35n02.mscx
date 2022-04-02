@@ -18855,7 +18855,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>vi.V{</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -18869,7 +18869,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.#vi%7-vi.ii%7/V</name>
+            <name>#vi%7-ii%7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -32781,7 +32781,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I{</name>
+            <name>iv.V{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
