@@ -32568,7 +32568,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio</name>
+            <name>IV6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32638,7 +32638,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%2/v</name>
+            <name>III6(#4)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32694,7 +32694,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -32707,6 +32707,10 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -32735,7 +32739,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
