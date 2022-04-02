@@ -9276,7 +9276,7 @@
             </Rest>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="0" y="-3.74764"/>
+            <offset x="0.537515" y="-5.8977"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Chord>
@@ -26417,9 +26417,10 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(b8)</name>
+            <name>Ger6</name>
             </Harmony>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Symbol>
@@ -26438,14 +26439,6 @@
               <tpc>25</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Ger6</name>
-            <offset x="0" y="-6.00401"/>
-            </Harmony>
           </voice>
         <voice>
           <Rest>
