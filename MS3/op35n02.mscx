@@ -28602,7 +28602,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(#4)/III</name>
+            <name>iii.Ger6(4)</name>
+            <offset x="-1.29003" y="8.18353"/>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -28637,7 +28638,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/III</name>
+            <name>Ger6</name>
             <offset x="0" y="-6.01644"/>
             </Harmony>
           <Chord>
