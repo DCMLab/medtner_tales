@@ -31025,7 +31025,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>vi(11)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -31055,7 +31055,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>vi7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -31073,7 +31073,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>vi6(6)-IVM43</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
