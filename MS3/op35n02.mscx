@@ -29318,8 +29318,8 @@
             </Tuplet>
           <Beam>
             <Fragment>
-              <y1>1.03499</y1>
-              <y2>0.784994</y2>
+              <y1>0.604983</y1>
+              <y2>0.354983</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -29520,7 +29520,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7/V/iii-IV7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29544,7 +29544,8 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(6#4)/VII</name>
+            <name>IV7(6#4)</name>
+            <offset x="1.39754" y="8.99145"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29636,6 +29637,12 @@
               </Number>
             <bracketType>2</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>1.1425</y1>
+              <y2>0.892497</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -29718,7 +29725,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>IV7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29738,7 +29745,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/VII</name>
+            <name>IV7(6)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29860,7 +29867,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/bII</name>
+            <name>VI43</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29884,7 +29891,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(6)/bII</name>
+            <name>VI43(13)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
