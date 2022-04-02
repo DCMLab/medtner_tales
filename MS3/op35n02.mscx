@@ -28042,7 +28042,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.691582" y="10.806"/>
+            <offset x="-0.369073" y="14.8911"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28104,10 +28104,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii.vii%43/VI</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -28219,10 +28215,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/VI</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -28282,7 +28274,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VI</name>
+            <name>V65/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28313,7 +28305,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/VI</name>
+            <name>#vii%43/ii</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -28523,7 +28515,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VI</name>
+            <name>V2/ii</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
