@@ -31286,6 +31286,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2/VII</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
