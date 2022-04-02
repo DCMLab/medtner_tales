@@ -30909,7 +30909,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>ii7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -30933,7 +30933,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>V6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -30968,7 +30968,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -30986,7 +30986,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi%43</name>
+            <name>V6(6)-vi43</name>
+            <offset x="-1.61254" y="6.43753"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
