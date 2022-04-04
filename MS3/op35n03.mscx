@@ -3390,6 +3390,12 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>3.77701</y1>
+              <y2>3.52701</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -3502,6 +3508,12 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>2.29056</y1>
+              <y2>1.54056</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -16419,7 +16431,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
             <minDistance>-1.99335</minDistance>
             <offset x="0.270279" y="3.97284"/>
             </Harmony>
