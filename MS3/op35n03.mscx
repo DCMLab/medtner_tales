@@ -13840,11 +13840,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i65</name>
+            <name>v</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <acciaccatura/>
