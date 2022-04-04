@@ -15420,7 +15420,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>i7-ii7/V/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15466,7 +15466,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>III.V7/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15482,7 +15482,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15502,7 +15502,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III}{</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
