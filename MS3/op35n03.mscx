@@ -1269,6 +1269,12 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>0.0202792</y1>
+              <y2>-0.729721</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -14620,7 +14626,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V[i</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
