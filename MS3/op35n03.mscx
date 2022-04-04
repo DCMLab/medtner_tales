@@ -1844,6 +1844,12 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-0.86486</y1>
+              <y2>-1.11486</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -15155,7 +15161,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>VII7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -15176,10 +15182,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)/III</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -15202,13 +15204,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/III</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
