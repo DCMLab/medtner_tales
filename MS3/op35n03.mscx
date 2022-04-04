@@ -15531,6 +15531,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I64</name>
+            <minDistance>0.47547</minDistance>
+            <offset x="0.13514" y="8.04478"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
