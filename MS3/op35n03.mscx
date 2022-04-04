@@ -10123,10 +10123,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            </Dynamic>
           <Chord>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
@@ -10141,173 +10137,26 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <placement>below</placement>
-            <family>FreeSerif</family>
-            <offset x="0.665648" y="1.94416"/>
-            <text><font size="9.8903"></font><font face="Plantin MT Std"></font>tenuto</text>
-            </StaffText>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
-          <Chord>
-            <BeamMode>begin</BeamMode>
-            <dots>1</dots>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <staves>1</staves>
-                  <fractions>-1/8</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <fractions>1121/4480</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <Note>
-              <pitch>69</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Tuplet>
-            <normalNotes>4</normalNotes>
-            <actualNotes>7</actualNotes>
-            <baseNote>64th</baseNote>
-            <Number>
-              <style>Tuplet</style>
-              <text>7</text>
-              </Number>
-            <bracketType>1</bracketType>
-            </Tuplet>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>74</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-6.43658"/>
+                <off2 x="14.139" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Ottava>
             <next>
               <location>
-                <fractions>103/640</fractions>
+                <measures>1</measures>
+                <fractions>-1/2</fractions>
                 </location>
               </next>
             </Spanner>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>72</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <location>
-            <fractions>1/4480</fractions>
-            </location>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>76</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <BeamMode>mid</BeamMode>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>81</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>64th</durationType>
-            <Note>
-              <pitch>84</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <endTuplet/>
-          <location>
-            <fractions>-1/4480</fractions>
-            </location>
           <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
+            <durationType>half</durationType>
             </Rest>
-          <location>
-            <fractions>-4479/4480</fractions>
-            </location>
-          <Chord>
-            <durationType>eighth</durationType>
-            <Spanner type="Slur">
-              <prev>
-                <location>
-                  <fractions>-1121/4480</fractions>
-                  </location>
-                </prev>
-              </Spanner>
-            <StemDirection>down</StemDirection>
-            <Note>
-              <pitch>93</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-103/640</fractions>
-                </location>
-              </prev>
-            </Spanner>
-          <Rest>
-            <durationType>16th</durationType>
-            </Rest>
-          <Chord>
-            <durationType>16th</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-2241/4480</fractions>
-                  </location>
-                </next>
-              </Spanner>
-            <StemDirection>up</StemDirection>
-            <Note>
-              <pitch>64</pitch>
-              <tpc>18</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
@@ -10320,11 +10169,14 @@
             <offset x="0.190185" y="-4.35278"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>Pieghevole, danzando</text>
             </StaffText>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="0.625336" y="4.70275"/>
-            </Dynamic>
+          <Spanner type="Ottava">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>1/2</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -10332,11 +10184,25 @@
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>7/16</fractions>
+                  </location>
+                </next>
+              </Spanner>
             <Note>
               <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="1.78286" y="5.76697"/>
+            </Dynamic>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -10344,6 +10210,12 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>0.434144</y1>
+              <y2>-0.315856</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -10377,8 +10249,7 @@
             <Spanner type="Slur">
               <prev>
                 <location>
-                  <measures>-1</measures>
-                  <fractions>2241/4480</fractions>
+                  <fractions>-7/16</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -22848,9 +22719,6 @@
             <harmonyType>1</harmonyType>
             <name>V7(4)</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -22907,11 +22775,7 @@
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -22922,12 +22786,11 @@
                 </prev>
               </Spanner>
             <Note>
-              <pitch>57</pitch>
+              <pitch>69</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -22954,11 +22817,7 @@
             <harmonyType>1</harmonyType>
             <name>V7(4)</name>
             </Harmony>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -22973,17 +22832,13 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.0950925" y="-0.38037"/>
-                  </SlurSegment>
+                <up>down</up>
                 </Slur>
               <next>
                 <location>
-                  <staves>-1</staves>
                   <fractions>1/8</fractions>
                   </location>
                 </next>
@@ -23004,9 +22859,25 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-1.67235" y="-10.4719"/>
+            </Dynamic>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <minDistance>-6.87356</minDistance>
+            <offset x="2.05243" y="2.45211"/>
+            <text>tenuto</text>
+            </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <minDistance>-7.25364</minDistance>
+            <offset x="-0.152032" y="4.09702"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -23014,28 +22885,185 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.988208" y="7.74064"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
-                <measures>1</measures>
-                <fractions>-1/2</fractions>
+                <fractions>3/8</fractions>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <StemDirection>down</StemDirection>
+            <Fragment>
+              <y1>-10.6669</y1>
+              <y2>-11.6669</y2>
+              </Fragment>
+            </Beam>
+          <Chord>
+            <dots>1</dots>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/8</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                <SlurSegment no="0">
+                  <o2 x="-0.38008" y="-1.4443"/>
+                  <o3 x="-0.38008" y="-1.4443"/>
+                  <o4 x="-0.152032" y="11.4024"/>
+                  <offset x="-0.076016" y="-12.0866"/>
+                  </SlurSegment>
+                </Slur>
+              <next>
+                <location>
+                  <fractions>1/4</fractions>
+                  </location>
+                </next>
+              </Spanner>
+            <Note>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Tuplet>
+            <offset x="1.59634" y="-7.90567"/>
+            <normalNotes>4</normalNotes>
+            <actualNotes>7</actualNotes>
+            <baseNote>64th</baseNote>
+            <Number>
+              <style>Tuplet</style>
+              <text>7</text>
+              </Number>
+            </Tuplet>
+          <Chord>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Spanner type="Ottava">
+            <Ottava>
+              <subtype>8va</subtype>
+              <visible>0</visible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0" y="-2.69594"/>
+                <off2 x="0" y="0"/>
+                <visible>0</visible>
+                </Segment>
+              </Ottava>
+            <next>
+              <location>
+                <fractions>9/56</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>72</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>81</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>64th</durationType>
+            <Note>
+              <pitch>84</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          <endTuplet/>
+          <StaffText>
+            <style>Expression</style>
+            <minDistance>-999</minDistance>
+            <offset x="-1.21626" y="-14.6485"/>
+            <text>m.s.</text>
+            </StaffText>
+          <Chord>
+            <BeamMode>no</BeamMode>
+            <staffMove>-1</staffMove>
+            <durationType>eighth</durationType>
+            <Spanner type="Slur">
+              <prev>
+                <location>
+                  <fractions>-1/4</fractions>
+                  </location>
+                </prev>
+              </Spanner>
+            <Note>
+              <pitch>93</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <fractions>-3/8</fractions>
+                </location>
+              </prev>
+            </Spanner>
+          <Spanner type="Ottava">
+            <prev>
+              <location>
+                <fractions>-9/56</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Rest>
-            <visible>0</visible>
-            <durationType>half</durationType>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
             </Rest>
-          <location>
-            <fractions>-279/4480</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>{</name>
-            </Harmony>
-          <location>
-            <fractions>279/4480</fractions>
-            </location>
+          <Chord>
+            <staffMove>-1</staffMove>
+            <durationType>16th</durationType>
+            <Note>
+              <pitch>76</pitch>
+              <tpc>18</tpc>
+              </Note>
+            </Chord>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -23046,17 +23074,9 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-6.75157" y="-10.0675"/>
+            <offset x="-0.214191" y="-12.424"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                <fractions>1/2</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
