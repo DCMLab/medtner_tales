@@ -17836,7 +17836,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-8.06059"/>
+                <offset x="1.89776" y="-8.31398"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -18097,7 +18097,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6-V43(b5)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18357,7 +18357,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6-V43(b5)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
