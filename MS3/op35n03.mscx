@@ -7175,8 +7175,15 @@
             <velocity>49</velocity>
             </Dynamic>
           <StaffText>
-            <text>Sostenuto, con molto tenerezza (tempo sostenuto) <sym>unicodeNoteQuarterUp</sym> = 72</text>
+            <offset x="-1.68925" y="-5.52032"/>
+            <text>Sostenuto, con molto tenerezza (tempo sostenuto)</text>
             </StaffText>
+          <Tempo>
+            <tempo>1.2</tempo>
+            <followText>1</followText>
+            <offset x="44.1738" y="-4.12327"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 72</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -18798,7 +18805,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I{</name>
+            <name>I{</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
