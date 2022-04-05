@@ -17656,7 +17656,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/III</name>
+            <name>V6(6)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18012,7 +18012,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64</name>
+            <name>V6(6)/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
