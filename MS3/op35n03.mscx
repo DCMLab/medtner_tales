@@ -26003,7 +26003,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6</name>
+            <name>V(6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26051,7 +26051,8 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>vii</name>
+            <offset x="0.253387" y="5.78048"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26085,7 +26086,8 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+6</name>
+            <name>V(6)/vii</name>
+            <offset x="1.09801" y="5.7621"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26137,6 +26139,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
+            <offset x="0.253387" y="5.86494"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26170,7 +26173,8 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(6)/VI</name>
+            <offset x="1.09801" y="6.14997"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26215,7 +26219,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo</name>
+            <name>viio/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -26249,7 +26253,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V43(b5)-Fr6/iv</name>
             </Harmony>
           <Tuplet>
             <offset x="0" y="0.456096"/>
@@ -26341,7 +26345,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V43(b5)-Fr6/iv</name>
             <offset x="-0.076016" y="5.4004"/>
             </Harmony>
           <Tuplet>
@@ -26498,8 +26502,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <minDistance>-5.42925</minDistance>
-            <offset x="0.304064" y="6.64371"/>
+            <offset x="0.135139" y="5.37678"/>
             </Harmony>
           <Tuplet>
             <offset x="-0.152032" y="0.836176"/>
@@ -26530,6 +26533,10 @@
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6(7)/iv</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -26608,6 +26615,10 @@
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>It6(7)/iv</name>
+            </Harmony>
           <Tuplet>
             <offset x="0.076016" y="0.304064"/>
             <normalNotes>4</normalNotes>
@@ -26741,6 +26752,12 @@
             <minDistance>-999</minDistance>
             <offset x="0.456096" y="-9.86377"/>
             </Dynamic>
+          <Beam>
+            <Fragment>
+              <y1>2.24323</y1>
+              <y2>1.24323</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
