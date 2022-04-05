@@ -21087,7 +21087,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>bii6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21143,7 +21143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)</name>
+            <name>V43(4)/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21165,7 +21165,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43/bii-Ger2</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21193,7 +21193,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(4)/VII</name>
+            <name>V64(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21219,7 +21219,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/VII</name>
+            <name>V54</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21270,6 +21270,10 @@
                 </prev>
               </Spanner>
             <Note>
+              <Accidental>
+                <role>1</role>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
               <pitch>51</pitch>
               <tpc>11</tpc>
               </Note>
