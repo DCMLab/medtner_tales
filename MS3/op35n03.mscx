@@ -6569,11 +6569,7 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
-            <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
@@ -6585,8 +6581,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18602,16 +18598,20 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7(119#5)</name>
+            <name>VI.</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.235767" y="10.2951"/>
+            <offset x="0.235767" y="11.3931"/>
             </Symbol>
           <Rest>
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM7(119#5)</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -18628,7 +18628,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="9.27348"/>
+            <offset x="-0.253387" y="11.385"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
