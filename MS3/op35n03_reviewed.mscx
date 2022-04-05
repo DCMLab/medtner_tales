@@ -16117,7 +16117,8 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name/>
+            <name>ii7(+4)-V43(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -16234,11 +16235,6 @@
             </Chord>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii7(+4)-V43(4)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -22056,7 +22052,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V54</name>
+            <name>V64</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -25308,7 +25304,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio%65/III</name>
+            <name>vii%65/III</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
