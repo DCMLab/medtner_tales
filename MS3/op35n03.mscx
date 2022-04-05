@@ -20863,7 +20863,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>VII.bII6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20920,11 +20920,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b8)/#IV</name>
+            <name>V65(b8)/V</name>
             </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -20945,7 +20942,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/#IV</name>
+            <name>V65/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -20979,7 +20976,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/VII</name>
+            <name>V7(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21001,7 +20998,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>II+6</name>
+            <name>V7(6)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21032,7 +21029,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>V2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21057,7 +21054,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43/VII</name>
+            <name>V2(9)-viio43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
