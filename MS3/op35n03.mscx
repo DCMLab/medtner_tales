@@ -21254,7 +21254,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/II</name>
+            <name>i.V2/bII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -21316,7 +21316,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.bII6</name>
+            <name>bII6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
