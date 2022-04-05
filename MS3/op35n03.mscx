@@ -18598,7 +18598,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.</name>
+            <name>VI.IVM7(119#5)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -18608,10 +18608,6 @@
             <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM7(119#5)</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -18676,11 +18672,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7(119#5)</name>
+            <name>IVM7(119#5)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.628711" y="7.70171"/>
+            <offset x="-0.121937" y="10.9113"/>
             </Symbol>
           <Rest>
             <visible>0</visible>
@@ -18698,7 +18694,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -18750,18 +18746,11 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>V7(6)</name>
             </Harmony>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III6(117)</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -18780,7 +18769,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)/III}</name>
+            <name>V7(96)}</name>
             </Harmony>
           <Rest>
             <durationType>whole</durationType>
