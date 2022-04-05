@@ -15871,7 +15871,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name></name>
+            <name>ii7(+4)-V43(4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -15970,10 +15970,6 @@
             </Chord>
           </voice>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii7(+4)-V43(4)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
