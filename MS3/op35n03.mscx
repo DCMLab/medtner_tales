@@ -6581,8 +6581,8 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -18624,7 +18624,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -18661,21 +18661,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>V7(6)</name>
             </Harmony>
           <Rest>
             <durationType>whole</durationType>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64/III</name>
-            </Harmony>
-          <location>
-            <fractions>1/2</fractions>
-            </location>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
