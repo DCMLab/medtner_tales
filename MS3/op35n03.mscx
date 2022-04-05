@@ -24659,7 +24659,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>ii7/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -24691,7 +24691,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>V7/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
