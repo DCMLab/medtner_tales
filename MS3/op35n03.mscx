@@ -24116,7 +24116,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>i7-ii7/V/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24144,7 +24144,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7/V/III</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
