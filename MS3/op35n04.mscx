@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -58,6 +59,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <hideEmptyStaves>1</hideEmptyStaves>
       <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
@@ -203,20 +206,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>0</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Op.35</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -370,7 +372,9 @@
               <tpc>18</tpc>
               </Note>
             <Arpeggio>
+              <offset x="-0.537515" y="4.62263"/>
               <subtype>0</subtype>
+              <userLen1>5.16014</userLen1>
               </Arpeggio>
             </Chord>
           <Chord>
@@ -778,9 +782,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -806,9 +807,6 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -8931,9 +8929,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -9595,9 +9590,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>0</fractions>
-            </location>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -10061,13 +10053,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="5.90584"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -10823,13 +10810,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="5.46472"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="6.1626"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -17310,10 +17292,6 @@
                 <SlurSegment no="0">
                   <o4 x="0.1" y="0"/>
                   </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="1.55606" y="-7.86674"/>
-                  <o4 x="3.63208e-18" y="-0.172895"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -17903,9 +17881,6 @@
                 <SlurSegment no="0">
                   <o2 x="-0.104602" y="-5.6485"/>
                   <o3 x="-0.104602" y="-5.6485"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o4 x="1.52292e-15" y="0.345791"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -19424,13 +19399,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-9.69451"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-6.03345"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -22987,13 +22957,14 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="9.0726"/>
-                <off2 x="0" y="0"/>
+                <offset x="-1.39754" y="8.85759"/>
+                <off2 x="2.40719" y="0"/>
                 </Segment>
               </Pedal>
             <next>
               <location>
-                <measures>2</measures>
+                <measures>1</measures>
+                <fractions>11/12</fractions>
                 </location>
               </next>
             </Spanner>
@@ -23375,6 +23346,14 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Spanner type="Pedal">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                <fractions>-11/12</fractions>
+                </location>
+              </prev>
+            </Spanner>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -23394,13 +23373,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-2</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -42390,12 +42362,6 @@
                 <SlurSegment no="0">
                   <o4 x="0.1" y="0"/>
                   </SlurSegment>
-                <SlurSegment no="1">
-                  <o1 x="2.07475" y="17.2031"/>
-                  <o2 x="2.93922" y="5.27331"/>
-                  <o3 x="5.96489" y="13.0536"/>
-                  <o4 x="-0.0864477" y="0.0864477"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -48395,9 +48361,6 @@
               <Slur>
                 <SlurSegment no="0">
                   <o4 x="0.1" y="0"/>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o4 x="-0.38037" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
