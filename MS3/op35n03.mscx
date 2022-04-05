@@ -25200,7 +25200,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>VI6/iv-bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25262,16 +25262,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <location>
-            <fractions>-1/12</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi</name>
-            </Harmony>
-          <location>
-            <fractions>1/12</fractions>
-            </location>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
