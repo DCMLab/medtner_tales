@@ -18097,7 +18097,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6-V43(b5)/V</name>
+            <name>Fr6-V43(b5)/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18236,7 +18236,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6-V43(b5)/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18357,7 +18357,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6-V43(b5)/V</name>
+            <name>Fr6-V43(b5)/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
