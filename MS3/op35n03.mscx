@@ -9131,6 +9131,12 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-0.408764</y1>
+              <y2>-0.658764</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -21592,7 +21598,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo64</name>
+            <name>viio43/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
