@@ -25669,7 +25669,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6{</name>
+            <name>V(6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25717,7 +25717,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII</name>
+            <name>vii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25751,7 +25751,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII+6</name>
+            <name>V(6)/vii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25836,7 +25836,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(6)/VI</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25881,7 +25881,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo</name>
+            <name>viio/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25915,7 +25915,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V43(b5)-Fr6/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
