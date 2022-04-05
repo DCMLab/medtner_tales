@@ -22568,7 +22568,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}{</name>
+            <name>i}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -22869,7 +22869,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC</name>
             <minDistance>-7.25364</minDistance>
             <offset x="-0.152032" y="4.09702"/>
             </Harmony>
@@ -23050,6 +23050,10 @@
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <staffMove>-1</staffMove>
             <durationType>16th</durationType>
