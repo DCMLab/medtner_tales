@@ -25364,7 +25364,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio2/iv</name>
-            <offset x="0" y="-9"/>
+            <offset x="-3.54742" y="6.75091"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25405,6 +25405,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv64</name>
+            <minDistance>-1.86494</minDistance>
+            <offset x="1.3514" y="7.08785"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25443,14 +25445,14 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III-i6</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv43</name>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
