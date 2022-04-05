@@ -17173,7 +17173,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii64</name>
+            <name>V65(6)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -17197,7 +17197,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>V65/V</name>
             </Harmony>
           </voice>
         <voice>
