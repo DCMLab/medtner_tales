@@ -19004,7 +19004,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(94)</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19028,10 +19028,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -19353,7 +19349,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>ii65(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19376,6 +19372,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%43</name>
+            <offset x="-0.0844623" y="4.54177"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19505,7 +19502,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
