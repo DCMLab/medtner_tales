@@ -45169,7 +45169,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(9764)}</name>
+            <name>I(9764)/III}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45180,7 +45180,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I/III|PAC</name>
             </Harmony>
           </voice>
         </Measure>
