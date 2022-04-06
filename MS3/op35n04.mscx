@@ -45421,7 +45421,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>III</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45432,7 +45432,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>viio43/V/VI</name>
             </Harmony>
           <location>
             <fractions>7/12</fractions>
@@ -45440,7 +45440,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(9#7#5)/VI</name>
-            <offset x="-1" y="-6"/>
+            <offset x="-4.25783" y="2.96741"/>
             </Harmony>
           </voice>
         </Measure>
@@ -45448,25 +45448,27 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(76#4#2)</name>
+            <name>V(#96#4)/VI</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-3/4</fractions>
+            <fractions>-1/2</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>V7/VI</name>
+            <offset x="-0.76016" y="5.12892"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6/bII</name>
+            <name>V43/VI-viio6/VI</name>
+            <offset x="-4.99534" y="4.47735"/>
             </Harmony>
           </voice>
         </Measure>
