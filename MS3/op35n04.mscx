@@ -45200,7 +45200,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45211,17 +45211,10 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(7)</name>
+            <name>i2</name>
             </Harmony>
           <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(6)</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -45232,7 +45225,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>i6</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
