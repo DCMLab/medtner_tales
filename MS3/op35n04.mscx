@@ -45432,15 +45432,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43/V/VI</name>
+            <name>viio43/ii/VI</name>
             </Harmony>
           <location>
             <fractions>7/12</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9#7#5)/VI</name>
-            <offset x="-4.25783" y="2.96741"/>
+            <name>V(9#7#5)/V/VI</name>
+            <offset x="-5.88675" y="3.2932"/>
             </Harmony>
           </voice>
         </Measure>
