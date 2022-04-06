@@ -44994,7 +44994,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v[v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45006,41 +45006,12 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(9)</name>
+            <name>VI</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM7</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI64</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IIIM65</name>
-            <offset x="-0.447577" y="-7.64112"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
