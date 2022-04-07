@@ -45514,7 +45514,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/VI</name>
+            <name>ii%43/VI-vii%43/#VII</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45526,33 +45526,12 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bIV</name>
+            <name>V7/#VII-V7/V/#iii</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(b9)/bIV</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)/bIV</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VM7/bIV</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -45560,6 +45539,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i.i</name>
+            <offset x="-0.108594" y="3.55111"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
