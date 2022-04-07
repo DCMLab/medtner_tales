@@ -45550,14 +45550,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>i64</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>i6</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
