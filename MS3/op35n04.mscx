@@ -45669,7 +45669,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2</name>
+            <name>iii7</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45680,21 +45680,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/bII</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio2/bII</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/bII</name>
+            <name>iii(6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -45702,7 +45688,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii7</name>
+            <name>#vi65</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45713,21 +45699,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio2/V</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/V</name>
+            <name>#vi(6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -45746,21 +45718,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/bIV</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/bIV</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/bIV</name>
+            <name>bv(6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -45779,21 +45737,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/VII</name>
+            <name>i(#6#4)</name>
             </Harmony>
           </voice>
         </Measure>
