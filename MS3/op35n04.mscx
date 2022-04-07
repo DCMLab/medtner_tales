@@ -5296,15 +5296,18 @@
                 </next>
               </Spanner>
             <Note>
-              <pitch>83</pitch>
-              <tpc>19</tpc>
-              </Note>
-            <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
                 </Accidental>
               <pitch>87</pitch>
               <tpc>23</tpc>
+              </Note>
+            <Note>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>90</pitch>
+              <tpc>20</tpc>
               </Note>
             </Chord>
           <Chord>
