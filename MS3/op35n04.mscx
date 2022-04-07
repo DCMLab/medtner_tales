@@ -45578,20 +45578,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(96)/VII</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -45599,6 +45585,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%43/VII</name>
+            <offset x="-0.108594" y="4.63222"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
