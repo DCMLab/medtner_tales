@@ -45437,6 +45437,13 @@
             <harmonyType>1</harmonyType>
             <name>III(#96#4)</name>
             </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III(#11#96)</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -45466,6 +45473,13 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(#96#4)/VI</name>
+            </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(#11#96)/VI</name>
             </Harmony>
           </voice>
         </Measure>
