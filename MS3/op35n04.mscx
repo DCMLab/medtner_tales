@@ -32624,8 +32624,9 @@
               <subtype>8vb</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.063"/>
+                <offset x="-0.76016" y="7.65441"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Ottava>
             <next>
@@ -45797,7 +45798,26 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i}{</name>
+            </Harmony>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
+          <location>
+            <fractions>-1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            </Harmony>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vi-i64(#6#4#3)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -45807,61 +45827,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi}{</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%7/#vi</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio65/#iii</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi</name>
-            </Harmony>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(b9)/v</name>
-            </Harmony>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration>4/4</duration>
-            </Rest>
-          <location>
-            <fractions>-5/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio43/v</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio65/v</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
