@@ -45597,33 +45597,12 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bII</name>
+            <name>V7(b9)/bII</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <location>
-            <fractions>-3/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(b9)/bII</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)/bII</name>
-            </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/bII</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
