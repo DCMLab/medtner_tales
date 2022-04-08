@@ -48166,7 +48166,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%43</name>
+            <name>i(#6#4#3)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -48180,7 +48180,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii%43</name>
+            <name>i64(9#6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -48199,17 +48199,10 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi43/iii</name>
+            <name>i64(7#4)</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vio</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
