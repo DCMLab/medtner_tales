@@ -46874,7 +46874,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43(b4)/VII</name>
+            <name>viio43(b4)/VII-vii%7/bIV</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -46885,7 +46885,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/VII</name>
+            <name>viio7/VII-viio43/bIV</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
