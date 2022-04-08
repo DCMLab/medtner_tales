@@ -45906,11 +45906,18 @@
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/bII</name>
+            <name>V7/VII</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43(+6)/bII</name>
             </Harmony>
           </voice>
         </Measure>
