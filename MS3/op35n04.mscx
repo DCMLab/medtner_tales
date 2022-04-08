@@ -47882,7 +47882,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2/iii</name>
+            <name>i2(#4)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -47893,24 +47893,10 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio7</name>
+            <name>i2(#6#4)</name>
             </Harmony>
           <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii43</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65/VII</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
+            <fractions>1/2</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
