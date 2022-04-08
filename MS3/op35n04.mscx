@@ -47941,7 +47941,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2/iii</name>
+            <name>i2(#4)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -47952,7 +47952,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio7</name>
+            <name>i2(#6#4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
