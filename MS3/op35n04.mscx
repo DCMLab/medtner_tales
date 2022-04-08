@@ -46815,14 +46815,21 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65(b3)/iv</name>
+            <name>ii%65/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-1/2</fractions>
+            <fractions>-3/4</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6/VI/iv</name>
+            </Harmony>
+          <location>
+            <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
