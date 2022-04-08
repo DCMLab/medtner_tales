@@ -47563,7 +47563,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>#viio7(#5)/III</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -47587,7 +47587,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VI</name>
+            <name>#viio7(#0)/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -47626,7 +47626,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>#viio7/iv</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
