@@ -47413,7 +47413,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/VI</name>
+            <name>V7/VI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -47435,6 +47435,10 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)/VI-vii%7/VI</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -47466,7 +47470,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6(4)</name>
+            <name>V7(6)/VI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
