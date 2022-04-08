@@ -46724,13 +46724,6 @@
             <harmonyType>1</harmonyType>
             <name>iv2</name>
             </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI64</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
