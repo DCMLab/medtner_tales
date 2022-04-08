@@ -9232,11 +9232,8 @@
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>51</pitch>
-              <tpc>11</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <StaffText>
