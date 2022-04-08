@@ -48214,7 +48214,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PC</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
