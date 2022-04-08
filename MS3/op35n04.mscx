@@ -46939,7 +46939,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6/iv</name>
+            <name>ii%43/iv-iv6/iv</name>
+            <offset x="-3.9094" y="3.60859"/>
             </Harmony>
           </voice>
         </Measure>
@@ -46947,7 +46948,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64/iv</name>
+            <name>iv2/iv</name>
+            <minDistance>-2.21486</minDistance>
+            <offset x="0.977349" y="3.42669"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
