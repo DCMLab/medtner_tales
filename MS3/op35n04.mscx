@@ -46054,21 +46054,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr65</name>
+            <name>i.Fr65</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(4)/#iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Fr6/#iv</name>
+            <name>Fr6</name>
             </Harmony>
           </voice>
         </Measure>
@@ -46076,25 +46069,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.Fr6</name>
+            <name>F65</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-7/8</fractions>
+            <fractions>-3/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Fr6/iii</name>
+            <name>V7</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
