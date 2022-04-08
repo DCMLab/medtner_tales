@@ -46322,18 +46322,11 @@
             <duration>4/4</duration>
             </Rest>
           <location>
-            <fractions>-7/8</fractions>
+            <fractions>-3/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>i2-III64</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -46347,7 +46340,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>i6-VI64</name>
             </Harmony>
           </voice>
         </Measure>
