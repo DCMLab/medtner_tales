@@ -19104,6 +19104,7 @@
               <Accidental>
                 <role>1</role>
                 <subtype>accidentalSharp</subtype>
+                <visible>0</visible>
                 </Accidental>
               <pitch>77</pitch>
               <tpc>25</tpc>
@@ -47563,7 +47564,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(#5)/III</name>
+            <name>#viio7(#5)/iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -47587,7 +47588,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(#0)/III</name>
+            <name>#viio7(#0)/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
