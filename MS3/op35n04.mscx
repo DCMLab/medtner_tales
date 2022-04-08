@@ -47017,7 +47017,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7</name>
+            <name>VIM7/iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -47045,7 +47045,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bV</name>
+            <name>Ger6/iv-V7/bV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -47062,6 +47062,10 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Ger6(9)/iv-V7(9)/bV</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -47069,10 +47073,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7/III</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -47104,7 +47104,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII(b9)</name>
+            <name>Ger6(6)/iv-V7(6)/bV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -47134,6 +47134,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
