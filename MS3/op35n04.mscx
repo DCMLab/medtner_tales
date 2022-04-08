@@ -46968,14 +46968,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/v</name>
+            <name>vii%7/VII</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv2</name>
+            <name>V2/VII</name>
             </Harmony>
           </voice>
         </Measure>
@@ -46994,7 +46994,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v43</name>
+            <name>V6(6)/III</name>
+            <offset x="-1.8461" y="5.56329"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
