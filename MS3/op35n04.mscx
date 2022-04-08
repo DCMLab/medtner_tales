@@ -48155,7 +48155,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -48221,7 +48221,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
