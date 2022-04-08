@@ -46730,7 +46730,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(9)</name>
+            <name>bII(9)-V43(4)/vii</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -46741,7 +46741,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/VII</name>
+            <name>V43/vii</name>
             </Harmony>
           <location>
             <fractions>1/2</fractions>
