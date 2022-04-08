@@ -47818,7 +47818,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio64/iii</name>
+            <name>i64(#4)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -47829,7 +47829,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>i64(7#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -47837,7 +47837,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>i64(#4)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
