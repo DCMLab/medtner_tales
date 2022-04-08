@@ -47762,7 +47762,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V7(9)/VII-vii%43/VII</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -47772,13 +47772,6 @@
               <visible>0</visible>
               </NoteDot>
             </Rest>
-          <location>
-            <fractions>-1/2</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%43</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
