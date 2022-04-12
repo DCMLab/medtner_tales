@@ -13320,7 +13320,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I+64(+#4)/III-V6(#96)</name>
+            <name>V6(#96)/vi/III</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -13385,7 +13385,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43/III-iv43</name>
+            <name>vi/III-i</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
