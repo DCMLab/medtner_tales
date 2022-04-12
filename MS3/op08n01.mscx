@@ -12848,7 +12848,9 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6/V</name>
+            <name>iio6/V-i(#6)</name>
+            <minDistance>0.0951857</minDistance>
+            <offset x="-1.26968" y="5.42499"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12875,6 +12877,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <offset x="-0.0746869" y="4.17218"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -12885,6 +12892,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iio6/V-i(#6)</name>
+            <offset x="-5.52683" y="4.97069"/>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
