@@ -12752,6 +12752,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -12804,7 +12808,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7</name>
+            <name>IV43</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
