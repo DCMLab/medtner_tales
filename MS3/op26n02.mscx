@@ -13922,7 +13922,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(#4)</name>
+            <name>i(#3#0)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -14213,7 +14213,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43(#4)</name>
+            <name>i(#3#0)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
