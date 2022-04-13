@@ -13653,14 +13653,16 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)-i64</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.v7/v-i.ii7</name>
-            <minDistance>0.0675105</minDistance>
-            <offset x="-5.39714" y="3.75968"/>
+            <name>i.ii7</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
