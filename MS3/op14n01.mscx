@@ -9572,7 +9572,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7-i6(72)</name>
+            <name>IIIM7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14099,7 +14099,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2-v(94)</name>
+            <name>v</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14120,10 +14120,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -14144,7 +14140,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>III6-i64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
