@@ -13504,7 +13504,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii.ii%7</name>
+            <name>vii%7/V-ii%7/iii</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -13611,7 +13611,7 @@ Op.26</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>iii.V7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
