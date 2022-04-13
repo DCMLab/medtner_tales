@@ -2799,6 +2799,12 @@
               </Number>
             <bracketType>2</bracketType>
             </Tuplet>
+          <Beam>
+            <Fragment>
+              <y1>-2.01179</y1>
+              <y2>-2.26179</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -7341,8 +7347,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-2.81999</y1>
-              <y2>-3.56999</y2>
+              <y1>-2.36389</y1>
+              <y2>-3.11389</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -8378,11 +8384,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV(9)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8420,11 +8421,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8462,6 +8458,11 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8497,6 +8498,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -8523,6 +8525,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -8570,11 +8573,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV(9)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8612,11 +8610,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8654,6 +8647,11 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -8689,6 +8687,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -9081,11 +9080,6 @@
             <name>I</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -9125,7 +9119,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>V7(4)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -10392,6 +10386,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43/ii</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -10414,7 +10409,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/ii</name>
+            <name>V7(4)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -10453,11 +10448,6 @@
             <harmonyType>1</harmonyType>
             <name>V43(4)</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii65(+4)</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -11234,7 +11224,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/IV</name>
+            <name>vii%7(#3)/V/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -11369,8 +11359,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(6)/vi</name>
+            <name>V.V6(6)/vi</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="-2.28048" y="5.06659"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15295,6 +15286,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6)/vi</name>
+            <offset x="-0.532112" y="6.78793"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -15308,7 +15300,7 @@
             <harmonyType>1</harmonyType>
             <name>V65(9#5)/IV]</name>
             <color r="0" g="85" b="0" a="255"/>
-            <offset x="-5.09296" y="7.10721"/>
+            <offset x="-5.39702" y="6.80315"/>
             </Harmony>
           </voice>
         <voice>
@@ -15394,6 +15386,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I.I[I}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I.I[I|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -15511,6 +15509,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="-10"/>
             </Harmony>
           <Symbol>
@@ -15552,7 +15556,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
-            <offset x="0" y="-10"/>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -15599,17 +15603,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM7(9)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -15783,6 +15776,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -15802,7 +15796,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>V7(6)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
@@ -15844,7 +15838,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>V7(4)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -16348,6 +16342,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(4)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16406,6 +16406,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -16470,6 +16476,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6)/bII</name>
+            <offset x="-2.96463" y="5.97903"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16501,6 +16508,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII[bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII[I/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16642,6 +16655,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/bII</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -16657,6 +16671,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6/bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(9)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16707,6 +16727,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16766,6 +16792,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii(4)/bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16823,6 +16855,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16873,6 +16911,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii(4)/bII]</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6/bII]</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16925,6 +16969,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(139b5)|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -16996,6 +17046,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6b5)</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17067,11 +17118,6 @@
             <name>V(9)</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9b5)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -17113,11 +17159,6 @@
             <harmonyType>1</harmonyType>
             <name>V7(96)}</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(96b5)|HC}</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17242,6 +17283,9 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Segment>
+            <leadingSpace>2.81259</leadingSpace>
+            </Segment>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -17256,6 +17300,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -17271,6 +17316,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17307,6 +17353,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -17319,6 +17366,11 @@
               </Note>
             </Chord>
           <endTuplet/>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(9)-ii6</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -17355,11 +17407,6 @@
             <harmonyType>1</harmonyType>
             <name>ii</name>
             <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -17484,7 +17531,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6-IVM2</name>
+            <name>I6</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -17513,17 +17560,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii</name>
