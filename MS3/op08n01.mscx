@@ -14205,7 +14205,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
+            <name>viio7/V/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14230,7 +14230,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV</name>
+            <name>V7/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
