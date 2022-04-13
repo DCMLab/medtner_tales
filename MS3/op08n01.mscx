@@ -3264,7 +3264,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="8.6869"/>
+                <offset x="2.38998" y="8.6869"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -14001,6 +14001,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7(4)-i65(4)</name>
+            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -14092,6 +14096,7 @@
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>16th</durationType>
             </Rest>
           <Chord>
