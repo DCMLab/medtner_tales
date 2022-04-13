@@ -17986,7 +17986,7 @@ Op.26</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)-ii%7(4)/vi</name>
+            <name>vii%7-ii%7/vi</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -18022,10 +18022,6 @@ Op.26</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%7-ii%7/vi</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
