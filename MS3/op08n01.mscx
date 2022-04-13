@@ -13787,7 +13787,7 @@
         <voice>
           <StaffText>
             <placement>below</placement>
-            <offset x="0.345791" y="3.65176"/>
+            <offset x="-2.41762" y="6.28025"/>
             <text>senza</text>
             </StaffText>
           <Harmony>
@@ -13828,7 +13828,7 @@
             <Note>
               <Symbol>
                 <name>keyboardPedalPed</name>
-                <offset x="0.109297" y="5.95652"/>
+                <offset x="0.109297" y="9.76555"/>
                 </Symbol>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -13840,7 +13840,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7(+9#4)</name>
+            <name>i7(9#7#4)</name>
+            <minDistance>-5.62432</minDistance>
+            <offset x="-0.149374" y="4.17507"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -13862,6 +13864,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i7(9#4)</name>
+            <offset x="-1.64311" y="3.73477"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
