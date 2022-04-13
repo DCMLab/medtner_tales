@@ -12305,7 +12305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>VII/v.ii6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12321,7 +12321,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12340,7 +12340,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12355,7 +12355,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#6)-iio6/V</name>
+            <name>viio6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12380,7 +12380,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>iii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12420,7 +12420,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>IV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12453,7 +12453,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7|HC}</name>
+            <name>V7/ii|HC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -12498,7 +12498,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>ii{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -12544,7 +12544,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII/v.IV6</name>
+            <name>IV6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
