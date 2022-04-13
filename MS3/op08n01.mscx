@@ -10794,8 +10794,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>6.75</y1>
-              <y2>6.75</y2>
+              <y1>7.79562</y1>
+              <y2>7.79562</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -14576,7 +14576,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I}{</name>
+            <name>VI.I|IAC}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18860,6 +18860,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(+96)/III</name>
+            <minDistance>0.350626</minDistance>
+            <offset x="-0.149374" y="9.54982"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
