@@ -14406,7 +14406,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7/IV</name>
+            <name>vii%7/IV-V43(6#4)/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14449,7 +14449,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/v</name>
+            <name>V6/iii/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14477,7 +14477,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>iii/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14495,7 +14495,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>IV/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
