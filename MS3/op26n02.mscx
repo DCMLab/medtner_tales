@@ -12074,7 +12074,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(64)</name>
+            <name>I(64)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -12265,7 +12265,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(64)</name>
+            <name>I(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13036,7 +13036,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(64)</name>
+            <name>I(64)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13198,7 +13198,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(64)</name>
+            <name>I(64)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -17430,7 +17430,7 @@ Op.26</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64-I(64)</name>
+            <name>I(64)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
