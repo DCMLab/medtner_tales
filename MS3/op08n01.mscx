@@ -14023,7 +14023,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/II</name>
+            <name>viio7/V-III6(6#4#2)</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14052,7 +14052,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43-III6(+4)</name>
+            <name>III6(+6)-i43</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -14143,6 +14143,12 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Beam>
+            <Fragment>
+              <y1>7.64624</y1>
+              <y2>7.64624</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
