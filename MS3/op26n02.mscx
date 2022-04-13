@@ -10936,8 +10936,11 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <Accidental>
+                <subtype>accidentalNatural</subtype>
+                </Accidental>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10947,8 +10950,8 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -10973,8 +10976,8 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -10984,8 +10987,8 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -11010,8 +11013,8 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -11021,8 +11024,8 @@ Op.26</text>
               <tpc>21</tpc>
               </Note>
             <Note>
-              <pitch>68</pitch>
-              <tpc>10</tpc>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           <endTuplet/>
@@ -18488,7 +18491,7 @@ Op.26</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII-V2/IV</name>
+            <name>V2/IV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -18559,10 +18562,6 @@ Op.26</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -18728,7 +18727,7 @@ Op.26</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/IV-V6/VII</name>
+            <name>V2/IV</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -18814,6 +18813,10 @@ Op.26</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/VII</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -18882,10 +18885,6 @@ Op.26</text>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64/VII</name>
-            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
