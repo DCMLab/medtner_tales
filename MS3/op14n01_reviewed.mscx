@@ -2613,7 +2613,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="10.1565"/>
+                <offset x="-0.608128" y="10.0045"/>
                 <off2 x="2.21538" y="0"/>
                 </Segment>
               </HairPin>
@@ -8979,6 +8979,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.22805</y1>
+              <y2>-1.47805</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -9370,6 +9376,14 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64-V(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <minDistance>0.249094</minDistance>
+            <offset x="-2.20447" y="7.54629"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9461,6 +9475,14 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64(+4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64(+4)-V7(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
+            <minDistance>-0.332295</minDistance>
+            <offset x="-1.74837" y="6.7128"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -11824,7 +11846,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+13)</name>
+            <name>I6(13)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
@@ -12092,7 +12114,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+13)</name>
+            <name>I6(13)</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -12456,6 +12478,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -12499,7 +12522,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>iv</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -14277,6 +14300,11 @@
             <name>i64</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(64)-i64</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -14287,10 +14315,8 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.v7/v-i.ii7</name>
+            <name>i.ii7</name>
             <color r="0" g="85" b="0" a="255"/>
-            <minDistance>0.0675105</minDistance>
-            <offset x="-5.39714" y="3.75968"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -16973,7 +16999,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(+9)/III{</name>
+            <name>ii6(+2)/III{</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
