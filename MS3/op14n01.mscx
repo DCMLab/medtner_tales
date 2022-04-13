@@ -8979,6 +8979,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.22805</y1>
+              <y2>-1.47805</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -9363,7 +9369,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64-V(6)</name>
+            <minDistance>0.249094</minDistance>
+            <offset x="-2.20447" y="7.54629"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9454,7 +9462,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(+4)</name>
+            <name>i64(+4)-V7(6)</name>
+            <minDistance>-0.332295</minDistance>
+            <offset x="-1.74837" y="6.7128"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
