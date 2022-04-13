@@ -2613,7 +2613,7 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="10.1565"/>
+                <offset x="-0.608128" y="10.0045"/>
                 <off2 x="2.21538" y="0"/>
                 </Segment>
               </HairPin>
@@ -11516,7 +11516,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+13)</name>
+            <name>I6(13)</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -11746,7 +11746,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(+13)</name>
+            <name>I6(13)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
