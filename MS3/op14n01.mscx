@@ -12954,7 +12954,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>ii7-iv7/vi</name>
+            <offset x="-3.26869" y="5.81059"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
