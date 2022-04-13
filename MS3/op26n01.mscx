@@ -15856,7 +15856,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(4)</name>
+            <name>I(4)/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -15914,7 +15914,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>I/bII</name>
             </Harmony>
           <location>
             <fractions>1/24</fractions>
@@ -15979,6 +15979,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6)/bII</name>
+            <offset x="-2.96463" y="5.97903"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -16009,7 +16010,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII[bII</name>
+            <name>bII[I/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16145,16 +16146,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/bII</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -16165,7 +16156,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6/bII</name>
+            <name>V(9)/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16215,7 +16206,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>I/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -16331,7 +16322,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII</name>
+            <name>I/bII</name>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
