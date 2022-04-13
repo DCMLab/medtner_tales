@@ -14939,6 +14939,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6)/vi</name>
+            <offset x="-0.532112" y="6.78793"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -14946,7 +14947,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V65(9#5)/IV]</name>
-            <offset x="-5.09296" y="7.10721"/>
+            <offset x="-5.39702" y="6.80315"/>
             </Harmony>
           </voice>
         <voice>
@@ -15031,7 +15032,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I.I[I}{</name>
+            <name>I.I[I|IAC}{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
