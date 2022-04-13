@@ -7347,8 +7347,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>-2.81999</y1>
-              <y2>-3.56999</y2>
+              <y1>-2.36389</y1>
+              <y2>-3.11389</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -16424,7 +16424,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7</name>
+            <name>V7(139b5)|HC}</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -16493,10 +16493,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6b5)</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -16562,10 +16558,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9b5)</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -16603,10 +16595,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(96b5)|HC}</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
