@@ -10328,7 +10328,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{III.V/vi</name>
+            <offset x="-4.94104" y="5.17269"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -10372,7 +10373,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III.ii6</name>
+            <name>ii6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
