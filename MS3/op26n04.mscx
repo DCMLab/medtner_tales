@@ -17935,7 +17935,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(9)-IV6(9)/V</name>
+            <name>IV6(9)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17961,7 +17961,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(42)/ii</name>
+            <name>V43(42)/V/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -17975,7 +17975,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/ii</name>
+            <name>V43/V/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -18109,11 +18109,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V(4)</name>
-            <offset x="0.149192" y="-5.49192"/>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -18227,7 +18222,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V{</name>
+            <name>{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
