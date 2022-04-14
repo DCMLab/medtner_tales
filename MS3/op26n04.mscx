@@ -1534,8 +1534,11 @@
               <tpc>20</tpc>
               </Note>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <Accidental>
+                <subtype>accidentalSharp</subtype>
+                </Accidental>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
               </Note>
             <Note>
               <pitch>66</pitch>
@@ -1572,8 +1575,8 @@
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
             <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
               </Note>
             <Note>
               <pitch>61</pitch>
