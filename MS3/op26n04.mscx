@@ -14962,7 +14962,9 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iio6/iv-#viio43/iv</name>
+            <name>iio6/iv-#viio43/iv</name>
+            <minDistance>0.347968</minDistance>
+            <offset x="-2.05243" y="6.87001"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15211,8 +15213,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.74661</y1>
-              <y2>-2.74661</y2>
+              <y1>-1.97466</y1>
+              <y2>-2.97466</y2>
               </Fragment>
             </Beam>
           <Chord>
