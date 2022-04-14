@@ -6419,14 +6419,14 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>vi7/III-i7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.0950925" y="11.3328"/>
+            <offset x="-2.89017" y="14.1279"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
@@ -6461,10 +6461,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6/III</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -6623,7 +6619,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(4)/VI</name>
+            <name>V43(4)/VI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -6650,7 +6646,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VI</name>
+            <name>V43/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6672,7 +6668,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b5)/VI</name>
+            <name>V43(b5)/VI</name>
             <offset x="-1.1" y="-6"/>
             </Harmony>
           <Chord>
