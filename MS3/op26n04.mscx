@@ -14963,8 +14963,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iio6/iv-#viio43/iv</name>
-            <minDistance>0.347968</minDistance>
-            <offset x="-2.05243" y="6.87001"/>
+            <offset x="-4.2569" y="7.47814"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15004,15 +15003,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i6/iv</name>
+            <minDistance>-4.13698</minDistance>
+            <offset x="0.988208" y="5.37412"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv6</name>
-            </Harmony>
           <Beam>
             <Fragment>
               <y1>0.771952</y1>
@@ -15152,7 +15149,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -15194,7 +15191,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>V(64)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -15213,8 +15210,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.97466</y1>
-              <y2>-2.97466</y2>
+              <y1>-2.12669</y1>
+              <y2>-3.12669</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -15320,7 +15317,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15356,10 +15353,6 @@
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
