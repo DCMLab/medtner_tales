@@ -14656,7 +14656,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>III+-V64(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15011,6 +15011,12 @@
             <harmonyType>1</harmonyType>
             <name>iv6</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>0.771952</y1>
+              <y2>-1.22805</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
