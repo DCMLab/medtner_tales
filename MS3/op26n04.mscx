@@ -16257,7 +16257,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2/V</name>
+            <name>viio2(+2)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16301,10 +16301,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
