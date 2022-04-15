@@ -1259,8 +1259,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>2.38008</y1>
-              <y2>1.38008</y2>
+              <y1>2.22805</y1>
+              <y2>1.22805</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13552,22 +13552,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>V(64)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -13830,15 +13826,11 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/v</name>
+            <name>V7/v</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/v</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -14066,6 +14058,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.25</y1>
+              <y2>-2.25</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -14331,6 +14329,12 @@
                 </location>
               </prev>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-2.40203</y1>
+              <y2>-3.40203</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -14552,8 +14556,8 @@
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-3.58785</y1>
-              <y2>-4.58785</y2>
+              <y1>-3.3598</y1>
+              <y2>-4.3598</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -15012,8 +15016,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>0.771952</y1>
-              <y2>-1.22805</y2>
+              <y1>0.61992</y1>
+              <y2>-1.38008</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -15210,8 +15214,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-2.12669</y1>
-              <y2>-3.12669</y2>
+              <y1>-2.35474</y1>
+              <y2>-3.35474</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -20695,8 +20699,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>1.59124</y1>
-              <y2>1.34124</y2>
+              <y1>1.66726</y1>
+              <y2>1.41726</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -22215,8 +22219,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>-3.32765</y1>
-              <y2>-8.37845</y2>
+              <y1>-3.78374</y1>
+              <y2>-8.83454</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -22526,22 +22530,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>V(64)</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -23067,6 +23067,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-1.85813</y1>
+              <y2>-2.85813</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
