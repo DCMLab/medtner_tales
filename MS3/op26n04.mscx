@@ -4919,8 +4919,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-3.07092</y1>
-              <y2>-4.32092</y2>
+              <y1>-3.14694</y1>
+              <y2>-4.39694</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -18535,7 +18535,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64(9+b6)-V7(6#4#2b2)</name>
+            <name>bII64(9+b6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19044,7 +19044,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(#0)-I6(64#2)</name>
+            <name>viio7(b3)/iii-I6(64#2)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20129,7 +20129,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I6/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -20139,6 +20139,10 @@
               <tpc>21</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV/V</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -20169,7 +20173,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I6/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -20216,10 +20220,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64-V(64)</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -20277,7 +20277,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6/V</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20331,8 +20331,8 @@
             </Rest>
           <Beam>
             <Fragment>
-              <y1>0.662151</y1>
-              <y2>0.412151</y2>
+              <y1>1.11825</y1>
+              <y2>0.868247</y2>
               </Fragment>
             </Beam>
           <Chord>
