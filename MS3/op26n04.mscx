@@ -22170,6 +22170,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%65/iv</name>
+            <offset x="-1.52032" y="5.33525"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -22207,14 +22208,15 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv</name>
+            <offset x="0" y="5.381"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Beam>
             <Fragment>
-              <y1>-3.47968</y1>
-              <y2>-8.53048</y2>
+              <y1>-3.32765</y1>
+              <y2>-8.37845</y2>
               </Fragment>
             </Beam>
           <Chord>
