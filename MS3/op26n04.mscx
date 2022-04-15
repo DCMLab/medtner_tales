@@ -20932,13 +20932,6 @@
             <offset x="0" y="2"/>
             <durationType>quarter</durationType>
             </Rest>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43(4)/V</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -20966,7 +20959,8 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2{</name>
+            <name>V2/IV{</name>
+            <offset x="-1.52032" y="3.5"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -20991,10 +20985,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -21019,7 +21009,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(+6)</name>
+            <name>V43(+6)/IV</name>
+            <offset x="-0.456096" y="3.52684"/>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -21055,14 +21046,16 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>viio65/IV</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/IV</name>
+            <name>Ger6/IV/IV</name>
+            <minDistance>0.342546</minDistance>
+            <offset x="-5.7012" y="3.47303"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -21080,7 +21073,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21093,10 +21086,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -21122,7 +21111,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(+6)</name>
+            <name>V43(+6)/IV</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -21158,14 +21147,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio65</name>
+            <name>viio65/IV</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/IV</name>
+            <name>Ger6/IV/IV</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -21183,7 +21172,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V2/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
