@@ -23042,10 +23042,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv6/iv</name>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -23065,8 +23061,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.85813</y1>
-              <y2>-2.85813</y2>
+              <y1>-1.47805</y1>
+              <y2>-2.47805</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -23154,10 +23150,6 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/iv</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -23302,11 +23294,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6/III/iv</name>
-            <offset x="-0.410798" y="-6"/>
-            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -23324,6 +23311,12 @@
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-2.47805</y1>
+              <y2>-3.47805</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -23551,8 +23544,8 @@
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-4.01016</y1>
-              <y2>-5.01016</y2>
+              <y1>-3.02195</y1>
+              <y2>-4.02195</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -23668,7 +23661,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>III+-V64(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23815,8 +23808,8 @@
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-4</y1>
-              <y2>-5</y2>
+              <y1>-3.39187</y1>
+              <y2>-4.39187</y2>
               </Fragment>
             </Beam>
           <Chord>
