@@ -21155,6 +21155,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/IV/IV</name>
+            <minDistance>0.227702</minDistance>
+            <offset x="-7.67762" y="3.44603"/>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -21277,7 +21279,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/vi</name>
+            <name>#viio2/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21323,7 +21325,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi</name>
+            <name>V/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21359,7 +21361,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/vi</name>
+            <name>#viio43/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21403,7 +21405,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/vi</name>
+            <name>V/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -21433,7 +21435,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/vi</name>
+            <name>V64/ii</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -21448,7 +21450,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/vi</name>
+            <name>V65/ii</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -23807,6 +23809,12 @@
             <harmonyType>1</harmonyType>
             <name>v</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-4</y1>
+              <y2>-5</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
