@@ -26099,7 +26099,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i[i</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -26573,7 +26573,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i]}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
