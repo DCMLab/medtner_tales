@@ -11048,8 +11048,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>7.3575</y1>
-              <y2>6.1075</y2>
+              <y1>7.8136</y1>
+              <y2>6.5636</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -23767,7 +23767,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -24115,7 +24115,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64]</name>
+            <name>VI2</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24304,7 +24304,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>VI2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
