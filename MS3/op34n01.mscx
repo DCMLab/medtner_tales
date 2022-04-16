@@ -28303,10 +28303,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -28335,10 +28331,6 @@ I</text>
             <offset x="-0.855833" y="1.3436"/>
             <text>senza Ped.</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -28346,10 +28338,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -28489,10 +28477,6 @@ I</text>
             <offset x="-0.855833" y="1.3436"/>
             <text>senza Ped.</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII.IV64</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -28500,10 +28484,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi</name>
-            </Harmony>
           <Rest>
             <durationType>half</durationType>
             </Rest>
@@ -28512,7 +28492,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64-V(64)</name>
+            <name>bII.I64-V(64)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -28600,10 +28580,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -28652,7 +28628,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(6)-viio6</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28666,10 +28642,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -28749,10 +28721,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -28801,7 +28769,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(6)-viio6</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28815,10 +28783,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -28898,10 +28862,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -29297,10 +29257,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -29341,7 +29297,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(6)-viio6</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29355,10 +29311,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -29443,10 +29395,6 @@ I</text>
             <offset x="-0.38037" y="-6.81167"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -29650,10 +29598,6 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -29702,7 +29646,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(6)-viio6</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29722,10 +29666,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -29815,10 +29755,6 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
