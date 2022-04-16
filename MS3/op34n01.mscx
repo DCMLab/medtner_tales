@@ -26683,7 +26683,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII}</name>
+            <name>bII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26779,7 +26779,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64(+4){-V7(9b5){</name>
+            <name>bII64(+4)-V7(9b5)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26885,7 +26885,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(9)|HC}</name>
+            <name>V2(9)}</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
