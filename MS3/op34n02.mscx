@@ -15450,6 +15450,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6/iv-IV7/III</name>
+            <offset x="-7.6016" y="4.65575"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15487,13 +15488,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V64</name>
+            <name>V.I64</name>
+            <offset x="0.532112" y="7.01517"/>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15526,6 +15524,13 @@
               <tpc>20</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-1.09359" y="-5.47511"/>
+            </Dynamic>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -15535,9 +15540,9 @@
               </Note>
             </Chord>
           <StaffText>
-            <placement>below</placement>
+            <minDistance>-999</minDistance>
             <family>FreeSerif</family>
-            <offset x="-3.02567" y="3.77946"/>
+            <offset x="-0.137061" y="-6.43764"/>
             <text><font size="11.9365"></font><font face="Plantin MT Std"></font>subito</text>
             </StaffText>
           <Chord>
@@ -15620,7 +15625,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15648,7 +15653,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#6)</name>
+            <name>I(#6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15692,7 +15697,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/V</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15720,7 +15725,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(#6)</name>
+            <name>I6(#6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15764,7 +15769,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15820,7 +15825,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15867,7 +15872,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7/V</name>
+            <name>IVM7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15895,7 +15900,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>I64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16030,7 +16035,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16099,7 +16104,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>bII(7)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16142,10 +16147,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64(6)-VI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -16178,10 +16179,6 @@
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
             <actualNotes>6</actualNotes>
@@ -16221,7 +16218,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(6)-VI</name>
+            <name>bII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16257,7 +16254,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(6)-VIM43</name>
+            <name>i.III(4)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16298,7 +16295,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VII-V/III</name>
+            <name>VII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
