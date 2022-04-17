@@ -15216,7 +15216,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>i6/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15328,7 +15328,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15402,7 +15402,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V/V</name>
+            <name>iio/iv-VII/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -15449,7 +15449,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7/V</name>
+            <name>Ger6/iv-IV7/III</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15493,7 +15493,7 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>i.V64</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
