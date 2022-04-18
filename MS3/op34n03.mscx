@@ -25037,8 +25037,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.21753</y1>
-              <y2>-1.96753</y2>
+              <y1>-1.43254</y1>
+              <y2>-2.18254</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -25262,8 +25262,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>3.65498</y1>
-              <y2>2.65498</y2>
+              <y1>2.47245</y1>
+              <y2>1.47245</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -25490,8 +25490,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>0.17988</y1>
-              <y2>-0.82012</y2>
+              <y1>-0.680143</y1>
+              <y2>-1.68014</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -33515,7 +33515,8 @@
             </KeySig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V7-Ger6/v/#iii</name>
+            <name>V7/VI-Ger6/v</name>
+            <offset x="-4.62263" y="3.6075"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -33526,7 +33527,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>i.V2</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
