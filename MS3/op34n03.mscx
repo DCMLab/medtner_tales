@@ -10019,10 +10019,16 @@
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.82755" y="-3.7"/>
+                <off2 x="1.82755" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Ottava>
             <next>
               <location>
-                <fractions>1/8</fractions>
+                <measures>1</measures>
                 </location>
               </next>
             </Spanner>
@@ -10054,13 +10060,6 @@
             <offset x="-0.714444" y="-3.90313"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
-          <Spanner type="Ottava">
-            <prev>
-              <location>
-                <fractions>-1/8</fractions>
-                </location>
-              </prev>
-            </Spanner>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -10079,6 +10078,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Spanner type="Ottava">
+            <prev>
+              <location>
+                <measures>-1</measures>
+                </location>
+              </prev>
+            </Spanner>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
@@ -23756,6 +23762,8 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <minDistance>0.431168</minDistance>
+            <offset x="-1.39754" y="2.27995"/>
             </Dynamic>
           <Spanner type="Pedal">
             <Pedal>
@@ -23763,6 +23771,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.93505" y="6.09754"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -31531,28 +31545,10 @@
             <accidental>4</accidental>
             <mode>major</mode>
             </KeySig>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -31635,28 +31631,10 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i/iv</name>
-            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
-          <location>
-            <fractions>-3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6/iv</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i/iv</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
