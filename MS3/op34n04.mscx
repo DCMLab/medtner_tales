@@ -8218,7 +8218,7 @@
               <subtype>0</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.5795"/>
+                <offset x="1.26693" y="7.5795"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -26124,6 +26124,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -26153,6 +26157,10 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#viio65</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
