@@ -19271,7 +19271,7 @@
           <endTuplet/>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7/iv</name>
+            <name>IV7/iv</name>
             </Harmony>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -19310,12 +19310,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV7/iv-ii65(9)</name>
-            <minDistance>-0.0510052</minDistance>
-            <offset x="-3.28069" y="4.54204"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
