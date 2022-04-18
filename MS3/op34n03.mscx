@@ -32716,7 +32716,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V[V|HC}</name>
+            <name>V[V}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -32766,6 +32766,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio43/v</name>
+            <offset x="-2.90258" y="3.71501"/>
             </Harmony>
           </voice>
         </Measure>
@@ -32773,7 +32774,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>i/v</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -32784,7 +32785,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/V</name>
+            <name>#viio43/v</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32792,7 +32793,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V|HC}</name>
+            <name>i/v]}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -32803,14 +32804,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6{</name>
+            <name>V{</name>
             </Harmony>
           </voice>
         </Measure>
@@ -32870,6 +32864,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio43/v</name>
+            <offset x="-1.82755" y="3.6075"/>
             </Harmony>
           </voice>
         </Measure>
