@@ -24087,8 +24087,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.It6(+b6)</name>
-            <offset x="-2.81159" y="3.26007"/>
+            <name>i.It6(+b6)-i.V7(6)/bII</name>
+            <offset x="-11.8575" y="4.62836"/>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
