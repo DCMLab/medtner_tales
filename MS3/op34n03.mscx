@@ -34083,14 +34083,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio(96)/ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio(9)/ii</name>
+            <name>V7(9#6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -34098,32 +34091,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio/iv</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)-#viio(96)/ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio(9)/ii</name>
+            <name>V7(9#6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -34131,32 +34110,18 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio/iv</name>
+            <name>V7</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>1/2</duration>
             </Rest>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)-#viio(96)/ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio(9)/ii</name>
+            <name>V7(9#6#4)</name>
             </Harmony>
           </voice>
         </Measure>
@@ -34687,7 +34652,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(+b3)</name>
+            <name>V7(b10)</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
