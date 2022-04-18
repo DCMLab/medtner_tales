@@ -29403,7 +29403,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7-V7(13119)</name>
+            <name>V7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29472,7 +29472,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(1311)</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29485,10 +29485,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(6)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -29504,17 +29500,9 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(4)</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I-ii2</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -29573,7 +29561,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7]-V7(13119)]</name>
+            <name>V7]</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29855,7 +29843,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[ii7-I[V7(13119)</name>
+            <name>I[V7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -29883,10 +29871,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -30366,7 +30350,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7-ii</name>
+            <name>ii7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
