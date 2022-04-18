@@ -26486,7 +26486,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(9)-V(9)/iv</name>
+            <name>i-V/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
