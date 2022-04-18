@@ -23333,10 +23333,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
