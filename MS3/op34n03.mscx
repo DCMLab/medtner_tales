@@ -30889,7 +30889,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III/iv</name>
+            <name>VII7/iv</name>
+            <offset x="-1.39754" y="3.28499"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
@@ -30953,7 +30954,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio65/V-viio7/V/III</name>
-            <offset x="0.154307" y="-9.24045"/>
+            <offset x="-10.4885" y="4.24209"/>
             </Harmony>
           </voice>
         </Measure>
@@ -34852,7 +34853,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III/iv</name>
+            <name>VII7/iv</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
