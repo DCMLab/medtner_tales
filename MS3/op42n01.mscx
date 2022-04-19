@@ -25357,7 +25357,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i-iv/v</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25383,7 +25383,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.V7{</name>
+            <name>v.V7</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -25454,7 +25454,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i|PAC}{</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
