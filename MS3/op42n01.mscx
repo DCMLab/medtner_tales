@@ -22135,7 +22135,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/V</name>
+            <name>ii%7/V-#vi%7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
