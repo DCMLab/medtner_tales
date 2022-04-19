@@ -27217,7 +27217,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/iv-vii%7/III/iv</name>
+            <name>ii%7-vii%7/III</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
