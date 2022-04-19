@@ -22350,6 +22350,10 @@ I</text>
             <offset x="0.392944" y="-3.54331"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>diminuendo</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <StemDirection>up</StemDirection>
@@ -22400,7 +22404,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/v</name>
+            <name>V43(4)/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
