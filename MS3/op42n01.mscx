@@ -25161,7 +25161,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio6</name>
+            <name>i(#6)</name>
             <minDistance>-7.25364</minDistance>
             <offset x="-0.532112" y="8.95103"/>
             </Harmony>
