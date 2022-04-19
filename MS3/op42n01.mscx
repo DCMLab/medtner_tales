@@ -25045,7 +25045,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(+4)</name>
+            <name>IV7(^2)-i6(+4)</name>
             <minDistance>-8.08981</minDistance>
             <offset x="-0.608128" y="9.63091"/>
             </Harmony>
@@ -25100,7 +25100,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>IV2</name>
             <minDistance>-8.69794</minDistance>
             <offset x="-1.82438" y="8.78361"/>
             </Harmony>
