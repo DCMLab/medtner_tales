@@ -23895,7 +23895,7 @@ I</text>
             </BarLine>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6{</name>
+            <name>{</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -23905,13 +23905,9 @@ I</text>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="-1.53147" y="-7.18837"/>
+            <offset x="-0.163181" y="-14.0298"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>sereno</text>
             </StaffText>
           <Chord>
