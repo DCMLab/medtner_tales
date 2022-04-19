@@ -24895,7 +24895,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             <minDistance>-8.08981</minDistance>
             <offset x="0.532112" y="8.46772"/>
             </Harmony>
