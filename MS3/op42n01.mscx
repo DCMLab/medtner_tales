@@ -24731,7 +24731,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>VIM43</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -24771,11 +24771,6 @@ I</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM43</name>
-            <offset x="-2.24001" y="-6"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -24793,7 +24788,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V7(b5)/V-Fr7</name>
+            <offset x="-7.82965" y="8.31058"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -24900,10 +24896,18 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
+            <minDistance>-8.08981</minDistance>
+            <offset x="0.532112" y="8.46772"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.076016" y="5.13267"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-0.668289</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -24919,8 +24923,9 @@ I</text>
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="8.316"/>
+                <offset x="-0.152032" y="12.4367"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -24957,6 +24962,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#viio2</name>
+            <minDistance>-8.0138</minDistance>
+            <offset x="-1.14024" y="8.36435"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -25039,6 +25046,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(+4)</name>
+            <minDistance>-8.08981</minDistance>
+            <offset x="-0.608128" y="9.63091"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -25048,7 +25057,7 @@ I</text>
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.0629"/>
+                <offset x="0.076016" y="13.7682"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
@@ -25092,6 +25101,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/VII</name>
+            <minDistance>-8.69794</minDistance>
+            <offset x="-1.82438" y="8.78361"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25122,6 +25133,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64</name>
+            <offset x="1.74837" y="9.05231"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -25150,6 +25162,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>#vio6</name>
+            <minDistance>-7.25364</minDistance>
+            <offset x="-0.532112" y="8.95103"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25169,6 +25183,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <minDistance>-8.31786</minDistance>
+            <offset x="0.152032" y="7.58784"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -25178,8 +25194,9 @@ I</text>
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.3668"/>
+                <offset x="-0.608128" y="13.9082"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -25217,6 +25234,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i}</name>
+            <minDistance>-7.98645</minDistance>
+            <offset x="0.076016" y="8.09863"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
