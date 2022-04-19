@@ -24295,7 +24295,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/III</name>
+            <name>V43</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24314,7 +24314,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i.i6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -24332,7 +24332,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/III</name>
+            <name>iio</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -24357,7 +24357,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(4)</name>
+            <name>V65(64)</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
