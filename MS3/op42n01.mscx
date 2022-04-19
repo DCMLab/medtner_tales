@@ -321,13 +321,13 @@ I</text>
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.8666700000000001</tempo>
+            <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
-            <offset x="-0.102849" y="-2.70516"/>
-            <text>Allegro sostenuto<sym>metNoteQuarterUp</sym> = 112</text>
+            <offset x="-4.29546" y="-6.39474"/>
+            <text><b>Allegro sostenuto </b><font face="ScoreText"/><b><font face="Edwin"/> = 112</b></text>
             </Tempo>
           <StaffText>
-            <offset x="-0.471533" y="-2.00681"/>
+            <offset x="-1.54656" y="-5.78662"/>
             <text>(sempre al rigore di tempo)</text>
             </StaffText>
           <Chord>
@@ -21075,14 +21075,6 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
-            <offset x="-0.407678" y="-6.40768"/>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -21107,7 +21099,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
