@@ -25234,8 +25234,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i|PAC}</name>
-            <minDistance>-7.98645</minDistance>
-            <offset x="0.076016" y="8.09863"/>
+            <minDistance>-8.16583</minDistance>
+            <offset x="-1.59634" y="8.09863"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -25292,7 +25292,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio6</name>
+            <name>i(#6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25357,7 +25357,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25383,7 +25383,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/v{</name>
+            <name>v.V7{</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -25454,7 +25454,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v.i</name>
+            <name>i</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
