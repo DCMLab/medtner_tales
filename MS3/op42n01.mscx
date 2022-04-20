@@ -27949,7 +27949,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI{</name>
+            <name>i.{III</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -27992,7 +27992,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/VI</name>
+            <name>VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28011,7 +28011,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>vii%7/VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -28030,7 +28030,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64</name>
+            <name>VII(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28045,16 +28045,12 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/VI</name>
+            <name>VII</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -28096,7 +28092,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV/III</name>
+            <name>IIIM7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28112,7 +28108,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>IIIM65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -28128,7 +28124,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio64/iv</name>
+            <name>VI(64)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28146,16 +28142,12 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)/iv</name>
+            <name>VI</name>
             </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI/iv</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -28203,7 +28195,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM7/iv</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -28249,7 +28241,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI/iv</name>
+            <name>VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28276,7 +28268,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/VI</name>
+            <name>ii6</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28292,7 +28284,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/iv</name>
+            <name>Ger7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28311,7 +28303,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/iv}</name>
+            <name>V|HC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
