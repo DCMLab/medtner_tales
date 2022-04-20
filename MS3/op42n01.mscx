@@ -324,7 +324,7 @@ I</text>
             <tempo>1.8666666666666667</tempo>
             <followText>1</followText>
             <offset x="-4.29546" y="-6.39474"/>
-            <text><b>Allegro sostenuto </b><font face="ScoreText"/><b><font face="Edwin"/> = 112</b></text>
+            <text><b>Allegro sostenuto </b><font face="ScoreText"></font><b><font face="Edwin"></font> = 112</b></text>
             </Tempo>
           <StaffText>
             <offset x="-1.54656" y="-5.78662"/>
@@ -31366,6 +31366,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv.i6{</name>
+            <offset x="-1.74837" y="6.15887"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -32395,7 +32396,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
