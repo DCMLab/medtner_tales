@@ -36787,6 +36787,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VIM7</name>
+            <offset x="-0.988208" y="7.75191"/>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -36914,6 +36915,10 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i43</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -36964,7 +36969,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(9)</name>
+            <name>iv7(9)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -36986,7 +36991,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv7</name>
             </Harmony>
           </voice>
         <voice>
