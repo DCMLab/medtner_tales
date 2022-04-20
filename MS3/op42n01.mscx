@@ -34104,7 +34104,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>ii/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -34136,7 +34136,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>ii64/VI-IV6/VI</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
