@@ -15245,7 +15245,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>iii7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15275,10 +15275,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6(6)</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -15294,10 +15290,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15318,7 +15310,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7(94)</name>
+            <name>vi7</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15334,10 +15326,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15352,10 +15340,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii(74)</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -15371,10 +15355,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -15419,7 +15399,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7</name>
+            <name>ii</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15428,10 +15408,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
