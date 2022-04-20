@@ -33013,7 +33013,8 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/III-ii7/VI</name>
+            <offset x="-6.08128" y="4.73251"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -33051,7 +33052,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6(4)</name>
+            <name>IV6(4)/VI</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
