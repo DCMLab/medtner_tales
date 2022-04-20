@@ -36361,10 +36361,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv(9)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -36406,10 +36402,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i43</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -36455,7 +36447,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(94)/III</name>
+            <name>VII7(94)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -36495,6 +36487,10 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -36510,16 +36506,6 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)/III</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III</name>
@@ -36564,7 +36550,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i65</name>
+            <name>III(13)</name>
+            <minDistance>0.347968</minDistance>
+            <offset x="-2.12845" y="7.40418"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -36644,7 +36632,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>v7(11)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -36667,7 +36655,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.836814" y="10.251"/>
+            <offset x="-0.684782" y="14.2038"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
