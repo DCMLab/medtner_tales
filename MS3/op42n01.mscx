@@ -35085,7 +35085,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/III</name>
+            <name>V65/V/III</name>
+            <offset x="-1.29227" y="4.41126"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -35113,6 +35114,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65(b9b5)/V-Ger7/III</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -35136,7 +35141,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III}</name>
+            <name>V/III|HC}</name>
+            <offset x="-4.18088" y="4.36354"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
