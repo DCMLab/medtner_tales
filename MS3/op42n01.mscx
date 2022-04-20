@@ -27732,6 +27732,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7</name>
+            <offset x="0.076016" y="5.17235"/>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -27792,6 +27793,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7</name>
+            <offset x="0" y="4.9443"/>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -27922,7 +27924,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
+            <offset x="-1.59634" y="6.20708"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
