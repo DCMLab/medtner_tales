@@ -29167,13 +29167,6 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
-            </Harmony>
           </voice>
         <voice>
           <Chord>
@@ -29198,7 +29191,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -29322,7 +29315,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -29438,7 +29431,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>i</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29606,7 +29599,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(96)</name>
+            <name>i(#139)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -29640,7 +29633,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>viio7/V</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -29747,7 +29740,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>i7-iv7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29782,7 +29775,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/v</name>
+            <name>V/V</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -29908,7 +29901,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/iv</name>
+            <name>V7(9b5)-Ger6/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
