@@ -33856,7 +33856,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64</name>
+            <name>iv64-i(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
