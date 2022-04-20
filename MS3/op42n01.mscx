@@ -36158,7 +36158,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.i6{</name>
+            <name>i6{</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -36236,10 +36236,6 @@ I</text>
             <family>FreeSerif</family>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>m.s.</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
