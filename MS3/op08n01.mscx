@@ -15499,10 +15499,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -15517,10 +15513,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio64</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
@@ -15543,7 +15535,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(964)</name>
+            <name>vi2</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15575,7 +15567,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>ii%43/vi</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -15591,10 +15583,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%43/vi-vii%43</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Articulation>
