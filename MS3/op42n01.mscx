@@ -19128,7 +19128,7 @@ I</text>
               <subtype>0</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.3528"/>
+                <offset x="2.91156" y="5.97272"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -37724,7 +37724,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/VI</name>
+            <name>i6</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -37762,10 +37762,6 @@ I</text>
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -37784,10 +37780,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi(#7)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -37810,7 +37802,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6</name>
+            <name>i43</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -37843,10 +37835,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -37867,7 +37855,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -38005,7 +37993,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>VIM43</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -38035,10 +38023,6 @@ I</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -38056,7 +38040,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>V7(b5)/V-Fr7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -38129,7 +38113,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -38232,7 +38216,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(+4)</name>
+            <name>IV7(^2)-i(+4)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -38251,7 +38235,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/VII</name>
+            <name>IV2</name>
             <offset x="-0.14" y="-8.94001"/>
             </Harmony>
           <Chord>
@@ -38294,7 +38278,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vio6</name>
+            <name>i(#6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -38372,7 +38356,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i}</name>
+            <name>i|PAC}</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
