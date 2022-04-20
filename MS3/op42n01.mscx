@@ -30003,7 +30003,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/V/III</name>
+            <name>III.V65/V</name>
             <minDistance>0.260766</minDistance>
             <offset x="-0.684144" y="6.69712"/>
             </Harmony>
@@ -30042,7 +30042,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(b9b5)/V/III-Ger7/III</name>
+            <name>V65(b9b5)/V-Ger7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -30075,7 +30075,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III}</name>
+            <name>V|HC}</name>
+            <offset x="-3.7626" y="7.00859"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -30111,11 +30112,11 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III{</name>
+            <name>I{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.417675" y="11.4164"/>
+            <offset x="-0.202669" y="17.0066"/>
             </Symbol>
           <Chord>
             <dots>1</dots>
