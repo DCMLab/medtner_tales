@@ -30003,7 +30003,9 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/III</name>
+            <name>V65/V/III</name>
+            <minDistance>0.260766</minDistance>
+            <offset x="-0.684144" y="6.69712"/>
             </Harmony>
           <Spanner type="Trill">
             <Trill>
@@ -30038,6 +30040,10 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65(b9b5)/V/III-Ger7/III</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
