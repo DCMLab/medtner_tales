@@ -14008,7 +14008,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(4)-i65(4)</name>
+            <name>V7(4)/VII</name>
             </Harmony>
           <Rest>
             <durationType>16th</durationType>
@@ -14026,10 +14026,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio7/V-III6(6#4#2)</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14045,6 +14041,10 @@
             <offset x="-4.34591" y="-5.4977"/>
             <text>crescendo</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7/VII</name>
+            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14055,10 +14055,6 @@
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III6(+6)-i43</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>16th</durationType>
@@ -14080,10 +14076,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI(#2)-IV(#2)/III</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Note>
@@ -14150,8 +14142,8 @@
             </Chord>
           <Beam>
             <Fragment>
-              <y1>7.64624</y1>
-              <y2>7.64624</y2>
+              <y1>6.45125</y1>
+              <y2>6.45125</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -14168,7 +14160,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V/III-viio/VII</name>
+            <name>V65/VII</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14192,7 +14184,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III-VII</name>
+            <name>VII-IV/iv</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
