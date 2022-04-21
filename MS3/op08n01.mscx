@@ -14446,7 +14446,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/iii/III</name>
+            <name>V6/v</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14474,7 +14474,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii/III</name>
+            <name>v-iii/III</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -14568,7 +14568,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I|IAC}{</name>
+            <name>VI.I}{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
