@@ -14073,7 +14073,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14084,7 +14084,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14107,7 +14107,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14231,7 +14231,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14242,7 +14242,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14265,7 +14265,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
