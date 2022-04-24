@@ -9392,7 +9392,7 @@
               <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-5.61706"/>
+                <offset x="-3.68639" y="-5.69308"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -9629,10 +9629,6 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v%7</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -9652,10 +9648,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9684,7 +9676,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64</name>
+            <name>IV64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9712,11 +9704,11 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2(+4)</name>
+            <name>ii(1394)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="1.03556" y="10.9309"/>
+            <offset x="1.03556" y="13.0593"/>
             </Symbol>
           <StaffText>
             <family>FreeSerif</family>
@@ -9736,21 +9728,14 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>ii</name>
             </Harmony>
           <location>
-            <fractions>1/8</fractions>
+            <fractions>3/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii(42)</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>vi7</name>
             </Harmony>
           </voice>
         <voice>
@@ -9826,10 +9811,6 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vo</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -9849,10 +9830,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9862,7 +9839,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM2</name>
+            <name>IVM7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9889,7 +9866,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9945,11 +9922,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I}{</name>
+            <name>I}{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.57531" y="11.0459"/>
+            <offset x="-0.19523" y="12.4142"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
