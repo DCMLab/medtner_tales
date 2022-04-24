@@ -9229,7 +9229,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="1.49581" y="9.6652"/>
+            <offset x="-1.92491" y="10.4254"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9263,7 +9263,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="9.08989"/>
+            <offset x="-0.228048" y="10.3822"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9313,7 +9313,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.460248" y="9.89533"/>
+            <offset x="0.156184" y="10.3514"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9343,10 +9343,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9360,7 +9356,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.460248" y="9.32002"/>
+            <offset x="-0.536264" y="10.6883"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9387,7 +9383,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6(9)</name>
+            <name>vii6-ii6/VI</name>
+            <offset x="-3.11666" y="4.27914"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -9544,7 +9541,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.57531" y="10.8158"/>
+            <offset x="0.19523" y="14.2365"/>
             </Symbol>
           <Chord>
             <dots>1</dots>
