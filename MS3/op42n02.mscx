@@ -10832,10 +10832,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10913,7 +10909,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(+4)</name>
+            <name>ii6(+11)-V2(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
