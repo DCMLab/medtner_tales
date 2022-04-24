@@ -8528,7 +8528,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8555,7 +8555,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>v%7</name>
             <offset x="-0.308614" y="-9.24045"/>
             </Harmony>
           <Spanner type="HairPin">
