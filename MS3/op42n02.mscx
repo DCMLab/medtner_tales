@@ -3708,6 +3708,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.06422" y="3.19594"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -11088,7 +11093,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64/IV</name>
+            <name>IV64/IV-V7(94)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11125,7 +11130,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV</name>
+            <name>vii%43/IV-V7(9)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11158,7 +11163,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64/IV</name>
+            <name>IV64/IV-V7(94)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
