@@ -8920,7 +8920,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.230124" y="8.51458"/>
+            <offset x="0.45402" y="11.3272"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8941,10 +8941,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIIM43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -8954,7 +8950,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii43</name>
+            <name>bII6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8975,6 +8971,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
