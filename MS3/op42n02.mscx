@@ -12126,7 +12126,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(6)</name>
+            <name>ii6(13)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -12193,7 +12193,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6(9)</name>
+            <name>vi43(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12227,7 +12227,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>vi43</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -12334,7 +12334,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(6)</name>
+            <name>ii(13)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12358,7 +12358,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12372,7 +12372,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>vi6</name>
             </Harmony>
           </voice>
         <voice>
