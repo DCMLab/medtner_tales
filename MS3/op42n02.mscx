@@ -13230,7 +13230,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13253,7 +13253,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>v%7</name>
             <offset x="-0.285519" y="-8.71243"/>
             </Harmony>
           <Chord>
@@ -13299,7 +13299,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13389,7 +13389,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13458,7 +13458,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
