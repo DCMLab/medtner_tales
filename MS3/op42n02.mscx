@@ -2005,6 +2005,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-2.7939</y1>
+              <y2>-4.5439</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -10422,7 +10428,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.460248" y="9.55014"/>
+            <offset x="-0.384232" y="11.3745"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10489,7 +10495,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(7)</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
