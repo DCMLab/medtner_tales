@@ -2240,7 +2240,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <up>up</up>
                   </Tie>
                 <next>
                   <location>
@@ -2253,18 +2252,7 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-3/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -2308,6 +2296,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2316,6 +2308,12 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Beam>
+            <Fragment>
+              <y1>-0.858128</y1>
+              <y2>-2.60813</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -2345,8 +2343,9 @@
             <Spanner type="Slur">
               <prev>
                 <location>
+                  <staves>1</staves>
                   <measures>-1</measures>
-                  <fractions>3/8</fractions>
+                  <fractions>5/8</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -9747,6 +9746,12 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="-1.4443" y="-2.05243"/>
+                  <o3 x="2.81259" y="11.0983"/>
+                  <o4 x="0.152032" y="7.75364"/>
+                  <offset x="-1.29227" y="-2.66056"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -9869,6 +9874,7 @@
             <name>V</name>
             </Harmony>
           <Chord>
+            <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -9878,6 +9884,17 @@
                   <fractions>-5/8</fractions>
                   </location>
                 </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <staves>-1</staves>
+                  <measures>1</measures>
+                  <fractions>-5/8</fractions>
+                  </location>
+                </next>
               </Spanner>
             <Note>
               <pitch>67</pitch>
@@ -9922,7 +9939,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
