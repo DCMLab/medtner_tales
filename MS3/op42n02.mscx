@@ -9729,13 +9729,6 @@
             <harmonyType>1</harmonyType>
             <name>ii</name>
             </Harmony>
-          <location>
-            <fractions>3/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            </Harmony>
           </voice>
         <voice>
           <Beam>
@@ -9844,7 +9837,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7</name>
+            <name>ii7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
