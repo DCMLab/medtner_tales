@@ -9426,7 +9426,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>VI.V</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -9460,10 +9460,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9475,6 +9471,10 @@
             <name>keyboardPedalPed</name>
             <offset x="0.460248" y="12.7719"/>
             </Symbol>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -9486,10 +9486,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9500,7 +9496,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>IV6</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -9537,7 +9533,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2(+4)</name>
+            <name>ii(1394)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -9553,18 +9549,11 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>ii</name>
             </Harmony>
           </voice>
         <voice>
