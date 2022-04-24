@@ -9975,7 +9975,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
+            <name>IV-ii6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10034,10 +10034,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10045,6 +10041,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10093,11 +10093,11 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I\\</name>
+            <name>I</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.115062" y="9.43508"/>
+            <offset x="-0.112986" y="11.7916"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
