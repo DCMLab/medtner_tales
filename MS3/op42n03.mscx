@@ -3243,6 +3243,12 @@
                 </location>
               </prev>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0.152032</y1>
+              <y2>-1.09797</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -24602,7 +24608,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{iv</name>
+            <name>{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -24618,7 +24624,7 @@ quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i.iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -24738,7 +24744,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
+            <name>iv2</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -24855,7 +24861,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7/V</name>
+            <name>ii%7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -25177,7 +25183,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25246,7 +25252,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -25285,7 +25291,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)</name>
+            <name>V7(9)/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25326,7 +25332,7 @@ quasi Violoncello solo</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(94)</name>
+            <name>iv(94)</name>
             <offset x="-0.149192" y="-8.08869"/>
             </Harmony>
           <Chord>
@@ -25350,7 +25356,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>iv</name>
             <offset x="0.149192" y="-7.49192"/>
             </Harmony>
           <Beam>
@@ -25380,7 +25386,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(+6)</name>
+            <name>iv(+6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25405,7 +25411,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>VII7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25519,7 +25525,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7(#4)</name>
+            <name>VIM7(11)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25575,6 +25581,7 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7</name>
+            <offset x="-0.532112" y="4.77204"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -25613,7 +25620,7 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii%7(6)</name>
-            <offset x="-1.04435" y="-6.59677"/>
+            <offset x="-9.86221" y="4.89509"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -25638,7 +25645,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>ii/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -25686,7 +25693,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v7</name>
+            <name>ii7/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
