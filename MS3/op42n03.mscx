@@ -23251,7 +23251,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM43</name>
+            <name>i6(+6)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -23267,7 +23267,7 @@ quasi Violoncello solo</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%43</name>
+            <name>i6(+#6)</name>
             </Harmony>
           </voice>
         <voice>
@@ -23344,7 +23344,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i65</name>
+            <name>i6(7)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
