@@ -26741,7 +26741,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>IV</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -26791,10 +26791,6 @@ quasi Violoncello solo</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VIM7</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -26818,7 +26814,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI+6</name>
+            <name>V(6)/ii</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -26879,7 +26875,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(4)</name>
+            <name>vii%7(4)-ii6(2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26897,7 +26893,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7</name>
+            <name>vii%7</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -26920,10 +26916,6 @@ quasi Violoncello solo</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)/III</name>
-            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
