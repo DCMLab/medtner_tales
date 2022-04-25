@@ -26093,7 +26093,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -26141,7 +26141,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>V7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27107,7 +27107,7 @@ quasi Violoncello solo</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.285278" y="11.9964"/>
+            <offset x="-0.133246" y="13.4407"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
