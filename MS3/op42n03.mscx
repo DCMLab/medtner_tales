@@ -1564,6 +1564,12 @@
             <offset x="1.02166" y="-4.20049"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>grazioso</text>
             </StaffText>
+          <Beam>
+            <Fragment>
+              <y1>-2.09797</y1>
+              <y2>-3.09797</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -24590,7 +24596,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/III{</name>
+            <name>{iv</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -24606,7 +24612,7 @@ quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>i</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
