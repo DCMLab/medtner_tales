@@ -346,7 +346,7 @@
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
-            <offset x="3.12114" y="4.11293"/>
+            <offset x="-2.50405" y="2.82066"/>
             </Dynamic>
           <Chord>
             <dots>1</dots>
@@ -374,8 +374,9 @@
               <subtype>1</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="5.46472"/>
+                <offset x="0.836176" y="5.78464"/>
                 <off2 x="0" y="0"/>
+                <minDistance>5.31067e-16</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -23114,16 +23115,20 @@
           <Dynamic>
             <subtype>mp</subtype>
             <velocity>64</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-0.38008" y="-2.64889"/>
             </Dynamic>
           <StaffText>
             <placement>below</placement>
-            <offset x="-0.673849" y="5.13466"/>
+            <offset x="-3.03035" y="7.31509"/>
             <text>cantando, poco marcato (il basso)
 quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g#.V(4){</name>
+            <name>g#.i{</name>
+            <offset x="-0.684144" y="6.15066"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23171,6 +23176,7 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <offset x="0.304064" y="6.62157"/>
             </Harmony>
           <Rest>
             <dots>1</dots>
