@@ -27639,7 +27639,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii64</name>
+            <name>V(64)/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27783,7 +27783,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii64</name>
+            <name>V(64)/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27984,7 +27984,7 @@ quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii6</name>
+            <name>i6/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
