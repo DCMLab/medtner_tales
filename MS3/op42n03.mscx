@@ -28367,7 +28367,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v43/biii-iv43/iv</name>
+            <name>v43/biii-iv43/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28421,7 +28421,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv</name>
+            <name>V65/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28459,7 +28459,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(4)</name>
+            <name>V7(b64)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
