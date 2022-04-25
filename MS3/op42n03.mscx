@@ -28649,7 +28649,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I6/IV-VI6/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
