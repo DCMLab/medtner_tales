@@ -27215,7 +27215,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>viio6(642)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -27236,6 +27236,11 @@ quasi Violoncello solo</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            <offset x="-0.608128" y="4.3565"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
