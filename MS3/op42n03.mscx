@@ -23919,7 +23919,7 @@ quasi Violoncello solo</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(4)/III{</name>
+            <name>III</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -24095,7 +24095,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%2(9)/III</name>
+            <name>vii%2(9)/V/III</name>
             <offset x="-0.596769" y="-6"/>
             </Harmony>
           <Chord>
