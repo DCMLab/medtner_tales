@@ -24669,10 +24669,6 @@ quasi Violoncello solo</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii2/iv</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -24697,10 +24693,6 @@ quasi Violoncello solo</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -24720,11 +24712,6 @@ quasi Violoncello solo</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2(9)/III</name>
-            <offset x="-1.34273" y="-8.83465"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
