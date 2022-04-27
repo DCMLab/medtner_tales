@@ -34207,7 +34207,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I(64)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -34308,7 +34308,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I(64)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
