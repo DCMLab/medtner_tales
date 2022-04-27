@@ -34405,7 +34405,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64</name>
+            <name>I(64)</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -34605,7 +34605,7 @@ quasi Violoncello solo</text>
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I[I}{</name>
+            <name>I[I|IAC}{</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
