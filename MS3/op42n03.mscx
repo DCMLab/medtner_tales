@@ -36054,7 +36054,7 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(b9)/bIII</name>
-            <offset x="0.149192" y="-8.98385"/>
+            <offset x="-1.06706" y="3.99569"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -36150,7 +36150,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/#I</name>
+            <name>V7(b9)/bII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
