@@ -15573,6 +15573,15 @@
             <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
+              <Spanner type="Tie">
                 <prev>
                   <location>
                     <measures>-1</measures>
@@ -15596,6 +15605,13 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -15722,6 +15738,15 @@
               </Spanner>
             <StemDirection>down</StemDirection>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>3/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -15750,6 +15775,13 @@
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
             <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-3/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -35775,20 +35807,6 @@ quasi Violoncello solo</text>
               <subtype>articAccentBelow</subtype>
               </Articulation>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <TieSegment no="0">
-                    <o2 x="1.77195" y="2.40479"/>
-                    <o3 x="1.77195" y="2.40479"/>
-                    <o4 x="0.379704" y="7.72066"/>
-                    </TieSegment>
-                  </Tie>
-                <next>
-                  <location>
-                    <fractions>3/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -35864,28 +35882,6 @@ quasi Violoncello solo</text>
               <subtype>articTenutoBelow</subtype>
               </Articulation>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <TieSegment no="0">
-                    <o2 x="2.91107" y="2.15166"/>
-                    <o3 x="2.91107" y="2.15166"/>
-                    <o4 x="0.126568" y="6.70811"/>
-                    </TieSegment>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    <fractions>-3/8</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <fractions>-3/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -35962,29 +35958,6 @@ quasi Violoncello solo</text>
               <subtype>articTenutoBelow</subtype>
               </Articulation>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  <TieSegment no="0">
-                    <o2 x="3.03764" y="3.03764"/>
-                    <o3 x="3.03764" y="3.03764"/>
-                    <o4 x="0.632841" y="7.84722"/>
-                    </TieSegment>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>21</measures>
-                    <fractions>-1/4</fractions>
-                    </location>
-                  </next>
-                </Spanner>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    <fractions>3/8</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>70</pitch>
               <tpc>12</tpc>
               </Note>
@@ -38516,14 +38489,6 @@ quasi Violoncello solo</text>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
             <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-21</measures>
-                    <fractions>1/4</fractions>
-                    </location>
-                  </prev>
-                </Spanner>
               <pitch>70</pitch>
               <tpc>24</tpc>
               </Note>
