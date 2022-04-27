@@ -36607,6 +36607,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
+            <offset x="-1.82438" y="-4.50677"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>rinf.</text>
             </StaffText>
           <Harmony>
@@ -36666,7 +36667,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(9)/V</name>
+            <name>It6/ii-Fr6(b7)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
