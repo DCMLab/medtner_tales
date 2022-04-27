@@ -32345,7 +32345,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii64</name>
+            <name>iii64-V6(6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -32407,7 +32407,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/V</name>
+            <name>V(64)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
