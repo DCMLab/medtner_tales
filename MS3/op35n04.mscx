@@ -48159,7 +48159,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(#6#4#3)</name>
+            <name>i(#6#4#3){</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
@@ -48207,7 +48207,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PC</name>
+            <name>i|PC}</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
