@@ -9257,6 +9257,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9264,10 +9268,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
             <offset x="-0.228048" y="10.3822"/>
@@ -13005,7 +13005,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43-vii</name>
+            <name>vii</name>
             <offset x="-1.42759" y="-8.56967"/>
             </Harmony>
           <Chord>
