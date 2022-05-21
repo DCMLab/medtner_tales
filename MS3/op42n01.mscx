@@ -22431,8 +22431,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/V-#vi%43</name>
-            <offset x="-7.33746" y="9.49186"/>
+            <name>ii%43/V</name>
+            <offset x="-3.63054" y="9.49186"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
