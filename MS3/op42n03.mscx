@@ -37162,6 +37162,8 @@ quasi Violoncello solo</text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
+            <minDistance>-999</minDistance>
+            <offset x="-1.59634" y="3.31586"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -37189,10 +37191,6 @@ quasi Violoncello solo</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -37201,10 +37199,6 @@ quasi Violoncello solo</text>
               <tpc>21</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi65</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -37288,10 +37282,18 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi7</name>
+            <minDistance>-8.54591</minDistance>
+            <offset x="-0.456096" y="3.35612"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.152032" y="5.72032"/>
+                <off2 x="0" y="0"/>
+                <minDistance>5.31067e-16</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -37309,7 +37311,9 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(6)</name>
+            <name>V6</name>
+            <minDistance>-8.39388</minDistance>
+            <offset x="0.076016" y="3.50815"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -37337,19 +37341,11 @@ quasi Violoncello solo</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <minDistance>-3.45283</minDistance>
+            <offset x="-0.152032" y="3.13317"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -37426,6 +37422,7 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi7</name>
+            <offset x="-0.76016" y="3.5"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -37438,9 +37435,21 @@ quasi Violoncello solo</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            <minDistance>-6.49348</minDistance>
+            <offset x="-0.304064" y="3.51325"/>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.684144" y="5.79634"/>
+                <off2 x="0" y="0"/>
+                <minDistance>5.31067e-16</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -37458,7 +37467,9 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>iii6-V(6)</name>
+            <minDistance>-7.16955</minDistance>
+            <offset x="-2.66056" y="3.19594"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
