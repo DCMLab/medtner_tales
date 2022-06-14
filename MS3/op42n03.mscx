@@ -21430,8 +21430,8 @@
                     </location>
                   </next>
                 </Spanner>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -21453,8 +21453,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -21467,8 +21467,8 @@
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>54</pitch>
-              <tpc>20</tpc>
+              <pitch>56</pitch>
+              <tpc>22</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -41271,7 +41271,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
+            <name>IV7</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
