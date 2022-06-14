@@ -20007,11 +20007,8 @@
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
             <Note>
-              <Accidental>
-                <subtype>accidentalNatural</subtype>
-                </Accidental>
-              <pitch>65</pitch>
-              <tpc>13</tpc>
+              <pitch>67</pitch>
+              <tpc>27</tpc>
               </Note>
             </Chord>
           </voice>
@@ -40292,7 +40289,7 @@ quasi Violoncello solo</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.684144" y="13.9147"/>
             </Symbol>
           <Fermata>
             <subtype>fermataAbove</subtype>
