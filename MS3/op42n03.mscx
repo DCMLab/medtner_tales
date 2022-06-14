@@ -20160,6 +20160,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-0.163824</y1>
+              <y2>-1.41382</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -39882,13 +39888,6 @@ quasi Violoncello solo</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii64/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
             <name>#vii%2/v</name>
             </Harmony>
           </voice>
@@ -39953,7 +39952,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi</name>
+            <name>#vii%65/v-V43(2)/v</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
