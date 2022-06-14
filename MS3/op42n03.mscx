@@ -38570,7 +38570,7 @@ quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>I(64)-IV64</name>
             <offset x="0" y="-7.64112"/>
             </Harmony>
           <Spanner type="HairPin">
