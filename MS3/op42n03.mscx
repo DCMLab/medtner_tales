@@ -20908,6 +20908,12 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>1.92398</y1>
+              <y2>0.673984</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -40629,7 +40635,7 @@ quasi Violoncello solo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VI</name>
+            <name>V7/VI-IV7/VII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
