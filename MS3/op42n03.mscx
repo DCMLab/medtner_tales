@@ -38744,9 +38744,6 @@ quasi Violoncello solo</text>
               <tpc>23</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalDoubleSharp</subtype>
-                </Accidental>
               <Spanner type="Tie">
                 <Tie>
                   </Tie>
@@ -38757,8 +38754,8 @@ quasi Violoncello solo</text>
                     </location>
                   </next>
                 </Spanner>
-              <pitch>59</pitch>
-              <tpc>31</tpc>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           </voice>
@@ -38809,8 +38806,8 @@ quasi Violoncello solo</text>
                     </location>
                   </prev>
                 </Spanner>
-              <pitch>59</pitch>
-              <tpc>31</tpc>
+              <pitch>58</pitch>
+              <tpc>24</tpc>
               </Note>
             </Chord>
           <Harmony>
