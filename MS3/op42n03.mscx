@@ -20910,8 +20910,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>1.92398</y1>
-              <y2>0.673984</y2>
+              <y1>1.69594</y1>
+              <y2>0.445936</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -40961,10 +40961,6 @@ quasi Violoncello solo</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i7</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
