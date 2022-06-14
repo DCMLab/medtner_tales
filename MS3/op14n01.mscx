@@ -5397,8 +5397,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-1.46789</y1>
-              <y2>-1.71789</y2>
+              <y1>-1.57539</y1>
+              <y2>-1.82539</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -13661,10 +13661,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
