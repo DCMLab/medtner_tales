@@ -39978,7 +39978,7 @@ quasi Violoncello solo</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VM2(9)/iv</name>
+            <name>IVM2(9)/v</name>
             <offset x="0" y="-9.13304"/>
             </Harmony>
           <Chord>
@@ -40074,7 +40074,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v(4)</name>
+            <name>i(4)/v</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
