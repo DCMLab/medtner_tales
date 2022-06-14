@@ -38042,7 +38042,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/vi</name>
+            <name>vii%7-ii%7/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -38206,7 +38206,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43</name>
+            <name>vi-ii43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -38219,9 +38219,21 @@ quasi Violoncello solo</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii65</name>
+            <minDistance>-7.25364</minDistance>
+            <offset x="-0.228048" y="3.88823"/>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.532112" y="6.17642"/>
+                <off2 x="0" y="0"/>
+                <minDistance>5.31067e-16</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
