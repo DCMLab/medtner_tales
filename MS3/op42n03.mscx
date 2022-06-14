@@ -40133,11 +40133,12 @@ quasi Violoncello solo</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
+            <name>IV7(9)</name>
+            <offset x="-4.48495" y="4.99403"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.460248" y="8.72901"/>
+            <offset x="-0.536264" y="13.518"/>
             </Symbol>
           <Chord>
             <dots>1</dots>
@@ -40178,10 +40179,11 @@ quasi Violoncello solo</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)</name>
+            <offset x="-0.304064" y="4.92267"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.57531" y="9.99469"/>
+            <offset x="-0.119214" y="14.5557"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
