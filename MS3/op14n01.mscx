@@ -3988,8 +3988,8 @@
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>-2.04993</y1>
-              <y2>-2.29993</y2>
+              <y1>-1.51242</y1>
+              <y2>-1.76242</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -9587,7 +9587,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v(#94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9608,6 +9608,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -14105,7 +14109,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v(#94)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14126,6 +14130,10 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
