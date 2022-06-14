@@ -77,5 +77,5 @@ mc	mn	keysig	timesig	act_dur	mc_offset	volta	numbering_offset	dont_count	barline
 76	76	0	4/4	1	0					line		77
 77	77	0	4/4	1	0							78
 78	78	0	4/4	1	0					line		79
-79	79	0	4/4	1	0				double			80
+79	79	0	4/4	1	0							80
 80	80	0	4/4	1	0				double		lastMeasure	-1
