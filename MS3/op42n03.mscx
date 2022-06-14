@@ -21490,8 +21490,9 @@
           </LayoutBreak>
         <voice>
           <StaffText>
+            <minDistance>0.423984</minDistance>
             <family>FreeSerif</family>
-            <offset x="1.69455" y="-4.14393"/>
+            <offset x="-2.56235" y="-6.13114"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>Poco a poco accelerando</text>
             </StaffText>
           <Chord>
@@ -41468,7 +41469,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -41491,11 +41492,6 @@ quasi Violoncello solo</text>
               <tpc>22</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9+4)/VII</name>
-            <offset x="-0.447577" y="-8.53627"/>
-            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -41511,10 +41507,6 @@ quasi Violoncello solo</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -41547,7 +41539,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -41572,10 +41564,6 @@ quasi Violoncello solo</text>
               <tpc>23</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
