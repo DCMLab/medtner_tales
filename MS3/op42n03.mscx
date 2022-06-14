@@ -41137,7 +41137,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/iv</name>
+            <name>vii%7/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -41187,7 +41187,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7(964)</name>
+            <name>IV7(9b64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
