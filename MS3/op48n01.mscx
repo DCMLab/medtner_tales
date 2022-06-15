@@ -57206,7 +57206,8 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio7/V</name>
+            <offset x="-2.53387" y="4.54592"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -57242,7 +57243,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43/vi</name>
+            <name>V2-#viio43/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -57307,6 +57308,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0.337849</y1>
+              <y2>-0.912151</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -57455,6 +57462,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>-2.16554</y1>
+              <y2>-2.91554</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
