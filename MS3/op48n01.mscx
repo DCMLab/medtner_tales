@@ -57648,7 +57648,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43/ii-V6(6)</name>
+            <name>ii43/II-V6(6)</name>
             <offset x="-4.30758" y="3.83785"/>
             </Harmony>
           <Chord>
@@ -57672,7 +57672,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio2/ii</name>
+            <name>viio2/II</name>
             <minDistance>-2.20279</minDistance>
             <offset x="-0.0844623" y="3.7876"/>
             </Harmony>
@@ -57724,8 +57724,8 @@ I</text>
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>0.493226</y1>
-              <y2>-0.506774</y2>
+              <y1>0.408764</y1>
+              <y2>-0.591236</y2>
               </Fragment>
             </Beam>
           <Chord>
