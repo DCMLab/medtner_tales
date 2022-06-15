@@ -25133,7 +25133,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64</name>
-            <offset x="1.74837" y="9.05231"/>
+            <offset x="0.243329" y="9.05231"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -35979,9 +35979,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -36003,7 +36000,6 @@ I</text>
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -36046,9 +36042,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -36064,9 +36057,6 @@ I</text>
               <tpc>8</tpc>
               </Note>
             </Chord>
-          <Beam>
-            <StemDirection>up</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -36104,7 +36094,6 @@ I</text>
             <Articulation>
               <subtype>articTenutoAbove</subtype>
               </Articulation>
-            <StemDirection>up</StemDirection>
             <Note>
               <pitch>53</pitch>
               <tpc>13</tpc>
@@ -36120,7 +36109,6 @@ I</text>
             </location>
           <Chord>
             <durationType>quarter</durationType>
-            <StemDirection>down</StemDirection>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -36147,9 +36135,9 @@ I</text>
             <mode>major</mode>
             </KeySig>
           <StaffText>
-            <placement>below</placement>
+            <minDistance>-999</minDistance>
             <family>FreeSerif</family>
-            <offset x="4.28867" y="4.07699"/>
+            <offset x="4.61118" y="-2.47939"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>una corda</text>
             </StaffText>
           <Dynamic>
@@ -36159,6 +36147,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6{</name>
+            <minDistance>-8.42274</minDistance>
+            <offset x="0.107503" y="11.6729"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -36168,7 +36158,7 @@ I</text>
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="8.4979"/>
+                <offset x="-0.860023" y="14.6218"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
@@ -36202,6 +36192,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <minDistance>-9.92778</minDistance>
+            <offset x="0.215006" y="9.25574"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -36218,7 +36210,7 @@ I</text>
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="9.2301"/>
+                <offset x="-1.07503" y="13.3757"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
