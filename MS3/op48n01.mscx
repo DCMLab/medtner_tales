@@ -49898,11 +49898,11 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.235767" y="8.29092"/>
+            <offset x="-0.320229" y="12.1762"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -49922,10 +49922,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -49967,7 +49963,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.157178" y="8.36951"/>
+            <offset x="-0.0727157" y="12.6771"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -50027,11 +50023,12 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v43-iii43/bIII</name>
+            <offset x="0" y="4.81819"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.157178" y="7.89798"/>
+            <offset x="0.0117465" y="14.1482"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -50051,11 +50048,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6/bIII</name>
-            <offset x="0" y="-8.77753"/>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -50094,10 +50086,12 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bIII</name>
+            <minDistance>-0.0912359</minDistance>
+            <offset x="-0.337849" y="5.9493"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.0844623" y="13.6951"/>
             </Symbol>
           <Dynamic>
             <subtype>sf</subtype>
@@ -50150,10 +50144,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII64</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
