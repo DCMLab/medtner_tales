@@ -46676,6 +46676,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -46696,14 +46700,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            <offset x="-0.626014" y="4.30488"/>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
