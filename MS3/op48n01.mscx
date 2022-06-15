@@ -48809,7 +48809,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV(97)</name>
+            <name>ii6(112)</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -48853,7 +48853,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(4)</name>
+            <name>ii6(11)</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -48891,7 +48891,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7(64)</name>
+            <name>vi7(116)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -48983,7 +48983,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii(94)</name>
+            <name>iii(119)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -49149,7 +49149,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(94)</name>
+            <name>ii(119)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -49223,7 +49223,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(7)</name>
+            <name>IVM7(6)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -49302,6 +49302,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%7</name>
+            <offset x="-1.18247" y="4.26016"/>
             </Harmony>
           </voice>
         </Measure>
