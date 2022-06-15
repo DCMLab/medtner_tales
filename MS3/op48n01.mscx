@@ -46620,7 +46620,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi43</name>
+            <name>I6(13)-vi43</name>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -46649,6 +46649,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(964)</name>
+            <offset x="-1.1626" y="7.38104"/>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -46701,6 +46702,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
+            <offset x="-0.626014" y="4.30488"/>
             </Harmony>
           </voice>
         </Measure>
