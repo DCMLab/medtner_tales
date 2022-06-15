@@ -58175,17 +58175,9 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/IV</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64(2)</name>
-            </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -58202,10 +58194,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/IV</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -58228,6 +58216,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV</name>
+            <offset x="0" y="4.66159"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -58241,11 +58230,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV(9)</name>
-            <offset x="-1.77753" y="-6"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
