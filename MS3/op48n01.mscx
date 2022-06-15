@@ -53259,6 +53259,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>2.66215</y1>
+              <y2>2.41215</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -53483,7 +53489,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.844623" y="16.9047"/>
             </Symbol>
           <Spanner type="HairPin">
             <HairPin>
@@ -53548,7 +53554,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+64</name>
+            <name>V6(b6)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -53582,7 +53588,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.337849" y="16.6513"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
