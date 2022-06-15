@@ -57375,7 +57375,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(9)/V</name>
-            <offset x="-1.38876" y="-6.15431"/>
+            <offset x="-2.65569" y="7.52923"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -57406,7 +57406,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V|HC}</name>
+            <offset x="0.506774" y="4.75151"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
