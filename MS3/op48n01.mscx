@@ -47861,7 +47861,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>V64</name>
             </Harmony>
           </voice>
         </Measure>
@@ -47869,7 +47869,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/V</name>
+            <name>I(9)-iii7(2)/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -47898,7 +47898,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/iii</name>
+            <name>iii7/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -47920,20 +47920,13 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>vi/V-iii</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
