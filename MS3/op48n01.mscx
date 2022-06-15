@@ -51775,10 +51775,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii65(4)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -51810,10 +51806,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -51900,6 +51892,12 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>I[I}</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>3.84462</y1>
+              <y2>3.59462</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -52126,6 +52124,12 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>4.01355</y1>
+              <y2>3.76355</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -52379,6 +52383,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>3.50677</y1>
+              <y2>3.25677</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
