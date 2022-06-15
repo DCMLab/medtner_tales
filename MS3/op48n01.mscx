@@ -50747,7 +50747,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -50764,10 +50764,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6{</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -50797,7 +50793,8 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(b6)</name>
+            <name>I(+b6)</name>
+            <offset x="-0.168925" y="4.34462"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -50824,6 +50821,10 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(+b6)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
