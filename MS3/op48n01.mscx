@@ -49301,8 +49301,9 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7</name>
-            <offset x="-1.18247" y="4.26016"/>
+            <name>vii%7-ii%7/vi</name>
+            <minDistance>0.407042</minDistance>
+            <offset x="-10.3044" y="4.42908"/>
             </Harmony>
           </voice>
         </Measure>
@@ -49310,7 +49311,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)</name>
+            <name>i6(64^2)/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -49344,7 +49345,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>i6/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -49402,7 +49403,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65</name>
+            <name>i65/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -49436,7 +49437,8 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/ii</name>
+            <name>#vii%7/iv/vi</name>
+            <offset x="-1.85817" y="5.28135"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -49476,13 +49478,13 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii6</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv/vi</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -49506,16 +49508,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/vi</name>
@@ -49544,7 +49536,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi}</name>
+            <name>i/vi}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
