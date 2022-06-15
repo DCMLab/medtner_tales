@@ -57801,10 +57801,6 @@ I</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>II(94)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -57820,10 +57816,6 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>II</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -57841,7 +57833,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65</name>
+            <name>iv65/iii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -57861,7 +57853,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv%43</name>
+            <name>ii%43/iii</name>
+            <minDistance>0.246613</minDistance>
+            <offset x="-4.30758" y="4.26866"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -57881,7 +57875,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/iii</name>
+            <name>V7/iii-Ger6/bIII</name>
+            <offset x="-5.8279" y="4.52113"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -57941,6 +57936,12 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>bIII</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>3.08446</y1>
+              <y2>2.83446</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
