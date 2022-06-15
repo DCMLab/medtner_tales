@@ -392,7 +392,6 @@ I</text>
           <Tempo>
             <tempo>2</tempo>
             <followText>1</followText>
-            <minDistance>0.5</minDistance>
             <offset x="-20.3443" y="-3.35545"/>
             <text>Allegro risoluto <sym>metNoteQuarterUp</sym>. = 82-88</text>
             </Tempo>
@@ -48165,7 +48164,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64(4)</name>
+            <name>IV6(4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -48257,13 +48256,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -48352,6 +48344,10 @@ I</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -48368,13 +48364,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -48467,7 +48456,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi43</name>
+            <name>I6(13)-vi43</name>
+            <minDistance>0.331075</minDistance>
+            <offset x="-2.19602" y="5.33791"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -48522,6 +48513,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -48542,13 +48537,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -48587,7 +48575,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
