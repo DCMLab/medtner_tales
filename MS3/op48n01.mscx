@@ -56811,6 +56811,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/bII</name>
+            <offset x="-0.76016" y="7.2993"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -56864,7 +56865,9 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII}{</name>
+            <name>V/bV}{</name>
+            <minDistance>-2.39548</minDistance>
+            <offset x="-0.929085" y="7.11467"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -56892,7 +56895,8 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/V</name>
+            <name>Ger7/bV</name>
+            <offset x="-2.61833" y="6.72162"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -56915,7 +56919,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#5)/bIII</name>
+            <name>V2/bV-V43(#5)/V/bV</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -56932,13 +56936,13 @@ I</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43/V/bV</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/bIII</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -56984,6 +56988,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0.733066</y1>
+              <y2>-0.516934</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -57142,6 +57152,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>0.577689</y1>
+              <y2>-0.672311</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
