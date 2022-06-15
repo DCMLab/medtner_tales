@@ -47478,7 +47478,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>ii6/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -47518,7 +47518,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vii%7/ii</name>
+            <name>vii%7/V/V</name>
+            <offset x="-6.26014" y="7.31756"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -47718,7 +47719,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>I/V}</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
