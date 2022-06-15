@@ -46316,7 +46316,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64(4)</name>
+            <name>IV6(4)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -46411,13 +46411,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi7</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
