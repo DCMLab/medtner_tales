@@ -49536,7 +49536,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/vi}</name>
+            <name>i/vi|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
