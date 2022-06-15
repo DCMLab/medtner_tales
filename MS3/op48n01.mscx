@@ -53852,7 +53852,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>vi-ii/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -53876,10 +53876,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio6/vi</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -53903,7 +53899,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>ii6/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -53929,7 +53925,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2</name>
+            <name>V(96)/V</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -54020,6 +54016,12 @@ I</text>
             <name>I[I</name>
             <offset x="0" y="-8"/>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>4.01355</y1>
+              <y2>3.76355</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
