@@ -56970,7 +56970,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>V/vi</name>
+            <offset x="-1.09801" y="4.35911"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -57038,7 +57039,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/vi</name>
+            <name>Ger7/vi</name>
             <offset x="-2.93184" y="-7.08015"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -57075,7 +57076,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#5)/#IV</name>
+            <name>V2/vi-V43(#5)/V/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -57105,7 +57106,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/#VI</name>
+            <name>V43/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -57154,8 +57155,8 @@ I</text>
             </Spanner>
           <Beam>
             <Fragment>
-              <y1>0.577689</y1>
-              <y2>-0.672311</y2>
+              <y1>-1.53387</y1>
+              <y2>-2.78387</y2>
               </Fragment>
             </Beam>
           <Chord>
