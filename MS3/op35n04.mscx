@@ -44063,7 +44063,7 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="10.3125"/>
+                <offset x="-1.39754" y="10.3125"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
@@ -45208,14 +45208,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/VII</name>
+            <name>V2(6)/VII-IV2(6)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V2/VII-IV2</name>
+            <offset x="-4.83763" y="3.93001"/>
             </Harmony>
           </voice>
         </Measure>
@@ -45260,14 +45261,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/VII</name>
+            <name>V2(6)/VII-IV2(6)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V2/VII-IV2</name>
+            <offset x="-6.02016" y="3.6075"/>
             </Harmony>
           </voice>
         </Measure>
