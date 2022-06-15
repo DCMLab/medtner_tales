@@ -58021,10 +58021,6 @@ I</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII(94)</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -58046,10 +58042,6 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -58086,8 +58078,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii43/bIII</name>
-            <offset x="-0.308614" y="-8.1603"/>
+            <name>ii43/IV-V6(6)</name>
+            <minDistance>0.5</minDistance>
+            <offset x="-7.0656" y="4.56684"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -58107,7 +58100,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6/bIII</name>
+            <name>ii%43/IV</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -58127,11 +58120,6 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii%43/bIII</name>
-            <offset x="-1.08015" y="-9.39476"/>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
