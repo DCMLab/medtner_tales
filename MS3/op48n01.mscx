@@ -53670,7 +53670,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -53706,7 +53706,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(#742)</name>
+            <name>viio6(9)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
