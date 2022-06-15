@@ -51024,10 +51024,6 @@ I</text>
             <family>FreeSerif</family>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -51050,7 +51046,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(+b6)</name>
-            <offset x="-0.617229" y="-6.24906"/>
+            <offset x="-1.46185" y="3.24332"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
