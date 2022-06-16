@@ -23723,6 +23723,7 @@ I</text>
           </voice>
         <voice>
           <Rest>
+            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -65788,6 +65789,10 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio2/iv</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -65805,10 +65810,6 @@ I</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/iv</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
