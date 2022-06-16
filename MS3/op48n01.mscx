@@ -64455,7 +64455,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii/bii-iv/iv/bii</name>
-            <offset x="-5.32112" y="4.65584"/>
+            <offset x="-5.23666" y="5.33154"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -64561,7 +64561,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/bii|HC}</name>
+            <name>V(4)/bii}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64598,7 +64598,15 @@ I</text>
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.506774" y="-4.50042"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/bii|HC</name>
+            <offset x="-1.26693" y="3.5"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
