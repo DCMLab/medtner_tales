@@ -65329,7 +65329,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/bII</name>
+            <name>It6/bII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -65426,10 +65426,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/bII</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
