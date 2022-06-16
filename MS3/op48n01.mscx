@@ -61778,7 +61778,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61835,7 +61835,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>i6</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61894,7 +61894,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V</name>
+            <name>V43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61945,7 +61945,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -61996,7 +61996,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -62047,7 +62047,9 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65</name>
+            <name>V65/IV</name>
+            <minDistance>-8.19961</minDistance>
+            <offset x="-0.422311" y="4.6247"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -62055,6 +62057,12 @@ I</text>
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.337849" y="8.83865"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -62124,7 +62132,9 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>IV</name>
+            <minDistance>-8.62192</minDistance>
+            <offset x="0" y="3.72405"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
