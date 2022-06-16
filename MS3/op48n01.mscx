@@ -65233,7 +65233,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6(6)/iv-iv(#0)</name>
-            <offset x="-0.771536" y="-8.93184"/>
+            <offset x="-5.24804" y="6.27037"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -65266,10 +65266,6 @@ I</text>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/bVI</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
