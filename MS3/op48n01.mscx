@@ -65428,7 +65428,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)/bII</name>
+            <name>V43(4)/bII-Ger43(b4)</name>
+            <offset x="-3.96973" y="5.23456"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -65474,6 +65475,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V</name>
+            <minDistance>-2.27461</minDistance>
+            <offset x="1.18247" y="5.43613"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
