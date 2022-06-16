@@ -58749,7 +58749,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V{</name>
+            <name>V.I{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -58769,8 +58769,9 @@ I</text>
             </Chord>
           <StaffText>
             <placement>below</placement>
+            <minDistance>-5.15897</minDistance>
             <family>FreeSerif</family>
-            <offset x="-3.51842" y="2.94417"/>
+            <offset x="0.789155" y="2.45026"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>strepitoso</text>
             </StaffText>
           <Rest>
@@ -58811,7 +58812,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>V(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -58867,7 +58868,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -58923,7 +58924,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>V(4)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -58983,7 +58984,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <StaffText>
             <family>FreeSerif</family>
@@ -59083,7 +59084,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>V(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -59134,7 +59135,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9)</name>
+            <name>I(+9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -59189,7 +59190,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(4)</name>
+            <name>V(4)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -60548,7 +60549,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.337849" y="12.0059"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
