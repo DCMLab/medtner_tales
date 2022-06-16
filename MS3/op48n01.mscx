@@ -64654,7 +64654,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>i.i</name>
             <offset x="0.0844623" y="4.26016"/>
             </Harmony>
           <Beam>
@@ -64718,7 +64718,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64769,7 +64769,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIIM7</name>
+            <name>IIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64829,7 +64829,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bvii</name>
+            <name>vii-iv/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64937,7 +64937,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>V(4)}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64968,6 +64968,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V|HC</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
