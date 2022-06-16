@@ -64278,7 +64278,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i{</name>
+            <name>i/bii{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64342,7 +64342,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v/#i</name>
+            <name>V/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64406,7 +64406,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7/#i</name>
+            <name>IIIM7/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -64454,7 +64454,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii/#i</name>
+            <name>vii/bii-iv/iv/bii</name>
+            <offset x="-5.32112" y="4.65584"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -64508,7 +64509,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/#i</name>
+            <name>iv/bii</name>
+            <offset x="0.0844623" y="4.1757"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -64559,7 +64561,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/#i}</name>
+            <name>V/bii|HC}</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
