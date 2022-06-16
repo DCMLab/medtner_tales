@@ -65637,17 +65637,14 @@ I</text>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv6</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
@@ -65657,8 +65654,8 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+</name>
-            <offset x="-1.69738" y="-6"/>
+            <name>VI+-iv6(#0)</name>
+            <offset x="-7.10296" y="4.7173"/>
             </Harmony>
           </voice>
         </Measure>
@@ -65671,6 +65668,13 @@ I</text>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.168925" y="-3.79364"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-593.935</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
