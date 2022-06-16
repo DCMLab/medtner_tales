@@ -59222,7 +59222,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>I64</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -59248,7 +59248,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(9#74)</name>
+            <name>I(974)</name>
+            <offset x="-1.09801" y="3.58446"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -59275,7 +59276,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(974)</name>
+            <name>IV(97b4)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -59321,7 +59322,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(9)/V</name>
+            <name>V(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -59340,7 +59341,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -59367,7 +59368,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V}</name>
+            <name>I}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
