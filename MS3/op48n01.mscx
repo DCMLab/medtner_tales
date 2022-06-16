@@ -66164,26 +66164,20 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(9)/v</name>
+            <name>iv7/v-V7/IV</name>
+            <offset x="-0.253387" y="5.02032"/>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/v</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi64(7)</name>
+            <name>V6(96)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -66201,7 +66195,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7/v</name>
+            <name>V6(9)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
