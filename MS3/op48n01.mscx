@@ -66242,7 +66242,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII64(9)</name>
+            <name>IV(964)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -66257,7 +66257,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bVII</name>
+            <name>IV7</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
