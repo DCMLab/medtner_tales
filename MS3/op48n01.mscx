@@ -65663,7 +65663,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bii</name>
+            <name>bII(#2)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -65702,7 +65702,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bVI</name>
+            <name>bII(2)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
