@@ -62193,7 +62193,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6</name>
+            <name>I6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62250,7 +62250,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v6</name>
+            <name>i6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62309,7 +62309,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/V</name>
+            <name>V43</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62360,7 +62360,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62411,7 +62411,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/V</name>
+            <name>V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62462,7 +62462,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -62517,7 +62517,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>I.V64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -62534,10 +62534,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
@@ -62586,10 +62582,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
             <actualNotes>3</actualNotes>
