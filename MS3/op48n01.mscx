@@ -64639,7 +64639,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>{</name>
             </Harmony>
           </voice>
         </Measure>
@@ -64648,7 +64648,15 @@ I</text>
           <Dynamic>
             <subtype>ppp</subtype>
             <velocity>16</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="0.591236" y="-5.09165"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <offset x="0.0844623" y="4.26016"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
