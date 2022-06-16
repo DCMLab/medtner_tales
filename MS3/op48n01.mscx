@@ -63710,7 +63710,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii/v</name>
+            <name>bvii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -63765,7 +63765,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bVI</name>
+            <name>bvii(6b4)</name>
+            <offset x="-1.01355" y="3.58446"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -63794,7 +63795,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii64/v</name>
+            <name>bvii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -63834,6 +63835,10 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bvii64</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -63883,7 +63888,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii(4)/v</name>
+            <name>bvii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -63904,28 +63909,10 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>biii/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII6</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>biii/v</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
