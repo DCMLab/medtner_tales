@@ -20800,9 +20800,11 @@ I</text>
       <Measure>
         <voice>
           <Rest>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Rest>
+            <offset x="0" y="1"/>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -63909,10 +63911,21 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bvii(6b4)</name>
+            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bvii</name>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -63921,7 +63934,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii64/v</name>
+            <name>bvii64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -63941,7 +63954,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii(4)/v</name>
+            <name>bvii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -63963,18 +63976,12 @@ I</text>
               </Note>
             </Chord>
           <location>
-            <fractions>-1/4</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii/v</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>bvii(6b4)</name>
+            <offset x="-1.43586" y="3.41554"/>
             </Harmony>
           </voice>
         </Measure>
@@ -63982,7 +63989,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>biii/v</name>
+            <name>bvii</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -64018,10 +64025,6 @@ I</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/bVI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -64041,10 +64044,6 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%7/bVI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -64064,10 +64063,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7/bVI</name>
-            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -64090,10 +64085,6 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43/bVI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
