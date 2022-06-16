@@ -20811,7 +20811,6 @@ I</text>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <up>down</up>
                 </Slur>
               <next>
                 <location>
@@ -20822,6 +20821,11 @@ I</text>
               </Spanner>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o1 x="0.506774" y="0.0844623"/>
+                  <o4 x="-1.68925" y="-0.0844623"/>
+                  <offset x="-0.337849" y="3.46295"/>
+                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -20851,9 +20855,11 @@ I</text>
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="101.083" y="-2.28222"/>
-                  <o3 x="-32.4265" y="5.135"/>
-                  <o4 x="-0.0950925" y="-0.190185"/>
+                  <o1 x="1.3514" y="-5.1522"/>
+                  <o2 x="58.4296" y="-16.5563"/>
+                  <o3 x="-18.1524" y="1.41866"/>
+                  <o4 x="-0.939715" y="-3.23083"/>
+                  <offset x="-0.337849" y="-2.02709"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -64000,6 +64006,11 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%7/bVI-vii%7/V/bii</name>
+            <offset x="-3.63188" y="3.92231"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -64063,6 +64074,12 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%65/V/bii</name>
+            <minDistance>0.39178</minDistance>
+            <offset x="2.53387" y="6.28725"/>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -64104,10 +64121,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6/bVI</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -64133,10 +64146,14 @@ I</text>
           <Dynamic>
             <subtype>p</subtype>
             <velocity>49</velocity>
+            <minDistance>0.443993</minDistance>
+            <offset x="-3.04064" y="1.63506"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#i64</name>
+            <name>V(64)/bii</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="-2.44941" y="4.79494"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -64192,7 +64209,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/#i}</name>
+            <name>V/bii|HC}</name>
+            <offset x="-1.01355" y="4.5511"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
