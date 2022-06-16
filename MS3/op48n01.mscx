@@ -66560,7 +66560,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio64</name>
+            <name>iio64-VI(64)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -66583,7 +66583,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI(4)</name>
+            <name>VI(4)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
