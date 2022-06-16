@@ -59939,11 +59939,11 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V.V</name>
+            <name>V</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="13.1375"/>
+            <offset x="0" y="14.4044"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -60041,10 +60041,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -60081,10 +60077,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -60154,7 +60146,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.38037" y="8.19269"/>
+            <offset x="-0.38037" y="11.2333"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
