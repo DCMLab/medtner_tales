@@ -67217,7 +67217,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+6</name>
+            <name>V6(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67239,7 +67239,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6</name>
+            <name>Fr6-V43(b5)/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -67257,7 +67257,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)-i64</name>
+            <offset x="-3.54742" y="3.85232"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
