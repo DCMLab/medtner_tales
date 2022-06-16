@@ -58079,7 +58079,6 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii43/IV-V6(6)</name>
-            <minDistance>0.5</minDistance>
             <offset x="-7.0656" y="4.56684"/>
             </Harmony>
           <Chord>
@@ -58304,7 +58303,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+64</name>
+            <name>V6(b6)/IV</name>
+            <offset x="-3.37849" y="5.86494"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -58338,7 +58338,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI64</name>
+            <name>bIII64/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -58380,8 +58380,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio64/bVII</name>
-            <offset x="-0.617229" y="-9.08614"/>
+            <name>viio64/IV/IV</name>
+            <offset x="-4.75588" y="5.64715"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -58415,7 +58415,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>vi7/IV-ii7</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -58438,7 +58438,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6(+2)</name>
+            <name>viio6(9)</name>
+            <offset x="-0.929085" y="4.59801"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -58513,10 +58514,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(97)</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -58536,6 +58533,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/IV</name>
+            <offset x="-1.68925" y="4.67597"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -58577,7 +58575,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>vi/IV-ii</name>
+            <offset x="-1.52032" y="5.00035"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -58598,10 +58597,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio6/ii</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -58654,7 +58649,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi2</name>
+            <name>V(96)</name>
+            <offset x="-0.675698" y="4.10571"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -58687,7 +58683,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
