@@ -65944,26 +65944,19 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(9)</name>
+            <name>iv6(2)</name>
             </Harmony>
           <Rest>
             <durationType>measure</durationType>
             <duration>3/8</duration>
             </Rest>
-          <location>
-            <fractions>-1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv6</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv64(4)</name>
+            <name>iv7(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -65984,7 +65977,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7/v</name>
+            <name>iv7(6)/v</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -66027,7 +66020,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64(b9)</name>
+            <name>V7(964)/v</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
