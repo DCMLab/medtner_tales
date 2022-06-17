@@ -26451,7 +26451,8 @@ I</text>
             <sigD>4</sigD>
             </TimeSig>
           <StaffText>
-            <text>(Listesso tempo) <sym>unicodeNoteQuarterUp</sym>. = <sym>unicodeNoteQuarterUp</sym></text>
+            <offset x="-4.89881" y="-3.74661"/>
+            <text>(Listesso tempo) . = </text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -26488,7 +26489,7 @@ I</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="0.460248" y="-4.8368"/>
+            <offset x="2.06503" y="-3.73879"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>Marciale, sostenuto</text>
             </StaffText>
           <Spanner type="HairPin">
@@ -26565,7 +26566,7 @@ I</text>
             <durationType>quarter</durationType>
             </Rest>
           <Tempo>
-            <tempo>1.3666700000000001</tempo>
+            <tempo>1.3666666666666667</tempo>
             <followText>1</followText>
             <offset x="-0.115062" y="-2.42469"/>
             <text><sym>metNoteQuarterUp</sym> = 82</text>
@@ -68107,7 +68108,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi(#2#4)</name>
+            <name>iv6(76#4)-VI(4#2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
