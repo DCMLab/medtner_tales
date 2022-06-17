@@ -67474,10 +67474,6 @@ I</text>
           <location>
             <fractions>1/16</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi%7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -67498,7 +67494,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI</name>
+            <name>Fr6(^2)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -67514,17 +67510,9 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>Fr6(b3)</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
