@@ -67733,7 +67733,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/V</name>
+            <name>V64(b6)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67752,6 +67752,10 @@ I</text>
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V64/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
