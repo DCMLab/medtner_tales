@@ -67586,10 +67586,6 @@ I</text>
           <location>
             <fractions>1/16</fractions>
             </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi%7</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -67610,7 +67606,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6(b3)</name>
+            <name>Fr6(^2)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67644,19 +67640,9 @@ I</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+6</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII64</name>
+            <name>i2</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -67678,6 +67664,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64/V</name>
+            <minDistance>0.364375</minDistance>
+            <offset x="-1.09801" y="6.62361"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67697,6 +67685,10 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VIM7</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -67711,19 +67703,11 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVIM7</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII+6</name>
+            <name>V6(6)</name>
+            <minDistance>0.448837</minDistance>
+            <offset x="-1.09801" y="6.26786"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -67749,7 +67733,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVII+</name>
+            <name>V64/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67783,16 +67767,6 @@ I</text>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII+64</name>
-            </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>bII64</name>
@@ -67816,7 +67790,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -67843,16 +67817,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
