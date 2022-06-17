@@ -67276,7 +67276,9 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio/V</name>
+            <name>V(#0)</name>
+            <minDistance>-1.52709</minDistance>
+            <offset x="-0.168925" y="5.09999"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -67292,16 +67294,12 @@ I</text>
               <tpc>20</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii64</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI64</name>
+            <name>VI64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -67360,7 +67358,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII+64</name>
+            <name>V6(6)</name>
+            <minDistance>0.448837</minDistance>
+            <offset x="-1.60478" y="6.26786"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
