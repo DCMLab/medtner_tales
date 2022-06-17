@@ -68591,7 +68591,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III6{</name>
+            <name>I6/III{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -68614,7 +68614,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>I/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -68675,7 +68675,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43/iv</name>
+            <name>ii%43/ii/III</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -68695,10 +68695,6 @@ I</text>
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#viio2(b4)</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -68709,7 +68705,8 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/VII</name>
+            <name>V43(6)/ii/III</name>
+            <offset x="-1.85817" y="5.32022"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -68723,6 +68720,11 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>Fr6/III-V43(b5)/V/III</name>
+            <offset x="-10.8112" y="5.55453"/>
+            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
