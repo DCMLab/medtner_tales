@@ -68866,6 +68866,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/VII-Ger6/#vi</name>
+            <offset x="-9.45977" y="9.94508"/>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -69050,6 +69051,10 @@ I</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV-VI/#vi</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -69082,7 +69087,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>V65(b5)/V-It6</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -69137,7 +69142,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i\\</name>
+            <name>i</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
