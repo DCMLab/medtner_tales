@@ -68475,7 +68475,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/III}</name>
+            <name>I/III|IAC}</name>
             <minDistance>0.355428</minDistance>
             <offset x="0.76016" y="5.96609"/>
             </Harmony>
