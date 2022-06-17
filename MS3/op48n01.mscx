@@ -68207,7 +68207,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(b9)</name>
+            <name>V(2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -68233,7 +68233,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b6)</name>
+            <name>V(+6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -68270,10 +68270,6 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64(b6)</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
