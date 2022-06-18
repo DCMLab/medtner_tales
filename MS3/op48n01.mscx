@@ -69643,7 +69643,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7/VII-IV7</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -69672,7 +69672,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(2)/VII</name>
+            <name>V7(#96)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
