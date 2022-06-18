@@ -71493,7 +71493,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM2/iv</name>
+            <name>bIIM43/ii/iv</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -71513,16 +71513,12 @@ I</text>
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%65/VII</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V7(6)/ii/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -71541,7 +71537,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Fr6/iv</name>
+            <name>Fr6/iv-V43(b5)/V/iv</name>
+            <minDistance>0.5</minDistance>
+            <offset x="-8.96989" y="4.97007"/>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
