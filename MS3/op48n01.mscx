@@ -70588,10 +70588,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(6)/bV</name>
-            </Harmony>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
@@ -70622,6 +70618,10 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6(b9)/iv-ii6(b9)/VI</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -70656,7 +70656,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/III</name>
+            <name>V65(b9)/V/VI-viio7/V/VI</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -70673,7 +70673,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(9)</name>
+            <name>V(9)/VI</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -70716,7 +70716,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(6)/VI</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -70730,7 +70730,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(b2)</name>
+            <name>V2(6)/VI</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -70789,10 +70789,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/iv</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -70824,6 +70820,10 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6(b9)/VII-ii6(b9)/bII</name>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -70864,7 +70864,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/VI</name>
+            <name>V65(b9)/V/bII-viio7/V/bII</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -70881,7 +70881,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(9)</name>
+            <name>V(9)/bII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -70924,7 +70924,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>V(6)/bII</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -70938,7 +70938,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(b2)</name>
+            <name>V2(6)/bII</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -70997,10 +70997,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/VII</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
@@ -71010,7 +71006,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/III-IV7/iv</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -71039,7 +71035,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(2)/III</name>
+            <name>V7(9#6)/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -71077,7 +71073,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b2)/iv</name>
+            <name>V7(b2)/iv-viio2(+6)/iv</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -71109,7 +71105,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65/VII</name>
+            <name>V43/VII</name>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -71164,7 +71160,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%65/iv</name>
+            <name>V43/VI</name>
             </Harmony>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -71194,7 +71190,8 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/VII</name>
+            <name>viio7/iv/iv</name>
+            <offset x="-1.18247" y="4.73015"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -71259,7 +71256,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7/iv/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -71294,7 +71291,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII/iv</name>
+            <name>VI/iv/iv-bII/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -71326,7 +71323,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -71429,7 +71426,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv{</name>
+            <name>iv|IAC{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
