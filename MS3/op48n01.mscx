@@ -72192,7 +72192,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVI+</name>
+            <name>iio64(742)-bVI+</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -72319,7 +72319,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii</name>
+            <name>ii-iv/vi</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
