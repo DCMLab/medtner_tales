@@ -70368,7 +70368,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6</name>
+            <name>V(6)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -70387,7 +70387,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+6(+4)</name>
+            <name>VIM7(#9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -70401,16 +70401,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iiiM65</name>
-            </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -70421,7 +70411,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7</name>
+            <name>VII6(b5)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -70459,7 +70449,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-V/VII</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
