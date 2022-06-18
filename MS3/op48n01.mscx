@@ -69953,7 +69953,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7</name>
+            <name>viio7/V</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -70021,7 +70021,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2}</name>
+            <name>V2</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -70105,7 +70105,7 @@ I</text>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i{</name>
+            <name>i|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
