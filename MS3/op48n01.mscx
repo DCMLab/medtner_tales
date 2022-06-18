@@ -69634,10 +69634,6 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43/iv</name>
-            </Harmony>
           <Rest>
             <dots>1</dots>
             <durationType>eighth</durationType>
