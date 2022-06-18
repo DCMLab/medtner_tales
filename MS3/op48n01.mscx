@@ -71323,7 +71323,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V</name>
+            <name>viio7/V/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -71426,7 +71426,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv|IAC{</name>
+            <name>i/iv|IAC{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
