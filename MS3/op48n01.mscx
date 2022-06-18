@@ -34308,6 +34308,13 @@ I</text>
             <offset x="-4.2854" y="-3.95704"/>
             <text><font size="10.7894"></font><font face="Plantin MT Std"></font><b>Presto</b></text>
             </StaffText>
+          <Tempo>
+            <tempo>2.8000000000000003</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="3.26869" y="-4.76319"/>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 112</b></text>
+            </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
