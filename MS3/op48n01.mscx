@@ -26454,6 +26454,12 @@ I</text>
             <offset x="-4.89881" y="-3.74661"/>
             <text>(Listesso tempo) . = </text>
             </StaffText>
+          <Tempo>
+            <tempo>1.3666666666666667</tempo>
+            <followText>1</followText>
+            <offset x="51.0068" y="-2.56916"/>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 82</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -26565,12 +26571,6 @@ I</text>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
-          <Tempo>
-            <tempo>1.3666666666666667</tempo>
-            <followText>1</followText>
-            <offset x="-0.115062" y="-2.42469"/>
-            <text><sym>metNoteQuarterUp</sym> = 82</text>
-            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
