@@ -68706,7 +68706,7 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6)/ii/III</name>
+            <name>V7(6)/ii/III</name>
             <offset x="-1.85817" y="5.32022"/>
             </Harmony>
           <Chord>
@@ -71453,7 +71453,7 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/iv</name>
+            <name>V6/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
