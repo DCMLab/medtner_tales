@@ -28833,6 +28833,7 @@ I</text>
               </Note>
             </Chord>
           <Rest>
+            <visible>0</visible>
             <durationType>eighth</durationType>
             </Rest>
           <Chord>
@@ -69454,7 +69455,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/bV</name>
+            <name>iv6(b9)/iv-ii6(b9)/VI</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -69496,7 +69497,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/III</name>
+            <name>V65(b9)/V/VI-viio7/V/VI</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -69513,7 +69514,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III(9)</name>
+            <name>V(9)/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -69556,7 +69557,7 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>V(6)/VI</name>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
@@ -69570,7 +69571,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(b2)</name>
+            <name>V2(6)/VI</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
