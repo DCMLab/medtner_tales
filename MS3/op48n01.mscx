@@ -57124,7 +57124,9 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/vi</name>
+            <name>V43/vii-V43/ii/vi</name>
+            <minDistance>0.48047</minDistance>
+            <offset x="-1.21626" y="5.77564"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -76140,7 +76142,9 @@ I</text>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/vi</name>
+            <name>V43/vii-V43/ii/vi</name>
+            <minDistance>-0.0600769</minDistance>
+            <offset x="-1.21626" y="5.23509"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
