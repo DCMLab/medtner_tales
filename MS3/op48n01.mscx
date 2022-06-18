@@ -70463,16 +70463,10 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/24</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(#4)</name>
+            <name>iv7</name>
             </Harmony>
-          <location>
-            <fractions>1/24</fractions>
-            </location>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
