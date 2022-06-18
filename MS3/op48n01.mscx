@@ -72890,7 +72890,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>viio2-viio7/vi</name>
+            <offset x="-4.63698" y="7.14728"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -72954,7 +72955,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-VI/vi</name>
+            <offset x="-4.33291" y="6.76787"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -73008,7 +73010,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio2</name>
+            <name>viio2-viio7/vi</name>
+            <minDistance>0.108128</minDistance>
+            <offset x="-3.19267" y="6.61517"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -73073,7 +73077,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-VI/vi</name>
+            <minDistance>-0.656137</minDistance>
+            <offset x="-5.01706" y="4.41391"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -73295,6 +73301,12 @@ I</text>
                 </location>
               </next>
             </Spanner>
+          <Beam>
+            <Fragment>
+              <y1>4.74837</y1>
+              <y2>4.49837</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -73532,6 +73544,12 @@ I</text>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Beam>
+            <Fragment>
+              <y1>4.29227</y1>
+              <y2>4.04227</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -73776,6 +73794,12 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>{</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>3.98821</y1>
+              <y2>3.73821</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -74005,6 +74029,12 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>4.06422</y1>
+              <y2>3.81422</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -74238,6 +74268,12 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>4.21626</y1>
+              <y2>3.96626</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -74461,6 +74497,12 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>3.68414</y1>
+              <y2>3.43414</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
