@@ -72525,7 +72525,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-VI/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -72678,7 +72678,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-VI/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -72835,7 +72835,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV-VI/vi</name>
+            <offset x="-5.01706" y="6.9199"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
