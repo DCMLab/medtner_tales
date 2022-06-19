@@ -79367,6 +79367,10 @@ I</text>
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii</name>
+            </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
@@ -79383,13 +79387,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -79423,6 +79420,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -79443,13 +79444,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V2</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
@@ -79540,6 +79534,10 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -79560,13 +79558,6 @@ I</text>
               </Note>
             </Chord>
           <endTuplet/>
-          <location>
-            <fractions>-1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
