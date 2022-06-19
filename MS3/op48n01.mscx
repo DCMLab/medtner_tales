@@ -78612,7 +78612,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM43</name>
+            <name>VIM43/vi</name>
+            <offset x="-1.36829" y="6.39525"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -78807,7 +78808,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>v6/vi</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -78845,7 +78846,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7/vi</name>
+            <name>#vi%7/vi-ii%7/V/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
