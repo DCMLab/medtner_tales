@@ -39096,14 +39096,21 @@ I</text>
       <Measure>
         <voice>
           <TimeSig>
+            <visible>0</visible>
             <sigN>2</sigN>
             <sigD>8</sigD>
             </TimeSig>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="0" y="-4.43932"/>
-            <text><font size="10.7894"></font><font face="Plantin MT Std"></font><b>3/8=2/8 Pesant sostenuto</b></text>
+            <offset x="-2.28048" y="-7.05696"/>
+            <text><b><font size="10.7894"/><font face="Plantin MT Std"/>3/8=2/8 Pesante sostenuto</b></text>
             </StaffText>
+          <Tempo>
+            <tempo>1.2666666666666666</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 76</b></text>
+            </Tempo>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -77839,6 +77846,7 @@ I</text>
       <Measure>
         <voice>
           <TimeSig>
+            <visible>0</visible>
             <sigN>2</sigN>
             <sigD>8</sigD>
             </TimeSig>
@@ -77851,7 +77859,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.836176" y="14.3708"/>
             </Symbol>
           <Dynamic>
             <subtype>f</subtype>
@@ -77891,10 +77899,11 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>ii6</name>
+            <offset x="0.684144" y="6.95961"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.988208" y="14.3708"/>
             </Symbol>
           <StaffText>
             <family>FreeSerif</family>
@@ -77925,7 +77934,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.228048" y="14.5228"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
@@ -77956,7 +77965,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.912192" y="14.6749"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
