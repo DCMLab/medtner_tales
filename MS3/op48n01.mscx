@@ -77563,7 +77563,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi7</name>
+            <name>vi7-ii7/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -77598,7 +77598,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>ii6/V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -77652,7 +77652,9 @@ I</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii7</name>
+            <name>vi7/V-ii7/ii</name>
+            <minDistance>-0.524401</minDistance>
+            <offset x="-0.456096" y="4.94876"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -77687,7 +77689,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6</name>
+            <name>ii6/ii</name>
+            <offset x="-2.50853" y="4.41219"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -77729,6 +77732,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/ii</name>
+            <offset x="-0.304064" y="4.9443"/>
             </Harmony>
           </voice>
         </Measure>
@@ -77736,7 +77740,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7</name>
+            <name>ii%7/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -77776,7 +77780,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio6</name>
+            <name>iio6/vi</name>
+            <offset x="0" y="5.41228"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
