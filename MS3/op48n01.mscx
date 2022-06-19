@@ -78321,7 +78321,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM2(9)</name>
+            <name>IM2</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -78414,7 +78414,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64(9)</name>
+            <name>I64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -78449,13 +78449,6 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           </voice>
         <voice>
           <location>
@@ -78504,7 +78497,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>IV(6)</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -78546,6 +78539,16 @@ I</text>
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/16</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IVM2</name>
