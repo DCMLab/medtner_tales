@@ -80493,7 +80493,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64/vi</name>
+            <name>V/vi</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -80521,10 +80521,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V/vi</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -80565,11 +80561,11 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>i6/vi</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.076016" y="13.1545"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -80626,11 +80622,12 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii</name>
+            <name>v43/vi-iii43</name>
+            <offset x="0" y="4.35822"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0" y="11.7102"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -80650,10 +80647,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -80799,13 +80792,9 @@ I</text>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64</name>
-            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.076016" y="11.7863"/>
             </Symbol>
           <StaffText>
             <offset x="0.207413" y="-7.02603"/>
@@ -80829,10 +80818,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -80874,7 +80859,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.152032" y="11.6342"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -80934,11 +80919,12 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>v43-iii43/bIII</name>
+            <offset x="0.076016" y="4.05416"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0" y="11.0261"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -80958,10 +80944,6 @@ I</text>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V6/bIII</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -81003,7 +80985,7 @@ I</text>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.304064" y="14.7509"/>
             </Symbol>
           <Spanner type="HairPin">
             <HairPin>
@@ -81065,10 +81047,6 @@ I</text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIII64</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -81115,7 +81093,8 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIII}{</name>
+            <name>I/bIII|IAC}{</name>
+            <offset x="-1.74837" y="5.02032"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
