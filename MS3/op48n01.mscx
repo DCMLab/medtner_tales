@@ -26458,7 +26458,7 @@ I</text>
             <tempo>1.3666666666666667</tempo>
             <followText>1</followText>
             <offset x="51.0068" y="-2.56916"/>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 82</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 82</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -34313,7 +34313,7 @@ I</text>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="3.26869" y="-4.76319"/>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 112</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 112</b></text>
             </Tempo>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -39103,13 +39103,13 @@ I</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-2.28048" y="-7.05696"/>
-            <text><b><font size="10.7894"/><font face="Plantin MT Std"/>3/8=2/8 Pesante sostenuto</b></text>
+            <text><b><font size="10.7894"></font><font face="Plantin MT Std"></font>3/8=2/8 Pesante sostenuto</b></text>
             </StaffText>
           <Tempo>
             <tempo>1.2666666666666666</tempo>
             <followText>1</followText>
             <visible>0</visible>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 76</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 76</b></text>
             </Tempo>
           <Rest>
             <durationType>eighth</durationType>
@@ -71549,7 +71549,6 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Fr6/iv-V43(b5)/V/iv</name>
-            <minDistance>0.5</minDistance>
             <offset x="-8.96989" y="4.97007"/>
             </Harmony>
           <Rest>
@@ -77824,6 +77823,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/vi|HC}</name>
+            <offset x="0.152032" y="5.09634"/>
             </Harmony>
           </voice>
         </Measure>
@@ -81447,7 +81447,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(b64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -81474,7 +81474,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I6-V6/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -81537,7 +81537,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(+b6)</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
