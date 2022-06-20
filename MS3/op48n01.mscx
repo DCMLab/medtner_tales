@@ -79393,7 +79393,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(974)</name>
+            <name>V7(94)</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
@@ -79479,7 +79479,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi43</name>
+            <name>I6(13)-vi43</name>
+            <offset x="-1.14024" y="6.03895"/>
             </Harmony>
           <Chord>
             <BeamMode>no</BeamMode>
@@ -79596,7 +79597,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
