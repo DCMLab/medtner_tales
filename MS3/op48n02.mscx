@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -58,6 +59,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -201,20 +204,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">wendelin bitzan (2.2.0), john heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Op.48</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -8605,13 +8607,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="4.75522"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -9620,13 +9617,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="0.67575"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -9819,13 +9811,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-4.67363"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -10235,13 +10222,8 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="3.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="5.27823"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -10810,13 +10792,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-5.19664"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-4.98743"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -14538,13 +14515,8 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="5.38283"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="5.48743"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -16146,13 +16118,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-5.40584"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-5.19001"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -19312,20 +19279,6 @@
             <harmonyType>1</harmonyType>
             <name>V7(9)/VII</name>
             </Harmony>
-          <Spanner type="Pedal">
-            <Pedal>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
-              <lineVisible>0</lineVisible>
-              </Pedal>
-            <next>
-              <location>
-                <measures>2</measures>
-                <fractions>1/4</fractions>
-                </location>
-              </next>
-            </Spanner>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -19339,6 +19292,20 @@
             <next>
               <location>
                 <fractions>1/2</fractions>
+                </location>
+              </next>
+            </Spanner>
+          <Spanner type="Pedal">
+            <Pedal>
+              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
+              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
+              <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
+              <lineVisible>0</lineVisible>
+              </Pedal>
+            <next>
+              <location>
+                <measures>2</measures>
+                <fractions>1/4</fractions>
                 </location>
               </next>
             </Spanner>
@@ -23341,13 +23308,8 @@
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="5.77823"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
@@ -24290,13 +24252,8 @@
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="4"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="9.0209"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
