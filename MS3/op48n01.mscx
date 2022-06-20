@@ -82055,7 +82055,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|PAC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -82073,10 +82073,6 @@ I</text>
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6{</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -82098,7 +82094,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(b6)</name>
+            <name>I(+b6)</name>
+            <offset x="0.456096" y="5.17235"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -82125,6 +82122,10 @@ I</text>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6(+b6)</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -82293,10 +82294,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I64</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -82319,6 +82316,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(+b6)</name>
+            <offset x="-0.988208" y="5.02032"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -82524,7 +82522,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6}{</name>
+            <name>IV6|EC}{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
