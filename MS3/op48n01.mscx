@@ -80173,16 +80173,11 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IVM7</name>
+            <offset x="0" y="4.71626"/>
             </Harmony>
           <location>
             <fractions>1/16</fractions>
             </location>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <placement>above</placement>
-            <offset x="10.5684" y="-1.06411"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>down</StemDirection>
@@ -80209,8 +80204,8 @@ I</text>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7</name>
-            <offset x="-0.304064" y="4.86829"/>
+            <name>vii%7-ii%7/vi</name>
+            <offset x="-6.08128" y="4.79227"/>
             </Harmony>
           </voice>
         </Measure>
@@ -80218,8 +80213,14 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)</name>
+            <name>i6(642)/vi</name>
             </Harmony>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="1.02971" y="-4.56085"/>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -80246,7 +80247,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>i6/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
