@@ -11914,11 +11914,6 @@ I</text>
             <name>I(9)</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I(9#5)</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <location>
             <fractions>1/8</fractions>
             </location>
@@ -13466,6 +13461,12 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI64-iv2</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18941,6 +18942,7 @@ I</text>
             <harmonyType>1</harmonyType>
             <name>V7(6b5)/V-Fr7(6)</name>
             <color r="0" g="85" b="0" a="255"/>
+            <offset x="-8.66583" y="10.8592"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18968,11 +18970,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(b5)/V-Fr7</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
