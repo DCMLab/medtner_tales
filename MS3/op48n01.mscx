@@ -81921,7 +81921,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(b64)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -81936,7 +81936,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I64</name>
+            <name>I6-V6/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -81986,7 +81986,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(+b6)</name>
+            <name>V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -82055,7 +82055,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I}</name>
+            <name>I|PAC}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
