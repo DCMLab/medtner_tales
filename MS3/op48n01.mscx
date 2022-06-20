@@ -83413,9 +83413,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM7(9b6b4)</name>
-            <minDistance>0.203909</minDistance>
-            <offset x="-7.37356" y="7.7621"/>
+            <name>IV(9b6b4)</name>
+            <minDistance>0.127893</minDistance>
+            <offset x="-5.16909" y="7.68609"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
