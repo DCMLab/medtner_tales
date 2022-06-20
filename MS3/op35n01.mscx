@@ -18289,6 +18289,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7(6b5)/V-Fr7(6)</name>
+            <offset x="-8.66583" y="10.8592"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18316,10 +18317,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(b5)/V-Fr7</name>
-            </Harmony>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
