@@ -75993,7 +75993,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bV-V43(b6)V/bV</name>
+            <name>V2/bV-V43(b6)/V/bV</name>
             <offset x="-0.616189" y="-6"/>
             </Harmony>
           <Chord>
@@ -76100,7 +76100,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger7/vi</name>
-            <offset x="-2.05243" y="5.41924"/>
+            <offset x="-2.73657" y="5.41924"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -76127,6 +76127,7 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2/vi-V43(b6)/V/vi</name>
+            <offset x="0.836176" y="5.18609"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
