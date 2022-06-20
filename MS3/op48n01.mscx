@@ -80245,10 +80245,6 @@ I</text>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6/vi</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -80269,6 +80265,11 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6/vi</name>
+            <offset x="-0.836176" y="4.57611"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -80294,7 +80295,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi65</name>
+            <name>i65/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -80320,10 +80321,6 @@ I</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>#vii%7/ii</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>16th</durationType>
@@ -80343,6 +80340,11 @@ I</text>
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vii%7/iv/vi</name>
+            <offset x="-5.16909" y="4.3378"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
