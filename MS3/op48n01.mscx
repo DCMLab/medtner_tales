@@ -45621,7 +45621,6 @@ I</text>
             <Note>
               <Accidental>
                 <subtype>accidentalSharp</subtype>
-                <offset x="-3.0328" y="-0.103707"/>
                 </Accidental>
               <pitch>61</pitch>
               <tpc>21</tpc>
@@ -83635,7 +83634,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#iv</name>
+            <name>bii/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -83678,7 +83677,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii%7</name>
+            <name>vii%7/iv</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -83697,7 +83696,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64</name>
+            <name>vii%2/iv</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
