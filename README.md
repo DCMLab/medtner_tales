@@ -9,7 +9,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |file_name|measures|labels|standard|                 annotators                 |   reviewers    |
 |---------|-------:|-----:|--------|--------------------------------------------|----------------|
 |op08n01  |      81|   213|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op14n01  |      85|   274|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
+|op14n01  |      85|   265|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
 |op26n01  |      47|   199|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
 |op26n02  |      65|   177|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
 |op26n03  |      81|   143|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
