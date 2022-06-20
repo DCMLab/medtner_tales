@@ -40427,6 +40427,13 @@ I</text>
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Tempo>
+            <tempo>2.0500000000000003</tempo>
+            <followText>1</followText>
+            <visible>0</visible>
+            <offset x="0.152032" y="-5.95555"/>
+            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 82-88</b></text>
+            </Tempo>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
