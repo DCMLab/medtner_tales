@@ -83052,6 +83052,8 @@ I</text>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>viio2</name>
+            <minDistance>0.423984</minDistance>
+            <offset x="-1.82438" y="6.54759"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -83118,7 +83120,8 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/bVII</name>
+            <name>Ger6/IV/IV</name>
+            <offset x="-1.67235" y="8.00369"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -83141,6 +83144,11 @@ I</text>
               <tpc>8</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IVM7(b6b4)</name>
+            <offset x="-5.09307" y="7.96647"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -83202,7 +83210,9 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b5)</name>
+            <name>V43(b5)-Fr6/IV</name>
+            <minDistance>0.11992</minDistance>
+            <offset x="-5.85323" y="8.54249"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -83239,10 +83249,14 @@ I</text>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-1.52032" y="-3.2495"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I</name>
+            <offset x="0.228048" y="9.22372"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
