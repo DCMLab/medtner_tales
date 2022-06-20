@@ -45025,8 +45025,11 @@ I</text>
               <tpc>18</tpc>
               </Note>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <Accidental>
+                <subtype>accidentalFlat</subtype>
+                </Accidental>
+              <pitch>58</pitch>
+              <tpc>12</tpc>
               </Note>
             <Note>
               <Accidental>
@@ -45036,11 +45039,8 @@ I</text>
               <tpc>9</tpc>
               </Note>
             <Note>
-              <Accidental>
-                <subtype>accidentalFlat</subtype>
-                </Accidental>
-              <pitch>63</pitch>
-              <tpc>11</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           </voice>
@@ -46107,6 +46107,10 @@ I</text>
             </Chord>
           <Beam>
             <StemDirection>down</StemDirection>
+            <Fragment>
+              <y1>5.93414</y1>
+              <y2>4.43414</y2>
+              </Fragment>
             </Beam>
           <Chord>
             <durationType>eighth</durationType>
