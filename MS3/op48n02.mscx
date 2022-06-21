@@ -19080,6 +19080,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43(#6#4#2)</name>
+            <offset x="-0.168925" y="7.16195"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19147,6 +19148,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
+            <offset x="-0.0844623" y="6.54575"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -24743,7 +24745,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6#4#2)/bII</name>
+            <name>V43(6#4)/bII</name>
             <minDistance>-6.51037</minDistance>
             <offset x="0.168925" y="5.07169"/>
             </Harmony>
