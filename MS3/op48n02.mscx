@@ -14762,6 +14762,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
+            <offset x="-2.28048" y="-6.89615"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco</text>
             </StaffText>
           <Fermata>
@@ -14780,8 +14781,9 @@
               <subtype>trill</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-4.24265"/>
+                <offset x="0" y="-0.935075"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Trill>
             <next>
@@ -28749,6 +28751,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/V/iii</name>
+            <offset x="-2.61833" y="9.09047"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28839,7 +28842,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii%7</name>
+            <name>ii%65/V/V-vi%7/V</name>
+            <offset x="-4.30758" y="9.69629"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28903,7 +28907,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/v</name>
+            <name>V7(b9)/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29029,7 +29033,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="12.7666"/>
+            <offset x="0.253387" y="16.2296"/>
             </Symbol>
           <Chord>
             <durationType>eighth</durationType>
@@ -29594,6 +29598,12 @@
             </Rest>
           </voice>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>7.6014</y1>
+              <y2>6.3514</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
