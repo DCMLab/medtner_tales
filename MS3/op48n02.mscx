@@ -17880,7 +17880,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio43</name>
+            <name>#viio43-viio65/V/VI</name>
+            <offset x="-2.44941" y="5.8335"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
