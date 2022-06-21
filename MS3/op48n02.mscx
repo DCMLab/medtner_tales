@@ -27793,6 +27793,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IIIM7</name>
+            <offset x="-0.929085" y="4.77543"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -27816,6 +27817,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI</name>
+            <minDistance>-5.3279</minDistance>
+            <offset x="-0.168925" y="4.74805"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -27823,6 +27826,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.337849" y="8.07849"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -27889,6 +27898,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VIM7</name>
+            <offset x="-1.01355" y="4.34462"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -27911,7 +27921,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7(9)</name>
+            <name>VIM7(9)-IVM7(9)/III</name>
             <offset x="-0.796789" y="-9.98395"/>
             </Harmony>
           <Beam>
@@ -28124,7 +28134,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III}{</name>
+            <name>III|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
