@@ -19252,7 +19252,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/VII</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -19314,7 +19314,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(#9)</name>
+            <name>IV7(139)</name>
+            <offset x="1.60478" y="7.00966"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19340,7 +19341,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%65</name>
+            <name>IV7(9)</name>
             </Harmony>
           <Dynamic>
             <subtype>pp</subtype>
