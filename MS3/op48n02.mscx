@@ -30361,7 +30361,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V43</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -30371,10 +30371,6 @@
             <velocity>33</velocity>
             <offset x="0.762883" y="2.97575"/>
             </Dynamic>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V43</name>
-            </Harmony>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
@@ -30432,8 +30428,8 @@
             </Harmony>
           <Beam>
             <Fragment>
-              <y1>-1.25339</y1>
-              <y2>-2.50339</y2>
+              <y1>-1.92908</y1>
+              <y2>-3.17908</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -30776,7 +30772,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>V(64)</name>
+            <offset x="-0.591236" y="4.77463"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -30818,10 +30815,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -30849,6 +30842,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
+            <offset x="-0.337849" y="4.7822"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
