@@ -19481,7 +19481,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/iii-I6(64#2)</name>
+            <name>#viio7(b3)/iii</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -19610,7 +19610,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -19810,7 +19810,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/vi-I6(6#4#2)/IV</name>
+            <name>#viio7/vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -22103,11 +22103,6 @@
             <name>V64/vi</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64/ii</name>
-            <color r="0" g="85" b="0" a="255"/>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -22226,6 +22221,11 @@
             <harmonyType>1</harmonyType>
             <name>V65/vi</name>
             <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2(6)/ii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -25151,14 +25151,14 @@
             <name>VIM2</name>
             <color r="170" g="0" b="0" a="255"/>
             </Harmony>
-          <location>
-            <fractions>1/16</fractions>
-            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>VI2</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
+          <location>
+            <fractions>1/16</fractions>
+            </location>
           <Chord>
             <durationType>16th</durationType>
             <Spanner type="Slur">
@@ -27445,6 +27445,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <StemDirection>up</StemDirection>
@@ -27659,7 +27664,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i]}</name>
+            <name>i]</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
