@@ -28699,7 +28699,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger6-IV7/iii</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28720,6 +28720,10 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV2/iii</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -28744,7 +28748,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>V7/V/iii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
