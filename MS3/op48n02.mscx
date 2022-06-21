@@ -24745,7 +24745,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(6#4)/bII</name>
+            <name>V64(6#4)/bII</name>
             <minDistance>-6.51037</minDistance>
             <offset x="0.168925" y="5.07169"/>
             </Harmony>
@@ -24810,7 +24810,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64(6)</name>
+            <name>V64(13)/bII</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -24850,7 +24850,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI64(9)</name>
+            <name>V64/bII</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24878,10 +24878,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI64</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
