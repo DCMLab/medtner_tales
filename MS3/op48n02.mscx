@@ -25655,7 +25655,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger2/V/bII</name>
-            <offset x="-1.77371" y="5.27371"/>
+            <offset x="-7.43268" y="5.52709"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -25729,7 +25729,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII(9)</name>
+            <name>I(9)/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25775,7 +25775,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bV</name>
+            <name>V7/IV/bII</name>
+            <offset x="-4.05419" y="4.83692"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -25786,7 +25787,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/III</name>
+            <name>viio7/V/v/bII</name>
+            <offset x="1.60478" y="4.50704"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25824,7 +25826,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b6)/VI</name>
+            <name>V7(6)/v/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25858,7 +25860,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bVIM7/VI</name>
+            <name>VIM7/v/bII</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
