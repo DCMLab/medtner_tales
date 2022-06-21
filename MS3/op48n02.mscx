@@ -25610,7 +25610,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6(#4)/VI</name>
+            <name>Ger2(4)/V/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25654,7 +25654,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6/VI</name>
+            <name>Ger2/V/bII</name>
+            <offset x="-1.77371" y="5.27371"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
