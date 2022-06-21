@@ -21437,10 +21437,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V64/ii</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
