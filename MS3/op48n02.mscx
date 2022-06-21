@@ -28617,7 +28617,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/v</name>
+            <name>V7(b9)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28638,6 +28638,10 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V2/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
