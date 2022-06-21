@@ -20410,7 +20410,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7</name>
+            <name>vii%7/V/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20470,7 +20470,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
+            <name>V(64)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20527,7 +20527,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>vi7/III-iv7/V</name>
+            <minDistance>0.331075</minDistance>
+            <offset x="-2.87172" y="3.47812"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
