@@ -21814,7 +21814,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/v</name>
+            <name>iv/v-i</name>
+            <offset x="-0.168925" y="5.02803"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -21933,7 +21934,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(4)}</name>
+            <name>V(4)}</name>
             <minDistance>-10.0578</minDistance>
             <offset x="-1.26693" y="5.08682"/>
             </Harmony>
@@ -22016,7 +22017,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V</name>
+            <name>V|HC</name>
             <minDistance>-9.55101</minDistance>
             <offset x="-0.0844623" y="5.23483"/>
             </Harmony>
