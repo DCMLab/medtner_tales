@@ -22072,7 +22072,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/VII{</name>
+            <name>IV(9){</name>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -22141,7 +22141,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.0844623" y="11.8369"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
