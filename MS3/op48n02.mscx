@@ -19047,7 +19047,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/ii</name>
+            <name>V43(#6#4#2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -20586,7 +20586,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#ivo7/v</name>
+            <name>V43(#6#4#2)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
