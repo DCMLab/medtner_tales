@@ -19470,7 +19470,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(9)/VII</name>
+            <name>IV</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19514,7 +19514,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC</name>
+            <offset x="-1.01355" y="4.51355"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
