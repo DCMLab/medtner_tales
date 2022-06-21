@@ -9767,23 +9767,29 @@
             <velocity>49</velocity>
             </Dynamic>
           <StaffText>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
             <family>FreeSerif</family>
+            <offset x="-0.929085" y="6.14042"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>perdendo</text>
             </StaffText>
           <StaffText>
-            <offset x="1.15062" y="-8.83469"/>
+            <minDistance>-3.27704</minDistance>
+            <offset x="0.137073" y="-8.75731"/>
             <text>♭</text>
             </StaffText>
           <Fermata>
             <subtype>fermataAbove</subtype>
+            <offset x="-0.337849" y="-8.88422"/>
             </Fermata>
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="-5.70708"/>
+                <offset x="-0.168925" y="-5.27122"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Trill>
             <next>
@@ -24470,7 +24476,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII{</name>
+            <name>I/bII{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -24652,6 +24658,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I(#4)/bII</name>
+            <minDistance>-7.01714</minDistance>
+            <offset x="-0.844623" y="4.74429"/>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -24666,6 +24678,12 @@
               <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-0.422311" y="9.34542"/>
+                <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
+                </Segment>
               </Pedal>
             <next>
               <location>
@@ -24725,7 +24743,9 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%7(4)</name>
+            <name>V43(6#4#2)/bII</name>
+            <minDistance>-6.51037</minDistance>
+            <offset x="0.168925" y="5.07169"/>
             </Harmony>
           <StaffText>
             <offset x="0.104602" y="-4.54602"/>
@@ -24755,10 +24775,6 @@
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii%7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -24796,7 +24812,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.422311" y="13.3573"/>
             </Symbol>
           <Spanner type="Pedal">
             <prev>
@@ -25060,12 +25076,11 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6</name>
-            <minDistance>-0.344623</minDistance>
-            <offset x="0" y="7.05764"/>
+            <offset x="0" y="8.15565"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.253387" y="14.7087"/>
+            <offset x="-0.422311" y="15.3843"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25181,7 +25196,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.422311" y="12.6816"/>
+            <offset x="-0.422311" y="14.7931"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
