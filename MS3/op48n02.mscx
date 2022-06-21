@@ -22344,7 +22344,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IIIM7</name>
+            <name>IIIM7-VIM7/v</name>
+            <minDistance>0.331075</minDistance>
+            <offset x="-2.36494" y="4.47142"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -22411,11 +22413,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/VII</name>
+            <name>IV7</name>
+            <minDistance>-1.78048</minDistance>
+            <offset x="1.52032" y="4.66411"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0" y="12.0059"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
