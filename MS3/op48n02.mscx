@@ -24248,7 +24248,9 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.bII}</name>
+            <name>iv.I/bII}</name>
+            <minDistance>-8.62192</minDistance>
+            <offset x="0.0844623" y="4.34665"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -24258,8 +24260,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="4"/>
+                <offset x="-0.422311" y="11.7948"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -24322,7 +24325,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64</name>
+            <name>I64/bII</name>
+            <offset x="-0.253387" y="6.06246"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -24384,8 +24388,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(4)/bII</name>
-            <offset x="-0.313805" y="-9.13805"/>
+            <name>V64(11)/bII</name>
+            <minDistance>-5.28975</minDistance>
+            <offset x="-1.41181" y="8.68191"/>
             </Harmony>
           <Spanner type="Trill">
             <Trill>
@@ -24440,13 +24445,14 @@
         <voice>
           <Fermata>
             <subtype>fermataBelow</subtype>
-            <offset x="0.485171" y="9.32425"/>
+            <offset x="-0.0216026" y="4.5099"/>
             </Fermata>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Articulation>
               <subtype>articTenutoBelow</subtype>
+              <offset x="0.0844623" y="-0.675698"/>
               </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
@@ -24468,7 +24474,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.523009" y="12.2436"/>
+            <offset x="-0.269622" y="14.5241"/>
             </Symbol>
           <Spanner type="Pedal">
             <prev>
