@@ -24961,10 +24961,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -25019,7 +25015,8 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>iv7-iii7/bII</name>
+            <offset x="-1.43586" y="4.74879"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25073,7 +25070,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>Ger6</name>
+            <name>Ger7-V2/bII</name>
             <offset x="0" y="8.15565"/>
             </Harmony>
           <Symbol>
@@ -25190,7 +25187,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>i64-V(64)</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25300,7 +25297,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/bII</name>
+            <name>V7/bII-Ger6</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
