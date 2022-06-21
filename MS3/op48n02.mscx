@@ -8014,6 +8014,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-0.418925</y1>
+              <y2>-1.41892</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -22660,7 +22666,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7|DC}</name>
+            <name>VIM7|DC}-IV7/III}</name>
+            <offset x="-7.09483" y="7.867"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -22743,7 +22750,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/III</name>
+            <name>VII7(9)-V7(9)/III</name>
+            <offset x="-1.43586" y="9.04947"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
