@@ -25775,7 +25775,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/IV/bII</name>
+            <name>i.IV7/bii</name>
             <offset x="-4.05419" y="4.83692"/>
             </Harmony>
           <Rest>
@@ -25787,8 +25787,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/V/v/bII</name>
-            <offset x="1.60478" y="4.50704"/>
+            <name>viio7/V/bii</name>
+            <offset x="0.253387" y="4.50704"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25826,7 +25826,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(6)/v/bII</name>
+            <name>V7(6)/bii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25860,7 +25860,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7/v/bII</name>
+            <name>VIM7/bii</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25954,9 +25954,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%7/v/bII}-ii%7/V/v/bII}</name>
-            <minDistance>0.27818</minDistance>
-            <offset x="-1.52032" y="8.18435"/>
+            <name>#vi%7/bii}-ii%7/V/bii}</name>
+            <minDistance>0.227474</minDistance>
+            <offset x="-2.36494" y="8.01542"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -26050,7 +26050,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/v/bII</name>
+            <name>V6/bii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26109,7 +26109,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i/v/bII</name>
+            <name>i/bii</name>
             </Harmony>
           </voice>
         <voice>
