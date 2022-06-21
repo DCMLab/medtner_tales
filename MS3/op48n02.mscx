@@ -23689,8 +23689,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III64</name>
-            <offset x="1.3514" y="3.58446"/>
+            <name>III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23708,6 +23707,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III64</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
