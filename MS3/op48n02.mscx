@@ -17433,7 +17433,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(6)}</name>
+            <name>V7(6)}</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -17441,10 +17441,6 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V65(6)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -17468,7 +17464,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7</name>
+            <name>V7|HC</name>
+            <offset x="-1.52032" y="3.84943"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
