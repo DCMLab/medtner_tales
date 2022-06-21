@@ -30120,13 +30120,13 @@
         </Measure>
       <Measure>
         <voice>
+          <Rest>
+            <durationType>quarter</durationType>
+            </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7</name>
             </Harmony>
-          <Rest>
-            <durationType>quarter</durationType>
-            </Rest>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
