@@ -26164,7 +26164,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/vi</name>
+            <name>V6/bii</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26184,7 +26184,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+64/vi</name>
+            <name>V6(6)/bii</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="0.168925" y="5.70382"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -26216,7 +26218,8 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/vi</name>
+            <name>V2/bii</name>
+            <offset x="-0.675698" y="6.06019"/>
             </Harmony>
           </voice>
         <voice>
@@ -26299,7 +26302,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6</name>
+            <name>i6/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26341,10 +26344,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi64</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -26372,7 +26371,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)/III</name>
+            <name>ii43(4)/bii</name>
             <offset x="-0.398395" y="-8.78876"/>
             </Harmony>
           </voice>
@@ -26435,7 +26434,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6/vi</name>
+            <name>V6/bii</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -26557,7 +26556,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi</name>
+            <name>i/bii</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26592,7 +26591,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7/vi</name>
+            <name>VIM65/bii</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
