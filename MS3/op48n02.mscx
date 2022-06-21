@@ -30000,10 +30000,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII(4)</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -30450,6 +30446,12 @@
             <harmonyType>1</harmonyType>
             <name>i</name>
             </Harmony>
+          <Beam>
+            <Fragment>
+              <y1>-1.25339</y1>
+              <y2>-2.50339</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
