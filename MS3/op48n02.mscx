@@ -22660,11 +22660,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VIM7}</name>
+            <name>VIM7|DC}</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.253387" y="13.4417"/>
+            <offset x="0.422311" y="14.8776"/>
             </Symbol>
           <Rest>
             <durationType>eighth</durationType>
