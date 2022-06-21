@@ -21480,7 +21480,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+/v</name>
+            <name>v6(#7)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21554,10 +21554,14 @@
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
+            <placement>above</placement>
+            <offset x="-0.591236" y="-4.69961"/>
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)/v</name>
+            <minDistance>-7.94623</minDistance>
+            <offset x="-0.591236" y="7.7954"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -21583,8 +21587,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="7.7866"/>
+                <offset x="-0.506774" y="10.5982"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -21687,6 +21692,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>v</name>
+            <minDistance>-5.58128</minDistance>
+            <offset x="0.337849" y="5.91794"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -21719,8 +21726,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="6.2148"/>
+                <offset x="0.253387" y="9.02636"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -21810,7 +21818,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.76016" y="12.5971"/>
             </Symbol>
           <Spanner type="Pedal">
             <prev>
@@ -21822,6 +21830,13 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <placement>above</placement>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="0.76016" y="-4.38488"/>
+                <off2 x="0" y="0"/>
+                <minDistance>-3.1864e-16</minDistance>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -21919,14 +21934,18 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V6(4)}</name>
+            <minDistance>-10.0578</minDistance>
+            <offset x="-1.26693" y="5.08682"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
+              <placement>above</placement>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="1.85678"/>
+                <offset x="0.253387" y="-4.33885"/>
                 <off2 x="0" y="0"/>
+                <minDistance>-593.39</minDistance>
                 </Segment>
               </HairPin>
             <next>
@@ -21972,8 +21991,9 @@
               <lineVisible>0</lineVisible>
               <Segment>
                 <subtype>0</subtype>
-                <offset x="0" y="5.50033"/>
+                <offset x="-1.43586" y="8.48081"/>
                 <off2 x="0" y="0"/>
+                <minDistance>0</minDistance>
                 </Segment>
               </Pedal>
             <next>
@@ -21997,6 +22017,8 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V</name>
+            <minDistance>-9.55101</minDistance>
+            <offset x="-0.0844623" y="5.23483"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
