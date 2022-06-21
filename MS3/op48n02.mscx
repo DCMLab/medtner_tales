@@ -20056,7 +20056,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <offset x="0.628711" y="-4.97883"/>
+            <offset x="-1.145" y="-5.57007"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>diminuendo</text>
             </StaffText>
           <Harmony>
@@ -20201,7 +20201,10 @@
       <Measure>
         <voice>
           <StaffText>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
             <family>FreeSerif</family>
+            <offset x="-1.3514" y="4.81621"/>
             <text><font size="10.2313"></font><font face="Plantin MT Std"></font>con poco pedale</text>
             </StaffText>
           <Harmony>
@@ -20271,7 +20274,9 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(6)</name>
+            <name>ii%65(9)-vii%65(9)/III</name>
+            <minDistance>0.415538</minDistance>
+            <offset x="-7.01037" y="3.59894"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
