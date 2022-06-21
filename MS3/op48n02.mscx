@@ -16745,12 +16745,13 @@
           <StaffText>
             <placement>below</placement>
             <family>FreeSerif</family>
-            <offset x="0.153147" y="3.15594"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>legatissimo</text>
+            <offset x="-0.10024" y="5.81823"/>
+            <text><i><font size="10.2313"/><font face="Plantin MT Std"/>legatissimo</i></text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>g.i64{</name>
+            <name>g.i{</name>
+            <offset x="-0.422311" y="3.82022"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -16776,7 +16777,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-4.30332" y="-5.29704"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espressivo</text>
+            <text><i><font size="10.2313"/><font face="Plantin MT Std"/>espressivo</i></text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -16791,7 +16792,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2</name>
+            <name>V65</name>
+            <offset x="-0.844623" y="4.09151"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
