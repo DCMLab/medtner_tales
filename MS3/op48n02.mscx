@@ -17077,10 +17077,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i64</name>
-            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -17115,8 +17111,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(4)/v</name>
-            <offset x="-1.05944" y="-6"/>
+            <name>ii43(4)</name>
+            <offset x="-1.73514" y="4.81902"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
