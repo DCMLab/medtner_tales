@@ -29331,10 +29331,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>V7(b9)/iv</name>
-            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
