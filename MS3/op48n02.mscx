@@ -23820,7 +23820,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>VII7</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25050,10 +25050,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>Ger6</name>
+            <minDistance>-0.344623</minDistance>
+            <offset x="0" y="7.05764"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.253387" y="14.7087"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25169,7 +25171,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.422311" y="12.6816"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25279,7 +25281,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="-0.168925" y="15.4688"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25398,7 +25400,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="1.09801" y="15.5533"/>
             </Symbol>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -25837,7 +25839,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.168925" y="14.1174"/>
             </Symbol>
           <Rest>
             <durationType>eighth</durationType>
@@ -25931,7 +25933,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.337849" y="15.131"/>
             </Symbol>
           <Chord>
             <dots>1</dots>
