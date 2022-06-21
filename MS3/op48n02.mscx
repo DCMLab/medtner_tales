@@ -29454,7 +29454,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>V7(6)-iv7</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29596,8 +29596,8 @@
         <voice>
           <Beam>
             <Fragment>
-              <y1>7.6014</y1>
-              <y2>6.3514</y2>
+              <y1>7.85478</y1>
+              <y2>6.60478</y2>
               </Fragment>
             </Beam>
           <Chord>
