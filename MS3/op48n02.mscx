@@ -24062,14 +24062,15 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v</name>
+            <name>V(4)</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
+            <name>V(6+4b3)</name>
+            <offset x="-3.8008" y="3.75339"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24145,7 +24146,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#vi%2</name>
+            <name>V(#964)</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24166,6 +24167,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(4)</name>
+            <offset x="-2.70279" y="3.66892"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24178,6 +24180,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(6)</name>
+            <offset x="-0.844623" y="3.58649"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
