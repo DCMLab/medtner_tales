@@ -28134,7 +28134,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III|IAC}{</name>
+            <name>I/III|IAC}{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28171,7 +28171,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI6</name>
+            <name>IV6/III</name>
+            <offset x="-2.28048" y="10.3781"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -28207,7 +28208,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv(94)</name>
+            <name>ii(94)/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28223,7 +28224,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>ii/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28251,7 +28252,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v64</name>
+            <name>iii64/III</name>
+            <offset x="-1.26693" y="10.6516"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -28287,7 +28289,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64</name>
+            <name>vi64/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28303,7 +28305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i64(94)</name>
+            <name>vi64(94)/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28331,7 +28333,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6</name>
+            <name>vi6/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -28367,7 +28369,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6</name>
+            <name>ii6/III</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28383,7 +28385,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv6(97)</name>
+            <name>ii6(97)/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28411,7 +28413,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iio6</name>
+            <name>iio6-viio6/III</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
