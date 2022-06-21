@@ -26639,7 +26639,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM7/vi</name>
+            <name>bIIM7/bii-V(#7)/V</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26698,10 +26698,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64/vi</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -26733,7 +26729,8 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(4)/vi</name>
+            <name>vii%43(b6b4)/V</name>
+            <offset x="-2.11156" y="4.95233"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26784,6 +26781,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%43(b4)/V</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -26819,7 +26820,8 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7/vi</name>
+            <name>viio43/V</name>
+            <offset x="-0.76016" y="5.03165"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26907,8 +26909,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i.V6}{</name>
-            <offset x="0" y="-7.59358"/>
+            <name>V6}{</name>
+            <offset x="0.0844623" y="5.11792"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
