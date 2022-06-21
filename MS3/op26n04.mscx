@@ -19048,7 +19048,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7(b3)/iii-I6(64#2)</name>
+            <name>#viio7(b3)/iii-I6(64#2)</name>
             </Harmony>
           <Chord>
             <BeamMode>begin</BeamMode>
@@ -19158,7 +19158,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio43</name>
+            <name>#viio43</name>
             </Harmony>
           <Chord>
             <durationType>16th</durationType>
@@ -19342,7 +19342,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>viio7/vi-I6(6#4#2)/IV</name>
+            <name>#viio7/vi-I6(6#4#2)/IV</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
