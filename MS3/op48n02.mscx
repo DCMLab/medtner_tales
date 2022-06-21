@@ -22277,7 +22277,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0" y="11.7525"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
@@ -22344,11 +22344,11 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III</name>
+            <name>IIIM7</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="10.57"/>
+            <offset x="0.253387" y="12.5126"/>
             </Symbol>
           <Chord>
             <durationType>quarter</durationType>
@@ -22379,10 +22379,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IIIM7</name>
-            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
