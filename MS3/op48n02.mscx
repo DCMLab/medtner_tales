@@ -25416,7 +25416,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65/VII</name>
+            <name>V65/vi/bII</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25536,7 +25536,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(b9)/III</name>
+            <name>V7(b9)/ii/bII</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25588,7 +25588,9 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/III</name>
+            <name>V7/ii/bIII</name>
+            <minDistance>0.331075</minDistance>
+            <offset x="-3.8008" y="5.33812"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
