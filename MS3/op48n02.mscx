@@ -18061,11 +18061,15 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V/VI</name>
+            <name>V(9)/VI</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V/VI</name>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -18085,7 +18089,8 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>III+</name>
+            <name>V(#5)/VI</name>
+            <offset x="-1.09801" y="7.58902"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
