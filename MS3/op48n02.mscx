@@ -26729,7 +26729,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43(b6b4)/V</name>
+            <name>vii%43(b6)/V</name>
             <offset x="-2.11156" y="4.95233"/>
             </Harmony>
           <Beam>
@@ -26783,7 +26783,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43(b4)/V</name>
+            <name>vii%43/V</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
