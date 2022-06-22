@@ -19481,7 +19481,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>#viio7(b3)/iii</name>
+            <name>Ger7/vi</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -22224,7 +22224,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2(6)/ii</name>
+            <name>V2/ii</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
