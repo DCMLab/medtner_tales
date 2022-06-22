@@ -332,12 +332,12 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-4.27243" y="-7.19603"/>
-            <text><b><font size="10.7894"/><font face="Plantin MT Std"/>Molto sostenuto e semplice</b></text>
+            <text><b><font size="10.7894"></font><font face="Plantin MT Std"></font>Molto sostenuto e semplice</b></text>
             </StaffText>
           <Tempo>
             <tempo>0.83333333333333337</tempo>
             <followText>1</followText>
-            <text><b></b><font face="ScoreText"/><b><font face="Edwin"/> = 50</b></text>
+            <text><b></b><font face="ScoreText"></font><b><font face="Edwin"></font> = 50</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -33151,7 +33151,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I|IAC}</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
