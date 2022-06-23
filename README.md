@@ -16,7 +16,7 @@ Please note that the `meta_ corpora` branch should be used with collections of c
 |op26n04  |      77|   300|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
 |op34n01  |     237|   669|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
 |op34n02  |      48|   195|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n03  |     144|   425|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
+|op34n03  |     144|   408|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
 |op34n04  |      61|   365|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
 |op35n01  |      75|   266|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
 |op35n02  |     139|   422|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, JH, AB      |
