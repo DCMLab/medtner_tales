@@ -19079,8 +19079,8 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)</name>
-            <offset x="-0.168925" y="7.16195"/>
+            <name>V43(#6#4#2)-#viio7/ii</name>
+            <offset x="-0.168925" y="9.16195"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
