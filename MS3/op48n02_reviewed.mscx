@@ -17177,7 +17177,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43(4)</name>
+            <name>ii43(4)-V43/V</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.73514" y="4.81902"/>
             </Harmony>
@@ -18684,7 +18684,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2-V65</name>
+            <name>V65</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
@@ -18988,7 +18988,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43</name>
+            <name>ii43(4)-V43/V</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.397291" y="-7.98645"/>
             </Harmony>
