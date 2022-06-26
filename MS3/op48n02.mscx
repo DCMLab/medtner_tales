@@ -16778,7 +16778,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="-0.10024" y="5.81823"/>
-            <text><i><font size="10.2313"/><font face="Plantin MT Std"/>legatissimo</i></text>
+            <text><i><font size="10.2313"></font><font face="Plantin MT Std"></font>legatissimo</i></text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -16809,7 +16809,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-4.30332" y="-5.29704"/>
-            <text><i><font size="10.2313"/><font face="Plantin MT Std"/>espressivo</i></text>
+            <text><i><font size="10.2313"></font><font face="Plantin MT Std"></font>espressivo</i></text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -17143,7 +17143,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43(4)</name>
+            <name>ii43(4)-V43/V</name>
             <offset x="-1.73514" y="4.81902"/>
             </Harmony>
           <Chord>
