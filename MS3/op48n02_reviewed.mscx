@@ -19252,9 +19252,9 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)</name>
+            <name>V43(#6#4#2)-#viio7/ii</name>
             <color r="0" g="85" b="0" a="255"/>
-            <offset x="-0.168925" y="7.16195"/>
+            <offset x="-0.168925" y="9.16195"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -19448,7 +19448,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i6(#7)</name>
+            <name>V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -19510,9 +19510,6 @@
                 </location>
               </next>
             </Spanner>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -19578,7 +19575,7 @@
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV7(9)</name>
+            <name>i</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Dynamic>
