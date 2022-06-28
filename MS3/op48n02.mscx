@@ -19079,7 +19079,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)-#viio7/ii</name>
+            <name>V43(#6#4#2)-viio7/V/V</name>
             <offset x="-0.168925" y="9.16195"/>
             </Harmony>
           <Beam>
@@ -20617,7 +20617,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)</name>
+            <name>V43(#6#4#2)-viio7/V/V</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
