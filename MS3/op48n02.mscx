@@ -23091,10 +23091,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
             <offset x="0" y="10.57"/>
