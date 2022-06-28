@@ -19252,7 +19252,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)-#viio7/ii</name>
+            <name>V43(#6#4#2)-viio7/V/V</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.168925" y="9.16195"/>
             </Harmony>
@@ -19728,7 +19728,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV64</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
@@ -20912,7 +20912,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43(#6#4#2)</name>
+            <name>V43(#6#4#2)-viio7/V/V</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -21576,12 +21576,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.168925" y="4.48139"/>
             </Harmony>
           <Chord>
@@ -22187,7 +22181,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv/v-i</name>
+            <name>i-iv/v</name>
             <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.168925" y="5.02803"/>
             </Harmony>
@@ -23490,12 +23484,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i64</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23533,14 +23521,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i</name>
-            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
             <offset x="0" y="10.57"/>
             </Symbol>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
