@@ -23456,7 +23456,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(11)</name>
+            <name>V64(11)|HC</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
