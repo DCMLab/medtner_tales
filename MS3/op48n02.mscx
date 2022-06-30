@@ -24253,7 +24253,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.I/bII}</name>
+            <name>iv.I/bII|EC}</name>
             <minDistance>-8.62192</minDistance>
             <offset x="0.0844623" y="4.34665"/>
             </Harmony>
@@ -24393,7 +24393,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(11)/bII</name>
+            <name>V64(11)/bII|HC</name>
             <minDistance>-5.28975</minDistance>
             <offset x="-1.41181" y="8.68191"/>
             </Harmony>
