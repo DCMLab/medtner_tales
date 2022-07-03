@@ -23760,7 +23760,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i|PAC}</name>
+            <name>i|IAC}</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
@@ -23914,7 +23914,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(11)</name>
+            <name>V64(11)|HC</name>
             <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
@@ -24314,12 +24314,6 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V7/III</name>
-            <color r="170" g="0" b="0" a="255"/>
-            </Harmony>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VII7</name>
-            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24788,7 +24782,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv.I/bII}</name>
+            <name>iv.I/bII|EC}</name>
             <color r="0" g="85" b="0" a="255"/>
             <minDistance>-8.62192</minDistance>
             <offset x="0.0844623" y="4.34665"/>
@@ -24940,7 +24934,7 @@
             </Harmony>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64(11)/bII</name>
+            <name>V64(11)/bII|HC</name>
             <color r="0" g="85" b="0" a="255"/>
             <minDistance>-5.28975</minDistance>
             <offset x="-1.41181" y="8.68191"/>
