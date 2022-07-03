@@ -25585,7 +25585,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7/ii/bIII</name>
+            <name>V7/ii/bII</name>
             <minDistance>0.331075</minDistance>
             <offset x="-3.8008" y="5.33812"/>
             </Harmony>
