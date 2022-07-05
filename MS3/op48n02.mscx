@@ -29220,7 +29220,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV</name>
+            <name>IV6</name>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29244,7 +29244,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>iv6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
