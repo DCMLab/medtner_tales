@@ -51646,7 +51646,7 @@ I</text>
             </Clef>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6</name>
+            <name>IV6|EC</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
