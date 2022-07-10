@@ -40432,7 +40432,7 @@ I</text>
             <followText>1</followText>
             <visible>0</visible>
             <offset x="0.152032" y="-5.95555"/>
-            <text><b></b><font face="ScoreText"/> <b><font face="Edwin"/> = 82-88</b></text>
+            <text><b></b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 82-88</b></text>
             </Tempo>
           <Chord>
             <durationType>eighth</durationType>
@@ -47903,7 +47903,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I(9)-iii7(2)/V</name>
+            <name>I(9)-V2/V</name>
             </Harmony>
           <Tuplet>
             <normalNotes>3</normalNotes>
