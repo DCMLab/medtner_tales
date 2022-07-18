@@ -56953,7 +56953,7 @@ I</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V2/bV-V43(b6)/V/bV</name>
+            <name>V2/bV-V43(b6)/bVI</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -56972,7 +56972,7 @@ I</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43/V/bV</name>
+            <name>V43/bVI</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
