@@ -1,0 +1,184 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/csvw#",
+    {
+      "@language": "en "
+    }
+  ],
+  "dc:title": "Measure tables for medtner_tales",
+  "dialect": {
+    "delimiter": "\t"
+  },
+  "dc:description": "One feature matrix per score, containing one line per stack of <Measure> tags in the score's XML tree. They are counted in the column 'mc' starting from 1, whereas the conventional measure numbers are shown in the column 'mn'. One MN is frequently composed in two (or more) MCs. Furthermore, these tables include special bar lines, repeat signs, first and second endings, irregular measure lengths, as well as the column 'next' which contains follow-up MCs for unfolding a score's repeat structure. For more information, please refer to the docs at https://johentsch.github.io/ms3/columns",
+  "dc:created": "2022-12-18T22:53:04",
+  "dc:creator": [
+    {
+      "@context": "https://schema.org/",
+      "@type": "SoftwareApplication",
+      "@id": "https://github.com/johentsch/ms3",
+      "name": "ms3",
+      "description": "A parser for MuseScore 3 files.",
+      "author": {
+        "name": "Johannes Hentschel",
+        "@id": "https://orcid.org/0000-0002-1986-9545"
+      },
+      "softwareVersion": "1.0.4"
+    }
+  ],
+  "tables": [
+    {
+      "url": "op08n01.tsv"
+    },
+    {
+      "url": "op14n01.tsv"
+    },
+    {
+      "url": "op26n01.tsv"
+    },
+    {
+      "url": "op26n02.tsv"
+    },
+    {
+      "url": "op26n03.tsv"
+    },
+    {
+      "url": "op26n04.tsv"
+    },
+    {
+      "url": "op34n01.tsv"
+    },
+    {
+      "url": "op34n02.tsv"
+    },
+    {
+      "url": "op34n03.tsv"
+    },
+    {
+      "url": "op34n04.tsv"
+    },
+    {
+      "url": "op35n01.tsv"
+    },
+    {
+      "url": "op35n02.tsv"
+    },
+    {
+      "url": "op35n03.tsv"
+    },
+    {
+      "url": "op35n04.tsv"
+    },
+    {
+      "url": "op42n01.tsv"
+    },
+    {
+      "url": "op42n02.tsv"
+    },
+    {
+      "url": "op42n03.tsv"
+    },
+    {
+      "url": "op48n01.tsv"
+    },
+    {
+      "url": "op48n02.tsv"
+    }
+  ],
+  "tableSchema": {
+    "columns": [
+      {
+        "titles": "mc",
+        "datatype": "integer",
+        "dc:description": "Measure count."
+      },
+      {
+        "titles": "mn",
+        "datatype": "string",
+        "dc:description": "Measure number."
+      },
+      {
+        "titles": "quarterbeats",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "quarterbeats_all_endings",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "duration_qb",
+        "datatype": "float"
+      },
+      {
+        "titles": "keysig",
+        "datatype": "integer"
+      },
+      {
+        "titles": "timesig",
+        "datatype": "string"
+      },
+      {
+        "titles": "act_dur",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "mc_offset",
+        "datatype": {
+          "base": "string",
+          "format": "-?\\d+(?:\\/\\d+)?"
+        }
+      },
+      {
+        "titles": "volta",
+        "datatype": "integer"
+      },
+      {
+        "titles": "numbering_offset",
+        "datatype": "integer"
+      },
+      {
+        "titles": "dont_count",
+        "datatype": "integer"
+      },
+      {
+        "titles": "barline",
+        "datatype": "string"
+      },
+      {
+        "titles": "breaks",
+        "datatype": "string"
+      },
+      {
+        "titles": "repeats",
+        "datatype": "string"
+      },
+      {
+        "titles": "markers"
+      },
+      {
+        "titles": "jump_bwd"
+      },
+      {
+        "titles": "jump_fwd"
+      },
+      {
+        "titles": "play_until"
+      },
+      {
+        "titles": "next",
+        "datatype": {
+          "base": "string",
+          "format": "\\(-?\\d+, ?-?\\d+\\)"
+        }
+      }
+    ]
+  }
+}
