@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -58,6 +59,8 @@
       <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
       <chordSymbolBFontSize>11</chordSymbolBFontSize>
       <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
+      <measureNumberInterval>1</measureNumberInterval>
+      <measureNumberSystem>0</measureNumberSystem>
       <smallStaffMag>0.663</smallStaffMag>
       <slurMidWidth>0.21</slurMidWidth>
       <musicalSymbolFont>Leland</musicalSymbolFont>
@@ -201,20 +204,19 @@
       <usePre_3_6_defaults>1</usePre_3_6_defaults>
       <defaultsVersion>301</defaultsVersion>
       <Spatium>1.18</Spatium>
-      <romanNumeralPlacement>1</romanNumeralPlacement>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
     <metaTag name="composed_start">1904</metaTag>
     <metaTag name="composer">Op.42</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
@@ -223,7 +225,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/9103</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">AN, AB</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -1961,13 +1963,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-5.30124"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-4.95605"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -2008,6 +2005,12 @@
         </Measure>
       <Measure>
         <voice>
+          <Beam>
+            <Fragment>
+              <y1>-2.7939</y1>
+              <y2>-4.5439</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -2243,7 +2246,6 @@
             <Note>
               <Spanner type="Tie">
                 <Tie>
-                  <up>up</up>
                   </Tie>
                 <next>
                   <location>
@@ -2256,18 +2258,7 @@
               </Note>
             </Chord>
           <Chord>
-            <dots>1</dots>
             <durationType>quarter</durationType>
-            <Spanner type="Slur">
-              <Slur>
-                </Slur>
-              <next>
-                <location>
-                  <measures>1</measures>
-                  <fractions>-3/8</fractions>
-                  </location>
-                </next>
-              </Spanner>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -2311,6 +2302,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Rest>
+            <visible>0</visible>
+            <durationType>eighth</durationType>
+            </Rest>
           </voice>
         </Measure>
       <Measure>
@@ -2319,6 +2314,12 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Beam>
+            <Fragment>
+              <y1>-0.858128</y1>
+              <y2>-2.60813</y2>
+              </Fragment>
+            </Beam>
           <Chord>
             <durationType>16th</durationType>
             <grace16/>
@@ -2348,8 +2349,9 @@
             <Spanner type="Slur">
               <prev>
                 <location>
+                  <staves>1</staves>
                   <measures>-1</measures>
-                  <fractions>3/8</fractions>
+                  <fractions>5/8</fractions>
                   </location>
                 </prev>
               </Spanner>
@@ -2451,18 +2453,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-3"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>2</subtype>
-                <offset x="0" y="-5.19001"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-5.35847"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -3716,6 +3708,11 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
+              <Segment>
+                <subtype>0</subtype>
+                <offset x="-1.06422" y="3.19594"/>
+                <off2 x="0" y="0"/>
+                </Segment>
               </HairPin>
             <next>
               <location>
@@ -4138,13 +4135,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-5.18618"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-4.48247"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -5193,13 +5185,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-4.42639"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -7487,13 +7474,8 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="-3"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-4.55606"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -8556,7 +8538,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8583,7 +8565,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>v%7</name>
             <offset x="-0.308614" y="-9.24045"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -8652,7 +8634,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8750,7 +8732,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8819,7 +8801,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8948,7 +8930,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.230124" y="8.51458"/>
+            <offset x="0.45402" y="11.3272"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8971,7 +8953,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM43</name>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -8980,13 +8962,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii43</name>
-            </Harmony>
-          <Beam>
-            <StemDirection>down</StemDirection>
-            </Beam>
           <Chord>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
@@ -9003,6 +8978,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -9064,7 +9043,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9132,7 +9111,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9257,7 +9236,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="1.49581" y="9.6652"/>
+            <offset x="-1.92491" y="10.4254"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9280,7 +9259,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM43</name>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9289,13 +9268,9 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bII6</name>
-            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0" y="9.08989"/>
+            <offset x="-0.228048" y="10.3822"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9345,7 +9320,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.460248" y="9.89533"/>
+            <offset x="0.156184" y="10.3514"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9375,10 +9350,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9392,7 +9363,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.460248" y="9.32002"/>
+            <offset x="-0.536264" y="10.6883"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -9419,20 +9390,16 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6(9)</name>
+            <name>vii6-ii6/VI</name>
+            <offset x="-3.11666" y="4.27914"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>1</subtype>
-                <offset x="0" y="-5.61706"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="-3.54595"/>
+                <subtype>0</subtype>
+                <offset x="-3.68639" y="-5.69308"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -9460,14 +9427,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI.V</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
             <offset x="0.805434" y="12.4267"/>
@@ -9500,10 +9467,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>VI6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9515,6 +9478,10 @@
             <name>keyboardPedalPed</name>
             <offset x="0.460248" y="12.7719"/>
             </Symbol>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -9526,10 +9493,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -9540,7 +9503,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII6</name>
+            <name>IV6</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -9571,17 +9534,17 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i2(+4)</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii(1394)</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.57531" y="10.8158"/>
+            <offset x="0.19523" y="14.2365"/>
             </Symbol>
           <Chord>
             <dots>1</dots>
@@ -9593,18 +9556,11 @@
               </Note>
             </Chord>
           <location>
-            <fractions>-3/8</fractions>
+            <fractions>-1/8</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i2</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii</name>
+            <name>ii</name>
             </Harmony>
           </voice>
         <voice>
@@ -9676,10 +9632,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>v%7</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -9703,10 +9655,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9735,7 +9683,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bII64</name>
+            <name>IV64</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -9757,17 +9705,17 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i2(+4)</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii(1394)</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="1.03556" y="10.9309"/>
+            <offset x="1.03556" y="13.0593"/>
             </Symbol>
           <StaffText>
             <family>FreeSerif</family>
@@ -9787,21 +9735,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii</name>
-            </Harmony>
-          <location>
-            <fractions>1/8</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii(42)</name>
-            </Harmony>
-          <location>
-            <fractions>1/4</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv7</name>
+            <name>ii</name>
             </Harmony>
           </voice>
         <voice>
@@ -9813,6 +9747,12 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
+                <SlurSegment no="0">
+                  <o2 x="-1.4443" y="-2.05243"/>
+                  <o3 x="2.81259" y="11.0983"/>
+                  <o4 x="0.152032" y="7.75364"/>
+                  <offset x="-1.29227" y="-2.66056"/>
+                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -9873,10 +9813,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vo</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -9900,10 +9836,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv64</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -9913,7 +9845,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM2</name>
+            <name>ii7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -9934,15 +9866,16 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>III</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            </Harmony>
           <Chord>
+            <staffMove>-1</staffMove>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <prev>
@@ -9952,6 +9885,17 @@
                   <fractions>-5/8</fractions>
                   </location>
                 </prev>
+              </Spanner>
+            <Spanner type="Slur">
+              <Slur>
+                </Slur>
+              <next>
+                <location>
+                  <staves>-1</staves>
+                  <measures>1</measures>
+                  <fractions>-5/8</fractions>
+                  </location>
+                </next>
               </Spanner>
             <Note>
               <pitch>67</pitch>
@@ -9996,11 +9940,11 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI.I}{</name>
+            <name>I|IAC}{</name>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.57531" y="11.0459"/>
+            <offset x="-0.19523" y="12.4142"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10033,14 +9977,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV-ii6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10098,10 +10042,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV6</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10109,6 +10049,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10151,17 +10095,17 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I\\</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="0.115062" y="9.43508"/>
+            <offset x="-0.112986" y="11.7916"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10199,14 +10143,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vii%43</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10260,10 +10204,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM43/VI</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10273,7 +10213,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii43</name>
+            <name>IV6</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10294,6 +10234,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -10319,7 +10263,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.115062" y="9.08989"/>
+            <offset x="0.265018" y="12.0545"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10350,10 +10294,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10363,7 +10303,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>IVM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10384,6 +10324,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10401,7 +10345,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.920495" y="10.2405"/>
+            <offset x="-0.920495" y="12.9011"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -10422,10 +10366,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10435,7 +10375,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43</name>
+            <name>IVM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10480,17 +10420,17 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.460248" y="9.55014"/>
+            <offset x="-0.384232" y="11.3745"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10557,7 +10497,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V6(7)</name>
+            <name>V6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10570,14 +10510,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -10597,10 +10537,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM43/VI</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10608,6 +10544,10 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10619,10 +10559,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -10631,6 +10567,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>viio6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -10650,17 +10590,17 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.154412" y="10.27"/>
+            <offset x="-0.230428" y="12.2464"/>
             </Symbol>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10691,10 +10631,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10704,7 +10640,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65(9)</name>
+            <name>IV(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10725,6 +10661,10 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10736,14 +10676,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -10799,7 +10739,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii65</name>
+            <name>vii%65</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -10820,14 +10760,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I</name>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
             <offset x="-0.950925" y="10.1749"/>
@@ -10867,14 +10807,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii6</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -10894,10 +10834,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%43</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -10975,7 +10911,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(+4)</name>
+            <name>ii6(+11)-V2(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11148,14 +11084,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV64/IV</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV64/IV-V7(94)/IV</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -11191,7 +11127,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%43/IV</name>
+            <name>vii%43/IV-V7(9)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11224,7 +11160,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV64/IV</name>
+            <name>IV64/IV-V7(94)/IV</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -11260,14 +11196,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IV</name>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IV</name>
+            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -11398,7 +11334,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IV6(4)</name>
+            <name>IV6(11)</name>
             </Harmony>
           <Rest>
             <visible>0</visible>
@@ -11946,7 +11882,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)</name>
+            <name>vii%7(11)</name>
             <offset x="-0.428278" y="-8.85519"/>
             </Harmony>
           </voice>
@@ -12187,7 +12123,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii6(6)</name>
+            <name>ii6(13)</name>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -12254,7 +12190,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi6(9)</name>
+            <name>vi43(9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12288,7 +12224,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i43</name>
+            <name>vi43</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -12395,7 +12331,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i(6)</name>
+            <name>ii(13)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -12419,7 +12355,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%65</name>
+            <name>ii</name>
             </Harmony>
           <location>
             <fractions>1/8</fractions>
@@ -12433,7 +12369,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i</name>
+            <name>vi6</name>
             </Harmony>
           </voice>
         <voice>
@@ -12527,7 +12463,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii%7(4)</name>
+            <name>vii%7(4)-v%7(4)/iii</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -12562,6 +12498,10 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i.v%7</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -12618,10 +12558,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii64</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -12630,6 +12566,10 @@
             <offset x="0.370617" y="-6.65024"/>
             <text>crescendo</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>v%7(11)</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -12677,10 +12617,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii%2</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12711,10 +12647,6 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii(7)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12741,10 +12673,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>I6</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -12760,10 +12688,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>viio6(4)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -12778,10 +12702,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vi6</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12800,10 +12720,6 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii43</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -12819,10 +12735,6 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>IVM65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Articulation>
@@ -12847,10 +12759,6 @@
             <offset x="0.475463" y="1.41593"/>
             <text><font size="9.8903"></font><font face="Plantin MT Std"></font>molto calando</text>
             </StaffText>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii6</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12875,10 +12783,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -12891,10 +12795,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii65</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -12906,10 +12806,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -12955,36 +12851,22 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <location>
-            <fractions>-1/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iii65</name>
-            </Harmony>
-          <location>
-            <fractions>5/16</fractions>
-            </location>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>ii6(9)</name>
-            </Harmony>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i.i7}{</name>
-            <offset x="0" y="-10.14"/>
-            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i}{</name>
+            <offset x="0" y="-10.14"/>
+            </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.570555" y="9.41416"/>
+            <offset x="-0.798603" y="12.7589"/>
             </Symbol>
           <Spanner type="Pedal">
             <prev>
@@ -13070,7 +12952,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>bIIM43</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13083,10 +12965,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>bIIM2</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -13127,7 +13005,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>vii</name>
             <offset x="-1.42759" y="-8.56967"/>
             </Harmony>
           <Chord>
@@ -13155,7 +13033,7 @@
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
-            <offset x="-0.665648" y="9.41416"/>
+            <offset x="-0.209552" y="12.3028"/>
             </Symbol>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -13233,7 +13111,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI</name>
+            <name>vii2</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13246,10 +13124,6 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii6(9)</name>
-            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -13353,7 +13227,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13376,7 +13250,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>v%7</name>
             <offset x="-0.285519" y="-8.71243"/>
             </Harmony>
           <Chord>
@@ -13422,7 +13296,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM65</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13512,7 +13386,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43(4)</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13581,7 +13455,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv</name>
+            <name>bIIM7</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13725,7 +13599,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM43</name>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13734,10 +13608,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii43</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -13757,6 +13627,10 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vo6</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -13809,10 +13683,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>i(4)</name>
-            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -13822,7 +13692,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>bII</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -13845,7 +13715,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%43</name>
+            <name>vo(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13883,7 +13753,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>bIIM43</name>
+            <name>bII6</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -13892,10 +13762,6 @@
               <tpc>9</tpc>
               </Note>
             </Chord>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>vii43</name>
-            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -13915,6 +13781,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vo6-vii</name>
+            <offset x="-1.59634" y="3.42398"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -14037,7 +13908,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14048,7 +13919,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14071,7 +13942,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14170,14 +14041,14 @@
         </Measure>
       <Measure>
         <voice>
-          <Harmony>
-            <harmonyType>1</harmonyType>
-            <name>iv6</name>
-            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
             </Clef>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -14199,7 +14070,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14210,7 +14081,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -14233,7 +14104,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14357,7 +14228,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14368,7 +14239,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14391,7 +14262,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14434,7 +14305,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14445,7 +14316,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14468,7 +14339,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14506,7 +14377,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>VI(4)</name>
+            <name>bII(9)</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14517,7 +14388,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv7(42)</name>
+            <name>bII6(119)-iv7(9)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -14540,7 +14411,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vii6</name>
+            <name>vii</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -14563,7 +14434,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>v%7</name>
+            <name>v%7(+13)</name>
             </Harmony>
           <Rest>
             <dots>1</dots>
@@ -14583,13 +14454,8 @@
               <endText>&lt;sym&gt;keyboardPedalUp&lt;/sym&gt;</endText>
               <lineVisible>0</lineVisible>
               <Segment>
-                <subtype>1</subtype>
+                <subtype>0</subtype>
                 <offset x="0" y="6.7567"/>
-                <off2 x="0" y="0"/>
-                </Segment>
-              <Segment>
-                <subtype>3</subtype>
-                <offset x="0" y="7.3692"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Pedal>
