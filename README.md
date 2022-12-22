@@ -1,227 +1,219 @@
-# Tales
+<!-- TOC -->
+* [Nikolai Medtner - Tales](#nikolai-medtner---tales)
+  * [Getting the data](#getting-the-data)
+    * [With full version history](#with-full-version-history)
+    * [Without full version history](#without-full-version-history)
+  * [Data Formats](#data-formats)
+    * [Opening Scores](#opening-scores)
+    * [Opening TSV files in a spreadsheet](#opening-tsv-files-in-a-spreadsheet)
+    * [Loading TSV files in Python](#loading-tsv-files-in-python)
+  * [How to read `metadata.tsv`](#how-to-read-metadatatsv)
+    * [File information](#file-information)
+    * [Composition information](#composition-information)
+    * [Score information](#score-information)
+    * [Identifiers](#identifiers)
+  * [Generating all TSV files from the scores](#generating-all-tsv-files-from-the-scores)
+  * [Questions, Suggestions, Corrections, Bug Reports](#questions-suggestions-corrections-bug-reports)
+  * [License](#license)
+  * [Naming convention](#naming-convention)
+* [Overview](#overview)
+<!-- TOC -->
 
-| Opus                                |No.| Key           | Title       		 | Year(s)     |
-|-------------------------------------|---|---------------|----------------------|-------------|
-| 8                                   | 1 | C minor       | None                 | 1904-1906   |
-| 8                                   | 2 | C minor       | None                 | 1905        |
-| 9                                   | 1 | F minor       | None                 | 1904-1906   |
-| 9                                   | 2 | C major       | None                 | 1904-1906   |
-| 9                                   | 3 | G major       | None                 | 1904-1906   |
-| 14                                  | 1 | F minor       | Ophelia's Song       | 1906-1907   |
-| 14                                  | 2 | E minor       | March of the Paladin | 1906-1907   |
-| 20                                  | 1 | B flat minor  | None                 | 1909        |
-| 20                                  | 2 | B minor       | Campanella           | 1909        |
-| 26                                  | 1 | E flat major  | None                 | 1912        |
-| 26                                  | 2 | E flat major  | None                 | 1912        |
-| 26                                  | 3 | F minor       | None                 | 1912        |
-| 26                                  | 4 | F sharp minor | None                 | 1912        |
-| 31                                  | 3 | G sharp minor | None                 | 1914-1915   |
-| 34                                  | 1 | B minor       | Magic Violin         | 1916-1917   |
-| 34                                  | 2 | E minor       | None                 | 1916-1917   |
-| 34                                  | 3 | A minor       | Wood Spirit          | 1916-1917   |
-| 34                                  | 4 | D minor       | None                 | 1916-1917   |
-| 35                                  | 1 | C major       | None                 | 19161917    |
-| 35                                  | 2 | G major       | None                 | 1916-1917   |
-| 35                                  | 2 | A minor       | None                 | 1916ï¿½1917 |
-| 35                                  | 4 | C sharp minor | None                 | 1916-1917   |
-| 42                                  | 1 | F minor       | Russian Tale         | 1921-1923   |
-| 42                                  | 2 | C minor       | Phrygian             | 1921-1923   |
-| 42                                  | 3 | G sharp minor | None                 | 1921-1923   |
-| 48                                  | 1 | C major       | Dance Tale           | 1926        |
-| 48                                  | 2 | G minor       | Tale of the Elves    | 1926        |
-| 51                                  | 1 | D minor       | None                 | 1928        |
-| 51                                  | 2 | A minor       | None                 | 1928        |
-| 51                                  | 3 | A major       | None                 | 1928        |
-| 51                                  | 4 | F sharp minor | None                 | 1928        |
-| 51                                  | 5 | F sharp minor | None                 | 1928        |
-| 51                                  | 6 | G major       | None                 | 1928        |
-| 54                                  | 2 | C minor       | Bird's Tale          | 1932        |
-| 54                                  | 4 | E minor       | Scherzo              | 1932        |
-| 54                                  | 6 | D minor       | The Organ Grinder    | 1932        |
-| 54                                  | 8 | E minor       | The Beggar           | 1932        |
-| deest                               |   | D minor       |                      | 1915        |
+# Nikolai Medtner - Tales
 
-# Syntactic errors in the annotated MSCX files
+This corpus has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op08n01_labelled.mscx...
-Captured only 256 out of the 257 harmonies in op08n01_labelled.mscx. Use -r to keep changes.
+It is part of a larger dataset that has been submitted for publication as 
+`Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). 
+An Annotated Corpus of Tonal Piano Music from the Long 19th Century`.
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op14n01_labelled.mscx...
-All good.
-[23, '1.1/2', 'V/VII[i7']
-[24, '1.1/2', 'V/VII[v']
-[24, '2', 'V/VII[III']
+## Getting the data
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op26n01_labelled.mscx...
-op26n01_labelled.mscx's first symbol does not indicate the tonality correctly. Leading dot missing?
-Captured only 209 out of the 210 harmonies in op26n01_labelled.mscx. Use -r to keep changes.
-[30, '3', 'V/vi[ii']
-[31, '3', 'V/vi[ii']
-[32, '1', 'V/vi[ii']
-op26n01_labelled.mscx's first symbol does not indicate the tonality correctly: I => ['I'] Maybe the initial dot is missing.
+### With full version history
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op26n02_labelled.mscx...
-Captured only 192 out of the 196 harmonies in op26n02_labelled.mscx. Use -r to keep changes.
+The dataset is version-controlled via [git](https://git-scm.com/). In order to download the files with all
+revisions they have gone through, git needs to be installed on your machine. Then you can clone this 
+repository using the command
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op26n03_labelled.mscx...
-All good.
+```bash
+git clone https://github.com/DCMLab/medtner_tales.git
+```
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op26n04_labelled.mscx...
-op26n04_labelled.mscx m. 3 tick 480: voice 2 tries to override V(4) with i. Repair manually.
-op26n04_labelled.mscx m. 28: The <Harmony> tag containing 'ii65' is not properly attached to an event. Please correct manually.
-op26n04_labelled.mscx m. 33: The <Harmony> tag containing 'ii%65' is not properly attached to an event. Please correct manually.
-op26n04_labelled.mscx m. 41: The <Harmony> tag containing 'IM7' is not properly attached to an event. Please correct manually.
-op26n04_labelled.mscx m. 48: The <Harmony> tag containing 'iii64' is not properly attached to an event. Please correct manually.
-op26n04_labelled.mscx m. 49: The <Harmony> tag containing 'ii43/vii' is not properly attached to an event. Please correct manually.
-op26n04_labelled.mscx m. 50: The <Harmony> tag containing 'V65(b3)/vi' is not properly attached to an event. Please correct manually.
-Captured only 256 out of the 282 harmonies in op26n04_labelled.mscx. Use -r to keep changes.
-[0, '1', '.f#.@none']
-[59, '3', 'VII+M7']
-[62, '1', '.i.@none']
+### Without full version history
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op34n01_labelled.mscx...
-All good.
-[1, '1', '.b.@none']
-[175, '4', 'bII6[viio/iv']
+If you are only interested in the current version of the corpus, you can simply download and unpack
+[this ZIP file](https://github.com/DCMLab/medtner_tales/archive/refs/heads/main.zip).
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op34n02_labelled.mscx...
-Captured only 224 out of the 225 harmonies in op34n02_labelled.mscx. Use -r to keep changes.
-[19, '1', 'ii%7[I']
-[23, '1', 'ii%7[I']
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op34n03_labelled.mscx...
-Captured only 448 out of the 449 harmonies in op34n03_labelled.mscx. Use -r to keep changes.
-[16, '2', 'ii@43']
-[27, '1', 'iv/iv[i%7']
-[28, '1', 'V2/iv[VII6']
-[48, '2.1/2', "v['#ivo7"]
-[53, '2.1/2', 'V/bI[#ivo/bI']
-[54, '1', 'V/bI[#ivo/bI']
-[54, '2', "V/bI['V7/bIII"]
-[54, '2.1/2', 'V/bI[vio/bI']
-[57, '2.1/2', 'V/bVII[#ivo/bVII']
-[58, '1', 'V/bVII[#ivo/bVII']
-[58, '2', 'V/bII[V7']
-[58, '2.1/2', 'V/bVII[vio/bVII']
-[61, '2.1/2', "V/v''i"]
-[62, '2', "V/v''i"]
-[70, '1', "iv''V9/iv"]
-[70, '2', "iv6''#viio7/iv"]
-[71, '1', "iv6''#ivo7/iv"]
-[71, '2', "i''#viio7"]
-[82, '2.1/2', 'V/iv[iv/iv']
-[84, '1', '.i.@none']
-[87, '1', 'vii6[IV']
-[94, '2', 'i6[iio6']
-[123, '2', 'V/III[IVM7/III']
+## Data Formats
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op34n04_labelled.mscx...
-Captured only 386 out of the 387 harmonies in op34n04_labelled.mscx. Use -r to keep changes.
-[16, '3', 'V/III[ii64(9)/III']
-[35, '2.1/2', 'V/III[iv']
-[56, '3.1/2', 'V43[IV']
+Each piece in this corpus is represented by four files with identical names, each in its own folder. For example, 
+the first tale has the following files:
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op35n01_labelled.mscx...
-All good.
-[37, '1', "#iv''#III+"]
-[38, '1', "#iv''#III+"]
+* `MS3/op08n01.mscx`: Uncompressed MuseScore file including the music and annotation labels.
+* `notes/op08n01.tsv`: A table of all note heads contained in the score and their relevant features (not each of them represents an onset, some are tied together)
+* `measures/op08n01.tsv`: A table with relevant information about the measures in the score.
+* `harmonies/op08n01.tsv`: A list of the included harmony labels (including cadences and phrases) with their positions in
+  the score.
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op35n02_labelled.mscx...
-op35n02_labelled.mscx's first symbol does not indicate the tonality correctly. Leading dot missing?
-All good.
-[52, '1', '.iii.@none']
-[99, '1.1/2', 'i64[iio']
-[101, '1.1/2', 'iii6[vi']
-[102, '1.1/2', 'V7/VII[V']
-op35n02_labelled.mscx's first symbol does not indicate the tonality correctly: V43 => ['V43'] Maybe the initial dot is missing.
+### Opening Scores
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op35n03_labelled.mscx...
-Captured only 331 out of the 328 harmonies in op35n03_labelled.mscx. Use -r to keep changes.
-[16, '2', 'i56']
-[16, '4', 'VIM56']
-[31, '3', 'V/v(4)']
-[35, '2', 'V/v(4)']
-[40, '1', 'VI+[v']
-[42, '1', 'VI+[v']
-[58, '1', 'i.i.bII6']
+After navigating to your local copy, you can open the scores in the folder `MS3` with the free and open source score
+editor [MuseScore](https://musescore.org). Please note that the scores have been edited, annotated and tested with
+[MuseScore 3.6.2](https://github.com/musescore/MuseScore/releases/tag/v3.6.2). 
+MuseScore 4 has since been released and preliminary tests suggest that it renders them correctly.
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op35n04_labelled.mscx...
-Captured only 475 out of the 481 harmonies in op35n04_labelled.mscx. Use -r to keep changes.
-[21, '4', 'V76/III']
-[31, '4.1/2', 'i6[#viio7']
-[33, '4.1/2', 'i6[#viio7']
-[59, '2.1/2', 'V/VII[i']
-[59, '3', 'V/VII[V7/bII']
-[59, '4.1/2', 'V/VII[iii']
-[61, '2.1/2', 'V/VII[i']
-[61, '3', 'V/VII[V7/bII']
-[61, '4.1/2', 'V/VII[iii']
-[63, '2.1/2', 'V/VII[i']
-[63, '3', 'V/VII[V7/bII']
-[63, '4.1/2', 'V/VII[iii']
-[69, '3', 'i6[VII']
+### Opening TSV files in a spreadsheet
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op42n01_labelled.mscx...
-All good.
+Tab-separated value (TSV) files are like Comma-separated value (CSV) files and can be opened with most modern text
+editors. However, for correctly displaying the columns, you might want to use a spreadsheet or an addon for your
+favourite text editor. When you use a spreadsheet such as Excel, it might annoy you by interpreting fractions as
+dates. This can be circumvented by using `Data --> From Text/CSV` or the free alternative
+[LibreOffice Calc](https://www.libreoffice.org/download/download/). Other than that, TSV data can be loaded with
+every modern programming language.
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op42n02_labelled.mscx...
-Captured only 205 out of the 211 harmonies in op42n02_labelled.mscx. Use -r to keep changes.
+### Loading TSV files in Python
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op42n03_labelled.mscx...
-Captured only 583 out of the 585 harmonies in op42n03_labelled.mscx. Use -r to keep changes.
-[0, '1', '.g#.@none']
-[38, '2', 'V/III[IV/III']
-[39, '2.1/2', 'viio6[I']
-[144, '1', '.i.@none']
-[179, '3.1/2', 'i(9b)']
+Since the TSV files contain null values, lists, fractions, and numbers that are to be treated as strings, you may want
+to use this code to load any TSV files related to this repository (provided you're doing it in Python). After a quick
+`pip install -U ms3` (requires Python 3.10) you'll be able to load any TSV like this:
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op48n01_labelled.mscx...
-Captured only 1145 out of the 1153 harmonies in op48n01_labelled.mscx. Use -r to keep changes.
-[6, '1.3/4', 'V64[vi']
-[30, '1.3/4', 'V64[vi']
-[40, '1', 'vii%7[vi']
-[99, '1.1/2', 'vi7[V7/V']
-[99, '2', 'vi7[V']
-[130, '1.1/2', 'vi7[V7/V']
-[130, '2', 'vi7[V']
-[171, '1.1/2', 'V/IV[IV']
-[175, '1.1/2', 'vi7[V7']
-[175, '2', 'ii7[I']
-[201, '1.1/2', 'V64[#ivo']
-[254, '1.1/2', 'I64[viio']
-[408, '1.1/2', 'vi7[V7/V']
-[408, '2', 'vi7[V']
-[449, '1.1/2', 'V/IV[IV']
-[453, '1.1/2', 'vi7[V7']
-[453, '2', 'ii7[I']
-[486, '1.3/4', 'V64[vi']
-[496, '1', 'vii%7[vi']
+```python
+import ms3
 
-Checking /Users/johentsch/corpora/annotations/Medtner-Märchen/annotated_MS2/op48n02_labelled.mscx...
-Captured only 321 out of the 324 harmonies in op48n02_labelled.mscx. Use -r to keep changes.
+labels = ms3.load_tsv('harmonies/op08n01.tsv')
+notes = ms3.load_tsv('notes/op08n01.tsv')
+```
 
-# Missing scores
+## How to read `metadata.tsv`
 
-op08n02.txt
-op09n01.txt
-op09n02.txt
-op09n03.txt
-op14n02.txt
-op20n01.txt
-op20n02.txt
-op31n03.txt
-op51n01.txt
-op51n02.txt
-op51n03.txt
-op51n04.txt
-op51n05.txt
-op51n06.txt
-op54n02.txt
-op54n04.txt
-op54n06.txt
-op54n08.txt
-opdeest.txt
+This section explains the meaning of the columns contained in `metadata.tsv`.
 
+### File information
+
+| column                 | content                                                    |
+|------------------------|------------------------------------------------------------|
+| **fname**              | name without extension (for referencing related files)     |
+| **rel_path**           | relative file path of the score, including extension       |
+| **subdirectory**       | folder where the score is located                          |    
+| **last_mn**            | last measure number                                        |
+| **last_mn_unfolded**   | number of measures when playing all repeats                |
+| **length_qb**          | length of the piece, measured in quarter notes             |
+| **length_qb_unfolded** | length of the piece when playing all repeats               |
+| **volta_mcs**          | measure counts of first and second endings                 |
+| **all_notes_qb**       | summed up duration of all notes, measured in quarter notes |
+| **n_onsets**           | number of note onsets                                      |
+| **n_onset_positions**  | number of unique note onsets ("slices")                    |
+
+
+### Composition information
+
+| column             | content                   |
+|--------------------|---------------------------|
+| **composer**       | composer name             |
+| **workTitle**      | work title                |
+| **composed_start** | earliest composition date |
+| **composed_end**   | latest composition date   |
+| **workNumber**     | Catalogue number(s)       |
+| **movementNumber** | 1, 2, or 3                |
+| **movementTitle**  | title of the movement     |
+
+### Score information
+
+| column          | content                                                |
+|-----------------|--------------------------------------------------------|
+| **label_count** | number of chord labels                                 |
+| **KeySig**      | key signature(s) (negative = flats, positive = sharps) |
+| **TimeSig**     | time signature(s)                                      |
+| **musescore**   | MuseScore version                                      |
+| **source**      | URL to the first typesetter's file                     |
+| **typesetter**  | first typesetter                                       |
+| **annotators**  | creator(s) of the chord labels                         |
+| **reviewers**   | reviewer(s) of the chord labels                        |
+
+### Identifiers
+
+These columns provide a mapping between multiple identifiers for the sonatas (not for individual movements).
+
+| column          | content                                                                                                 |
+|-----------------|---------------------------------------------------------------------------------------------------------|
+| **wikidata**    | URL of the [WikiData](https://www.wikidata.org/) item                                                   |
+| **viaf**        | URL of the Virtual International Authority File ([VIAF](http://viaf.org/)) entry                        |
+| **musicbrainz** | [MusicBrainz](https://musicbrainz.org/) identifier                                                      |
+| **imslp**       | URL to the wiki page within the International Music Score Library Project ([IMSLP](https://imslp.org/)) |
+
+
+## Generating all TSV files from the scores
+
+When you have made changes to the scores and want to update the TSV files accordingly, you can use the following
+command (provided you have pip-installed [ms3](https://github.com/johentsch/ms3)):
+
+```python
+ms3 extract -M -N -X -D # for measures, notes, expanded annotations, and metadata
+```
+
+If, in addition, you want to generate the reviewed scores with out-of-label notes colored in red, you can do
+
+```python
+ms3 review -M -N -X -D # for extracting measures, notes, expanded annotations, and metadata
+```
+
+By adding the flag `-c` to the review command, it will additionally compare the (potentially modified) annotations in the score
+with the ones currently present in the harmonies TSV files and reflect the comparison in the reviewed scores.
+
+## Questions, Suggestions, Corrections, Bug Reports
+
+For questions, remarks etc., please create an issue and feel free to fork and submit pull requests.
+
+## License
+
+Creative Commons Attribution-ShareAlike 4.0 International License ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)).
+
+## Naming convention
+
+The file names listed in the [Overview](#overview) below refer to the following pieces:
+
+| Opus  |No.| Key           | Title                | Included |
+|-------|---|---------------|----------------------|----------|
+| 8     | 1 | C minor       |                      | yes      |
+| 8     | 2 | C minor       |                      | no       |
+| 9     | 1 | F minor       |                      | no       |
+| 9     | 2 | C major       |                      | no       |
+| 9     | 3 | G major       |                      | no       |
+| 14    | 1 | F minor       | Ophelia's Song       | yes      |
+| 14    | 2 | E minor       | March of the Paladin | no       |
+| 20    | 1 | B flat minor  |                      | no       |
+| 20    | 2 | B minor       | Campanella           | no       |
+| 26    | 1 | E flat major  |                      | yes      |
+| 26    | 2 | E flat major  |                      | yes      |
+| 26    | 3 | F minor       |                      | yes      |
+| 26    | 4 | F sharp minor |                      | yes      |
+| 31    | 3 | G sharp minor |                      | no       |
+| 34    | 1 | B minor       | Magic Violin         | yes      |
+| 34    | 2 | E minor       |                      | yes      |
+| 34    | 3 | A minor       | Wood Spirit          | yes      |
+| 34    | 4 | D minor       |                      | yes      |
+| 35    | 1 | C major       |                      | yes      |
+| 35    | 2 | G major       |                      | yes      |
+| 35    | 2 | A minor       |                      | yes      |
+| 35    | 4 | C sharp minor |                      | yes      |
+| 42    | 1 | F minor       | Russian Tale         | yes      |
+| 42    | 2 | C minor       | Phrygian             | yes      |
+| 42    | 3 | G sharp minor |                      | yes      |
+| 48    | 1 | C major       | Dance Tale           | yes      |
+| 48    | 2 | G minor       | Tale of the Elves    | yes      |
+| 51    | 1 | D minor       |                      | no       |
+| 51    | 2 | A minor       |                      | no       |
+| 51    | 3 | A major       |                      | no       |
+| 51    | 4 | F sharp minor |                      | no       |
+| 51    | 5 | F sharp minor |                      | no       |
+| 51    | 6 | G major       |                      | no       |
+| 54    | 2 | C minor       | Bird's Tale          | no       |
+| 54    | 4 | E minor       | Scherzo              | no       |
+| 54    | 6 | D minor       | The Organ Grinder    | no       |
+| 54    | 8 | E minor       | The Beggar           | no       |
+| deest |   | D minor       |                      | no       |
 
 # Overview
 |file_name|measures|labels|standard|                 annotators                 |   reviewers    |
