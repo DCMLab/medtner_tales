@@ -1,5 +1,10 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/medtner_tales?display_name=tag)
+[![DOI](https://zenodo.org/badge/383821270.svg)](https://zenodo.org/badge/latestdoi/383821270)
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/medtner_tales)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf) 
+
 <!-- TOC -->
-* [Nikolai Medtner - Tales](#nikolai-medtner---tales)
+* [Nikolai Medtner - Tales (A corpus of annotated scores)](#nikolai-medtner---tales--a-corpus-of-annotated-scores-)
   * [Getting the data](#getting-the-data)
     * [With full version history](#with-full-version-history)
     * [Without full version history](#without-full-version-history)
@@ -19,14 +24,25 @@
 * [Overview](#overview)
 <!-- TOC -->
 
-# Nikolai Medtner - Tales
+# Nikolai Medtner - Tales (A corpus of annotated scores)
 
-This corpus has been created within the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
-the [DCML harmony annotation standard](https://github.com/DCMLab/standards).
+This corpus of annotated [MuseScore](https://musescore.org) files has been created within
+the [DCML corpus initiative](https://github.com/DCMLab/dcml_corpora) and employs
+the [DCML harmony annotation standard](https://github.com/DCMLab/standards). It is one out of nine similar corpora that
+have been grouped together
+to [An Annotated Corpus of Tonal Piano Music from the Long 19th Century](https://github.com/DCMLab/romantic_piano_corpus)
+which comes with a data report that is currently under review.
 
-It is part of a larger dataset that has been submitted for publication as 
-`Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). 
-An Annotated Corpus of Tonal Piano Music from the Long 19th Century`.
+**Version 1** has been released for submitting it as part of the data
+report `Hentschel, J., Rammos, Y., Neuwirth, M., Rohrmeier, M. (forthcoming). An Annotated Corpus of Tonal Piano Music from the Long 19th Century`
+that accompanies nine corpora grouped under the DOI [10.5281/zenodo.7483349](https://doi.org/10.5281/zenodo.7483349).
+
+**Version 1.1** comes with a complete set of metadata and score headers. Among more accurate composition dates, the
+metadata now include URIs that identify the compositions in terms of
+the [Virtual International Authority File (VIAF)](https://viaf.org/), [Wikidata](https://www.wikidata.org), [IMSLP](https://imslp.org/)
+and [MusicBrainz](https://musicbrainz.org/). The data has been re-extracted from the scores
+using [ms3 1.1.1](https://pypi.org/project/ms3/).
+
 
 ## Getting the data
 
@@ -216,27 +232,27 @@ The file names listed in the [Overview](#overview) below refer to the following 
 | deest |   | D minor       |                      | no       |
 
 # Overview
-|file_name|measures|labels|standard|                 annotators                 |   reviewers    |
-|---------|-------:|-----:|--------|--------------------------------------------|----------------|
-|op08n01  |      81|   213|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op14n01  |      85|   265|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n01  |      47|   180|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n02  |      65|   166|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n03  |      81|   116|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n04  |      77|   300|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n01  |     237|   669|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n02  |      48|   195|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n03  |     144|   408|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n04  |      61|   323|2.2.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op35n01  |      75|   272|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op35n02  |     139|   422|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, JH, AB      |
-|op35n03  |      80|   320|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op35n04  |     122|   345|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n01  |     134|   479|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n02  |      67|   178|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n03  |     182|   552|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n01  |     553|  1020|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n02  |     186|   307|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
+|file_name|measures|labels|standard|  annotators   | reviewers  |
+|---------|-------:|-----:|--------|---------------|------------|
+|op08n01  |      81|   213|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op14n01  |      85|   265|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n01  |      47|   180|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n02  |      65|   166|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n03  |      81|   116|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n04  |      77|   300|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n01  |     237|   669|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n02  |      48|   195|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n03  |     144|   408|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n04  |      61|   323|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n01  |      75|   272|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n02  |     139|   422|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n03  |      80|   320|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n04  |     122|   345|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n01  |     134|   479|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n02  |      67|   178|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n03  |     182|   552|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op48n01  |     553|  1020|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op48n02  |     186|   307|2.2.0   |Wendelin Bitzan|Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.4.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
