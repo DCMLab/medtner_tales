@@ -302,13 +302,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0.13164" y="-5.20217"/>
-          <text>Zwei Märchen</text>
+          <text>Tales, op.8</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="0" y="3.79896"/>
-          <text>op.8 Nr. 1</text>
+          <text>1. Andantino</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure>

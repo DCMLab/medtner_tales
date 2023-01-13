@@ -304,19 +304,16 @@
         <height>10.2</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>1. The Magic Violin</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.309774" y="-0.82604"/>
-          <text><font size="9.1196"/><font face="Plantin MT Std"/>Op.34</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.309774" y="-0.70129"/>
-          <text><font size="18.2392"/><font face="Plantin MT Std"/>VIER MÄRCHEN OP. 34
-I</text>
+          <text>Tales, op.34</text>
           </Text>
         </VBox>
       <Measure>

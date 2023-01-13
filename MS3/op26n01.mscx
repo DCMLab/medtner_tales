@@ -304,17 +304,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="1.36889" y="-5.49397"/>
-          <text><font size="16.9813"/><font face="Plantin MT Std"/>Vier Märchen</text>
+          <text>Tales, op.26</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="2.43359" y="0.223934"/>
-          <text><font size="10.7628"/><font face="Plantin MT Std"/>Op. 26 No1</text>
+          <text>1. Allegretto frescamente</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure len="1/8">

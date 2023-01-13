@@ -302,19 +302,16 @@
         <height>5.9</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>1. Dancing Tale</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0" y="-5.55506"/>
-          <text><font size="9.1196"/><font face="Plantin MT Std"/>Op.48</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.308614" y="-7.12536"/>
-          <text><font size="18.2392"/><font face="Plantin MT Std"/>Medtner Op.48
-I</text>
+          <text>Tales, op.48</text>
           </Text>
         </VBox>
       <Measure len="1/8">

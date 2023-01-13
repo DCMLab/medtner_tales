@@ -303,18 +303,16 @@
         <height>5.8</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>2. Capriccioso, con grazia</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.745962" y="-7.9072"/>
-          <text><font size="9.4341"/><font face="Plantin MT Std"/>Op.35</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.149192" y="-6.42204"/>
-          <text><font size="18.8681"/><font face="Plantin MT Std"/>II</text>
+          <text>Tales, op.35</text>
           </Text>
         </VBox>
       <Measure len="1/8">

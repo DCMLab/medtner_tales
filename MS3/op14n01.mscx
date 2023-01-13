@@ -304,18 +304,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0.507457" y="-4.48457"/>
-          <text>Zwei Märchen</text>
+          <text>Tales, op.14</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="-0.380593" y="-7.23126"/>
-          <text>Medtner</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-0.634321" y="3.99001"/>
-          <text>op.14 Nr.1</text>
+          <text>1. Ophelia's Song</text>
           </Text>
         </VBox>
       <Measure len="1/4">

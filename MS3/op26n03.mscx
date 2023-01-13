@@ -303,17 +303,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.447577" y="-7.76477"/>
-          <text><font size="18.8681"/><font face="Plantin MT Std"/>III</text>
+          <text>Tales, op.26</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="0.298385" y="-1.46974"/>
-          <text><font size="11.9587"/><font face="Plantin MT Std"/>Op.26</text>
+          <text>3. Narrante a piacere</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure>

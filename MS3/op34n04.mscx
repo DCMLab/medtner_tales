@@ -304,18 +304,16 @@
         <height>9.6</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>4. Molto sostenuto e semplice</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0" y="-10.4929"/>
-          <text><font size="9.1196"/><font face="Plantin MT Std"/>Medtner Op.34</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.168462" y="-1.01825"/>
-          <text><font size="18.2392"/><font face="Plantin MT Std"/>IV</text>
+          <text>Tales, op.34</text>
           </Text>
         </VBox>
       <Measure>

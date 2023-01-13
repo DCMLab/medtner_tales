@@ -304,17 +304,16 @@
         <height>9.6</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>2. Con moto disinvolto e grazioso</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="0" y="-6.78951"/>
-          <text><font size="9.1196"/><font face="Plantin MT Std"/>Op.42</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="18.2392"/><font face="Plantin MT Std"/>II</text>
+          <text>Tales, op.42</text>
           </Text>
         </VBox>
       <Measure>

@@ -304,10 +304,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="-0.149192" y="-6.57123"/>
-          <text><font size="18.8681"/><font face="Plantin MT Std"/>IV</text>
+          <text>Tales, op.26</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>4. Sostenuto</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure len="1/4">

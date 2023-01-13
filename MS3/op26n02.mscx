@@ -305,11 +305,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.298385" y="-7.46639"/>
-          <text><font size="11.9587"/><font face="Plantin MT Std"/>II
-Op.26</text>
+          <text>Tales, op.26</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>2. Molto vivace</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure>

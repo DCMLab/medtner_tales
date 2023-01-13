@@ -312,16 +312,16 @@
         <height>9.6</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>4. Allegro appassionato e tempestoso</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <text><font size="9.4341"/><font face="Plantin MT Std"/>Op.35</text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <text><font size="18.8681"/><font face="Plantin MT Std"/>IV</text>
+          <text>Tales, op.35</text>
           </Text>
         </VBox>
       <Measure>

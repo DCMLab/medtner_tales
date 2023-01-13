@@ -305,11 +305,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.856882" y="-0.220296"/>
-          <text><font size="18.2392"/><font face="Plantin MT Std"/>Medtner Op.42
-I</text>
+          <text>Tales, op.42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Russian Tale</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolay Medtner</text>
           </Text>
         </VBox>
       <Measure>

@@ -304,17 +304,16 @@
         <height>8.1</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>2. Allegro cantabile e leggiero</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <text><font size="9.4341"/><font face="Plantin MT Std"/><b>Op.34</b></text>
+          <text>Nikolay Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.149192" y="-5.82527"/>
-          <text><font size="18.8681"/><font face="Plantin MT Std"/>II</text>
+          <text>Tales, op.34</text>
           </Text>
         </VBox>
       <Measure>
