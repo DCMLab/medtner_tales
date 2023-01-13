@@ -214,7 +214,7 @@
     <metaTag name="composed_end">1912</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1910</metaTag>
-    <metaTag name="composer">Nikolay Medtner</metaTag>
+    <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
     <metaTag name="harmony_version">2.2.0</metaTag>
@@ -312,7 +312,7 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <text>Nikolay Medtner</text>
+          <text>Nikolai Medtner</text>
           </Text>
         </VBox>
       <Measure len="1/4">

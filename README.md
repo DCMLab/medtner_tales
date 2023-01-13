@@ -1,3 +1,8 @@
+![Version](https://img.shields.io/github/v/release/DCMLab/medtner_tales?display_name=tag)
+[![DOI](https://zenodo.org/badge/383821270.svg)](https://zenodo.org/badge/latestdoi/383821270)
+![GitHub repo size](https://img.shields.io/github/repo-size/DCMLab/medtner_tales)
+![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-9cf) 
+
 <!-- TOC -->
 * [Nikolai Medtner - Tales (A corpus of annotated scores)](#nikolai-medtner---tales--a-corpus-of-annotated-scores-)
   * [Getting the data](#getting-the-data)
