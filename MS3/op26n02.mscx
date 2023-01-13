@@ -209,28 +209,32 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_start">1904</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1912</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1910</metaTag>
+    <metaTag name="composer">Nikolay Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.26_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">2</metaTag>
+    <metaTag name="movementTitle">Molto vivace</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/b33e597e-e46d-40f2-9102-373e463f1e57</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
+    <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle"></metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/1203158982590356190002</metaTag>
+    <metaTag name="workNumber">op.26</metaTag>
+    <metaTag name="workTitle">Tales</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -304,7 +308,7 @@
           <family>FreeSerif</family>
           <size>24</size>
           <offset x="0.298385" y="-7.46639"/>
-          <text><font size="11.9587"></font><font face="Plantin MT Std"></font>II
+          <text><font size="11.9587"/><font face="Plantin MT Std"/>II
 Op.26</text>
           </Text>
         </VBox>
@@ -1587,7 +1591,7 @@ Op.26</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.345186" y="-3.35062"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco rit.</text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco rit.</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -10083,7 +10087,7 @@ Op.26</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font><i>leggiero</i></text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/><i>leggiero</i></text>
             </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13653,7 +13657,7 @@ Op.26</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.460248" y="-4.03556"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>follare</text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/>follare</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -19336,7 +19340,7 @@ Op.26</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-3.57222" y="-8.50155"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sostenuto</text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/>sostenuto</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -19383,7 +19387,7 @@ Op.26</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -19609,7 +19613,7 @@ Op.26</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.785889" y="-4.9"/>
-            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cresc.</text>
+            <text><font size="10.2313"/><font face="Plantin MT Std"/>cresc.</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
