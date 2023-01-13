@@ -1,16 +1,16 @@
 Warnings encountered during the last execution of ms3 review (v1.1.1)
 =====================================================================
 
+DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4194) features2tpcs():
+	MC 41: In seventh chords, such as V43(7b5), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 48: ') ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
 	MC 48: #vii in major context corrected to vii.
 DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4194) features2tpcs():
 	MC 43: In seventh chords, such as V43(7b5), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
-DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4194) features2tpcs():
-	MC 41: In seventh chords, such as V43(7b5), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 52, 'V7(b96b5)') ms3.Parse.medtner_tales.op26n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
-	MC 52: V7(b96b5) results in a chord tone 5th AND its replacement(s) (TPC [0]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 48, 'V7(b96b5)') ms3.Parse.medtner_tales.op26n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
 	MC 48: V7(b96b5) results in a chord tone 5th AND its replacement(s) (TPC [0]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 52, 'V7(b96b5)') ms3.Parse.medtner_tales.op26n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 52: V7(b96b5) results in a chord tone 5th AND its replacement(s) (TPC [0]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 34: ') ms3.Parse.medtner_tales.op26n04 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
 	MC 34: #vii in major context corrected to vii.
 DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op26n04 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
