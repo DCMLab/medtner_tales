@@ -216,27 +216,27 @@ The file names listed in the [Overview](#overview) below refer to the following 
 | deest |   | D minor       |                      | no       |
 
 # Overview
-|file_name|measures|labels|standard|                 annotators                 |   reviewers    |
-|---------|-------:|-----:|--------|--------------------------------------------|----------------|
-|op08n01  |      81|   213|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op14n01  |      85|   265|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n01  |      47|   180|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n02  |      65|   166|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n03  |      81|   116|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op26n04  |      77|   300|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n01  |     237|   669|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n02  |      48|   195|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n03  |     144|   408|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op34n04  |      61|   323|2.2.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op35n01  |      75|   272|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, DK|
-|op35n02  |     139|   422|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, JH, AB      |
-|op35n03  |      80|   320|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op35n04  |     122|   345|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n01  |     134|   479|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n02  |      67|   178|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n03  |     182|   552|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n01  |     553|  1020|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n02  |     186|   307|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
+|file_name|measures|labels|standard|  annotators   | reviewers  |
+|---------|-------:|-----:|--------|---------------|------------|
+|op08n01  |      81|   213|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op14n01  |      85|   265|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n01  |      47|   180|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n02  |      65|   166|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n03  |      81|   116|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op26n04  |      77|   300|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n01  |     237|   669|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n02  |      48|   195|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n03  |     144|   408|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op34n04  |      61|   323|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n01  |      75|   272|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n02  |     139|   422|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n03  |      80|   320|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op35n04  |     122|   345|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n01  |     134|   479|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n02  |      67|   178|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op42n03  |     182|   552|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op48n01  |     553|  1020|2.2.0   |Wendelin Bitzan|Adrian Nagel|
+|op48n02  |     186|   307|2.2.0   |Wendelin Bitzan|Adrian Nagel|
 
 
-*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.0.4.*
+*Overview table updated using [ms3](https://johentsch.github.io/ms3/) 1.1.1.*
