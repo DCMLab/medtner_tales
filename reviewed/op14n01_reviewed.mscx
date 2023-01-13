@@ -209,27 +209,31 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_start">1904</metaTag>
-    <metaTag name="composer">Medtner</metaTag>
+    <metaTag name="composed_end">1907</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1905</metaTag>
+    <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2017-10-23</metaTag>
-    <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/2_Tales%2C_Op.14_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Ophelia's Song</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/6ac801bb-1a06-4132-9bd3-34df61228178</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/5801</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
+    <metaTag name="reviewers">Adrian Nagel</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Märchen</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/180482144</metaTag>
+    <metaTag name="workNumber">op.14</metaTag>
+    <metaTag name="workTitle">Tales</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -300,18 +304,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <offset x="0.507457" y="-4.48457"/>
-          <text>Zwei Märchen</text>
+          <text>Tales, op.14</text>
           </Text>
         <Text>
           <style>Composer</style>
-          <offset x="-0.380593" y="-7.23126"/>
-          <text>Medtner</text>
+          <text>Nikolai Medtner</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <offset x="-0.634321" y="3.99001"/>
-          <text>op.14 Nr.1</text>
+          <text>1. Ophelia's Song</text>
           </Text>
         </VBox>
       <Measure len="1/4">
