@@ -10133,9 +10133,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.104602" y="-0.313805"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -10220,11 +10217,6 @@
             <durationType>16th</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.523009" y="5.02088"/>
-                  <o2 x="4.91628" y="11.0878"/>
-                  <o4 x="0.418407" y="-0.104602"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -30724,7 +30716,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I/V|HC}{</name>
+            <name>I/V|PAC}{</name>
             </Harmony>
           <Spanner type="Trill">
             <prev>
@@ -38390,7 +38382,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V64</name>
+            <name>V(4)-iv(4)/vi</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -38405,7 +38397,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V65(9)</name>
+            <name>ii65(9)/vi</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -38417,7 +38409,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6</name>
+            <name>v/vi</name>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -38449,7 +38441,7 @@ quasi Violoncello solo</text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I6(6)</name>
+            <name>vi64-I6(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
