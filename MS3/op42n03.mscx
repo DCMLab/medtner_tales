@@ -26874,7 +26874,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)/ii</name>
+            <name>V+/ii</name>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
