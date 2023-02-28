@@ -209,7 +209,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1912</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
@@ -217,7 +217,7 @@
     <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.26_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
@@ -228,7 +228,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -1595,7 +1595,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.345186" y="-3.35062"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco rit.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco rit.</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -10091,7 +10091,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/><i>leggiero</i></text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font><i>leggiero</i></text>
             </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -13661,7 +13661,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.460248" y="-4.03556"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>follare</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>follare</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -19344,7 +19344,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-3.57222" y="-8.50155"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sostenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sostenuto</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -19391,7 +19391,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -19617,7 +19617,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.785889" y="-4.9"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>cresc.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cresc.</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>

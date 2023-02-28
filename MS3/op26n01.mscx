@@ -209,7 +209,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1912</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
@@ -217,7 +217,7 @@
     <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.26_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
@@ -228,7 +228,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -754,7 +754,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>cantando, grazioso</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>cantando, grazioso</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -1620,7 +1620,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="0.523009" y="2.38832"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>poco rit.</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>poco rit.</text>
             </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -1860,7 +1860,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.313805" y="-4.21965"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>a tempo</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>a tempo</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -3472,7 +3472,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="-0.314355" y="3.74939"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -3801,7 +3801,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="2.20049" y="5.16399"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>risoluto</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -4127,7 +4127,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="0.0785891" y="4.33115"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -5628,7 +5628,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="1.12382" y="4.87373"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>calando</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>calando</text>
             </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
@@ -5761,7 +5761,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.345791" y="-4.03738"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/><i>molto rit.</i></text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font><i>molto rit.</i></text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -5886,13 +5886,13 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-5.66312" y="-4.91316"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>Tempo I</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>Tempo I</text>
             </StaffText>
           <StaffText>
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="0.172895" y="3.03308"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>leggierissimo</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Dynamic>
             <subtype>ppp</subtype>
@@ -6844,7 +6844,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.55606" y="-5.05934"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>pocco miu mosso</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>pocco miu mosso</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -7188,7 +7188,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-2.96961"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/><i>poco riten.</i></text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font><i>poco riten.</i></text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -7324,7 +7324,7 @@
             </Rest>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>a tempo</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>a tempo</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -11439,7 +11439,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.157178" y="-4.8146"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>sopra</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>sopra</text>
             </StaffText>
           <Spanner type="Pedal">
             <Pedal>
@@ -13048,7 +13048,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.471533" y="-7.74331"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>risoluto (poco piu mosso)</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>risoluto (poco piu mosso)</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -13749,7 +13749,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.864477" y="-7.6292"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>risoluto</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -14253,7 +14253,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.157178" y="-7.07908"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -16443,7 +16443,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="2.16119" y="-5.7729"/>
-            <text><font size="9.2082"/><font face="Plantin MT Std"/>sub.</text>
+            <text><font size="9.2082"></font><font face="Plantin MT Std"></font>sub.</text>
             </StaffText>
           <Tuplet>
             <normalNotes>2</normalNotes>
