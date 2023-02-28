@@ -209,7 +209,7 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan</metaTag>
+    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1917</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
@@ -217,7 +217,7 @@
     <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
-    <metaTag name="harmony_version">2.2.0</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.34_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">2</metaTag>
@@ -228,7 +228,7 @@
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8811</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="reviewers">Adrian Nagel</metaTag>
+    <metaTag name="reviewers">Adrian Nagel, DK</metaTag>
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
@@ -1673,7 +1673,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.214333" y="-3.35755"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>piu</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>piu</text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
@@ -2157,7 +2157,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-3.84333"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -2424,7 +2424,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-3.986"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>diminuendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>diminuendo</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -2959,7 +2959,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>cantando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cantando</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -3154,7 +3154,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="-2.66259" y="3.243"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -4625,7 +4625,7 @@
             </Dynamic>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolcissimo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolcissimo</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -6019,12 +6019,12 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="1.25522" y="-4.03681"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>tenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>tenuto</text>
             </StaffText>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-3.66106" y="-5.17239"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>più</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>più</text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -6406,7 +6406,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="-0.732212" y="2.12336"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -6772,7 +6772,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre diminuendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre diminuendo</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -10567,7 +10567,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -14955,7 +14955,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.345186" y="-8.72593"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15546,7 +15546,7 @@
             <minDistance>-999</minDistance>
             <family>FreeSerif</family>
             <offset x="-0.137061" y="-6.43764"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>subito</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>subito</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16610,7 +16610,7 @@
             <minDistance>-0.438407</minDistance>
             <family>FreeSerif</family>
             <offset x="1.29003" y="-4.84003"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -16712,7 +16712,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="6.9759"/><font face="Plantin MT Std"/><b>2</b></text>
+            <text><font size="6.9759"></font><font face="Plantin MT Std"></font><b>2</b></text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -21766,7 +21766,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.729311" y="-8.93984"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>leggierissimo</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -21966,7 +21966,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.27843" y="-7.60594"/>
-            <text><font size="11.9365"/><font face="Plantin MT Std"/>mancando</text>
+            <text><font size="11.9365"></font><font face="Plantin MT Std"></font>mancando</text>
             </StaffText>
           <Chord>
             <durationType>16th</durationType>
