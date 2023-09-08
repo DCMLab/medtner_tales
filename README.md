@@ -250,9 +250,9 @@ The file names listed in the [Overview](#overview) below refer to the following 
 |op35n04  |     122|   345|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
 |op42n01  |     134|   479|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
 |op42n02  |      67|   178|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|AN, AB          |
-|op42n03  |     182|   552|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n01  |     553|  1020|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
-|op48n02  |     186|   307|2.2.0   |Wendelin Bitzan                             |Adrian Nagel    |
+|op42n03  |     182|   504|2.3.0   |Wendelin Bitzan (2.2.0), John heilig (2.3.0)|Adrian Nagel    |
+|op48n01  |     553|   871|2.3.0   |Wendelin Bitzan, John Heilig (2.3.0)        |Adrian Nagel, VZ|
+|op48n02  |     186|   282|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, VZ|
 
 
 *Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
