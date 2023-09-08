@@ -209,21 +209,18 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
-    <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
+    <metaTag name="annotators">wendelin bitzan (2.2.0), john heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
-    <metaTag name="composed_start">1925</metaTag>
-    <metaTag name="composer">Nikolai Medtner</metaTag>
+    <metaTag name="composed_start">1904</metaTag>
+    <metaTag name="composer">Op.48</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
-    <metaTag name="imslp">https://imslp.org/wiki/2_Tales%2C_Op.48_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber">2</metaTag>
-    <metaTag name="movementTitle">Elven Tale</metaTag>
+    <metaTag name="movementNumber"></metaTag>
+    <metaTag name="movementTitle"></metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
-    <metaTag name="musicbrainz">https://musicbrainz.org/work/34dbe089-d845-48ed-a1cf-18f80700b987</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/22160</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
@@ -232,9 +229,8 @@
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="viaf">https://viaf.org/viaf/174374560</metaTag>
-    <metaTag name="workNumber">op.48</metaTag>
-    <metaTag name="workTitle">Tales</metaTag>
+    <metaTag name="workNumber"></metaTag>
+    <metaTag name="workTitle">II</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -303,16 +299,18 @@
         <height>6.1</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
-          <style>Subtitle</style>
-          <text>2. Elven Tale</text>
-          </Text>
-        <Text>
           <style>Composer</style>
-          <text>Nikolai Medtner</text>
+          <family>FreeSerif</family>
+          <size>12</size>
+          <offset x="-0.149192" y="-7.01204"/>
+          <text><font size="9.4341"></font><font face="Plantin MT Std"></font>Op.48</text>
           </Text>
         <Text>
           <style>Title</style>
-          <text>Tales, op.48</text>
+          <family>FreeSerif</family>
+          <size>24</size>
+          <offset x="0" y="-5.97446"/>
+          <text><font size="18.8681"></font><font face="Plantin MT Std"></font>II</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -329,7 +327,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.168462" y="-3.72155"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce, tranquillo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce, tranquillo</text>
             </StaffText>
           <Tempo>
             <tempo>1.8666700000000001</tempo>
@@ -1145,7 +1143,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.253136" y="-5.33911"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco giocoso</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco giocoso</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -1214,7 +1212,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>affrettando (ma poco a poco)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>affrettando (ma poco a poco)</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1466,7 +1464,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre affrettando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre affrettando</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -1658,7 +1656,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.379704" y="-4.64539"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>Vivo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>Vivo</text>
             </StaffText>
           <Dynamic>
             <subtype>mf</subtype>
@@ -2222,7 +2220,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Spanner type="Ottava">
             <prev>
@@ -2325,7 +2323,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -2425,7 +2423,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.10024" y="-4.47178"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>tranquillo (tempo I)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>tranquillo (tempo I)</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -2457,7 +2455,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="0" y="2.97105"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espress.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espress.</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -3163,7 +3161,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="2.8292" y="-2.49343"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -3419,7 +3417,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.0785889" y="-5.39294"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>calando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>calando</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -3931,7 +3929,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco a poco a tempo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco a poco a tempo</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -4359,7 +4357,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>danzando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>danzando</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -4707,7 +4705,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.628711" y="-5.65037"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>cantabile (ma a tempo)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cantabile (ma a tempo)</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -5262,7 +5260,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.02166" y="-3.84963"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>lesto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>lesto</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -5546,7 +5544,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.142889" y="-6.315"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>cantabile</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cantabile</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -6070,7 +6068,7 @@
             </location>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>lesto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>lesto</text>
             </StaffText>
           </voice>
         <voice>
@@ -6359,7 +6357,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espressivo e poco agitato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espressivo e poco agitato</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -6701,7 +6699,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.571555" y="-5.87189"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco largamente</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco largamente</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -6886,7 +6884,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>molto calando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>molto calando</text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -7025,7 +7023,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>danzando (mobile)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>danzando (mobile)</text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
@@ -7483,7 +7481,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.350791" y="-10.1721"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco a poco calmando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco a poco calmando</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -7691,7 +7689,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espr.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espr.</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -7844,7 +7842,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-3.59204"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>(ritenuto)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>(ritenuto)</text>
             </StaffText>
           <Chord>
             <durationType>half</durationType>
@@ -7938,7 +7936,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.523009" y="-9.7991"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>a tempo, semplice, equalemente, mobile, ma tranquillo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>a tempo, semplice, equalemente, mobile, ma tranquillo</text>
             </StaffText>
           <Dynamic>
             <subtype>pp</subtype>
@@ -8667,7 +8665,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8734,7 +8732,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="2.30124" y="1.30336"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>perdendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>perdendo</text>
             </StaffText>
           <Spanner type="Trill">
             <Trill>
@@ -8789,7 +8787,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="2.19664" y="-7.92425"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>a tempo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>a tempo</text>
             </StaffText>
           <Dynamic>
             <subtype>pp</subtype>
@@ -8870,7 +8868,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="-0.941416" y="3.90159"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolcissimo,<font size="10.2313"/><font face="Plantin MT Std"/>ma sempre <font size="10.2313"/><font face="Plantin MT Std"/>semplice</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolcissimo,<font size="10.2313"></font><font face="Plantin MT Std"></font>ma sempre <font size="10.2313"></font><font face="Plantin MT Std"></font>semplice</text>
             </StaffText>
           <Beam>
             <Fragment>
@@ -9597,7 +9595,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.627611" y="-3.59204"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -9839,7 +9837,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="6.45711" y="-7.13103"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>danzando, a tempo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>danzando, a tempo</text>
             </StaffText>
           <Spanner type="Ottava">
             <Ottava>
@@ -11697,7 +11695,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.209204" y="-4.86319"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -11885,7 +11883,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.732212" y="-5.77823"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>a tempo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>a tempo</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -12591,7 +12589,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="1.64543" y="-5.94239"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco a poco a tempo e crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco a poco a tempo e crescendo</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -12919,7 +12917,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.77823" y="-7.07823"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre più agitato e crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre più agitato e crescendo</text>
             </StaffText>
           <Dynamic>
             <subtype>mf</subtype>
@@ -13653,7 +13651,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.732212" y="-8.5669"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>trillo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>trillo</text>
             </StaffText>
           <Chord>
             <durationType>half</durationType>
@@ -13721,7 +13719,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-4.91628" y="-5.18619"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>con moto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>con moto</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -14073,7 +14071,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.523009" y="-5.38743"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>accelerando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>accelerando</text>
             </StaffText>
           <Dynamic>
             <subtype>sf</subtype>
@@ -14350,7 +14348,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-4.18407" y="-4.13221"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre con moto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre con moto</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -14649,7 +14647,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.627611" y="-4.01044"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Rest>
             <durationType>quarter</durationType>
@@ -14855,7 +14853,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.168462" y="-4.11616"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre più mosso</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre più mosso</text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
@@ -15079,7 +15077,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-4.51044"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espressivo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espressivo</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -15485,7 +15483,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.842311" y="-2.07924"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre acceler. e dimin.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre acceler. e dimin.</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -15720,7 +15718,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.104602" y="-4.19204"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>vivo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>vivo</text>
             </StaffText>
           <Dynamic>
             <subtype>p</subtype>
@@ -15985,7 +15983,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggierissimo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Tuplet>
             <normalNotes>4</normalNotes>
@@ -16412,7 +16410,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Rest>
             <visible>0</visible>
@@ -16784,7 +16782,13 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>g.i64{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>g.i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.422311" y="3.82022"/>
             </Harmony>
           <Beam>
@@ -16826,7 +16830,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.844623" y="4.09151"/>
             </Harmony>
           <Beam>
@@ -16942,7 +16952,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -16962,7 +16978,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -17111,6 +17133,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -17145,7 +17172,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43(4)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii43(4)-V43/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.73514" y="4.81902"/>
             </Harmony>
           <Chord>
@@ -17267,7 +17300,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.506273" y="-5.63136"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco crescendo</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -17420,7 +17453,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>calando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>calando</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -17467,7 +17500,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2(6)}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(6)}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -17475,6 +17514,11 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V65(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -17498,7 +17542,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.52032" y="3.84943"/>
             </Harmony>
           <Chord>
@@ -17532,7 +17582,7 @@
             </Dynamic>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggierissimo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -17875,6 +17925,11 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -17886,6 +17941,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -17914,7 +17974,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio43-viio65/V/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.44941" y="5.8335"/>
             </Harmony>
           <Chord>
@@ -18006,7 +18072,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18095,7 +18167,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(9)/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18103,6 +18181,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -18123,7 +18202,13 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(#5)/VI</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.09801" y="7.58902"/>
             </Harmony>
           <Chord>
@@ -18224,12 +18309,23 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#ivo7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger7-V2/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18339,7 +18435,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iio</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18376,7 +18478,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>I</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18389,6 +18497,17 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -18399,7 +18518,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18480,7 +18605,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18514,7 +18645,13 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18542,7 +18679,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -18656,7 +18799,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -18676,7 +18825,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -18807,6 +18962,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -18823,7 +18983,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43(4)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii43(4)-V43/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.397291" y="-7.98645"/>
             </Harmony>
           <Chord>
@@ -19081,7 +19247,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#ivo7/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43(#6#4#2)-viio7/V/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.168925" y="9.16195"/>
             </Harmony>
           <Beam>
@@ -19246,7 +19418,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#vi%43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6(+#6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -19265,7 +19443,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -19288,7 +19472,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(9)/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV7(9)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -19347,7 +19537,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2(#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV7(139)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="1.60478" y="7.00966"/>
             </Harmony>
           <Chord>
@@ -19368,6 +19564,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vi%65</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -19375,6 +19576,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Dynamic>
             <subtype>pp</subtype>
@@ -19464,7 +19666,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2(#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V2</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19476,7 +19684,13 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#vi%43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -19492,7 +19706,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>v64(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19503,7 +19723,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64(9)/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -19547,7 +19773,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.95618" y="10.0208"/>
             </Harmony>
           <Chord>
@@ -19579,7 +19811,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espress.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espress.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -19672,6 +19904,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -19684,6 +19921,11 @@
             <offset x="3.5365" y="7.9034"/>
             <text>espress.</text>
             </StaffText>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="Pedal">
             <prev>
               <location>
@@ -19729,6 +19971,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="HairPin">
             <prev>
               <location>
@@ -19781,7 +20028,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -19841,6 +20094,11 @@
             <subtype>p</subtype>
             <velocity>49</velocity>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>III6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
@@ -19886,7 +20144,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%65/v}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(#6)}-ii%65/v}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -20307,7 +20571,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv7(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%65(9)-vii%65(9)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.415538</minDistance>
             <offset x="-7.01037" y="3.59894"/>
             </Harmony>
@@ -20443,7 +20713,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#vi%7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii%7/V/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20503,7 +20779,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20560,7 +20842,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi7/III-iv7/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.331075</minDistance>
             <offset x="-2.87172" y="3.47812"/>
             </Harmony>
@@ -20619,7 +20907,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#ivo7/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43(#6#4#2)-viio7/V/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -20838,7 +21132,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(9)/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(96)/VII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21096,7 +21396,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64(#6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(94)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -21329,7 +21635,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i64-V(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21408,7 +21720,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i6(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -21418,6 +21736,11 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -21513,7 +21836,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>v6(#7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -21847,7 +22176,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i-iv/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.168925" y="5.02803"/>
             </Harmony>
           <Symbol>
@@ -21967,7 +22302,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6(4)}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(4)}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-10.0578</minDistance>
             <offset x="-1.26693" y="5.08682"/>
             </Harmony>
@@ -22050,7 +22391,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-9.55101</minDistance>
             <offset x="-0.0844623" y="5.23483"/>
             </Harmony>
@@ -22101,11 +22448,17 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="2.00044" y="-7.52911"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>risoluto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(9)/VII{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV(9){</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
             <prev>
@@ -22377,7 +22730,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IIIM7-VIM7/v</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.331075</minDistance>
             <offset x="-2.36494" y="4.47142"/>
             </Harmony>
@@ -22414,6 +22773,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>IIIM7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -22446,7 +22810,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV7</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-1.78048</minDistance>
             <offset x="1.52032" y="4.66411"/>
             </Harmony>
@@ -22517,7 +22887,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22572,9 +22948,21 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <location>
+            <fractions>1/8</fractions>
+            </location>
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(#964)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -22601,6 +22989,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>#vi%2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -22693,7 +23086,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VIM7}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM7|DC}-IV7/III}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-7.09483" y="7.867"/>
             </Harmony>
           <Symbol>
@@ -22744,7 +23143,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>espr.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>espr.</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -22777,7 +23176,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(9)/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VII7(9)-V7(9)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.43586" y="9.04947"/>
             </Harmony>
           <Symbol>
@@ -22942,7 +23347,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23019,7 +23430,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23031,7 +23448,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(764)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23041,6 +23464,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -23141,7 +23569,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23153,7 +23587,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(764)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23163,6 +23603,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -23306,11 +23751,17 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-3.25739"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>marcato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>marcato</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|IAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="Pedal">
             <Pedal>
@@ -23458,7 +23909,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64(11)|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23553,7 +24010,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre una corda</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre una corda</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -23577,7 +24034,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i(7)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23661,6 +24124,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -23669,6 +24137,11 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -23679,7 +24152,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.26693" y="3.92231"/>
             </Harmony>
           <Chord>
@@ -23696,7 +24175,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23717,6 +24202,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>III64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -23783,7 +24269,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.67363" y="-5.90584"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>pochissimo crescendoe mobile</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>pochissimo crescendoe mobile</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -23958,11 +24444,17 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.418407" y="-7.51628"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>diminuendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>diminuendo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%7(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii%7-vii%7/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-7.34822" y="3.66892"/>
             </Harmony>
           <Chord>
@@ -23976,6 +24468,11 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>down</StemDirection>
@@ -23998,7 +24495,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24011,6 +24514,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -24069,14 +24573,26 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(6+4b3)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-3.8008" y="3.75339"/>
             </Harmony>
           <Chord>
@@ -24153,7 +24669,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#vi%2</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(#964)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -24251,11 +24773,17 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.209204" y="-3.27823"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>marcato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>marcato</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv.bII}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv.I/bII|EC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-8.62192</minDistance>
             <offset x="0.0844623" y="4.34665"/>
             </Harmony>
@@ -24332,7 +24860,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bII64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I64/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.253387" y="6.06246"/>
             </Harmony>
           <Chord>
@@ -24395,7 +24929,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V64(4)/bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64(11)/bII|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-5.28975</minDistance>
             <offset x="-1.41181" y="8.68191"/>
             </Harmony>
@@ -24477,7 +25017,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bII{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I/bII{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -24662,6 +25208,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I(#4)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-7.01714</minDistance>
             <offset x="-0.844623" y="4.74429"/>
             </Harmony>
@@ -24738,6 +25285,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -24745,6 +25297,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V64(6#4)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-6.51037</minDistance>
             <offset x="0.168925" y="5.07169"/>
             </Harmony>
@@ -24772,6 +25325,11 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>ii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>G</concertClefType>
             <transposingClefType>G</transposingClefType>
@@ -24809,7 +25367,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI64(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64(13)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -24849,7 +25413,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI64(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V64/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -24877,6 +25447,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>VI64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -24960,6 +25535,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -25008,6 +25588,11 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Clef>
             <concertClefType>F</concertClefType>
             <transposingClefType>F</transposingClefType>
@@ -25015,6 +25600,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7-iii7/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.43586" y="4.74879"/>
             </Harmony>
           <Chord>
@@ -25065,11 +25651,17 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco agitato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco agitato</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger7-V2/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0" y="8.15565"/>
             </Harmony>
           <Symbol>
@@ -25186,7 +25778,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i64-V(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25296,7 +25894,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7/bII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/bII-Ger6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25415,7 +26019,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V65/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V65/vi/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25535,7 +26145,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(b9)/ii/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25560,7 +26176,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.627611" y="-6.96442"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>risoluto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -25587,7 +26203,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/ii/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.331075</minDistance>
             <offset x="-3.8008" y="5.33812"/>
             </Harmony>
@@ -25609,7 +26231,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>Ger6(#4)/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger2(4)/V/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25653,7 +26281,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>Ger6/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger2/V/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-7.43268" y="5.52709"/>
             </Harmony>
           <Rest>
@@ -25728,7 +26362,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bII(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I(9)/bII</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25751,7 +26391,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="3.24265" y="-4.31841"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>diminuendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>diminuendo</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -25774,7 +26414,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7/bV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i.IV7/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-4.05419" y="4.83692"/>
             </Harmony>
           <Rest>
@@ -25786,7 +26432,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>viio7/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio7/V/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.253387" y="4.50704"/>
             </Harmony>
           <Chord>
@@ -25825,7 +26477,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b6)/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(6)/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -25859,7 +26517,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bVIM7/VI</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM7/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -25953,7 +26617,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>ii%7/III}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#vi%7/bii}-ii%7/V/bii}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.227474</minDistance>
             <offset x="-2.36494" y="8.01542"/>
             </Harmony>
@@ -26049,7 +26719,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26108,7 +26784,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           </voice>
         <voice>
@@ -26163,7 +26845,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -26183,7 +26871,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+64/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6(6)/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>0.415538</minDistance>
             <offset x="0.168925" y="5.70382"/>
             </Harmony>
@@ -26217,7 +26911,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V2/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V2/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.675698" y="6.06019"/>
             </Harmony>
           </voice>
@@ -26301,7 +27001,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i6/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26343,6 +27049,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -26370,7 +27081,13 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43(4)/III</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii43(4)/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.398395" y="-8.78876"/>
             </Harmony>
           </voice>
@@ -26433,7 +27150,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V6/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -26555,7 +27278,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26590,7 +27319,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VIM7/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM7/bii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26634,11 +27369,17 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>molto calando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>molto calando</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>bIIM7/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>bIIM7/bii-V(#7)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -26697,6 +27438,11 @@
               <tpc>10</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>iv64/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
@@ -26728,7 +27474,13 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio7(4)/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vii%43(b6)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.11156" y="4.95233"/>
             </Harmony>
           <Beam>
@@ -26783,6 +27535,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vii%43/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -26819,7 +27572,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio7/vi</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio43/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.76016" y="5.03165"/>
             </Harmony>
           <Chord>
@@ -26908,7 +27667,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i.V6}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6|HC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="0.0844623" y="5.11792"/>
             </Harmony>
           <Beam>
@@ -26978,6 +27743,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -27051,7 +27817,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -27071,7 +27843,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III+64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V6(6)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -27219,6 +27997,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -27255,7 +28038,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V43(4)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii43(4)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.19602" y="6.28725"/>
             </Harmony>
           <Chord>
@@ -27667,7 +28456,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>affrettando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>affrettando</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -27924,7 +28713,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VIM7(9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VIM7(9)-IVM7(9)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.796789" y="-9.98395"/>
             </Harmony>
           <Beam>
@@ -27941,7 +28736,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.209204" y="-7.39204"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>appassionato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>appassionato</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28137,7 +28932,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>III}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>I/III|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28154,7 +28955,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-6.15522"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>brioso</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>brioso</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -28174,7 +28975,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.28048" y="10.3781"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -28211,7 +29018,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv(94)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii(94)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28227,7 +29040,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28255,7 +29074,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>v64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iii64/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-1.26693" y="10.6516"/>
             </Harmony>
           <Spanner type="HairPin">
@@ -28292,7 +29117,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi64/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28308,7 +29139,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64(94)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi64(94)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28336,7 +29173,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>vi6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -28372,7 +29215,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28388,7 +29237,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv6(97)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>ii6(97)/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -28416,7 +29271,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iio6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iio6-viio6/III</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <HairPin>
@@ -28487,7 +29348,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>VI(#9)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>VI(#9)-viio2(94)</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28548,7 +29415,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iii6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv7(b2)-iii6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28578,6 +29451,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>iv7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28620,7 +29494,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(b9)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28644,6 +29524,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V2(b9)/V-viio43/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28702,7 +29583,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>Ger6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>Ger6-IV7/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -28726,6 +29613,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>IV2/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -28751,7 +29639,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7/VII</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7/V/iii</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-2.61833" y="9.09047"/>
             </Harmony>
           <Chord>
@@ -28798,7 +29692,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>strepitoso</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>strepitoso</text>
             </StaffText>
           <Spanner type="Ottava">
             <prev>
@@ -28843,7 +29737,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iii%7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>bii%65/V/V-bvi%65/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-4.30758" y="9.69629"/>
             </Harmony>
           <Chord>
@@ -28908,7 +29808,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7(b9)/v</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(b9)/V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28969,7 +29875,13 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(6)}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -28993,7 +29905,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V|HC</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -29030,7 +29948,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Symbol>
             <name>keyboardPedalPed</name>
@@ -29058,7 +29982,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>cantando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>cantando</text>
             </StaffText>
           <Rest>
             <durationType>eighth</durationType>
@@ -29166,7 +30090,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio43/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>viio43/IV</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29222,7 +30152,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>IV</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>IV6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29246,7 +30182,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>iv6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -29276,7 +30218,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i6</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i64</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29332,6 +30280,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7(b9)/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -29455,7 +30408,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>iv7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V7(6)-iv7</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29531,7 +30490,13 @@
             </Dynamic>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i[i}{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i[i|IAC}{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Spanner type="HairPin">
             <prev>
@@ -29664,7 +30629,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio6</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <offset x="0" y="-2"/>
@@ -29748,7 +30719,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio7/iv</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio2/iv</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -29835,7 +30812,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>#viio7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>#viio65</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -30001,6 +30984,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>bII(4)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
@@ -30180,7 +31168,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="1.67363" y="-5.04602"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -30189,6 +31177,11 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -30206,6 +31199,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -30306,6 +31304,11 @@
           <Rest>
             <durationType>quarter</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -30323,6 +31326,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -30362,7 +31370,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V43</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Rest>
             <durationType>quarter</durationType>
@@ -30372,6 +31386,11 @@
             <velocity>33</velocity>
             <offset x="0.762883" y="2.97575"/>
             </Dynamic>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="Ottava">
             <Ottava>
               <subtype>8va</subtype>
@@ -30773,7 +31792,13 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i64</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>V(64)</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.591236" y="4.77463"/>
             </Harmony>
           <Chord>
@@ -30816,6 +31841,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
@@ -30869,6 +31899,11 @@
           <Rest>
             <durationType>eighth</durationType>
             </Rest>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>i[i</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Spanner type="Pedal">
             <Pedal>
               <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
@@ -30933,6 +31968,7 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>i(9#74)}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -30950,6 +31986,11 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V7</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <StemDirection>up</StemDirection>
@@ -31356,7 +32397,13 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
+            <name>i]}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
             <name>i|PAC</name>
+            <color r="0" g="85" b="0" a="255"/>
             <minDistance>-7.18607</minDistance>
             <offset x="0.0844623" y="5.46876"/>
             </Harmony>
