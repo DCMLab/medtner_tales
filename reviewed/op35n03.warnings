@@ -1,0 +1,61 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op35n03
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             6a         }
+	            6a         {            15a        }{
+	           15a        }{            18a         }
+	           18a         {            22a         }
+	           22a         {            26a         }
+	           26a         {            31a        }{
+	           31a        }{            35a        }{
+	           35a        }{            45a         }
+	           46a         {            49a        }{
+	           49a        }{            54a         }
+	           55a         {            61a         }
+	           62a         {            64a         }
+	           65a         {            74a         }
+	           74a         {            77a         }
+	           NaN       NaN            80a         }
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 22, '1/2', '#vio(2)/iv') ms3.Parse.medtner_tales.op35n03
+	The label '#vio(2)/iv' in m. 22, onset 1/2 (MC 22, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of a.i, it expresses the scale degrees
+	('3', '4', '6') [('C', 'D', 'F')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 25, '0', 'iv.It6(#2)') ms3.Parse.medtner_tales.op35n03
+	The label 'iv.It6(#2)' in m. 25, onset 0 (MC 25, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of a.iv, it expresses the scale degrees
+	('#5', '1', '#4') [('A#', 'D', 'G#')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 74, '0', 'It6(#2)/iv') ms3.Parse.medtner_tales.op35n03
+	The label 'It6(#2)/iv' in m. 74, onset 0 (MC 74, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of a.i, it expresses the scale degrees
+	('#1', '4', '#7') [('A#', 'D', 'G#')].
+	The corresponding score segment has 1 within-label and 2 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 79, '5/12', 'It6(7)/iv') ms3.Parse.medtner_tales.op35n03
+	The label 'It6(7)/iv' in m. 79, onset 5/12 (MC 79, onset 5/12) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of a.i, it expresses the scale degrees
+	('b2', '4', '#6') [('Bb', 'D', 'F#')].
+	The corresponding score segment has 2 within-label and 5 out-of-label note onsets,
+	a ratio of 0.7142857142857143 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 79, '2/3', 'It6(7)/iv') ms3.Parse.medtner_tales.op35n03
+	The label 'It6(7)/iv' in m. 79, onset 2/3 (MC 79, onset 2/3) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of a.i, it expresses the scale degrees
+	('b2', '4', '#6') [('Bb', 'D', 'F#')].
+	The corresponding score segment has 2 within-label and 14 out-of-label note onsets,
+	a ratio of 0.875 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.

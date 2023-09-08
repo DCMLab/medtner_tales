@@ -1,0 +1,91 @@
+Warnings encountered during the last execution of ms3 review
+============================================================
+
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op34n02
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {            11a         }
+	           11a         {            16a         }
+	           17a         {            28a         }
+	           28a         {            37a         }
+	           NaN       NaN            45a         }
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 13, '7/8', 'vii%65/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'vii%65/iv' in m. 13, onset 7/8 (MC 13, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.i, it expresses the scale degrees
+	('b5', 'b7', 'b2', '3') [('Bb', 'Db', 'F', 'G')].
+	The corresponding score segment has 0 within-label and 5 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 14, '0', 'iv[iv(9+#642)') ms3.Parse.medtner_tales.op34n02
+	The label 'iv[iv(9+#642)' in m. 14, onset 0 (MC 14, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.i, it expresses the scale degrees
+	('5', '7', '1') [('B', 'D', 'E')] plus the added ('5', '#2') [('B', 'F##')].
+	The corresponding score segment has 3 within-label and 5 out-of-label note onsets,
+	a ratio of 0.625 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 20, '3/8', 'viio6/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'viio6/iv' in m. 20, onset 3/8 (MC 20, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.VI, it expresses the scale degrees
+	('b5', 'bb7', 'b3') [('Gb', 'Bbb', 'Eb')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '0', 'V2/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'V2/iv' in m. 24, onset 0 (MC 24, onset 0) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('b7', '1', '3', '5') [('Db', 'Eb', 'G', 'Bb')].
+	The corresponding score segment has 1 within-label and 3 out-of-label note onsets,
+	a ratio of 0.75 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '1/8', 'i6/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'i6/iv' in m. 24, onset 1/8 (MC 24, onset 1/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('b6', '1', '4') [('Cb', 'Eb', 'Ab')].
+	The corresponding score segment has 0 within-label and 7 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/8', 'viio6/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'viio6/iv' in m. 24, onset 3/8 (MC 24, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('b5', 'bb7', 'b3') [('Bbb', 'Dbb', 'Gb')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '1/2', 'i/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'i/iv' in m. 24, onset 1/2 (MC 24, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('4', 'b6', '1') [('Ab', 'Cb', 'Eb')].
+	The corresponding score segment has 0 within-label and 9 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '3/4', 'iio/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'iio/iv' in m. 24, onset 3/4 (MC 24, onset 3/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('5', 'b7', 'b2') [('Bb', 'Db', 'Fb')].
+	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,
+	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 24, '7/8', 'Ger6/iv') ms3.Parse.medtner_tales.op34n02
+	The label 'Ger6/iv' in m. 24, onset 7/8 (MC 24, onset 7/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.bIII/VI, it expresses the scale degrees
+	('b2', '4', 'b6', '7') [('Fb', 'Ab', 'Cb', 'D')].
+	The corresponding score segment has 2 within-label and 4 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 27, '1/2', 'i.III(4)') ms3.Parse.medtner_tales.op34n02
+	The label 'i.III(4)' in m. 27, onset 1/2 (MC 27, onset 1/2) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+	In the context of e.i, it expresses the scale degrees
+	('3', '6', '7') [('G', 'C', 'D')].
+	The corresponding score segment has 2 within-label and 4 out-of-label note onsets,
+	a ratio of 0.6666666666666666 > 0.6 (the current, arbitrary, threshold).
+	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
+	by a free-text comment in subsequent lines starting with a space or tab.
