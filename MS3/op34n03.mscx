@@ -213,16 +213,19 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_start">1904</metaTag>
-    <metaTag name="composer">Op.34</metaTag>
+    <metaTag name="composed_end">1917</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1916</metaTag>
+    <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.34_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">3</metaTag>
+    <metaTag name="movementTitle">Wood Spirit</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/466c64f2-48ad-46e2-b929-18fab49c1f2e</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/8811</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
@@ -231,8 +234,9 @@
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">III</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/175438766</metaTag>
+    <metaTag name="workNumber">op.34</metaTag>
+    <metaTag name="workTitle">Tales</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -309,18 +313,16 @@
         <height>4.4</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Subtitle</style>
+          <text>3. Wood Spirit</text>
+          </Text>
+        <Text>
           <style>Composer</style>
-          <family>FreeSerif</family>
-          <size>12</size>
-          <offset x="-0.462921" y="-6.63521"/>
-          <text><font size="9.1196"></font><font face="Plantin MT Std"></font><b>Op.34</b></text>
+          <text>Nikolai Medtner</text>
           </Text>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0" y="-7.58828"/>
-          <text><font size="18.2392"></font><font face="Plantin MT Std"></font>III</text>
+          <text>Tales, op.34</text>
           </Text>
         </VBox>
       <Measure>
