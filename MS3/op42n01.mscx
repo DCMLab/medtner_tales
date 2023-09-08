@@ -211,16 +211,19 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_start">1904</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1924</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1921</metaTag>
+    <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/3_Tales%2C_Op.42_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Russian Tale</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/e4ee44ee-52d2-46a1-8501-6ec3184169cc</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/9103</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
@@ -229,9 +232,9 @@
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Medtner Op.42
-I</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/179351400</metaTag>
+    <metaTag name="workNumber">op.42</metaTag>
+    <metaTag name="workTitle">Tales</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -302,11 +305,15 @@ I</metaTag>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="0.856882" y="-0.220296"/>
-          <text><font size="18.2392"></font><font face="Plantin MT Std"></font>Medtner Op.42
-I</text>
+          <text>Tales, op.42</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>1. Russian Tale</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolai Medtner</text>
           </Text>
         </VBox>
       <Measure>
