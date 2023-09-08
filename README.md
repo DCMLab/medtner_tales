@@ -258,4 +258,4 @@ The file names listed in the [Overview](#overview) below refer to the following 
 |op48n02  |     186|   282|2.3.0   |Wendelin Bitzan (2.2.0), John Heilig (2.3.0)|Adrian Nagel, VZ|
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
