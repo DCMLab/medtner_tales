@@ -211,16 +211,19 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Wendelin Bitzan (2.2.0), John Heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1925</metaTag>
-    <metaTag name="composed_start">1904</metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composed_end">1912</metaTag>
+    <metaTag name="composed_source">OxfordMusicOnline</metaTag>
+    <metaTag name="composed_start">1910</metaTag>
+    <metaTag name="composer">Nikolai Medtner</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2019-02-04</metaTag>
     <metaTag name="harmony_version">2.3.0</metaTag>
+    <metaTag name="imslp">https://imslp.org/wiki/4_Tales%2C_Op.26_(Medtner%2C_Nikolay)</metaTag>
     <metaTag name="lyricist"></metaTag>
-    <metaTag name="movementNumber"></metaTag>
-    <metaTag name="movementTitle"></metaTag>
+    <metaTag name="movementNumber">1</metaTag>
+    <metaTag name="movementTitle">Allegretto frescamente</metaTag>
     <metaTag name="mscVersion">3.02</metaTag>
+    <metaTag name="musicbrainz">https://musicbrainz.org/work/171c2637-5223-483b-b8d0-3f0b278fa52d</metaTag>
     <metaTag name="originalFormat">xml</metaTag>
     <metaTag name="pdf">https://imslp.org/wiki/Special:ReverseLookup/7077</metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
@@ -229,8 +232,9 @@
     <metaTag name="score_integrity">Tom Schreyer</metaTag>
     <metaTag name="source"></metaTag>
     <metaTag name="translator"></metaTag>
-    <metaTag name="workNumber"></metaTag>
-    <metaTag name="workTitle">Vier Märchen</metaTag>
+    <metaTag name="viaf">https://viaf.org/viaf/186074895</metaTag>
+    <metaTag name="workNumber">op.26</metaTag>
+    <metaTag name="workTitle">Tales</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -300,17 +304,15 @@
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <family>FreeSerif</family>
-          <size>24</size>
-          <offset x="1.36889" y="-5.49397"/>
-          <text><font size="16.9813"></font><font face="Plantin MT Std"></font>Vier Märchen</text>
+          <text>Tales, op.26</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <family>FreeSerif</family>
-          <size>14</size>
-          <offset x="2.43359" y="0.223934"/>
-          <text><font size="10.7628"></font><font face="Plantin MT Std"></font>Op. 26 No1</text>
+          <text>1. Allegretto frescamente</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Nikolai Medtner</text>
           </Text>
         </VBox>
       <Measure len="1/8">

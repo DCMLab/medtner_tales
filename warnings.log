@@ -1,26 +1,330 @@
-Warnings encountered during the last execution of ms3 review (v1.0.4)
+Warnings encountered during the last execution of ms3 review (v1.1.1)
 =====================================================================
 
-DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 76, 'viio65(94b3)') ms3.Parse.medtner_tales.op42n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4148) features2tpcs():
-	MC 76: viio65(94b3) results in a chord tone 3rd AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op42n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4937) check_phrase_annotations():
+DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4194) features2tpcs():
+	MC 41: In seventh chords, such as V43(7b5), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 48: ') ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
+	MC 48: #vii in major context corrected to vii.
+DCML_SEVENTH_CORD_WITH_ALTERED_SEVENTH_WARNING (18,) ms3.Parse.medtner_tales.op08n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4194) features2tpcs():
+	MC 43: In seventh chords, such as V43(7b5), it is not clear whether the 7 alters the 7 or replaces the 8 and should not be used.
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 48, 'V7(b96b5)') ms3.Parse.medtner_tales.op26n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 48: V7(b96b5) results in a chord tone 5th AND its replacement(s) (TPC [0]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 52, 'V7(b96b5)') ms3.Parse.medtner_tales.op26n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 52: V7(b96b5) results in a chord tone 5th AND its replacement(s) (TPC [0]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 34: ') ms3.Parse.medtner_tales.op26n04 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
+	MC 34: #vii in major context corrected to vii.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op26n04 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
 	Phrase beginning and endings don't match:
 	mn_playthrough phraseend mn_playthrough phraseend
-	            0a         {             8a         }
-	           14a         {            13a         }
-	           16a         {            16a         }
-	           39a        }{            39a        }{
-	           56a        }{            56a        }{
-	           63a         {            63a         }
-	           72a         {            71a         }
-	           84a        }{            84a        }{
-	           87a         {            87a         }
-	          100a        }{            91a         }
-	          104a        }{           100a        }{
-	          129a        }{           104a        }{
-	          143a         {           129a        }{
-	          151a         {           142a         }
-	          160a        }{           151a         }
-	          168a        }{           160a        }{
-	           NaN       NaN           168a        }{
-	           NaN       NaN           180a         }
+	            0a         {             3a         }
+	            3a         {             6a         }
+	            6a         {            10a         }
+	           10a         {            19a        }{
+	           19a        }{            26a         }
+	           27a         {            35a        }{
+	           35a        }{            43a         }
+	           44a         {            58a         }
+	           55a         {            61a         }
+	           58a         {            76a         }
+	           61a         {            NaN       NaN
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op34n02 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {            11a         }
+	           11a         {            16a         }
+	           17a         {            28a         }
+	           28a         {            37a         }
+	           NaN       NaN            45a         }
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op34n03 -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 145) expand_labels():
+	propagate_pedal() failed with
+	15 organ points started, 13 ended:
+	     mc   pedal    mc pedalend
+	0     9     #iv    10        ]
+	1    45       i    54        ]
+	2    53  V/#iii    58        ]
+	3    55  i/#iii    60        ]
+	4    57    V/ii    65        ]
+	5    59    i/ii    83        ]
+	6    61       V    97        ]
+	7    76       i    99        ]
+	8    96       V   100        ]
+	9    98       V   101        ]
+	10  100       V   107        ]
+	11  101       V   119        ]
+	12  102       V   142        ]
+	13  118     #iv  <NA>      NaN
+	14  138       i  <NA>      NaN
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 30: ') ms3.Parse.medtner_tales.op35n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4066) features2tpcs():
+	MC 30: #vii in major context corrected to vii.
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 68, 'V7(6b5)') ms3.Parse.medtner_tales.op35n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 68: V7(6b5) results in a chord tone 5th AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op35n02 -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 145) expand_labels():
+	propagate_pedal() failed with
+	1 organ points started, 0 ended:
+	   mc pedal    mc pedalend
+	0  46     I  <NA>      NaN
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 97, 'viio65(4b3)') ms3.Parse.medtner_tales.op35n02 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 97: viio65(4b3) results in a chord tone 3rd AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op35n02 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            0a         {            14a         }
+	           14a         {            14b         }
+	           14b         {            26a         }
+	           26a         {            44a        }{
+	           44a        }{            47a         }
+	           47a         {            50a         }
+	           52a         {            70a         }
+	           71a         {            82a        }{
+	           82a        }{           106a         }
+	          106a         {           124a         }
+	          125a         {           136a         }
+	          139a         {            14c         }
+	          139a         {            26b         }
+	           14c         {            44b        }{
+	           26b         {            47b         }
+	           44b        }{            50b         }
+	           47b         {            NaN       NaN
+DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op35n03 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 5016) check_phrase_annotations():
+	Phrase beginning and endings don't match:
+	mn_playthrough phraseend mn_playthrough phraseend
+	            1a         {             6a         }
+	            6a         {            15a        }{
+	           15a        }{            18a         }
+	           18a         {            22a         }
+	           22a         {            26a         }
+	           26a         {            31a        }{
+	           31a        }{            35a        }{
+	           35a        }{            45a         }
+	           46a         {            49a        }{
+	           49a        }{            54a         }
+	           55a         {            61a         }
+	           62a         {            64a         }
+	           65a         {            74a         }
+	           74a         {            77a         }
+	           NaN       NaN            80a         }
+DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op35n04 -- /usr/local/lib/python3.10/site-packages/ms3/expand_dcml.py (line 145) expand_labels():
+	propagate_pedal() failed with
+	2 organ points started, 3 ended:
+	     mc pedal   mc pedalend
+	0    15     v   19        ]
+	1   115     i   92        ]
+	2  <NA>   NaN  117        ]
+DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 328, 'viio65(4b3)') ms3.Parse.medtner_tales.op48n01 -- /usr/local/lib/python3.10/site-packages/ms3/utils.py (line 4227) features2tpcs():
+	MC 328: viio65(4b3) results in a chord tone 3rd AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+Chord labels where the ratio of colored notes vs. all notes in a segment lies above 0.6:
+                                 mc   mn mc_onset              label            chord_tones added_tones  n_colored  n_untouched  count_ratio
+medtner_tales MS3/op08n01.mscx   23   23     3/16             V7/VII         (-1, 3, 0, -3)          ()       12.0          5.0     0.705882
+              MS3/op08n01.mscx   48   48      3/8          #viio65/V         (2, -1, -4, 5)          ()        8.0          0.0     1.000000
+              MS3/op08n01.mscx   73   73        0                bII           (-5, -1, -4)          ()        4.0          1.0     0.800000
+              MS3/op08n01.mscx   75   75        0                bII           (-5, -1, -4)          ()        3.0          1.0     0.750000
+              MS3/op08n01.mscx   78   78        0               viio           (-2, -5, -8)          ()        2.0          0.0     1.000000
+              MS3/op26n02.mscx   27   27        0    #viio7(#4)/vi/V          (10, 7, 9, 1)          ()        3.0          1.0     0.750000
+              MS3/op26n03.mscx   48   48        0      V7(b96b5)/bVI  (-7, -3, -13, -4, -9)      (-12,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   48   48      1/4        V7(9b5)/bVI      (-7, -3, -13, -9)       (-5,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   48   48      1/2       V7(b9b5)/bVI      (-7, -3, -13, -9)      (-12,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   49   49        0             V7/bVI       (-7, -3, -6, -9)          ()        9.0          0.0     1.000000
+              MS3/op26n03.mscx   50   50        0          V7(9)/bVI       (-7, -3, -6, -9)       (-5,)       12.0          0.0     1.000000
+              MS3/op26n03.mscx   52   52        0      V7(b96b5)/bVI  (-7, -3, -13, -4, -9)      (-12,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   52   52      1/4        V7(9b5)/bVI      (-7, -3, -13, -9)       (-5,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   52   52      1/2       V7(b9b5)/bVI      (-7, -3, -13, -9)      (-12,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   53   53        0         bii.IV7(9)       (-7, -3, -6, -9)       (-5,)        3.0          0.0     1.000000
+              MS3/op26n03.mscx   53   53      1/4            IV7(b9)       (-7, -3, -6, -9)      (-12,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   53   53      1/2             IV7(9)       (-7, -3, -6, -9)       (-5,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   54   54        0           viio7/V}        (0, -3, -6, -9)          ()       12.0          0.0     1.000000
+              MS3/op26n03.mscx   55   55        0               i64{           (-5, -6, -9)          ()        8.0          0.0     1.000000
+              MS3/op26n03.mscx   56   56        0               VIM7      (-10, -6, -9, -5)          ()        3.0          0.0     1.000000
+              MS3/op26n03.mscx   56   56      1/4            ii%7(9)      (-4, -7, -10, -6)       (-9,)        4.0          0.0     1.000000
+              MS3/op26n03.mscx   56   56      1/2               ii%7      (-4, -7, -10, -6)          ()        3.0          0.0     1.000000
+              MS3/op26n03.mscx   57   57        0              V7(6)       (-5, -1, -9, -7)          ()        3.0          0.0     1.000000
+              MS3/op26n03.mscx   57   57      1/4                 V7       (-5, -1, -4, -7)          ()        5.0          0.0     1.000000
+              MS3/op26n03.mscx   58   58        0             i|PAC}           (-6, -9, -5)          ()        8.0          0.0     1.000000
+              MS3/op26n03.mscx   59   59        0            vi7/III       (-6, -9, -5, -8)          ()       10.0          0.0     1.000000
+              MS3/op26n03.mscx   60   60        0       ii%43(9)/III     (-13, -9, -7, -10)       (-5,)        3.0          0.0     1.000000
+              MS3/op26n03.mscx   60   60      1/4          ii%43/III     (-13, -9, -7, -10)          ()        5.0          0.0     1.000000
+              MS3/op26n03.mscx   61   61        0             V7/III      (-8, -4, -7, -10)          ()       10.0          0.0     1.000000
+              MS3/op26n03.mscx   62   62        0          ii%43/bII    (-15, -11, -9, -12)          ()        9.0          0.0     1.000000
+              MS3/op26n03.mscx   63   63        0             V7/bII     (-10, -6, -9, -12)          ()        8.0          0.0     1.000000
+              MS3/op26n03.mscx   74   74      1/2                  i            (-1, -4, 0)          ()        4.0          2.0     0.666667
+              MS3/op26n04.mscx   21   20      3/8                V/V              (5, 9, 6)          ()        2.0          1.0     0.666667
+              MS3/op26n04.mscx   45   44     7/16         Ger6/IV/IV         (-3, 1, -2, 7)          ()        1.0          0.0     1.000000
+              MS3/op26n04.mscx   46   45     7/16         Ger6/IV/IV         (-3, 1, -2, 7)          ()        1.0          0.0     1.000000
+              MS3/op26n04.mscx   53   52      1/4              V64/v            (10, 9, 13)          ()        6.0          3.0     0.666667
+              MS3/op26n04.mscx   66   65        0                iv6              (2, 6, 5)          ()        7.0          3.0     0.700000
+              MS3/op34n01.mscx   45   45      1/2             IV7(4)           (4, 3, 5, 2)          ()        4.0          2.0     0.666667
+              MS3/op34n01.mscx   47   47      1/2          V7(4)/VII           (4, 3, 5, 2)          ()        4.0          2.0     0.666667
+              MS3/op34n01.mscx   52   52        0               bIV6            (1, -2, -3)          ()        5.0          0.0     1.000000
+              MS3/op34n01.mscx   86   86      1/2           iv64/bVI           (-2, -3, -6)          ()        4.0          1.0     0.800000
+              MS3/op34n01.mscx   87   87        0             iv/bVI           (-3, -6, -2)          ()        8.0          4.0     0.666667
+              MS3/op34n01.mscx   88   88        0          viio2/bVI         (-6, 3, 0, -3)          ()        4.0          1.0     0.800000
+              MS3/op34n01.mscx  106  106      1/2         V64(b6)/iv             (-9, 2, 6)          ()        2.0          0.0     1.000000
+              MS3/op34n01.mscx  135  135      1/2              bII64              (1, 0, 4)          ()        2.0          1.0     0.666667
+              MS3/op34n01.mscx  144  144        0               III6            (13, 10, 9)          ()        6.0          0.0     1.000000
+              MS3/op34n01.mscx  166  166      3/4                VI6              (9, 6, 5)          ()        2.0          0.0     1.000000
+              MS3/op34n01.mscx  172  172      1/4        bIII6(#4b2)            (3, 12, -6)          ()        4.0          0.0     1.000000
+              MS3/op34n01.mscx  173  173      1/4             iv6/bV           (-8, -4, -5)          ()        2.0          1.0     0.666667
+              MS3/op34n01.mscx  192  192      3/4            Ger6/bv        (-5, -1, -4, 5)          ()        4.0          1.0     0.800000
+              MS3/op34n01.mscx  203  203      1/2             V7/III        (10, 14, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op34n01.mscx  217  217      1/2        viio2/V/bVI          (-2, 7, 4, 1)          ()        2.0          1.0     0.666667
+              MS3/op34n01.mscx  219  219        0          bVI(#4b2)             (3, 5, 14)          ()        3.0          1.0     0.750000
+              MS3/op34n01.mscx  220  220        0          bVI(#4b2)             (3, 5, 14)          ()        5.0          1.0     0.833333
+              MS3/op34n01.mscx  220  220      3/8                 VI             (8, 12, 9)          ()        5.0          0.0     1.000000
+              MS3/op34n01.mscx  231  231      1/2              bII64              (1, 0, 4)          ()        2.0          1.0     0.666667
+              MS3/op34n02.mscx   13   13      7/8          vii%65/iv        (-2, -5, -1, 1)          ()        5.0          0.0     1.000000
+              MS3/op34n02.mscx   14   14        0      iv[iv(9+#642)              (5, 2, 4)     (5, 13)        5.0          3.0     0.625000
+              MS3/op34n02.mscx   20   20      3/8           viio6/iv           (-6, -9, -3)          ()        6.0          0.0     1.000000
+              MS3/op34n02.mscx   24   24        0              V2/iv        (-5, -3, 1, -2)          ()        3.0          1.0     0.750000
+              MS3/op34n02.mscx   24   24      1/8              i6/iv           (-7, -3, -4)          ()        7.0          0.0     1.000000
+              MS3/op34n02.mscx   24   24      3/8           viio6/iv          (-9, -12, -6)          ()        6.0          0.0     1.000000
+              MS3/op34n02.mscx   24   24      1/2               i/iv           (-4, -7, -3)          ()        9.0          0.0     1.000000
+              MS3/op34n02.mscx   24   24      3/4             iio/iv           (-2, -5, -8)          ()        6.0          0.0     1.000000
+              MS3/op34n02.mscx   24   24      7/8            Ger6/iv        (-8, -4, -7, 2)          ()        4.0          2.0     0.666667
+              MS3/op34n02.mscx   27   27      1/2           i.III(4)              (1, 0, 2)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx    9    9      1/4         #iv[#viio7          (8, 5, 2, -1)          ()        8.0          3.0     0.727273
+              MS3/op34n03.mscx   51   51      3/8           viio64/V            (8, 14, 11)          ()        2.0          1.0     0.666667
+              MS3/op34n03.mscx   52   52      1/4           viio43/V         (8, 5, 14, 11)          ()        6.0          3.0     0.666667
+              MS3/op34n03.mscx   53   53        0  V/#iii[V7(9)/#iii       (13, 17, 14, 11)        (8,)        5.0          0.0     1.000000
+              MS3/op34n03.mscx   53   53      1/4             V/#iii           (13, 17, 14)          ()        4.0          0.0     1.000000
+              MS3/op34n03.mscx   53   53      3/8          V7/V/#iii       (14, 18, 15, 12)          ()        2.0          0.0     1.000000
+              MS3/op34n03.mscx   54   54        0         V7(9)/#iii       (13, 17, 14, 11)        (8,)        6.0          0.0     1.000000
+              MS3/op34n03.mscx   54   54      1/4        V7(b3)/#iii       (13, 10, 14, 11)          ()        3.0          0.0     1.000000
+              MS3/op34n03.mscx   54   54      3/8      viio6/V/#iii]           (15, 12, 18)          ()        2.0          0.0     1.000000
+              MS3/op34n03.mscx   55   55      1/4           bII/#iii             (7, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op34n03.mscx   55   55      3/8           It6/#iii            (8, 12, 18)          ()        5.0          0.0     1.000000
+              MS3/op34n03.mscx   56   56        0        #viio7/#iii        (17, 14, 11, 8)          ()       18.0          0.0     1.000000
+              MS3/op34n03.mscx   56   56      3/8             ii7/ii        (12, 9, 13, 10)          ()        6.0          0.0     1.000000
+              MS3/op34n03.mscx   57   57        0      V/ii[V7(9)/ii        (11, 15, 12, 9)        (6,)        5.0          0.0     1.000000
+              MS3/op34n03.mscx   57   57      1/4               V/ii           (11, 15, 12)          ()        4.0          0.0     1.000000
+              MS3/op34n03.mscx   57   57      3/8            V7/V/ii       (12, 16, 13, 10)          ()        2.0          0.0     1.000000
+              MS3/op34n03.mscx   58   58        0           V7(9)/ii        (11, 15, 12, 9)        (6,)        6.0          0.0     1.000000
+              MS3/op34n03.mscx   58   58      1/4          V7(b3)/ii         (11, 8, 12, 9)          ()        3.0          0.0     1.000000
+              MS3/op34n03.mscx   58   58      3/8        viio6/V/ii]           (13, 10, 16)          ()        2.0          0.0     1.000000
+              MS3/op34n03.mscx   59   59        0         i/ii[viio2          (-3, 6, 3, 0)          ()        5.0          2.0     0.714286
+              MS3/op34n03.mscx   59   59      3/8             It6/ii            (6, 10, 16)          ()        5.0          0.0     1.000000
+              MS3/op34n03.mscx   60   60        0          #viio7/ii         (15, 12, 9, 6)          ()       18.0          0.0     1.000000
+              MS3/op34n03.mscx   60   60      3/8               ii7]         (10, 7, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op34n03.mscx   71   71      1/8            #viio65          (9, 6, 3, 12)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx   71   71      1/4                  i              (7, 4, 8)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx   86   86      3/8           viio6/iv           (-4, -7, -1)          ()        3.0          0.0     1.000000
+              MS3/op34n03.mscx  100  100      1/4             bIIM7]         (-2, 2, -1, 3)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  101  101      1/4             bIIM7]         (-2, 2, -1, 3)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  138  138      1/8                bII            (-2, 2, -1)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  138  138      1/4            V7/#VII         (9, 13, 10, 7)          ()        5.0          1.0     0.833333
+              MS3/op34n03.mscx  139  139      1/8                bII            (-2, 2, -1)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  140  140      1/8                  v              (4, 1, 5)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  141  141        0         #viio43/iv          (1, -2, 7, 4)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  141  141      1/8             V7/III          (1, 5, 2, -1)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  141  141      1/4              IIIM7           (0, 4, 1, 5)          ()        4.0          2.0     0.666667
+              MS3/op34n03.mscx  141  141      3/8          #viio7/iv          (7, 4, 1, -2)          ()        4.0          2.0     0.666667
+              MS3/op34n04.mscx   53   53      3/8               V(4)              (3, 2, 4)          ()        4.0          2.0     0.666667
+              MS3/op35n01.mscx   38   37      1/4             Fr6(2)         (2, 6, 10, 12)          ()        4.0          0.0     1.000000
+              MS3/op35n01.mscx   46   45      3/8          bii.V(64)           (-4, -5, -8)          ()        7.0          0.0     1.000000
+              MS3/op35n01.mscx   47   46        0                bii         (-10, -13, -9)          ()        7.0          0.0     1.000000
+              MS3/op35n01.mscx   47   46      1/8              V(64)           (-4, -5, -8)          ()        7.0          0.0     1.000000
+              MS3/op35n01.mscx   47   46      1/4            V(#6)/V            (-3, 1, -2)        (7,)        7.0          0.0     1.000000
+              MS3/op35n01.mscx   47   46      3/8             V7(b5)       (-4, 0, -10, -6)          ()        5.0          1.0     0.833333
+              MS3/op35n01.mscx   48   47        0                 i6           (-8, -4, -5)          ()        6.0          0.0     1.000000
+              MS3/op35n01.mscx   48   47      1/8                  V            (-4, 0, -3)          ()        4.0          0.0     1.000000
+              MS3/op35n01.mscx   48   47      1/4          #viio7/iv      (-1, -4, -7, -10)          ()        4.0          0.0     1.000000
+              MS3/op35n01.mscx   50   49      1/4                bii           (-6, -9, -5)          ()        7.0          0.0     1.000000
+              MS3/op35n02.mscx   64   62      1/4             vii%43          (-3, 1, 3, 0)          ()        4.0          0.0     1.000000
+              MS3/op35n02.mscx   67   65        0              viio6             (0, -3, 3)          ()        4.0          0.0     1.000000
+              MS3/op35n02.mscx  112  110      1/8             V/#VII           (11, 15, 12)          ()        7.0          0.0     1.000000
+              MS3/op35n02.mscx  112  110      3/8            I6/#VII           (14, 11, 10)          ()        3.0          0.0     1.000000
+              MS3/op35n02.mscx  113  111        0             I/#VII           (10, 14, 11)          ()       11.0          0.0     1.000000
+              MS3/op35n02.mscx  113  111      3/8          ii%7/#VII         (12, 9, 6, 10)          ()        4.0          0.0     1.000000
+              MS3/op35n02.mscx  114  112        0            I6/#VII           (14, 11, 10)          ()        4.0          0.0     1.000000
+              MS3/op35n02.mscx  114  112      1/8          I(9)/#VII           (10, 14, 11)       (12,)        5.0          0.0     1.000000
+              MS3/op35n02.mscx  114  112      1/4           vi7/#VII       (13, 10, 14, 11)          ()        5.0          0.0     1.000000
+              MS3/op35n03.mscx   22   22      1/2         #vio(2)/iv             (0, 2, -1)          ()        2.0          1.0     0.666667
+              MS3/op35n03.mscx   25   25        0         iv.It6(#2)             (10, 2, 8)          ()        2.0          1.0     0.666667
+              MS3/op35n03.mscx   74   74        0         It6(#2)/iv             (10, 2, 8)          ()        2.0          1.0     0.666667
+              MS3/op35n03.mscx   79   79     5/12          It6(7)/iv             (-2, 2, 6)          ()        5.0          2.0     0.714286
+              MS3/op35n03.mscx   79   79      2/3          It6(7)/iv             (-2, 2, 6)          ()       14.0          2.0     0.875000
+              MS3/op35n04.mscx   37   37        0            V7/#VII         (9, 13, 10, 7)          ()       36.0          0.0     1.000000
+              MS3/op35n04.mscx   46   46        0            vii%7/V        (13, 10, 7, 11)          ()       20.0          0.0     1.000000
+              MS3/op35n04.mscx   48   48        0              #vi65         (7, 11, 8, 10)          ()        8.0          0.0     1.000000
+              MS3/op35n04.mscx   48   48      1/4           #vi(6#4)         (10, 7, 16, 6)          ()       13.0          2.0     0.866667
+              MS3/op35n04.mscx   57   57        0            i(#6#4)             (1, -2, 7)        (4,)        7.0          3.0     0.700000
+              MS3/op35n04.mscx   60   60        0            V7/#iii          (6, 10, 7, 4)          ()        5.0          1.0     0.833333
+              MS3/op35n04.mscx   61   61      1/4             V7/VII          (0, 4, 1, -2)          ()        5.0          2.0     0.714286
+              MS3/op35n04.mscx   62   62        0            V7/#iii          (6, 10, 7, 4)          ()        6.0          1.0     0.857143
+              MS3/op35n04.mscx   63   63      1/4             V7/VII          (0, 4, 1, -2)          ()        5.0          2.0     0.714286
+              MS3/op35n04.mscx   65   65      3/4       vii%7/vi/III          (5, 2, -1, 3)          ()        4.0          1.0     0.800000
+              MS3/op35n04.mscx   66   66      1/4        vii%7/vi/bV         (2, -1, -4, 0)          ()        4.0          1.0     0.800000
+              MS3/op35n04.mscx   66   66      3/8           Fr65/#VI        (16, 6, 10, 12)          ()        2.0          0.0     1.000000
+              MS3/op35n04.mscx   66   66      1/2           V(4)/#VI           (11, 10, 12)          ()        8.0          0.0     1.000000
+              MS3/op35n04.mscx   66   66      3/4       vii%7/vi/#VI          (11, 8, 5, 9)          ()        5.0          1.0     0.833333
+              MS3/op35n04.mscx  103  103      3/4         Ger6(6)/iv          (2, 8, 3, 12)          ()        8.0          1.0     0.888889
+              MS3/op35n04.mscx  115  115      7/8           viio2(4)         (-4, 5, 4, -1)          ()        2.0          1.0     0.666667
+              MS3/op35n04.mscx  116  116      7/8           viio2(4)         (-4, 5, 4, -1)          ()        2.0          1.0     0.666667
+              MS3/op35n04.mscx  117  117      7/8           viio2(4)         (-4, 5, 4, -1)          ()        3.0          1.0     0.750000
+              MS3/op42n01.mscx   29   29        0                 i6            (-4, 0, -1)          ()        5.0          3.0     0.625000
+              MS3/op42n01.mscx   52   51        0            #iii/V{            (11, 8, 12)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      1/8        iv65/#iii/V         (7, 11, 8, 10)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      1/4             #iii/V            (11, 8, 12)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      3/8        iv65/#iii/V         (7, 11, 8, 10)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      1/2             #iii/V            (11, 8, 12)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      5/8            #iii6/V            (8, 12, 11)          ()       10.0          0.0     1.000000
+              MS3/op42n01.mscx   52   51      7/8           #iii64/V            (12, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   53   52        0        iv65/#iii/V         (7, 11, 8, 10)          ()       10.0          0.0     1.000000
+              MS3/op42n01.mscx   53   52      1/4         iv7/#iii/V         (10, 7, 11, 8)          ()       11.0          0.0     1.000000
+              MS3/op42n01.mscx   53   52      1/2             #iii/V            (11, 8, 12)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   53   52      5/8            #iii6/V            (8, 12, 11)          ()       10.0          0.0     1.000000
+              MS3/op42n01.mscx   53   52      7/8           #iii64/V            (12, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   54   53        0        iv65/#iii/V         (7, 11, 8, 10)          ()       10.0          0.0     1.000000
+              MS3/op42n01.mscx   54   53      1/4         iv7/#iii/V         (10, 7, 11, 8)          ()       11.0          0.0     1.000000
+              MS3/op42n01.mscx   54   53      1/2             #iii/V            (11, 8, 12)          ()       16.0          0.0     1.000000
+              MS3/op42n01.mscx   54   53      7/8         iv7/#iii/V         (10, 7, 11, 8)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   55   54        0             #iii/V            (11, 8, 12)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   55   54      1/8        iv65/#iii/V         (7, 11, 8, 10)          ()        6.0          0.0     1.000000
+              MS3/op42n01.mscx   55   54      1/4             #iii/V            (11, 8, 12)          ()        4.0          0.0     1.000000
+              MS3/op42n01.mscx   64   63      1/2           iv6(112)           (-8, -4, -3)        (1,)        3.0          1.0     0.750000
+              MS3/op42n01.mscx   68   67        0                 i6            (-4, 0, -1)          ()        5.0          3.0     0.625000
+              MS3/op42n01.mscx  103  102      3/8        V65(b9b5)/V         (4, -6, -2, 0)       (-5,)        4.0          0.0     1.000000
+              MS3/op42n01.mscx  117  116      1/4                i43        (0, -3, -1, -4)          ()        2.0          1.0     0.666667
+              MS3/op42n01.mscx  124  123        0                 i6            (-4, 0, -1)          ()        5.0          3.0     0.625000
+              MS3/op42n02.mscx   38   38      1/4                 ii           (-2, -5, -1)          ()        2.0          1.0     0.666667
+              MS3/op42n03.mscx   27   26      1/8           V7(9)/iv          (8, 12, 9, 6)        (3,)        2.0          1.0     0.666667
+              MS3/op42n03.mscx   76   75        0            ii2/bII          (0, 2, -1, 3)          ()        2.0          0.0     1.000000
+              MS3/op42n03.mscx   88   87      1/8              V64/V             (8, 7, 11)          ()        2.0          1.0     0.666667
+              MS3/op42n03.mscx  125  124      1/4           V7(9)/ii          (0, 4, 1, -2)       (-5,)        3.0          0.0     1.000000
+              MS3/op42n03.mscx  126  125      1/8              bVI+6            (-3, 1, -7)          ()        3.0          0.0     1.000000
+              MS3/op42n03.mscx  126  125      1/4              Fr6/V         (-6, -2, 0, 4)          ()        4.0          0.0     1.000000
+              MS3/op42n03.mscx  126  125      5/8           Fr6(9)/V         (-6, -2, 0, 4)        (2,)        5.0          0.0     1.000000
+              MS3/op42n03.mscx  127  126      1/8              bVI+6            (-3, 1, -7)          ()        3.0          0.0     1.000000
+              MS3/op42n03.mscx  127  126      1/4              Fr6/V         (-6, -2, 0, 4)          ()        4.0          0.0     1.000000
+              MS3/op42n03.mscx  127  126      5/8           Fr6(9)/V         (-6, -2, 0, 4)        (2,)        5.0          0.0     1.000000
+              MS3/op42n03.mscx  128  127      5/8           Fr6(9)/V         (-6, -2, 0, 4)        (2,)        3.0          0.0     1.000000
+              MS3/op42n03.mscx  129  128      3/8             Fr6/IV        (-8, -4, -2, 2)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx   52   51      1/4             bIII64            (-2, -3, 1)          ()        4.0          2.0     0.666667
+              MS3/op48n01.mscx  152  151        0       V43(#5)/bIII         (6, -4, -2, 2)          ()        5.0          0.0     1.000000
+              MS3/op48n01.mscx  154  153        0        V43(#5)/#IV         (15, 5, 7, 11)          ()        5.0          0.0     1.000000
+              MS3/op48n01.mscx  154  153      1/4            V43/#VI        (12, 9, 11, 15)          ()        2.0          0.0     1.000000
+              MS3/op48n01.mscx  176  175      1/4               I(2)              (2, 4, 1)          ()        4.0          1.0     0.800000
+              MS3/op48n01.mscx  267  266        0             biii/v          (-9, -12, -8)          ()        8.0          0.0     1.000000
+              MS3/op48n01.mscx  268  267        0           biii64/v          (-8, -9, -12)          ()       10.0          0.0     1.000000
+              MS3/op48n01.mscx  269  268        0          biii(4)/v           (-9, -3, -8)          ()        4.0          1.0     0.800000
+              MS3/op48n01.mscx  269  268      1/8             biii/v          (-9, -12, -8)          ()        2.0          0.0     1.000000
+              MS3/op48n01.mscx  270  269        0             biii/v          (-9, -12, -8)          ()        6.0          0.0     1.000000
+              MS3/op48n01.mscx  270  269      1/4           biii64/v          (-8, -9, -12)          ()        4.0          0.0     1.000000
+              MS3/op48n01.mscx  271  270        0          biii(4)/v           (-9, -3, -8)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx  271  270      1/8             biii/v          (-9, -12, -8)          ()        2.0          0.0     1.000000
+              MS3/op48n01.mscx  272  271        0             biii/v          (-9, -12, -8)          ()       10.0          0.0     1.000000
+              MS3/op48n01.mscx  316  315        0         viio6(9)/v           (-4, -7, -1)        (1,)        2.0          0.0     1.000000
+              MS3/op48n01.mscx  316  315      1/8            viio6/v           (-4, -7, -1)          ()        6.0          0.0     1.000000
+              MS3/op48n01.mscx  335  334      1/8            Fr6(b3)         (-4, 0, 2, -1)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx  337  336      1/8            Fr6(b3)         (-4, 0, 2, -1)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx  346  345      3/4              V(b6)            (1, 5, -10)          ()        4.0          2.0     0.666667
+              MS3/op48n01.mscx  346  345      7/8            V64(b6)            (-10, 1, 5)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx  349  348      5/8         #viio2(b4)       (-4, 5, -10, -1)          ()        2.0          1.0     0.666667
+              MS3/op48n01.mscx  351  350        0              V7/vi        (-3, 1, -2, -5)          ()       41.0          0.0     1.000000
+              MS3/op48n01.mscx  358  357      3/4              V(b6)            (1, 5, -10)          ()        4.0          2.0     0.666667
+              MS3/op48n01.mscx  358  357      7/8            V64(b6)            (-10, 1, 5)          ()        3.0          1.0     0.750000
+              MS3/op48n01.mscx  430  429        0       V43(#5)/bIII         (6, -4, -2, 2)          ()        5.0          0.0     1.000000
+              MS3/op48n01.mscx  432  431        0        V43(#5)/#IV         (15, 5, 7, 11)          ()        5.0          0.0     1.000000
+              MS3/op48n01.mscx  432  431      1/4            V43/#VI        (12, 9, 11, 15)          ()        2.0          0.0     1.000000
+              MS3/op48n01.mscx  454  453      1/4               I(2)              (2, 4, 1)          ()        4.0          1.0     0.800000
+              MS3/op48n01.mscx  508  507      1/4             bIII64            (-2, -3, 1)          ()        4.0          2.0     0.666667
+              MS3/op48n02.mscx   63   62      3/8              i6(4)              (1, 3, 2)          ()        1.0          0.0     1.000000
+              MS3/op48n02.mscx   86   85      1/2                VII              (0, 4, 1)          ()        3.0          0.0     1.000000
