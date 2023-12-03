@@ -1,14 +1,14 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 30: ') ms3.Parse.medtner_tales.op35n01
-	MC 30: #vii in major context corrected to vii.
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 68, 'V7(6b5)') ms3.Parse.medtner_tales.op35n01
 	MC 68: V7(6b5) results in a chord tone 5th AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 30: ') ms3.Parse.medtner_tales.op35n01
 	MC 30: #vii in major context corrected to vii.
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 68, 'V7(6b5)') ms3.Parse.medtner_tales.op35n01
 	MC 68: V7(6b5) results in a chord tone 5th AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
+DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 30: ') ms3.Parse.medtner_tales.op35n01
+	MC 30: #vii in major context corrected to vii.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 38, '1/4', 'Fr6(2)') ms3.Parse.medtner_tales.op35n01
 	The label 'Fr6(2)' in m. 37, onset 1/4 (MC 38, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of C.#iii/ii, it expresses the scale degrees
