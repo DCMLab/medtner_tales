@@ -210,6 +210,7 @@
     <showMargins>0</showMargins>
     <metaTag name="annotators">Wendelin Bitzan (2.2.0), John heilig (2.3.0)</metaTag>
     <metaTag name="arranger"></metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
     <metaTag name="composed_end">1924</metaTag>
     <metaTag name="composed_source">OxfordMusicOnline</metaTag>
     <metaTag name="composed_start">1921</metaTag>
