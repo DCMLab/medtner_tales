@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -22051,7 +22050,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii%43-iv6(+#6)}</name>
+            <name>ii%43}-iv6(+#6)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
