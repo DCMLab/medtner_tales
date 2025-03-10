@@ -1,38 +1,8 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op35n02
-	propagate_pedal() failed with
-	1 organ points started, 0 ended:
-	   mc pedal    mc pedalend
-	0  46     I  <NA>      NaN
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 97, 'viio65(4b3)') ms3.Parse.medtner_tales.op35n02
 	MC 97: viio65(4b3) results in a chord tone 3rd AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op35n02
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            0a         {            14a         }
-	           14a         {            14b         }
-	           14b         {            26a         }
-	           26a         {            44a        }{
-	           44a        }{            47a         }
-	           47a         {            50a         }
-	           52a         {            70a         }
-	           71a         {            82a        }{
-	           82a        }{           106a         }
-	          106a         {           124a         }
-	          125a         {           136a         }
-	          139a         {            14c         }
-	          139a         {            26b         }
-	           14c         {            44b        }{
-	           26b         {            47b         }
-	           44b        }{            50b         }
-	           47b         {            NaN       NaN
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op35n02
-	propagate_pedal() failed with
-	1 organ points started, 0 ended:
-	   mc pedal    mc pedalend
-	0  46     I  <NA>      NaN
 DCML_HARMONY_SUPERFLUOUS_TONE_REPLACEMENT_WARNING (6, 97, 'viio65(4b3)') ms3.Parse.medtner_tales.op35n02
 	MC 97: viio65(4b3) results in a chord tone 3rd AND its replacement(s) (TPC [5]). You might want to add a + to distinguish from a suspension, or add this warning to IGNORED_WARNINGS with a comment.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 64, '1/4', 'vii%43') ms3.Parse.medtner_tales.op35n02

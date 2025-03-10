@@ -1,44 +1,6 @@
 Warnings encountered during the last execution of ms3 review
 ============================================================
 
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op34n03
-	propagate_pedal() failed with
-	15 organ points started, 13 ended:
-	     mc   pedal    mc pedalend
-	0     9     #iv    10        ]
-	1    45       i    54        ]
-	2    53  V/#iii    58        ]
-	3    55  i/#iii    60        ]
-	4    57    V/ii    65        ]
-	5    59    i/ii    83        ]
-	6    61       V    97        ]
-	7    76       i    99        ]
-	8    96       V   100        ]
-	9    98       V   101        ]
-	10  100       V   107        ]
-	11  101       V   119        ]
-	12  102       V   142        ]
-	13  118     #iv  <NA>      NaN
-	14  138       i  <NA>      NaN
-DCML_HARMONY_INCOMPLETE_PEDAL_COLUMN_WARNING (13,) ms3.Parse.medtner_tales.op34n03
-	propagate_pedal() failed with
-	15 organ points started, 13 ended:
-	     mc   pedal    mc pedalend
-	0     9     #iv    10        ]
-	1    45       i    54        ]
-	2    53  V/#iii    58        ]
-	3    55  i/#iii    60        ]
-	4    57    V/ii    65        ]
-	5    59    i/ii    83        ]
-	6    61       V    97        ]
-	7    76       i    99        ]
-	8    96       V   100        ]
-	9    98       V   101        ]
-	10  100       V   107        ]
-	11  101       V   119        ]
-	12  102       V   142        ]
-	13  118     #iv  <NA>      NaN
-	14  138       i  <NA>      NaN
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 9, '1/4', '#iv[#viio7') ms3.Parse.medtner_tales.op34n03
 	The label '#iv[#viio7' in m. 9, onset 1/4 (MC 9, onset 1/4) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of a.i, it expresses the scale degrees
@@ -135,8 +97,8 @@ DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '0', '#viio7/#iii') ms3.Pa
 	a ratio of 1.0 > 0.6 (the current, arbitrary, threshold).
 	If it turns out the label is correct, please add the header of this warning to the IGNORED_WARNINGS, ideally followed
 	by a free-text comment in subsequent lines starting with a space or tab.
-DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '3/8', 'ii7/ii') ms3.Parse.medtner_tales.op34n03
-	The label 'ii7/ii' in m. 56, onset 3/8 (MC 56, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
+DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 56, '3/8', 'ii7/ii]') ms3.Parse.medtner_tales.op34n03
+	The label 'ii7/ii]' in m. 56, onset 3/8 (MC 56, onset 3/8) seems not to correspond well to the score (which does not necessarily mean it is wrong).
 	In the context of a.v/#iii, it expresses the scale degrees
 	('#3', '5', '#7', '2') [('B#', 'D#', 'F##', 'A#')].
 	The corresponding score segment has 0 within-label and 6 out-of-label note onsets,

@@ -3,20 +3,6 @@ Warnings encountered during the last execution of ms3 review
 
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 34: ') ms3.Parse.medtner_tales.op26n04
 	MC 34: #vii in major context corrected to vii.
-DCML_PHRASE_INCONGRUENCY_WARNING (16,) ms3.Parse.medtner_tales.op26n04
-	Phrase beginning and endings don't match:
-	mn_playthrough phraseend mn_playthrough phraseend
-	            0a         {             3a         }
-	            3a         {             6a         }
-	            6a         {            10a         }
-	           10a         {            19a        }{
-	           19a        }{            26a         }
-	           27a         {            35a        }{
-	           35a        }{            43a         }
-	           44a         {            58a         }
-	           55a         {            61a         }
-	           58a         {            76a         }
-	           61a         {            NaN       NaN
 DCML_DEFAULT_CORRECTION_WARNING (27, 'MC 34: ') ms3.Parse.medtner_tales.op26n04
 	MC 34: #vii in major context corrected to vii.
 DCML_NON_CHORD_TONES_ABOVE_THRESHOLD_WARNING (19, 21, '3/8', 'V/V') ms3.Parse.medtner_tales.op26n04

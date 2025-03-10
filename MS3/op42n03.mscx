@@ -1563,7 +1563,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="1.02166" y="-4.20049"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>grazioso</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>grazioso</text>
             </StaffText>
           <Beam>
             <Fragment>
@@ -2327,7 +2327,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.864477" y="-4.96472"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>scherzando (più vivo)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>scherzando (più vivo)</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -2726,7 +2726,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.11809" y="-5.59899"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Dynamic>
             <subtype>sf</subtype>
@@ -3085,7 +3085,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-4.27511"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>scherzando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>scherzando</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -3509,7 +3509,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.059045" y="-4.27612"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Spanner type="HairPin">
             <HairPin>
@@ -4767,7 +4767,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>vivo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>vivo</text>
             </StaffText>
           <Rest>
             <BeamMode>mid</BeamMode>
@@ -6027,12 +6027,12 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-16.3465" y="-7.15085"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>legato, cantabile</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>legato, cantabile</text>
             </StaffText>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-8.40901" y="-10.8725"/>
-            <text><b><font size="11.1614"/><font face="Plantin MT Std"/>Agitato (Con moto)</b></text>
+            <text><b><font size="11.1614"></font><font face="Plantin MT Std"></font>Agitato (Con moto)</b></text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -6235,7 +6235,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.129899" y="-3.44848"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre legato</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre legato</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -7707,7 +7707,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-2.14333" y="-9.8424"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>ritenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>ritenuto</text>
             </StaffText>
           <Spanner type="Trill">
             <Trill>
@@ -7968,7 +7968,7 @@
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="11.1614"/><font face="Plantin MT Std"/><b>Tempo I</b></text>
+            <text><font size="11.1614"></font><font face="Plantin MT Std"></font><b>Tempo I</b></text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -8971,7 +8971,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="0.104602" y="3.47115"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sostenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sostenuto</text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -9302,7 +9302,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-1.04602" y="-4.48283"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>Scherzando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>Scherzando</text>
             </StaffText>
           <Spanner type="Trill">
             <prev>
@@ -12148,7 +12148,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.209204" y="-4.11504"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -14174,7 +14174,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-6.32841" y="-5.24059"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>rinforz.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>rinforz.</text>
             </StaffText>
           <Spanner type="HairPin">
             <prev>
@@ -14613,7 +14613,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>rinforz.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>rinforz.</text>
             </StaffText>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -15530,7 +15530,7 @@
             <placement>below</placement>
             <family>FreeSerif</family>
             <offset x="2.65793" y="2.70775"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -18546,7 +18546,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-6.21334" y="-5.04938"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco calando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco calando</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -18691,7 +18691,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.230124" y="-5.8368"/>
-            <text><font size="11.1614"/><font face="Plantin MT Std"/><b>Tempo I</b></text>
+            <text><font size="11.1614"></font><font face="Plantin MT Std"></font><b>Tempo I</b></text>
             </StaffText>
           <Chord>
             <dots>1</dots>
@@ -19619,7 +19619,7 @@
             </Rest>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sostenuto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sostenuto</text>
             </StaffText>
           <Dynamic>
             <subtype>ff</subtype>
@@ -20011,7 +20011,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0" y="-4.70124"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>scherzando (piu mosso)</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>scherzando (piu mosso)</text>
             </StaffText>
           <Spanner type="Trill">
             <prev>
@@ -21117,7 +21117,7 @@
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>tranquillo diminuendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>tranquillo diminuendo</text>
             </StaffText>
           <Chord>
             <durationType>eighth</durationType>
@@ -22644,7 +22644,7 @@
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.104602" y="-3.27823"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>con strepito</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>con strepito</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -24675,7 +24675,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.235767" y="-6.84331"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>poco a poco scherzando</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>poco a poco scherzando</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26376,7 +26376,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.531405" y="-8.6123"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -26783,7 +26783,7 @@ quasi Violoncello solo</text>
             </Rest>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Rest>
             <dots>1</dots>
@@ -27224,7 +27224,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="2.20828" y="-4.48768"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>pieno</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>pieno</text>
             </StaffText>
           <Dynamic>
             <subtype>f</subtype>
@@ -28039,7 +28039,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.844343" y="-6.48768"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>sempre più agitato e crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>sempre più agitato e crescendo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -28143,7 +28143,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.194848" y="-6.74333"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -29069,7 +29069,7 @@ quasi Violoncello solo</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>riten.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>riten.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -30596,7 +30596,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="-0.209204" y="-5.16106"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>riten.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>riten.</text>
             </StaffText>
           <Rest>
             <durationType>quarter</durationType>
@@ -31260,7 +31260,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.209204" y="-6.98407"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggierissimo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggierissimo</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -31675,7 +31675,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="7.94973" y="-5.15522"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>leggiero</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>leggiero</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -32061,7 +32061,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -32985,7 +32985,7 @@ quasi Violoncello solo</text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(9)/ii</name>
+            <name>V7(9)/ii{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -35992,7 +35992,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>simile</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>simile</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -36413,7 +36413,7 @@ quasi Violoncello solo</text>
           <StaffText>
             <family>FreeSerif</family>
             <offset x="0.885977" y="-7.51107"/>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>crescendo</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>crescendo</text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -36777,7 +36777,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>rinforz.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>rinforz.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -36975,7 +36975,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -37636,7 +37636,7 @@ quasi Violoncello solo</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>risoluto</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>risoluto</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -38594,7 +38594,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dimin.</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dimin.</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -40650,7 +40650,7 @@ quasi Violoncello solo</text>
         <voice>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>dolce</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>dolce</text>
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
@@ -42619,7 +42619,7 @@ quasi Violoncello solo</text>
             </Chord>
           <StaffText>
             <family>FreeSerif</family>
-            <text><font size="10.2313"/><font face="Plantin MT Std"/>accelerando con strepito</text>
+            <text><font size="10.2313"></font><font face="Plantin MT Std"></font>accelerando con strepito</text>
             </StaffText>
           <Chord>
             <BeamMode>mid</BeamMode>

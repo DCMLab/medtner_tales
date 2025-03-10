@@ -16871,7 +16871,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I{</name>
+            <name>G.I</name>
             <offset x="-0.745962" y="-9.13304"/>
             </Harmony>
           <Beam>
@@ -16918,7 +16918,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -18729,7 +18729,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I{</name>
+            <name>G.I</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23653,7 +23653,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}</name>
+            <name>I]|PAC}</name>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -32784,7 +32784,7 @@
             </Rest>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>vi.V{</name>
+            <name>vi.V</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
