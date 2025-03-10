@@ -30,7 +30,7 @@
       },
       {
         "name": "quarterbeats",
-        "title": "Offset from Beginning",
+        "title": "Offset from Beginning (leaving out alternative endings)",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "type": "string",
         "constraints": {
@@ -39,7 +39,7 @@
       },
       {
         "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (Including Endings)",
+        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
@@ -176,11 +176,13 @@
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "pedal",
+        "title": "Pedal Point",
+        "description": "Specified as Roman numeral.",
         "type": "string"
       },
       {
-        "name": "Trill:trill",
+        "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
       },
       {
@@ -192,19 +194,17 @@
         "type": "string"
       },
       {
-        "name": "pedal",
-        "title": "Pedal Point",
-        "description": "Specified as Roman numeral.",
+        "name": "Ottava:8va",
         "type": "string"
       },
       {
-        "name": "Pedal_<sym>keyboardPedalPed</sym>",
+        "name": "Trill:trill",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "0ZBLGpsQChwExw",
-    "filepath": "chords/0ZBLGpsQChwExw.schema.yaml",
+    "identifier": "1qVWE0_WfLTOUg",
+    "filepath": "chords/1qVWE0_WfLTOUg.schema.yaml",
     "used_in": "op35n02"
   },
   "creator": {
@@ -217,8 +217,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.3"
+    "softwareVersion": "2.5.4"
   },
-  "git_revision": "6df5fce2b8eda6ec0ee2361735a3f2920bb51e57",
-  "git_tag": "v2.1-14-g6df5fce"
+  "git_revision": "6a4a315360d5f783e94b26fb8191af0d5239b8db",
+  "git_tag": "v2.1-21-g6a4a315"
 }
