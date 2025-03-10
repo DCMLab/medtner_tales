@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -10000,8 +9999,13 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="5.90584"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -10754,8 +10758,13 @@
             <HairPin>
               <subtype>1</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="5.46472"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -19310,8 +19319,13 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-9.69451"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -46695,7 +46709,7 @@
             </location>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iv]</name>
+            <name>iv</name>
             </Harmony>
           <location>
             <fractions>1/4</fractions>
