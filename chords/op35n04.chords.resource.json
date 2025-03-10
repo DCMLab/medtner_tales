@@ -30,7 +30,7 @@
       },
       {
         "name": "quarterbeats",
-        "title": "Offset from Beginning (leaving out alternative endings)",
+        "title": "Offset from Beginning",
         "description": "Distance of an event from the piece's beginning. By default, only second endings are taken into account to reflect the proportions of a simply playthrough without repeats.",
         "type": "string",
         "constraints": {
@@ -39,7 +39,7 @@
       },
       {
         "name": "quarterbeats_all_endings",
-        "title": "Offset from Beginning (counting through alternative endings as if they were adjacent bars)",
+        "title": "Offset from Beginning (Including Endings)",
         "description": "Distance from the piece's beginning, taking all endings into account for addressability purposes.",
         "type": "string",
         "constraints": {
@@ -170,18 +170,6 @@
         "type": "string"
       },
       {
-        "name": "Trill:trill",
-        "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
         "name": "pedal",
         "title": "Pedal Point",
         "description": "Specified as Roman numeral.",
@@ -192,17 +180,29 @@
         "type": "string"
       },
       {
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
         "name": "Ottava:8vb",
         "type": "string"
       },
       {
-        "name": "Ottava:8va",
+        "name": "Trill:trill",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
         "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "FPC0mnr0_R-ITQ",
-    "filepath": "chords/FPC0mnr0_R-ITQ.schema.yaml",
+    "identifier": "KA8qn_zdUII7eA",
+    "filepath": "chords/KA8qn_zdUII7eA.schema.yaml",
     "used_in": "op35n04"
   },
   "creator": {
@@ -215,8 +215,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.4"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "64d3a8c7405c758577d665689c4cabe49684e28c",
-  "git_tag": "v2.1-2-g64d3a8c"
+  "git_revision": "326e2a4ec004d56a53001f4483d13495aef230a1",
+  "git_tag": "v2.1-18-g326e2a4"
 }
