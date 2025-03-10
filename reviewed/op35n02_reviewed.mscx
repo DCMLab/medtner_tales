@@ -17058,6 +17058,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>G.I{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>G.I</name>
+            <color r="0" g="85" b="0" a="255"/>
             <offset x="-0.745962" y="-9.13304"/>
             </Harmony>
           <Beam>
@@ -17105,6 +17111,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V43</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V43{</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -23861,6 +23873,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>I|PAC}</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>I]|PAC}</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Fermata>
             <subtype>fermataBelow</subtype>
@@ -33041,6 +33059,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>vi.V{</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>vi.V</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
