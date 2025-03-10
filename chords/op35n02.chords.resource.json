@@ -176,6 +176,22 @@
         "type": "string"
       },
       {
+        "name": "Ottava:8va",
+        "type": "string"
+      },
+      {
+        "name": "Trill:trill",
+        "type": "string"
+      },
+      {
+        "name": "crescendo_hairpin",
+        "type": "string"
+      },
+      {
+        "name": "decrescendo_hairpin",
+        "type": "string"
+      },
+      {
         "name": "pedal",
         "title": "Pedal Point",
         "description": "Specified as Roman numeral.",
@@ -184,27 +200,11 @@
       {
         "name": "Pedal_<sym>keyboardPedalPed</sym>",
         "type": "string"
-      },
-      {
-        "name": "decrescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "crescendo_hairpin",
-        "type": "string"
-      },
-      {
-        "name": "Ottava:8va",
-        "type": "string"
-      },
-      {
-        "name": "Trill:trill",
-        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "97IB4k5X1Ew-jQ",
-    "filepath": "chords/97IB4k5X1Ew-jQ.schema.yaml",
+    "identifier": "0ZBLGpsQChwExw",
+    "filepath": "chords/0ZBLGpsQChwExw.schema.yaml",
     "used_in": "op35n02"
   },
   "creator": {
@@ -219,6 +219,6 @@
     },
     "softwareVersion": "2.5.3"
   },
-  "git_revision": "4b2446e36f57788d6a0f97b5097691e6abfe3aac",
-  "git_tag": "v2.1-13-g4b2446e"
+  "git_revision": "6df5fce2b8eda6ec0ee2361735a3f2920bb51e57",
+  "git_tag": "v2.1-14-g6df5fce"
 }
