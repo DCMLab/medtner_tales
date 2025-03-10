@@ -16871,7 +16871,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>G.I{</name>
+            <name>G.I</name>
             <offset x="-0.745962" y="-9.13304"/>
             </Harmony>
           <Beam>
@@ -16918,7 +16918,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V43</name>
+            <name>V43{</name>
             </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
