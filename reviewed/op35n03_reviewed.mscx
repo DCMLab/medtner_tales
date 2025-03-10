@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -8399,8 +8398,13 @@
             <Ottava>
               <subtype>8va</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-4.29672"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </Ottava>
@@ -13366,9 +13370,14 @@
             <HairPin>
               <subtype>0</subtype>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="2.66615" y="7.4236"/>
                 <off2 x="-4.79038" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="3.5"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -16358,10 +16367,15 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="-0.878408" y="-4.84097"/>
                 <off2 x="0" y="0"/>
                 <minDistance>-592.887</minDistance>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3.5"/>
+                <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
             <next>
@@ -20672,8 +20686,13 @@
               <subtype>1</subtype>
               <placement>above</placement>
               <Segment>
-                <subtype>0</subtype>
+                <subtype>1</subtype>
                 <offset x="0" y="-8.75217"/>
+                <off2 x="0" y="0"/>
+                </Segment>
+              <Segment>
+                <subtype>3</subtype>
+                <offset x="0" y="-3.5"/>
                 <off2 x="0" y="0"/>
                 </Segment>
               </HairPin>
@@ -25856,6 +25875,12 @@
           <Harmony>
             <harmonyType>1</harmonyType>
             <name>V(6)</name>
+            <color r="170" g="0" b="0" a="255"/>
+            </Harmony>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>V(6){</name>
+            <color r="0" g="85" b="0" a="255"/>
             </Harmony>
           <Tuplet>
             <normalNotes>2</normalNotes>
